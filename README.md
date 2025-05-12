@@ -1,7 +1,8 @@
 # Project Foresight
 ### Acceptance Criteria
-A web-app ca
-Polynomial function optimized on a RL model to help you achieve your goals.
+A web-app that:
+1. Given a user’s current habits (with associated time commitments) + a goal description, predict what role/title they are trending toward (e.g. “Software Engineer”, “Pro Wrestler”).
+2. Can provide next steps for the user. 
 
 `Note: Any diagrams, or modelling should be placed in the `
 
