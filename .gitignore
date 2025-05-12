@@ -1,3 +1,8 @@
+#Personal python configuration file
+pyvenv.cfg
+# Windows specific Scripts file containing venv activation executables
+Scripts
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
