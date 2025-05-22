@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Foresight"
+version: "0.1.0"
+date-released: 2022-09-28
+authors:
+  - family-names: "Fares"
+    given-names: "Shadi El"
+    orcid: "https://orcid.org/0000-0002-4173-6558"
+repository-code: "https://github.com/shadielfares/foresight"
+license: "Apache License Version 2.0"
+abstract: >
+  Foresight is a tool to forecast downstream performance of language models 
+  using minimal compute, helping identify promising model-task pairs before 
+  expensive fine-tuning.
