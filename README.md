@@ -6,7 +6,7 @@ A web-app that:
 
 `Note: Any diagrams, or modelling should be placed in the `
 
-Excalidraw: https://excalidraw.com/#room=28128e6f21be6d505757,bAz1Flr5J_17ko6ZnpMaBg
+Excalidraw: N/A to public.
 
 `Note: Any related research entries should be added as pages to the Notion.`
 
