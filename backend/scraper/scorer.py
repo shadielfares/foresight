@@ -1,6 +1,20 @@
-import json
 import requests
 import os
+import logging
+
+from sheet_traversal import extract_name_col, extract_articles_col, SHEET
+from extract import extract_wiki_text, WIKI_WIKI
+
+"""
+Author: Aiden Sanvido, Shadi El-Fares
+Purpose:
+    Given an array of strings, rank the well-known individuals across a variety of industries to what matches them the most.
+    Currently utilizes a sentence transformer.
+Note: Ignore NotOpenSSLWarning
+Dated: 2025-05-27
+"""
+
+logging = logging.getLogger(__name__)
 
 API_URL = "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2"
 
@@ -8,9 +22,14 @@ token = os.getenv("HF_SECRET")  # Ensure the environment variable is set
 HP_TOKEN = token
 headers = {"Authorization": f"Bearer {HP_TOKEN}"}
 
-def query(payload):
-    response = requests.post(API_URL, headers=headers, json=payload)
-    return response.json()
+def query(payload) -> list[float]:
+    try:
+        response = requests.post(API_URL, headers=headers, json=payload)
+        response.raise_for_status()
+        return response.json()
+    except requests.RequestException as e:
+        logging.error(f"Query failed: {e}")
+        return [0.0] * len(payload["inputs"]["sentences"])  # fallback
 
 def calculate_relatability_score(article, habits):
     payload = {
@@ -27,7 +46,7 @@ def calculate_relatability_score(article, habits):
 
     return relatability_score / len(habits)
 
-def rank_relatability(people, articles, habits):
+def rank_relatability(people: list[str], articles: list[str], habits: list[str]) -> list[list[int]]:
 
     relatability_scores = []
 
@@ -38,6 +57,13 @@ def rank_relatability(people, articles, habits):
 
     relatability_scores.sort(reverse=True)
 
-    return relatability_scores[0:3]
+    return [relatability_scores[0:3], relatability_scores[-3:]]
 
-print(rank_relatability(people, [article1, article2, article3], ["Playing video games", "Live streaming", "Making videos"]))
+if __name__ == "__main__":
+    people, articles = extract_name_col(SHEET, []), extract_articles_col(SHEET, [])
+    blocks = []
+    for url_x in articles:
+        logging.info(f"Currently Processing: {url_x}")
+        blocks.append(str(extract_wiki_text(WIKI_WIKI, url_x)))
+
+    print(rank_relatability(people, blocks, ["Smoking", "Drug ingesting", "Dancing"]))

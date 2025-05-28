@@ -7,12 +7,13 @@ Dated: 2025-05-19
 """
 
 KEYWORDS = ['early life', 'childhood', 'education', 'background', 'bibliography']
+WIKI_WIKI = wikipediaapi.Wikipedia(user_agent='ForesightBot/0.0 (admin@foresight.com)', language='en')
 
 def check_wiki_exists(wiki_wiki, page_title: str) -> bool:
     """Check if a Wikipedia page with the given title exists."""
     return wiki_wiki.page(page_title).exists()
 
-def check_sections_exists(wiki_wiki, page_title: str) -> str:
+def check_sections_exists(wiki_wiki, page_title: str) -> str or None:
     """Check if a section within a Wikipedia page with the given page title exists."""
 
     page_sections = wiki_wiki.page(page_title).sections
@@ -25,13 +26,14 @@ def check_sections_exists(wiki_wiki, page_title: str) -> str:
 
     return None
 
-def get_section_by_title(wiki_wiki, page_title: str) -> str:
+def get_section_by_title(wiki_wiki, page_title: str) -> str or None:
     """Retrieval of a relevant section to the KEYWORDS"""
 
     if check_wiki_exists(wiki_wiki, page_title):
         section_title = check_sections_exists(wiki_wiki, page_title)
         if section_title:
             return wiki_wiki.page(page_title).section_by_title(section_title)
+    return None
 
 def extract_wiki_text(wiki_wiki, url: str) -> str:
     """Extract text from a Wikipedia page."""
@@ -39,9 +41,8 @@ def extract_wiki_text(wiki_wiki, url: str) -> str:
     return get_section_by_title(wiki_wiki, page_title)
 
 if __name__ == "__main__":
-    wiki_wiki = wikipediaapi.Wikipedia(user_agent='ForesightBot/0.0 (admin@foresight.com)', language='en')
     # Dummy link for testing.
-    text= extract_wiki_text(wiki_wiki, "https://en.wikipedia.org/wiki/PewDiePie")
+    text= extract_wiki_text(WIKI_WIKI, "https://en.wikipedia.org/wiki/PewDiePie")
     if text:
         print("Extracted Wikipedia text:\n", text)
     else:
