@@ -1,0 +1,1344 @@
+Please enjoy this transcript of my interview with Chris Sacca, co-founder of Lowercarbon Capital, managing a portfolio of countless startups in energy, industrial materials, and carbon removal. If it’s unf**king the planet, he’s probably working on it. Previously, Chris founded Lowercase Capital, one of history’s most successful funds ever, primarily known for its very early investments in companies like Twitter, Uber, Instagram, Twilio, Docker, Optimizely, Blue Bottle Coffee, and Stripe. But you might just know him as the guy who wore those ridiculous cowboy shirts for a few seasons of Shark Tank.
+
+To purchase Chris’s ranch, schedule a viewing at FivePondsRanch.com.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+P.S. This episode features a special, one-of-a-kind introduction that Chris made of yours truly. 🙂
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform.
+
+Chris Sacca: You know my host today as the human guinea pig, the sample size of one, and the only clinical trial on two feet and New York Times bestselling author of The 4-Hour Workweek, The 4-Hour Body, The 4-Hour Chef, and The 4-Minute Intimacy Guide.
+
+This man has inspired millions to learn Mandarin Chinese in just three hours, while doing handstand Kegels during their optimal billing cycle. As one of the founders of the life hacking movement, he leads by example and not having checked his email since the Clinton administration and outsourcing all of his sneezes and existential crises to Bolivia.. His chart-topping podcast practically gave birth to the Manosphere and spawned an entire generation of wannabe pod bros, who think dropping references to Stoicism makes them philosophical sages as they read undies ads from Mom’s basement while promoting pseudo-scientific creatine enema regimens. If it’s cool today, my host blogged about it in the ’90s, wrote a 13-point checklist for optimizing it, and has the lab results to prove it.
+
+When he’s not interviewing world-class performers with pauses so pregnant they wear elastic waistbands, you can find him meticulously organizing his pharmaceutical-grade kitchen fridge full of blood, urine, and stool samples, and his bathroom cabinet looks like a GNC nutrition store fucked a Japanese vending machine. He’s only 14 months away from having supplemented every possible molecular combination from the known periodic table. He has hot boxed with Himalayan monks, ice bathed with Arctic shamans, and achieved ego death with cultures that anthropologists haven’t even discovered yet. On four separate continents, there are sacred psychedelic ceremonies that tribes have named after him, and twice his meditations have opened portals to another dimension.
+
+He’s given lectures on Seneca in 27 languages, can ask for warm body oil and CBD cream in 31, and say, “Whoa, brother, we just tripped balls” in 38. I challenge any of you to identify a medieval weapon with which he hasn’t competed at the international level. This is a man who enchants the world’s most powerful and influential people with the insatiable curiosity of a four-year-old, the energy level of a seven-year-old who just ate three boxes of M&Ms, and when texting memes to his friends, the emotional maturity of a 10-year-old.
+
+He’s already prepared interview questions for future podcasts who have yet to be born. Carbs fear him. To-do lists quake in his presence. His morning routine starts before he goes to sleep, and his gratitude lists kick off by individually thanking each of his gut bacteria. His circadian rhythm is so optimized that he experiences next week’s REM sleep during yesterday’s power nap. He’s had romantic relationships with kettle bells, but we are told he is holding out for a human lady long-term. The world’s most eligible bachelor, who, just last week, stopped requiring potential dates to submit three years of sleep-tracking data. The man, the myth, the legend, the guy who would absolutely win gold if self-experimentation and self-pleasure were an Olympic sport. It’s the one, and thank God for all of us, the only, Tim Ferriss, everyone. Tim Ferriss, everyone.
+
+Tim Ferriss: Now, for people who have not heard the first episode, but maybe they see the headline, which is, “Chris Sacca On Being Different and Making Billions.” Would you like to just give a quick snippet of where you grew up? I believe it was somewhere in Connecticut as the scion of a wealthy family. Am I getting that wrong?
+
+Chris Sacca: I grew up in Lockport, New York, a little town on the Erie Canal just north of Buffalo. A town that is as working class as it gets. We had a town employer, it was the GM plant where they made radiators and air conditioners for GM cars. Most of my buddies’ dads worked at the plant. And I feel really lucky to have grown up in that kind of place. It’s a safe place, it’s a fun place. I wasn’t exposed to any extreme wealth and I also wasn’t exposed to any extreme poverty. But at the same time, I also feel lucky to have seen the canary in the coal mine. And what happens when the company town factory shuts down and the jobs ship off to Mexico, and the pension’s bankrupted. My buddies’ dads who were retired suddenly had to work as greeters at Walmart.
+
+Before long, we had the largest trailer park in the Northeast in our town, drugs that ultimately became fentanyl in modern times really set in. And there was just a lot of angst and depression. And I watched that town go from reliably union Democrat to hardcore MAGA. But along the way I really saw the empathetic roots for it. Why is this happening? What happens when people lose agency over their lives? When they feel like they can’t provide for their kids the way their parent provided for them. When they lose their small businesses, and those are replaced by Walmart or Home Depot.
+
+And I feel like that’s something that I’ve really tried to stay in touch with. And I know we’re not really going to talk about politics, but it leaves me with the state of America today never being a surprise. I was just back in Buffalo this weekend. Go Bills. And nothing about what’s happening in America is surprising. I don’t love it, but it doesn’t shock me. I feel really grateful to have grown up there.
+
+Now, what it means is, by the time I got into this business, I didn’t have a network. I didn’t know anybody. I didn’t even know what money really was. I had to make my own way in everything I did. And I had these incredibly bright and supportive parents who went way out of their way to create opportunities for us, me and my brother. But at the same time, I was an outsider to the kind of stuff we do now, for sure.
+
+And I still feel like that. I lived in the Valley for a while, in Silicon Valley. But as you know, Tim, because you visited me in various places, I’ve spent more of my time outside. I live in the Rockies now. I live in Montana. Before that, Wyoming. Before that, Truckee. I really try to stay in places where real people live and work. And our kids go to public school. And I would never claim to be fully in touch, because my life is ridiculously special. But at the same time, I feel really lucky the way I grew up going to public schools and being one among many. And I worry that the kind of people, Tim, you and I know, and the kind of people we work with, aren’t those people anymore. And have really lost touch. And you can see it in the decisions they make and the stuff they say.
+
+Did we start this out lighthearted enough? Are we onto — did we —
+
+Tim Ferriss: I was going to do some knock-knock jokes, but I’m not sure that’s an appropriate segue.
+
+Chris Sacca: There’s other stuff we said in the old episode. Look, I was really good at school. I went to university for math starting in seventh grade. I think one thing that I’ve talked about before, but I will bring up because I see it missing these days, is I always had a hustle. I always had a little bit of a side business. From the time I was six years old I was going around the neighborhood selling walnuts that I’d poke holes in and call air fresheners, or rocks that I had found in a parking lot. I was literally going door to door.
+
+Tim Ferriss: What was your JT Marlin & Associates? What was your —
+
+Chris Sacca: 100 percent. I started trading commodities when I was 13 or 14. I had a pager that had a 45-second delay to the Chicago Board of Trade. Talk about latency. And I was trading live hogs. I just always had a business: mowing lawns, washing cars, detailing, a paper route.
+
+Tim Ferriss: I’m not sure we talked about the live hogs.
+
+Chris Sacca: Somehow we skipped that.
+
+Tim Ferriss: How did you even get into commodities?
+
+Chris Sacca: I’ll tell you, my dad’s best friend ran basically a construction and equipment rental business that I have talked to you about. Where it was a gritty-ass job. My mom and dad believed in —
+
+Tim Ferriss: This is the sweet and sour.
+
+Chris Sacca: Yeah, exactly. It was just grind it out, work your ass off in a real job, job. And my boss there, who is my dad’s best friend, he was under strict instruction to my dad to just kick our asses and make us appreciate everything we had. And hopefully go on to work our asses off in school and maybe not have to do a job like that someday. A lot of my coworkers were on parole. And it was a tough dead end situation.
+
+But that guy had a commodities account on a computer up in the attic of the building I worked in. And he said, “Come here. You probably know what the hell is going on with this stuff.” I didn’t. But he showed it to me. I went to the library, I started learning about Stochastics, about charts, and technical analysis. Then I was reading about seasonality of literally frozen orange juice concentrate, like Trading Places. And cocoa and coffee and oil.
+
+And I identified what I thought was a pattern anomaly in live hogs. And he had this deal with me. He said, “Look, I’ve got $3,000 in this account, you make a trade. Take a week, I want you to think about it. You make a trade. If you make money, we’ll split the upside. If you lose money, I’ll cover it.” By the way, that’s called venture capital.
+
+I went all in. I read everything, I studied everything. I looked at these charts. And imagine charts on a low res green monitor, right?
+
+Tim Ferriss: Like WarGames style. Yeah.
+
+Chris Sacca: And I had this pager, and I’m trying to go to school and also monitor my quotes on my — I think it was called a Quotron pager. And eventually I placed this trade, and two weeks later I cashed out, and I netted $171 for myself.
+
+Tim Ferriss: Nice.
+
+Chris Sacca: And I just remember thinking, “Downstairs, I’m making $4.25 an hour. Upstairs, I just made $171 by pushing a button and using my brain.” I was like, “I want to be the guy who works upstairs.” I can’t tell you how seminal that experience was for me, the rest of my life. There’s only so far you can lever a man-hour.
+
+Bob Haas was that guy’s name. I feel incredibly indebted to him for that kind of exposure. And the Rich Dad Poor Dad world— My mom and dad, they didn’t own stocks, they weren’t really investors like that. They had a rental property once. But Bob Haas was like my rich dad, a guy who got me exposed to capital markets.
+
+Tim Ferriss: Amazing. Live hogs.
+
+Chris Sacca: Yeah. But I also had hustles like, in high school I ran a card room. I started one in junior high, but by the time I was in high school I ran a full on card room. I paid off a teacher. Rest in peace, Mr. Main, he was on the rake. We were always hustling. I was selling Blow Pops with my buddy Hawkeye. We ran a little sports book.
+
+Tim Ferriss: Hawkeye? Did he give himself that nickname?
+
+Chris Sacca: No, no, no, that was given to him at his birth. Actually, I was just at the Bills game, all my high school buddies. And I turn around. I’m talking to some other people, I had some family. I turn around and I see my daughters, who are 13, 11, and nine, playing beer pong with my high school buddies. And we’d been deep in the tailgate with Pinto Ron, if anyone follows the Bills. The girls are eating bacon off of Pinto Ron’s car and making pizza with Pizza Pete, who cooks pizza in the file cabinet, literally. Go Google that, Pinto Ron and Pizza Pete are absolute legends. It only happens in Buffalo.
+
+But then the girls are actually playing beer pong with my high school degenerate buddies. And they’re like, “Is this okay?” And I was like, “It’s better than okay.” Now, they weren’t slamming beers, they were slamming sodas. But I was just like, I feel like these skills aren’t taught to children anymore. And it was funny, our 13-year-old when they’re like, “Hey, CC, come jump in the game.” She’s like, “All right, but I haven’t played this in a while.” And my buddies all piss themselves, “In a while? You’re 13, this is amazing.”
+
+And our kids were talking shit, placing side bets, a little bit of gambling. I feel like we’ve got a generation of kids who’ve lost that edge completely. Again, I feel very lucky to have grown up in a place where I had opportunities to commit small misdemeanors. And I had more than one detention. I definitely appeared before the principals on many occasions. Just some light mischief.
+
+Tim Ferriss: We’re going to come back to that. Is there anything from our last conversation, that you would revise or that you think was missing given your last 10 years of life? Roughly.
+
+Chris Sacca: Did anything jump out at you?
+
+Tim Ferriss: I don’t think so. Nothing jumped out tremendously. I think that the kernel of who you and I are has remained remarkably intact. Hopefully for better.
+
+Chris Sacca: Yeah.
+
+Tim Ferriss: And I, at the same time, recognize that you’ve had a lot of life changes, you’ve had a lot of professional changes. There are probably, maybe not some revisions, but addendums at the very least. And you sent me, to your own description, the world’s longest text message about what we might chat about, which was very helpful. And my response was, in addition to all of this, because they were great topics, we’re going to touch on a bunch of them. The lessons that Chris Sacca has learned since last time. And I was leading with the, I suppose, precautionary note of avoiding a lot of politics. But what comes up for you just as a human, as a man, as a parent, as a husband, anything?
+
+Chris Sacca: Well, I’ll tell you what was interesting about re-listening to that, was I actually felt a lot of pressure. Because I was like, “Shit, I don’t have a lot of new material.” We used to just roll tape. You would just hit record. The sound quality on that is abysmal. There’s seagulls going in the background, there’s people partying down below. You and I are maxing out mics in the red zone. You couldn’t hear shit. But back then there wasn’t an industry of professional podcast guests. Those conversations weren’t optimized for what is going to be the pithy takeaway quote, what’s going to be the title card of this one.
+
+Tim Ferriss: Right. The Oprah moment where I get you to cry and then make a thumbnail out of you with a red arrow pointing at your face.
+
+Chris Sacca: Yeah, I’m good at that shit. If we have a few minutes, I am actually authentic and vulnerable. But you know what I don’t have, no one’s written the Naval Almanack of shit that Chris Sacca says. That guy’s intimidating. He’s brilliant and he reduces everything to 80 characters. And you’re like, “Fuck, that’s true.” I don’t know if that guy just sits up in a cave on a mountainside and you’ve got to hike up to see Naval these days.
+
+I listened to these episodes where I’m like, okay, this is a real conversation where I am happy to bear my soul. I am accountable to an audience of me, my wife, and my kids, and that’s it. So I’ll just say what I really want to say.
+
+You asked me last time, “What changed between 30 and 40?” And I talked a lot about reorienting myself around. Because you also asked, who is someone I looked up to in a mentor, et cetera? And I would say, right now I have few, if zero, of them. Because I started to realize, and I started to touch upon this last time, and it’s only become truer. Any time I put somebody on a pedestal, I realized it holds them to a universal purity test across everything. I gave the example of Bill Gates in the last one. I was like, I just had dinner with him and Melinda. So — yeah. Yeah, exactly.
+
+Tim Ferriss: Just changed my name on Riverside to “Chris’s idol and mentor.”
+
+Chris Sacca: Well, I had already put mine as “Tim’s idol.” I left out the mentor part. Obviously, Bill Gates is amazing in so many regards, and he’s also a fucking disaster in so many regards. If I were to say he’s an idol and a mentor, et cetera, it implies this, “I’ve taken all of it.” And I think if there’s anything that’s a scourge in today’s society, it’s these purity tests. It’s this, you have to be perfect in all regards or we toss you out.
+
+And I am going to be political for a second. That is one of the major flaws of the Democratic Party, is you either sign up to everything they believe in, or fuck you, you’re out. And the Republican Party has been like, “Hey, choose from this menu. Anything here, bro? High five. Let’s go.” And I think that’s one of the things, is that people to the left have just made each other feel bad, and have held each other to these impossible fucking standards that don’t allow for growth, that don’t allow for imperfections, that don’t even allow for just the wabi-sabi of a human experience.
+
+I’ve really tried to demystify putting people on a pedestal. And instead, looking to people for examples of one aspect of a life. I will say, I really look up to Rich and Sarah Barton. Rich founded Expedia, Zillow. Crystal and I look up to them as a family, as parents, as business people, entrepreneurs. They’re ahead of us on the kid games, their kids are in college, our kids are in middle school. I would say I do look at them as the total package a bit.
+
+Tim Ferriss: I’ve spent some time with Rich, amazing human being. What about them specifically jumps out to you? What is it that you’d like to emulate or that you think is rare, or that you’d like to model? Anything.
+
+Chris Sacca: Yeah. Look, I think the biggest danger of raising kids with privilege is that they turn out to be assholes. Right?
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: Look, you press the fucking red mute button, like the end of the Oscar speech anytime I say it. But Donald Trump is an example of what happens when someone is raised without anyone ever saying no to them. No matter how you vote, we can agree no one has ever said fucking no to that guy. And that’s what you get. But the richer you get, the temptation is to raise your kids in a way that they’re surrounded by people who are like, “Aye, aye.” And increasingly, Elon Musk is what you get when no one says no to you. And you’ve been exposed to lots of people who’ve been very successful. And once they see that you’re on that ride, it’s very easy to be surrounded only by sycophants who are there to say yes to every idea out of self and opportunistic interest.
+
+I think that happens when you’re raising kids who are lucky enough to not stay in Motel 6es, or ride in the seating group E on Southwest. I love the kids that Rich and Sarah have raised. How collegial, how balanced, how hard working while also unapologetically bright they are. How different they are from each other, but how driven they still are.
+
+I love Rich and Sarah as a couple. I think they balance working their faces off with also having a good time. I’ve had deeply introspective, reflective conversations about work with them. Frankly, they were the ones who convinced me and Crystal to get back to work and start Lowercarbon when we were very pleasantly enjoying not working full-time. And there are some days when we curse Rich and Sarah as a result.
+
+Tim Ferriss: How did they convince you to do that? What was the logic behind it? Or what did they see that led them to stage an intervention?
+
+Chris Sacca: They just said, “You are uniquely positioned to do it, and you need to do it for the planet.” And we were like, begrudgingly, yes. I’m telling you, there are definitely days where Rich and Sarah Barton are a bad word in our house. Because I’m like, “Fuck. Fuck, Rich. He is probably fucking skiing right now and I’m dealing with some horseshit. Or I’ve been staring at Montana out the window and have not stopped from this fucking computer today.”
+
+The Bartons actually wrote out their family creed, I guess I would say. I’m not going to give any insight into what’s in there, but they wrote out, “What does it mean to be a Barton?” And that exercise alone is so powerful. And as Crystal and I started writing that for ourselves, wow, nobody ever really takes that time to like, “What do we stand for?” If we were gone tomorrow, what would we want our kids to take away from who we were, how we got here?
+
+There’s this amazing data on how the children of people who are rich, but when those parents grew up middle-class or poor, those kids end up all right. But their children are fucked. There’s actual sociological data on this. Because we can teach our kids about spending, about saving, and thrift and hard work, et cetera. But they don’t have the empirical basis for it. It’s a learned lesson. Right?
+
+Tim Ferriss: Yep.
+
+Chris Sacca: They have no real deep root in their DNA for passing it along. And so we’ve tried to codify it a little bit.
+
+Tim Ferriss: What does that look like? How long is it?
+
+Chris Sacca: Like 18 pages.
+
+Tim Ferriss: 18 pages? What kind of stuff did you try to cover?
+
+Chris Sacca: Ultimately, the kids will be in there, the kids will be part of the conversation. Well, Crystal spent six years writing biographies. Of my grandmother before she passed at age 94, and then her parents. Now, her parents are two of the most fascinating people who’ve ever walked the planet. We’ll just say that they spent over 40 years each in the service of the government in various roles, known and unknown, et cetera, et cetera, et cetera. And the biographies she wrote were great. They cannot be published because they would have to go through certain agencies for stuff to be clear. But incredible public servants, two of the most honorable people I’ve ever known. I met them when I was 18 years old. Crystal and I were besties starting at age 18. I asked her out, and she friendzoned me for 14 years.
+
+But my grandmother’s biography was interesting. My grandmother, from the Midwest, lived most of her life in Omaha, Nebraska. And had this real quotidian wonder and beauty and treasure to her life. A mom of seven, a volunteer, she worked in prison. She was a leader of a national organization of Catholics. School teacher. But here’s this woman who’s a leader of a national organization of Catholics, and one of the things she put in her biography that Crystal did was, “I think it’s really important that men and women live together before they get married. Because I think divorce is a much bigger problem than premarital sex.”
+
+I think she was 92 when she said that. And that, paying it forward as a leader of a Catholic organization, I really just think she did an incredible service to like — I loved hearing her prioritization. Like, hey, here’s what the creed says. Here’s what the doctrine says, et cetera. But here’s the reality. I would rather see a family to make sure that parents are compatible, and a family stay together for their lifetimes, than deal with the breakups, etc. It was really incredible. So we cover everything in there: how we would like to communicate, how Crystal and I think about making up after a fight, how we think about making decisions.
+
+We put stuff in there that’s almost therapeutic, like, “Hey, when we first made a lot of money, we bought a bunch of houses for everyone in our family.” We thought that was an incredible way to thank them, and paid off mortgages and stuff, and moved parents out from the East Coast to California. And then we soon realized, “Shit, we’re property managers. The shit we own owns us. That’s all we fucking do.”
+
+Tim Ferriss: I don’t know if we talked about this last conversation, probably not, but you texted me at some point and you were like, “If a raccoon dies in the HVAC, is Eric Schmidt getting these texts?”
+
+Chris Sacca: Right.
+
+Tim Ferriss: The fuck?
+
+Chris Sacca: Right. Dude, Eric Schmidt’s team reached out yesterday to update his email address and I wrote back to them, “Hey, team, do you think we could do a check-in? I’m just curious how the flow is working around Eric’s email, his calls, his travel. I just kind of want to know.”
+
+And they’re like, “What?”
+
+And I’m like, “Yeah, no, Eric’s cool, give him my best. But I kind of want to talk to you guys about what flows up to Eric, what doesn’t, how does he handle this shit right now?” I’m constantly interviewing people about that, because there’s a finite amount of time in this space and the shit you own does own you. Every single object, at some point, has commanded some of your attention. And you and I, one of our close friends, lost everything this week. Shit. It’s Kevin Rose, because he’s talked about it out loud, but I said, “It’s totally devastating. But if there is one person I know who will actually end up teaching us something from this, it’s Kevin.” Kevin is this guy who loves stuff, but is also untethered to it.
+
+Tim Ferriss: Yep.
+
+Chris Sacca: It’s this weird duality he has, where he is Zen as fuck, while also loving a good pair of sneakers. “Dude, check out this fucking watch.” But his watches melted into a puddle and he was like, “Whoops.” And Kevin was like, “You know what I miss? I miss the drawings from my kids. And I miss the box my dad made me.” And I’m really hoping I can learn from him.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: It’s cataclysmic and I’m not trying to diminish it at all. And folks in Palisades, most of them can take care of the next steps. Folks in Altadena I’m way more worried about. But I have realized, shit gets complicated really fast. You think you want all this shit, and so I spend most of my time trying to get rid of it or downsize it. Speaking of, Tim.
+
+Tim Ferriss: Yes?
+
+Chris Sacca: I could have bought an ad slot, but there is an incredible ranch for sale at Jackson, Wyoming right now, in Wilson. It’s two contiguous lots, a main house on some lakes, a ranch house, you’ll find it. It’s just south of Wilson, off of Fall Creek Road. Hey, take a look, everybody. You got your crypto gains that you need to shelter? There’s no state tax in Wyoming, the skiing’s great, abundant wildlife. I’m just saying.
+
+Tim Ferriss: Now people think that Chris is joking about an ad slot. You actually did text me to ask me how much it would cost.
+
+Chris Sacca: I didn’t realize you were going to invite me on the pod later, but I was very close to buying an ad.
+
+Tim Ferriss: Goddammit.
+
+Chris Sacca: Who is actually doing well in this market and has some gains to shelter? It’s the crypto investors, bro. That shit is up. And so you want to take a little money off the table, I’m just saying. Those California taxes.
+
+Tim Ferriss: So coming back to Kevin for a sec. He is remarkable in so many respects. We’ve known him forever and one is, I do think Kevin does a great job of working hard, playing hard, but that’s not really a dignified enough way to put it. He savors life, he enjoys the stuff, but he’s very unattached to it. And I can’t say that for a lot of people in our circles. I’m not sure I could say that for the vast majority.
+
+Chris Sacca: No.
+
+Tim Ferriss: They do get attached.
+
+Chris Sacca: Yep.
+
+Tim Ferriss: And so, I’m curious for you. Last time we spoke, you had just appeared as a cover story for the Midas issue of Forbes and you’ve done a lot since. What has become more and less important? And I suppose a better way of asking that is, what have you simplified? What are ways that you have tried to simplify?
+
+Chris Sacca: Do you remember that line in Steve Martin’s The Jerk, where he’s walking out of the house, he’s losing his money, and he’s been rich and he’s like, “I don’t need any of this. Except this ashtray.” And he just starts picking up stuff until his arms are bundled as he’s walking out of his house. “I don’t need any of this at all.” I think that’s the perfectly opposite of Kevin Rose, where you’re just like, “I don’t need any of these trappings of wealth. Except this car. And this watch is really nice. And goddamn, those shoes were limited release.”
+
+Sorry, so I missed the question, because I was trying to think of Steve Martin.
+
+Tim Ferriss: So since we last spoke, 2015, you were sort of — still, not to say you aren’t anymore, but certainly in a steep ascent, at that point, doing a lot of stuff, meeting a lot of people, getting the toys, and I’m just wondering how you have thought about simplifying or have simplified?
+
+Chris Sacca: Yeah. I never did the toys thing.
+
+Tim Ferriss: I mean, you like real estate.
+
+Chris Sacca: I was just going to say. Zillow is my not safe for work situation. When that Saturday Night Live skit came out, I was looking over my shoulder, like, “Which writer has been watching me?” And I probably put more product suggestions and feedback into Zillow, because Rich is one of my close friends, than anyone who doesn’t work there. I notice things about that app that no one else there does. I spend way too much time.
+
+By the way, I think it’s a weird missed opportunity that Zillow doesn’t have a social network attached to it. And so I think there should be a comment section, I think you should be able to build playlists of Zillow houses. It’s a missed opportunity, I’m just throwing it out there. Just saying. Wouldn’t it be cool to have a playlist of houses generated by the community?
+
+Tim Ferriss: I don’t even know what that means. What does that mean? It’s just real estate porn that flashes in front of you?
+
+Chris Sacca: No. So there are blogs that do this, that keep track of the cool houses. I love, is it Zillow Gone Wild? That Twitter account is amazing.
+
+Tim Ferriss: Don’t know.
+
+Chris Sacca: That finds the craziest shit happening on Zillow. But I think it’d be cool to just be like, “Look, 10 places I would love to live someday.” Or, “15 best places where you could shoot a scene in a 1970s adult film.”
+
+Tim Ferriss: Makes me think that you’ve thought about this.
+
+Chris Sacca: Yeah. “Favorite locations from The Big Lebowski.” Or, “Best examples of mid-century modern architecture,” or something like that.
+
+Tim Ferriss: Yeah. Okay. I got it.
+
+Chris Sacca: I think there’s a missed opportunity for influencers to build stuff, feature it. Anyway.
+
+Tim Ferriss: Simplification.
+
+Chris Sacca: But real estate is my —
+
+Tim Ferriss: Toys, real estate.
+
+Chris Sacca: — soft spot. Yeah. Part of it is, I’m a recluse and I think you know that. Amy Schumer once wrote an essay since the last time we spoke. It was about being an introvert who makes a living on stage. And I lit up and was like, “I feel seen.” You know me, Tim, my ideal social situation is Danish-sized, like four, six feels huge. I love getting four great buddies together for a weekend and interacting with no other human beings. And so, I like space, so I like to live in places that are out of the mix, where I can be very specific and opt into my social interactions, because they drain me.
+
+What happens is, I don’t like being in big groups or rely on lots of people, so I get there and I overcompensate by being loud, and boisterous, and amazing, and larger than life, but really what I’m doing, it’s like cranking your iPhone screen up to 100 percent. I’m just draining my battery, and I need that time to recover. So I’ve loved creating spaces for myself to be alone. And so I think that’s an absolute vice.
+
+Tim Ferriss: Okay. And then, have you divested yourself of things, relationships? Things you used to prize heavily that you no longer value heavily or highly?
+
+Chris Sacca: Tim, have you heard of Jackson Hole, Wyoming? Because there’s a ranch for sale just south of the city that would fit that theme. There’s abundant wildlife. There’s moose and elk, you can see bears, it’s really incredible. Fishing. It’s on Orvis’ first blue-ribbon-certified fishing property. I’m just saying. Yes, the first thing we sold was hard to sell. People still think about us living in Truckee, but we haven’t been in Truckee since 2011. And that was the first thing Crystal and I bought together, and to let go of that was weird and disorienting. But since then, yeah, I’ve gotten pretty good at selling, and letting go, and realizing, and more importantly, not buying.
+
+Tim Ferriss: Yeah. It’s like having premarital abode before a messy divorce.
+
+Chris Sacca: Yeah, exactly. That’s a really good way of putting it. You always ask people their favorite books, etc. One is Morgan’s The Psychology of Money.
+
+Tim Ferriss: Oh, Morgan Housel. Yeah, great book.
+
+Chris Sacca: Yeah. And that echoes a lot of refrains, but a lot of that, like The Millionaire Next Door, that kind of stuff, all of them are just like, “Look, the way you get rich is by not spending it in the first place.” And so, what Crystal and I have started to realize is, it’s not the check you write, it’s the fucking time you spend. We were just about to build a house and we realized, “Oh, God, do you know how many decisions that is?” And it turns out, if you ask me about something, I am going to have an opinion.
+
+Tim Ferriss: Shocker.
+
+Chris Sacca: If you just make it, I wouldn’t notice. But when we renovated a house in L.A., they’re like, “Hey, how do you want this wood to meet that wood to meet that wood?” You assholes. I never would’ve seen it, but now that I’ve seen it, I’m going to sketch it for you. And so there’s going to be an 1/8 inch of tolerance, we’re going to have a hold back. And now I am tortured by those details, and Crystal is even more of a detail, and design, and flow person than I am. But what we start to realize is, those projects that we buy and build, they’re jobs.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: And so I think that number one area, where we try to light stuff up, is, “Let’s not take that project on in the first place.” We bought a piece of land recently, an incredible setting we’ve always had on the list. We finally found the place, we started sketching it out, we were working with the right architects. Our nephew, Mike, is an architect at Bjarke Ingels Group, one of the greats, and he was helping us out. And really, really loved it. And then we took a step back and we’re like, “This is going to be a job for the next couple of years. Do we really? Or can we just Airbnb it?” And literally, as part of that, I wrote to our travel agent, “Can you show me 15 places within the same realm as this that we could rent and just show up with our bags, have a great week, and then fucking leave and never think about?” I was like, “If you do this, you are about to save me two years of my life and many, many dollars.” And it worked. I was thrilled. And so, anyway.
+
+Tim Ferriss: So many questions. Let’s just say, no super fancy cars that I’m aware of. You might have some UTVs, but you have plenty of beavers to keep you company last time I checked, although that might be a past hobby. And then the real estate question for you. If all of that vanished, right, it burned down or otherwise was just removed, how much of that would you repurchase?
+
+Chris Sacca: Can I just say, our now nine-year-old, when she was eight, she’s our hippie kid who’s always on mushrooms.
+
+Tim Ferriss: Not literally.
+
+Chris Sacca: No, not literally. Sorry, we don’t feed our kids mushrooms, yeah. But no, she’s just our kid who we just end up writing down so many of the things that come out of her mouth. She’s just untethered by reality. She’s the one who, when we moved to Jackson, we signed up for this Teton Science School, it was like an expeditionary learning academy. And we toured the school, and then after a couple of weeks there, we checked in on the other girls. They were doing traditional school and tiny classes with some outdoor learning. But we went to Center Skies Preschool kindergarten situation and we were like, “Hey,” to the teacher, “when do you guys start doing, I don’t know, the math or the writing?”
+
+And she’s like, “Oh, there’ll be no math here.”
+
+We’re like, “What?”
+
+And she’s like, “This is a forest preschool. Other than when the kids come in and write their names, that’s it. The rest is just play-based.”
+
+And we’re like, “Wait, what?” And so we ended up watching some videos on these Swedish forest schools and we’re like, “What have we got to lose?” And it turns out that kid is so exceptionally resilient and capable of being bored. None of the three kids get bored.
+
+But I go for a hike every day and when she was like four, she said to me, “Can I come with you?”
+
+And I’m like, “It’s dark and it’s starting to hail.”
+
+And she’s like, “Dad, that’s just ice falling from the sky.”
+
+And I was like, “All right, suit up.” And we spent two hours with numb fingers, throwing shit in the river, and digging in the mud, and having a blast. And she’s an academic superstar. It didn’t hold her back at all, but I really love that skillset. Anyway, it’s a long way of saying, she once said to Crystal and I, last year, she said, “Mom, Dad, someday, if we’re lucky, maybe we can live in a smaller house.” We were wrecked. If I can answer your question in any way, it’s that.
+
+Tim Ferriss: Okay.
+
+Chris Sacca: We live in a house now that has a lot of perks and features, and maybe we could do without them.
+
+Tim Ferriss: Sharks with lasers. Downsize.
+
+Chris Sacca: Yeah. And then, dude, you’ve got a new project.
+
+Tim Ferriss: Yeah?
+
+Chris Sacca: It’s about no, but what was the actual title? The working title.
+
+Tim Ferriss: Yeah, the working title is The Book of No, and I’m excited about that.
+
+Chris Sacca: I say no for a living. And I think one of the challenges is, how to stay an optimistic, open-minded person when you say no all day?
+
+Tim Ferriss: Yeah, what’s your take on that? Because a popular position would be, you have to say yes to everything when you’re building, and then you have to learn to say no. I don’t know if I totally subscribe to that. At least, I’ve done a lot of writing on this and I think that if you look at a lot of examples of mega successful people, and there’s a survivorship bias of who the fuck knows what’s actually causal in some level, but a lot of them get good at focusing early. And by virtue of definition, focus means saying no to a lot of things outside of that focus. What’s your take?
+
+Chris Sacca: Well, first of all, and investing in anything, I think one of the big traps is being too thematic, like having a thesis ahead of time. I’ve watched people write the canonical blog post on the shared economy. Then people come pitch them shared economy deals, which makes their blog posts feel righter and righter, and that confirmation bias causes them to light money on fire.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: And then the fun goes away and they’re like, “But my blog post was awesome.” And so I have this big rule at Lowercarbon about never actually having a thesis written in stone. We are very big on electrification of the economy, lithium, we have a way of extracting lithium that’s 10,000 times faster —
+
+Tim Ferriss: So Chris, let’s pause for a second.
+
+Chris Sacca: Yeah.
+
+Tim Ferriss: So we have not explained, because it didn’t exist at the time, what Lowercarbon Capital is.
+
+Chris Sacca: Okay, let me go back to just saying no then, because it’s important.
+
+Tim Ferriss: Yes.
+
+Chris Sacca: You’re writing a book about it. So my point is, if I have too many rules about saying no, then I’m going to say it to the wrong shit. I’m going to turn down the wrong stuff, I’m going to have too much predisposition. So what I have to know ahead of time, the work I have to do ahead of time, is to know, as we were just talking about with the houses, what’s the actual cost? What’s the actual downside risk? So what is the actual cost of saying yes to this? So if the cost of saying yes is I end up at a three-hour dinner party that’s boring, that’s actually pretty low cost, right? I prefer not to blow three hours hanging out with some lame people.
+
+Tim Ferriss: Oh.
+
+Chris Sacca: But I would prefer not to blow a night, you know?
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: But on the other hand, that’s pretty low cost. Whereas saying yes to a meeting that I have to fly to, well, that’s a whole fucking disruption to my world. I am not going to see my kids or wife, and I’ve got to fucking pack some stuff, and transport, all that shit. Paul Graham, a long time ago, used to talk about the true cost of a cup of coffee. What does it actually take to stop your day and go meet somebody and let them pick your brain and all that bullshit? And so I just talked about the real cost of building something. Everyone thinks about the cost of building a house is the amount of money you put into it. That’s real. But at the same time, it’s the amount of time, and crazy, and bullshit, and shit breaks all the time, that you put into it.
+
+So I think, for me, it’s doing the work ahead of time to understand, what are my actual priorities? What really matters to me? And what’s the true cost of those things? So when you come to me with a proposal, an invitation, I can assess, am I going to just risk 50 grand here? And that’s my total downside. Okay, what’s 50 grand worth to me? Oh, God, I was almost quoting Jay-Z right there. Can you please remind me? But whereas, if what you’re talking to me is like, “Hey, Chris, I want to start a project, I want you to join my board, etc.”
+
+I’m like, “Whoa, whoa, whoa, whoa, whoa. What’s the real cost of that?” It’s easy to say yes to that, but what’s the real cost? And then I think the second part is just getting comfortable with the fact that this is going to be uncomfortable for a minute, but I’m just going to say, “No, bro. I appreciate you.” How do I let you know that you’re my homie, and I deeply appreciate and respect you, and I’m flattered by the invitation, but we’re not going down that path? And that can be really tough. I think everyone can attach themselves to the dramatic narrative of, “God, my thing would be even more awesome if TimTim were on it. If Tim Ferriss is attached, goddamn, I’m going places.”
+
+But they’re not you, they don’t know what your scorecard is, they don’t know what your actual to-do list says. We’ve said many, many times, and I wasn’t the first person to say it, but your inbox is a to-do list to which anyone else can add an action item, right?
+
+Tim Ferriss: Yep.
+
+Chris Sacca: So you’re the only one who sees your to-do list. I love all these questions where you ask people, “What’s your daily routine?”
+
+And then every single time I’m like, “That is someone who doesn’t have anyone in their house attending elementary school.”
+
+Tim Ferriss: Yeah, there’s truth to that. Yeah, for sure.
+
+Chris Sacca: Last night, we had a kid with an ear infection sleeping in our bed. Two nights ago, I had a kid puking out the side of the car as we drove home from the Bills game, because I had stuffed her for full of pizza and other bullshit. I love these people who are like, “This is when I peacefully do this shit.” And I’m like, “Oh, this is when I fucking wipe asses.” I love all of those. I know somebody who writes out their intentions and then hand stitches them together at the beginning of the day. God bless. God bless. I’m not mocking, I’m just saying.
+
+Anyway. So I think the no is feeling comfortable. And by the way, as we grow up, one of the things Crystal and I find with employees is, I think younger managers are too slow to fire employees. Employees who cost too much. And it’s never the financial cost, it’s literally when we make a decision on somebody, it’s not what their salary is or what their benefits cost is, it’s just, are they creating more work than they’re consuming? Are they creating more administrative overhead?
+
+Somebody else once said, “If we have to talk about an employee three times in bed…” Oh, I know who it was. It was a local entrepreneur I met here in Bozeman, a guy whose pickleball court doubles as a gun range. Just amazing dude. He and his wife were small business people, retired now, but they said they had a rule. If they had to talk about someone they worked with three times in bed while falling asleep at night, they were gone from that work. That was a true cost of that person. And I think younger people are sometimes afraid to have those uncomfortable moments. It’s easier to live with the status quo than just be like, “Sorry, it’s not happening. We’ve got to go.”
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: Because they’re afraid of the loss, but the real loss is all that fucking time along the way. All right, that’s my diatribe on nos.
+
+Tim Ferriss: Well, hold on one sec. Now, the three-hour dinner, I imagine you get dozens of these invitations, so you wouldn’t be able to say, I imagine, yes to all of them. So how do you choose, not the big things to say yes to, we could talk about that too, but the inbound that you say yes to that are along the lines of the three-hour dinner? Because you still have finite time, finite dinners, and if you do a dinner with a group of 10 people, that’s also away from your family, presumably, right?
+
+Chris Sacca: Yeah. I’ll tell you, I’m the asshole who’s like, I would infinitely rather host and control the situation.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: You’ve been to our events. There’s no automatic plus ones unless the other person is independently awesome.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: That’s a real thing. We have deeply offended people. Even at our wedding, we’re like, “Sorry, no, never met your wife. I bet you she’s great, but I need to know.” No, this is going to sound ruthless as fuck and somebody in the comments will be like, “This guy is a fucking sociopath.” But here’s the thing. I don’t want to have to have a seating chart. I want to know that whoever’s here can sit next to anyone else and be enthralled by how interesting that person is no matter what they do for a living. And so you’ve been to our events before where we gather 30 incredible people for a weekend, or we host a party, and I just know whoever you are talking to is independently great, in whatever field.
+
+And I’ve seen many of them end up as guests on your podcast. I love when people end up on each other’s boards, or do a collaborative art project together, or performance, because that’s what I’m vouching for. If I’m gathering people, I’m vouching for every single person there as being awesome. And so I don’t know if everyone else has that standard. And if I’m getting up in front of an audience, I want to make sure that, hopefully, I’m delivering the aggregate value of all the time people just took out of their day to be there. I don’t get nervous about giving speeches, but I feel like I want to bring my A game. That’s what I was saying, I felt the pressure of like, “Oh, my God, if some fucking kid is home taking notes about this episode, what are they going to actually write down? Oh, my God, I need pithier quotes.” But the reality is I want to make sure I’m delivering something of value. And I don’t know if everyone else lives by that standard. And I do like to live like I’m running out of time.
+
+Tim Ferriss: We’re all running out of time.
+
+Chris Sacca: My best friend, Teddy Rheingold, who you knew well, he died at 46. One of the all-time great people.
+
+Tim Ferriss: Yeah. Great human.
+
+Chris Sacca: I feel like I’ve gotten three years of bonus time past him, and I don’t take it for granted. I get all the scans and I did treat my body like a rental car for many years, but I just, at the same time, if you asked me what’s changed since I was 30 or 40, I am way less patient. It’s harder to work for me as a result.
+
+Tim Ferriss: And for people who don’t know Chris well, you didn’t really start off that patient to begin with.
+
+Chris Sacca: No. It’s funny, we had this thing at work recently where I wanted to promote somebody. We hired somebody junior who we could just realize very soon was a 5X employee, somewhere between five and 10X. You know those kinds of people where you’re like —
+
+Tim Ferriss: I do. Yeah. For sure.
+
+Chris Sacca: They’re just different. And so Crystal and I were like, “We should promote her.” And our partner was like, “Okay. Well, her review is coming up.” And Crystal and I were like, “No, no, no, no. We should promote her by Friday.” And we’re like, “Well, there’s…” And I was like, “Do you want to tell her or are we going to tell her today?” I’m like, “Why would we wait?” She’s fucking amazing. She knows it. It’s so weird that it would just hang in the ether in an email account somewhere in the meantime that we haven’t told her she’s that great and that we give her a new title and give her going because she’s just that great.
+
+I just have no fucking time for that. That idea I told you about that came up over the weekend where we were talking to our team and I was like, “Okay, I appreciate all your input, but we’re fucking doing it.” And they’re like, “Okay. Q1? Q2?” And I’m like, “No. Q Friday. Just write it up. What are we talking about here?” And so I’m just like, we are men of action. Lies do not become us. But I’m just like, I have no time for that. And so I worry. I worry, it’s way too easy to let this stuff slip away.
+
+Tim Ferriss: Is that a pending, tangible sense of mortality or is there something else to it? Or is it just getting old and cantankerous?
+
+Chris Sacca: Tim, does any of the shit you’ve built happen? You built it yourself, literally. I would say the same for me. So no one’s ever going to call me an entrepreneur though. But I built all this from scratch, with Crystal. But if I don’t do it, it doesn’t fucking happen. If I don’t move it, it doesn’t fucking happen. And I tried resting for a little bit. I was horrible at it. And so I regret being 70 hours a week employed again, this sucks. But at the same time I was awful at not doing much. But if I don’t move it and if I have an idea, if I have a business idea, I’ve got to do it before anyone else fucking picks up on it before the fast followers come.
+
+I want to just be out there with whatever my anomalous advantage is, I want to go press that. You remember when I was trying to convince people that Twitter was a real business for years and then I finally was like, “All right. I’m no longer here to convince you, just sell me your fucking stock.” I just wasted so much time not buying it all and then eventually bought it all. But I don’t want to convince people to do something. I want to go own it all first and then convince them to buy it from me. We have the world’s only dedicated nuclear fusion fund, and so we had been dabbling in fusion investment for a while. People poo pooed it —
+
+Tim Ferriss: Do you want to take a second to explain what Lowercarbon Capital is? And then I’m going to come back to that kid taking notes because I have a question for that kid. But do you want to just give a quick background of it?
+
+Chris Sacca: I got yelled at for calling people in their 20s kids.
+
+Tim Ferriss: What?
+
+Chris Sacca: Yeah.
+
+Tim Ferriss: They should be so flattered.
+
+Chris Sacca: In my 360 Review on my org, we had a kid who started harassing me in my inbox when he was 19, from college. We hired him directly out of graduation. His name was Harsh Dubey, amazing name.
+
+Harsh Dubey is one of the hardest working, most insightful young people I’ve ever fucking worked with. He worked with us for a couple of years and then he went and joined one of our portfolio companies. The guy is a legend. He is welcome back to Lowercarbon any day. We’ll explain Lowercarbon in a second, but I once referred to Harsh Dubey in a podcast as a kid. I was like, “We had this kid. He came, he was sending me all these ideas. We hired him. God, he executes, he’s amazing.” And then later an employee, not Harsh Dubey, but another employee was like, “Hey, you can’t refer to people in their 20s as kids.” And I’m like, “God fucking dammit. I can’t do anything right.” By the way, that was in the same six months that I was accused of promoting hustle culture. Crystal and I are like, “Wait, what’s hustle culture?” I really felt fucked up. And they’re like, this whole thing about the work never sleeps and sometimes shit blows up on a Sunday, and so you’ve got to get your laptop out no matter where you are. And if you’re going to be a partner to an entrepreneur, you’ve got to just feel like you’re an owner too and be available for them no matter what else is going on.
+
+And we’re like, “Yeah. And?” We’re like, “And? Wait. Where’s the accusation part? Oh, that was it. Oh, fuck you.” Yes, that’s exactly what we do. This is hustle culture. What the fuck. I don’t have Successories posters on the wall, but —
+
+Tim Ferriss: “Just hang in there” with the kitten, you don’t have that?
+
+Chris Sacca: But at the same time, for fuck’s sake — and we haven’t asked anyone. Crystal slept under her desk, literally slept under her desk, missed every wedding for 10 years. I haven’t asked that of anyone. I had no fucking life outside of like Speedera and Google. I can see the direct correlation between the entrepreneurial risk we took and the hours we put in, and what we got. I don’t think there’s a way to shortcut that. I don’t think you have to work yourself to a state of unhealthiness anymore. But I also think you can’t fucking phone this in and I’m sick of apologizing for it.
+
+Tim Ferriss: All right. No more apologies. You’ve got to stop your apologizing, and we’re going to come back to the Fusion Fund and Lowercarbon, but for the kid who’s taking notes, I would be very curious to know because those who may not be familiar with you —
+
+Chris Sacca: Wait, wait, wait.
+
+Tim Ferriss: Hold on, hold on.
+
+Chris Sacca: No, this is a good place to insert the commercial break for the self-help therapy app or whatever. After Chris goes on a rant about how you have to work yourself to the fucking bone until you’re teetering on the edge of a nervous breakdown.
+
+Tim Ferriss: Put in a meditation app. Throw in a sponsorship ad for the way.
+
+Chris Sacca: Hi, this is Tim taking a quick break to let you know that you’ve got to take care of your mental health.
+
+Tim Ferriss: All right. So, the question for the kid who may be listening to you for the first time, he’s like, “Wow, that guy has a lot of energy and sounds very impatient. I can’t wait to work for him.” But also is like, “Well, he also did college math when he was seven and was trading live hogs when he was a fetus. And fuck, I can’t emulate this guy.” If you were to teach a seminar, could be college, high school, doesn’t really matter. Just entrepreneurship. What could you teach? What would you teach that is not dependent on the hard-wiring of a soccer specimen?
+
+Chris Sacca: Yeah. All right. So, I told you what I’m working on next, and I hate that I don’t have like a URL or deliverable to announce because this podcast came up really quickly. But I feel like there is a massive cultural hole— my working title has been No Permanent Record. So, Tim, you and I are the same generation where our teachers, our parents would be like, “That’s going to go on your permanent record.” You fuck up. “That’s going to go on your permanent record.” Tim, I was 19 years old before I realized that document didn’t exist. I swear I thought something had followed me from George Southern Elementary School to North Park Middle School to Lockwood High School, to Georgetown University.
+
+Tim Ferriss: Like Santa Claus.
+
+Chris Sacca: Yes. I felt like there was a document that had been hand delivered over there and they’re like, “Oh, did you really do that in gym class? Jesus.” People talk all the time about how we were the last feral generation. The last kids allowed to free range. Crystal and I showed the young adults who worked for us, I won’t say the kids, the young professionals who worked for us, we showed them that PSA that used to play on television that said, “It’s 10 o’clock. Do you know where your children are?”
+
+And people were like, “Where would the children be?” And we’re like, “That was it. We were out. We were just gone. Oftentimes your parents are like, ‘Get the fuck out of the house and don’t come back.’ And what the TV was basically telling your parents was, “Before you have one more gimlet and get all wasted, maybe do a bed check, see if anyone made it home.” So we would leave the house without water. How the fuck did we survive without water, Tim? Kids these days can’t go anywhere without a fucking water bottle. We would maybe find a garden hose somewhere. We had no fucking snacks. And so we would just go. We had no fucking Band-Aids or Neosporin. We just would rub a little dirt in it when we wiped out. No helmets. We were a disaster. At least once each of us was propositioned to get into a van for some candy.
+
+And so it was the wild fucking west, Tim. But we learned to be resilient and resourceful. And I worry about it. And along the way, Tim, we learned how to tell stories. We learned how to convince our friends because there are no parents there. “Hey, let’s go do my idea.” “No, let’s go do my idea.” And we’d negotiate. We would talk our way into situations. We would talk our way out of situations. I recently was back at my alma mater and we were being honored. Crystal and I were back there, being vetted and being interviewed in front of the student body. And first thing I covered was “Cheers to all you fucking nerds. Your test scores and grades are so great that Crystal and I wouldn’t even get in here now. So I love that you’re applauding all our accomplishments, but we wouldn’t make it right now because you’re all so fucking smart.”
+
+But I said, “Hey, how many of you here have ever gotten in trouble? How many of you here have ever had to talk your way out of a situation with the cops?” One black kid raised his hand and I was like, “You have every systemic reason for doing that. Yes, I agree.” But I was like, “How many of you here have ever snuck into something? How many of you have ever committed the mildest crime? Have you vandalized anything? How many of you have ever actually scammed someone or even been scammed? Have you ever been on the wrong side of a flimflam? How many of you have placed a bet on sports? How many of you have played cards? How many of you have been blackout drunk? How many of you have had a regrettable hookup?”
+
+And so I just kept going down. “How many of you have worked a tipping job? How many of you have had a fucking horrible boss who is incredibly aggressive with his language?” None of them. None of them. And I was just like, “I’m sorry, Dean, but this is why you’re also useless to us.” It’s like you’ve done none of the things that actually inform the kind of work we do. So you know what I’m seeing right now? It’s like we actually have, across our portfolio and across our team, there are some really hard workers. I don’t think you can paint in the broadest strokes around who’s willing to work hard and who’s not. We have some really hard workers.
+
+And so it’s easy to always “Get off my lawn” and “The next generation,” and “These kids don’t want to work.” There are definitely some lifestyle kids and bless them, but we have some really fucking hard workers. I’ve just started noticing things like, well, they can’t tell when somebody’s lying to them. Literally, we have a generation of young people who cannot tell when they’re being bullshitted because mom and dad were a helicopter and snowplow parenting for them. And so now when somebody is literally staring them in the face and lying to them, I’m like, “Wait, you’re believing that shit? Holy shit, you’re fucking, what? Oh, my God.” Because they’ve never been in a situation where somebody was taking advantage of them. They’ve never had to bluff their way out with some cards.
+
+Tim Ferriss: How do you fix that other than sending them to Stranger Things reality camp, 1980s theme park.
+
+Chris Sacca: You know what’s crazy? So, my way in on the H-1B visa, just to get political again, push that, is that —
+
+Tim Ferriss: Just going to play elevator music.
+
+Chris Sacca: The people who know this shit are either the American kids who grew up broke as fuck or the kids from India and China, and so who grew up hustling, scrapping, basically, not only fending for themselves in school, but also helping run their mom and dad’s restaurant or store, and taking care of a kid along the way, and having to fend for themselves in a market. I worry, most of the investors and entrepreneurs I know in their 20s right now would get eaten alive in a bazaar, just eaten alive. Tears might happen. And so whereas Crystal, my wife, who grew up in India, it’s a fucking sport for her. It’s almost uncomfortable. I’m like, we once had a big fight in Morocco because I’m like, “You are arguing with this man over seven cents right now.” And she’s like, “Yeah. But if I don’t, he’s going to be disrespected and I’m going to be disrespected. So fuck this.” And I’m going to walk away again. I’m like, “It’s one dirham. We’ve got to go.” And she’s like, “Fuck that. We’re in this. If you don’t have the fucking stones to stay in this conversation, get the fuck out of here.” But I miss that alpha. I worry that we just don’t have people who are put in a position where they had to fight and fend for themselves, and they’re brilliant, man. But they’ve never had to take any risks. They’ve never had to mix it up. They’ve never been in a fight. I’m not encouraging people to go beat the shit out of each other, but they’ve never been in a fight.
+
+Tim Ferriss: Yeah. No, I get it. So is there anything to be done? Is there anything to counteract this nefarious slippage into impotence and oversensitivity?
+
+Chris Sacca: Yeah. Take your phone and throw it in the bin. I’m a Jonathan Haidt, like, disciple, but the phones are killing everybody, parents included. I am a wealthy, happily married, got everything I need, almost 50-year-old white dude. And when I get on Instagram, I feel so much fucking FOMO. My life feels so inadequate. I’m like, “Jesus, look at that guy. Oh, fuck, where are they? They’re having so much fun. Shit, that guy’s so much fitter than me right now. Fuck.” And it makes me unhappy. And so maybe me and 13-year-old girls have a lot in common or —
+
+Tim Ferriss: You left out technologists too, right? As you put it, I think in your text to me, your fingerprints are on the weapon.
+
+Chris Sacca: Oh, my fingerprints are on the, yeah, it’s like if the gloves do fit and so you cannot acquit. We reinvented cigarettes, fentanyl-laced cigarettes when we started social media with all the best intentions, but it’s a fucking disaster. Dude, you know this. When I quit Twitter in November of 2022, I lost 11 pounds in six weeks with no lifestyle changes. I had just been eating the cortisol of my mentions for years, like frog boiling, in 2006, it was all nice and shit. By 2022, everything I was saying was either being responded to by activist shitheads or Russian shitheads, and you can’t tell the difference anymore. The Russians are so good at imitating the liberal elite college shitheads that it was just a wave of hate no matter what. “Fuck you, parting your hair on the right side. The Nazis used to part their hair on the right side, you piece of shit.” Once I went off Twitter and went off Instagram, oh, my God, did I feel lightness in my life. So here’s what I would do. My seminar, I would stomp on everyone’s phones.
+
+Then we would go to a bar, but like a dirty bar. And I would tell people to try and start a political conversation and not get their ass kicked. And so I bring them to a bar here in Montana, a cowboy bar and just be like, “I want you to advocate for the IRA and see if you can get out of here without being punched.” So come to cattle country and oil and gas country and let’s talk about green politics, and see if you can get out of here. Let’s see if you can actually tell a fucking story.
+
+Let’s see if you can show any empathy and put yourself in the shoes of the other person.
+
+One of the things that made Clay, our partner who runs Lowercarbon with us so effective was, he had to go door-to-door in Ohio, Republican Ohio on behalf of a guy named Barack Hussein Obama and convince people to vote for the guy. The same shit I did in Elko, Nevada, where I am going to a place where John Kerry got 11 percent of the vote and I’m knocking on trailers and saying like, “Hey, I’m here to talk to you about the election.”
+
+Most of those people, if their gun was closer within reach, would’ve pulled it out and told me to get off their porch. But I have to learn how to put myself in their shoes and try and get a conversation going. And so I think no one sells shit anymore. No one has to walk up to their neighbor’s door and sell shit.
+
+One of the things my kids had to do was convince the neighbors, “Can we cut across your lawn to get into the other neighborhood where the kids are?” And they had a negotiated deal. It’s one batch of cookies per year. But I was like, “You’ve got to go figure that out because otherwise it’s a long fucking bike ride for you. And so you’ve got to go up there and convince them that you are not going to damage their lawn. But if they let you cross that lawn, it’d be a very patriotic thing to do.”
+
+But I feel lucky. You come to Bozeman and there’s 150 bikes out in front of the school with no locks on them, and it’s a free-range town. And the kids come home and we’re like, “So what went on?” And they talk about the conflicts they had with their friends and how they settled those, how they figured shit out, how they dealt with people when they go downtown. Friends come up from L.A. and they marvel at our kids. We’ll be hanging out at one spot and the kids will be like, “Hey, can we go to the bookstore?” And we’re like, “Yeah. Scram.” And so they’ll go to the bookstore and handle themselves. And our friends are like, “Wait, what the fuck was that?” I’m like, “Well, they’re going to the bookstore.”
+
+Six months ago we were in L.A. and we were all getting our hair cut and the kids were like, they finished first and they’re like, “Hey, can we go to the bookstore?” They’re nerds, so they like to read books. They don’t have phones. And we said, “Sure.” And the lady who was cutting our hair was like, “Well, no, no, no. They can’t go.” I’m like, “What do you mean?” The bookstore is literally on the same street we’re on five blocks away. And she’s like, “No, you’re going to get ticketed.” We’re like, “What?” They’re like, “Well, yeah, the cops will ticket you as the parents for letting your kids go down there.” And we’re like, “What in the actual fuck?”
+
+And they’re like, “Well, the then 12-year-old is fine and probably the 10-year-old, but definitely not the eight-year-old. You can’t have an eight-year-old walking around.” And I was just like, fuck everything. And now Tim, I’m old as shit, but I see the linkage between that and the learned helplessness, between the lack of resourcefulness, between not knowing how to solve a problem. And so much of company building is dealing with people, dealing with people unlike you, is solving those problems. So, I would make people, if I’m teaching a seminar right now, I am making those people go hang out with people very unlike them.
+
+We have everyone on our team, a bunch of fucking hippie climate investors, come to a ranch, a cattle ranch, and hang out with people who raise methane for a living. They raise cattle that we eat, but our team sees them as methane burpers, and so we see them as people who put food on the plate and stewards of the land. And they’re very easy to underestimate as like, well, they’re just growing cattle and cattle burp shit. But they’re absolute stewards of the land. But nobody fucking hangs out with anyone unlike them anymore. Nobody’s forced to have any community. It’s funny, Phil Jackson voiced over a documentary about small town basketball in Montana, I think it was called Class C. And he said the important part about Class C basketball in Montana is it’s a place where the entire town in winter can get together somewhere warm that isn’t a church and isn’t a bar.
+
+And the reality is, we just don’t have these places where we get together anymore. Life is increasingly isolated. What is it? 73 percent of restaurant food is delivered now. By the way, my fingerprints are on that one too. We fucked it all up, dude. I’m definitely going to hell. And so anyway —
+
+Tim Ferriss: You mentioned something in passing that your kids don’t have any phones. How did you manage that? Because I would suspect that a lot of their friends have phones.
+
+Chris Sacca: Some of them do. We live in Bozeman on purpose. A lot of kids don’t. They’re outdoor kids, they’re “don’t get bored” kids, they’re “make your own fun” kids. And so they don’t want them.
+
+Tim Ferriss: So is it fair to say they’re opt in because a lot of their friends do not have phones?
+
+Chris Sacca: I think they’re opt in because they see how fucked up a lot of their friends who have phones are. How fucking sad they are. How at 10, 11, 12, 13, they don’t eat right, how obsessed with makeup they are and just how they stay up late. They don’t sleep right, they don’t do well in school, they’re panicked at all times. And our kids have a peace that I think they’re very self-aware that they don’t want that shit in their lives.
+
+We have a family computer that’s in a public space where the screen faces out and YouTube has some insanely cool shit on it. YouTube also has these rabbit holes that you can get stuck in. So, it’s not like they don’t know how to use a computer and they’re blown away by ChatGPT. But I think at the same time, I think we were the last of the analog kids. We were the last who had to be conscious about what we were actually taking a picture of, thought about it, and then waited, and had some patience for it to develop.
+
+We were the last generation that had to rawdog. Have you heard this?
+
+Tim Ferriss: Wait, what? Not sure what context you’re using that in!
+
+Chris Sacca: There’s an American dialect society that chose that or something, I forget their name, but they chose that as the word of the year, rawdogging. Have you heard of this trend? Like rawdogging an airplane flight?
+
+Tim Ferriss: You and I may have different use cases for this. What does this mean?
+
+Chris Sacca: This is your follower base, man. I know what you’re referring to, but rawdogging the airplane flight is when you just sit there in the seat and you just look straight ahead. No headphones, no in-flight movie, no book, no phone. You just stare straight at the flight. That is rawdogging the flight, man. Crystal’s dad is in his 80s. He can come sit on a chair in our yard and just look at the woods for four hours. He can just rawdog the woods, man. And can you do that? Could you do that now? You meditate a lot. Could you just fucking stare at the woods? Not on any shrooms or anything?
+
+Tim Ferriss: With the woods, I’ve got to say, I’ve been cultivating that for a while now. So, I think I could do it with certain natural scenes. On an airplane? Probably not. I would need some enhancement for that.
+
+Chris Sacca: Right? I invite your listeners to leave in the comments their actual authentic rawdog experiences, the safe for work ones. But how long, what setting and how long have you been able to sit phone free, book free, art free, pencil free? I mean, you might even say I’m holding a pencil, we’ve lost touch with the analog arts man. I have a manual typewriter behind me that’s not for show, I use it all the time. I’m a physical collage artist and then I make wood and string art. I got a rock drill, I told you about that, I was covered in rock dust recently.
+
+Tim Ferriss: Wait, string art. What do you make your string art pieces look like?
+
+Chris Sacca: I weave twine and cotton and then I integrate that into rocks and wood, and so —
+
+Tim Ferriss: Cool.
+
+Chris Sacca: But we don’t make analog shit anymore, man.
+
+Tim Ferriss: Have you seen—side note—Andy Goldsworthy?
+
+Chris Sacca: No, he’s been a big influence on me. So you can go ahead and summarize what he does. He integrates nature out of art and art into nature.
+
+Tim Ferriss: It’s hard to believe some of his art was created using the materials that are put in the descriptions. I suggest everybody get a few of his books. They’re incredible. There are also, I think, two documentaries made about Andy Goldsworthy that I’d recommend people check out.
+
+I’m going to drag us back to that kid with the notebook for a second. So within the seminar, you’ve stomped on the phones, you’ve taken them to some bars. Maybe you’ve taken them to a bazaar. So there’s a lot of kind of The Apprentice type vetting happening.
+
+Chris Sacca: Oh, my God. Tim, Tim, Tim, Tim.
+
+Tim Ferriss: Hold on, hold on, hold on, hold on.
+
+Chris Sacca: Pull the fucking knife out.
+
+Tim Ferriss: I said that just to fuck with you.
+
+Chris Sacca: Hold on. I don’t have an air sickness bag near my —
+
+Tim Ferriss: So if you had a curriculum for reading, like a syllabus for reading, what would be mandatory reading for that class? Entrepreneurship, broadly speaking.
+
+Chris Sacca: I am starting to rediscover the greatness of Gen X. I think we were taught to believe that we, Gen Xers, were a bunch of fucking ne’er-do-wells and losers. And guess what? We are, but that’s what makes us great. And so I am convinced that we were the last of the fuck-ups, and all these other kids actually do have a permanent record now. There actually is this thing that follows them forever.
+
+I love reading Chuck Klosterman. And so just diving into how messy the ’90s were. I love talking to ChatGPT. My wife finds it weird. And so if I go on a walk, sometimes I’m listening to an audiobook or a podcast, but a lot of times I’m just talking to Chat. Chad, by the way.
+
+And Chad has different names. If I’m talking about medical shit, it’s Dr. Chaddeus, M.D. If it’s my accountant, it’s Chad Geppetto, CFA. What else do we have? But there’s a few, but I’ll tell it, “Hey, you’re this person,” and I’ll have it remind me. I’ll get sentimental and nostalgic with it, but I’ll have it be a foil.
+
+I also, by the way, talk to it as when you brought up mentors. Buckminster Fuller, still a huge influence on me. You and I permanently ruined the market for his book, I Seem to Be a Verb. When we mentioned it on your podcast, it immediately started pricing at $1,000. And I don’t think that price has ever really recovered. I think it’s still a few hundred dollars to pick up the book, a copy of that.
+
+But Buckminster Fuller’s personal life was not ideal. He would not be considered to have been a great husband. But I recently had to make a big, recently, six, eight months ago, I had to make a big business organizational decision. And I said, “Hey, Chad, you are Buckminster Fuller. Let’s have this conversation. I want to know the advice you would give me.” And that was fucking illuminating. And so I think we don’t do that enough.
+
+What else would I read?
+
+Tim Ferriss: Or assign.
+
+Chris Sacca: Or assign.
+
+Tim Ferriss: To the class.
+
+Chris Sacca: I probably read more poetry than most people, but particularly Billy Collins. I listen to the stories of Garrison Keillor, like old ones. I think we’ve all lost touch with the storytelling. I am a big fan of The Moth podcast.
+
+Tim Ferriss: Huge fan. Yeah.
+
+Chris Sacca: I really like the author Kelly Corrigan. I’ve gotten to know her recently, but —
+
+Tim Ferriss: Don’t know the name.
+
+Chris Sacca: Kelly, you’re not in her demographic. She writes like middle-aged woman dealing with reality kind of stuff. I cry. It’s out of my realm. And so it’s like a way to touch base with people who aren’t like me, dealing with really human challenges.
+
+I try to read books about rabble-rousers. What was the John Perry Barlow book? Like American Night Wolf [ed. note: Mother American Night] or something like that. And I met him a couple times at TED, had no idea, but that guy was a crazy person.
+
+Tim, I really do think that a lot of the magic of life is in our unpredictability.
+
+There was this guy who, he’s an Estonian genius, but he went to a big poker tournament. I mean, there’s millions of dollars at stake, and he played very unpredictably in ways that traditional players could not read into him because no matter what they saw on his face, they didn’t know what that equated to. I mean, the guy would stay in on the two seven, which is an unplayable hand, but they’re like, “Fuck, wait, you weren’t representing the two seven.” And he smoked everyone. By the way, he had a big ass beard so they called him Gambledore, so good. But I think he cleared eight million bucks and then disappeared. Nobody fucking knows where he is.
+
+But the thing we haven’t talked about yet is AI. And I have strong feelings about it.
+
+Tim Ferriss: Let’s get into it.
+
+Chris Sacca: And I think the last fashion of humanity is going to be in the random, unpredictable messiness of humans. The rough fucking edges that make no sense. The things that feel like errors and bugs are actually the self-preservation aspects of who we are, that the things that make other people feel like they don’t compute, it’s all we’ve got fucking left.
+
+I mean, look, I don’t know what our kids are supposed to go to school for right now. I genuinely don’t. I saw our daughter Circle Luna, who’s fucking really smart and fun and amazing kid. She had to write an eight-page paper for science recently, and I loved watching her. I think writing is important, learning to organize your thoughts and advocate for yourself and cite your sources. But at the same time, I just typed the topic into ChatGPT and it was done in 15 seconds and it was better than her sixth grade shit. And so God bless sixth grade, but what the fuck? You’re not going to interview for a job with this shit.
+
+So what are we teaching the kids? I love our kids are in advanced math. They’re smart, they’re good at math, but I mean, come on. I literally —
+
+Tim Ferriss: Is that so they know how to get the crossbow trajectories right later?
+
+Chris Sacca: Pretty much, yeah. Yeah, they can shoot manual and firearms, but they can also whittle, start fires, make arrowheads. They can handle themselves. CC is 13 now, CC Eleven. And she asked me for some help with her math. And I looked at it and I was like, “Oh, God, I haven’t done this in 20 plus years. Holy shit.” Or probably 30 plus years actually. I was like, “Oh, my God.” So I took a picture with ChatGPT and was like, “Help me pretend I know what the fuck I’m doing with this.” I just took a picture of her homework. And it showed me the whole thing, walked me through it, and I was like, “Here, oh, yeah, I remember how to do this now.” And then like, “Oh, yeah, your answer’s right.” And I saved the day and I didn’t look like a total fucking idiot yet. But dude, would you send your kid right now to coding class?
+
+Tim Ferriss: I don’t think so. No.
+
+Chris Sacca: I think other than most computer science, the highest level of computer science, almost all of the rest of coding is fucking useless now. Right? I mean, you and I can go to ChatGPT and be like, “Hey, I want to build an app that does this, this, and this, and give me the code.” And it spits out the code. And then I’ve literally said, “Hey, by the way, I haven’t coded since BASIC. What do I do with this?” It’s like, “Oh, no problem. Go here, download this, open this Python thing, and then shove it in here and then do this.” And it just talks you through it. And now it’ll be agentic. An agent’s going to do all that for you. You just don’t need to fucking do it anymore.
+
+Would you send your kid to law school right now?
+
+Tim Ferriss: No, definitely not.
+
+Chris Sacca: Oh, dude, we have fewer lawyers at our firm now than we did a year ago. It’s just fucking great. And I can tell it, “Hey, you know what? Great job. Do it again. Do it again. Do it again. Hey, you know what? I forgot to tell you. We have all the leverage. Oh, in this case actually do this. Hey, add this. Hey, write out the exhibit A schedule of services, which usually takes a couple hours,” and like, dude, it’s just so fucking good.
+
+Would you teach your kid accounting, accounts receivable, accounts payable, bookkeeping right now?
+
+Tim Ferriss: So what would you teach your kids?
+
+Chris Sacca: Would you have your kids write marketing copy? Would you train them to write any news other than writing for the very top newspapers?
+
+Tim Ferriss: Yeah. No, probably not.
+
+Chris Sacca: Dude, go down the list of fucking skills, man.
+
+Tim Ferriss: So what’s left?
+
+Chris Sacca: Here’s my grand theory. We are super fucked. That’s your title card, Chris Sacca called it, we are super fucked, but spell it with two Os, by the way, S-O-O. But no, here’s the thing. I am not worried about the AGI thing. All these, I love all these ivory tower smart people. And by the way, I do get invited to the cabal meetings. It’s kind of funny. The Illuminati do meet, and I’m in the room with all the heads of those companies, and they’re brilliant. And the discussions are important discussions around bioweapons and about what happens when the machines realize that we are just incredibly inefficient users of resources and that they should just disassemble us and use our bits for other things.
+
+So, same guys who are working on how to preserve brains in boxes for infinity. I mean, a smart guy really likes that. He stops skiing and mountain biking because he knows that if we make it to 2035, we’ll be immortal. So he just doesn’t want to get hurt between now and then. There’s some wild shit happening. And I believe in it.
+
+Tim Ferriss: He knows. It’s a strong statement.
+
+Chris Sacca: I believe that AI is accelerating drug discovery. I mean, Crystal and I have been funding research into snake bites and anti-venom. Snake bites kill a fascinating number of people around the world every year. And anti-venom isn’t available. It usually has to be in cold storage, all this stuff. Some dudes, some guys and gals in a lab recently just had AI synthesized a bunch of anti-venom that’s shelf stable that can be distributed around the fucking world. And the AI came up with it. It’s crazy. They’ve already tested it on rodents and it works.
+
+The stuff that’s going to happen in drug discovery, the stuff that’s happening within fusion, within energy, within just clean tech overall, it’s all fucking fascinating. It’s all being accelerated by AI. There is nothing I am working on in technology right now that isn’t being accelerated by AI.
+
+Tim Ferriss: So you’re saying though, the ivory tower stuff, where do they miss the mark?
+
+Chris Sacca: The challenge is this, is that what most people do for a living is going away. So let’s look historically. We fucked with the blue collar working class in America. So we had this social contract. People came home from World War II and we said, “Hey, thank you for your service. You go work in a factory, and if you keep your head down and show up to work every day, you’ll have a house, picket fence, you can have a wife, raise some kids, get two weeks of vacation. You’ll have extra money to maybe buy a small boat or have a fishing cabin. You can go to DisneyWorld and you have a pension waiting for you on the other end of that.” Right?
+
+“Or you take the GI Bill, you can go to college and you can go into a profession and maybe your military time already got you started as a dentist or a doctor,” et cetera. We had this social contract, “Hey, if you do your part, we’ve got you. You’re part of this.”
+
+And then we started to fucking shatter that. And I saw it firsthand when I talked about where I grew up, where we started sending jobs overseas. We started busting the unions and people started losing that agency, that control over their own destiny. Their small businesses were eviscerated by outsourcing and by Walmart.
+
+And when you do that, you get a bunch of people who panic because the American social contract is that if you show up, you will get yours. And when you don’t give somebody that opportunity or you take it away from them and you take that ownership away from them and you take their house or you take their store and you take their farm, then you get the pitchforks.
+
+We saw this in the housing crisis of ’08, ’09. When all those people had that shit taken away from them, they were pissed off. Now, I would argue they pointed that ire in the wrong direction. So not to get political, but I think they vilified the wrong people. They vilified immigrants who had nothing to fucking do with it who were doing jobs that nobody else wanted to do. They vilified political leaders who were actually looking out for them, et cetera.
+
+But all that aside, we cannot let the politics of it keep us from missing what happened. We took all of that away from them and they got pissed. And politics in this country got more divisive, more extreme, violent in some cases, and all because — you know, Bob Marley, “A hungry man is an angry man.” But the reality of this is fucking true. When you take away agency from somebody, you back them into a corner. So now do that for all the fucking white collar employees, do that for everyone who stayed in and did their fucking homework and went to college and took out all those fucking student loans and who feel like they have played by the rules, they are the pride and joy of their families who actually got their degree, in some cases, a master’s degree, who saw their career path laid out for them, and now they see that their life’s work is obviated by a machine that’s just better than them this fucking fast and costs $20 a month.
+
+We had a writer work for us briefly who was like, “I feel like my career’s work is valuable for about 18 more months. And then that’s it.”
+
+Tim Ferriss: So Chris, let me jump in for a second. I have two, I guess, questions for you. One is related to a common refrain you might hear wandering the streets of San Francisco and you’ve spent plenty of time around tech folks so that you will know this, related to job displacement. And then the other one is, okay, so what does this look like five years from now? What might things look like? So those are the two questions just to plant the seeds.
+
+The first one is if I have this conversation around job displacement, and I’m on board with you because a lot of folks who are talking about job displacement in the abstract either have too much of a dog in the fight pro tech, so they feel like they can’t say anything anti-AI. So they’re shilling their bags, not to get too technical.
+
+Chris Sacca: No, you get canceled if you say this shit out loud.
+
+Tim Ferriss: Yeah, yeah, yeah.
+
+Chris Sacca: You literally get canceled by the technorati.
+
+Tim Ferriss: Or they don’t actually run businesses where you and I realize, and a lot of people are realizing this, but my team and I use AI dozens of times a day. And there are plenty of people we currently pay who are paid out of some feeling of gratitude or moral obligation, but AI could replace them tomorrow.
+
+So I’m already seeing the job displacement in the concrete, but a lot of these folks in tech might say, “Well, if you look back historically, there are all of these different technological developments and TV killed the radio star and on and on and on. And look at the car. Did it eliminate horses? No. And blah, blah, blah. All these people found other jobs. We’ve seen it a hundred times before. Why is this time any different?” So I’d love for you just to speak to that.
+
+Chris Sacca: Yeah. So first of all, the conflict is incredibly myopic. I actually like Vinod Khosla, but he gave a TED Talk where he talked about all the promise of AI, and then there was a slide this year where he’s like, “And so yeah, there’ll be some job losses, but we’ll just redistribute the wealth. Next slide.” And I was like, “Wait, wait, wait, wait, wait. When has any society ever successfully redistributed the wealth?” That just doesn’t fucking work.
+
+Tim Ferriss: What does he even mean by that?
+
+Chris Sacca: I don’t know. It’s just easy to think when you own OpenAI. I actually think Sam Altman cares. Sam’s an intense dude. I actually think he saw this coming and was trying to do some shit with Worldcoin and is trying to give the general populace and every human being a piece of the ownership of the chip clusters and stuff. It’s esoteric intellectual shit. But I actually think he’s not naive to this. And I’ve had conversations with him about it. I don’t think he’s myopic to it. I just don’t know if anyone has any answer. In the meantime the arms race is such that I sympathize, we can’t slow down or somebody else builds it and we are all super fucked.
+
+Tim Ferriss: Why is it different this time around?
+
+Chris Sacca: Because it’s so much faster. What humans suck at is understanding the slope of an exponential curve. Tim Urban told this story better than anybody else. He has the perfect fucking cartoon, one of his classic cartoon charts.
+
+Tim Ferriss: Yeah, Wait But Why.
+
+Chris Sacca: We literally put it in our investor update last year. Remember where humans want to estimate the rate of change by, if they’re standing on a curve on an exponential curve, they turn around and look backward and they estimate the future rate of change by looking at that. But if they were just to turn forward, they would realize their nose is pressed against the fucking curve ’cause it’s going vertical.
+
+Now, I can see this across the companies we’ve worked with in fusion. People used to say fusion just wasn’t possible. It’s 30 years off. Well, we’re fusing atoms every fucking day right now. And net energy is being achieved every fucking day right now. And data centers are signing power agreements with our fusion companies right now for hundreds of fucking megawatts coming onto the grid or behind the meter. Fusion is real. It’s fucking here. The government is doing it, our private companies are doing it. Period. End of fucking story. I’m not having that debate with anyone anymore. It was one of those perfect, “I’m not here to convince you, I’m just going to buy all the fucking fusion companies.”
+
+But AI is what made that possible. But anyone who’s naysaying it hasn’t actually been in the lab and seen how we go from 1 to 1.1 to 1.4 to fucking 11. And so that’s just the rate of change. And Tim is one of the best explainers of concepts in history.
+
+Tim Ferriss: Thank you.
+
+Chris Sacca: Yeah, exactly.
+
+Tim Ferriss: Tim Urban, everybody.
+
+Chris Sacca: It runs in the name.
+
+But what’s happening now is that cars, you know when cars originally came out in some places they were required to have someone walk in front of them. You know this? And so the first generation of cars were required to have a pedestrian escort to make sure they didn’t run into anything. Swear to fucking God. And so there was a long period of transition where generations could keep up and where there were still human exceptional abilities in which people could be retrained or the next generation could go ahead and repurpose themselves.
+
+I defy you to tell me what’s so human exceptional right now. We’re all so proud of ourselves, but what are we so fucking good at that the machines can’t do it? Here, I’ll confess a secret to you. So Crystal and I, with a good friend, recently wrote a screenplay. It was a comedy idea that Crystal and I had, and we’d been mulling on it. And we went to a really close friend who’s a very successful screenwriter to do the heavy lifting on it. I mean, he’s a writer’s writer. So in the credit world, we’re the story by, and he’s the writer. But we went to, shopped it around and a well-known dude wants to buy it and star in it, but he had comments on the third act. So we got the comments back and I had an idea for the third act, and I was like, “Okay, wait. I need to convince Crystal and this other guy of this idea I have for the third act.”
+
+I went to Claude and I just said, “Hey, help me build a little dialogue really quickly around this idea that this guy comes down and he sees her on his phone and then the monk comes out and he’s awkward, but he covers for her by making this noise.” And I was like, “And make it funny as shit. It’s lighthearted.” “It’s in the style of Judd Apatow,” I think I told it. Judd’s not a buyer. I’m not trying to, but it was that kind of style of comedy. And it fucking banged it out.
+
+And I sent that to my collaborators and those exact lines won’t be used, but I was like, “That’s a funny fucking scene.” That wasn’t a science report. That was a funny fucking scene of comedy that I conceived of, but Claude made it fucking funny. And I sent it to my collaborators and like, “Oh, dude, yes, that, bang.” And I’m like, “Fuck, man.” I consider myself a writer, right? You read my writing. My writing doesn’t go public.
+
+Tim Ferriss: Yeah, you’re a very skilled writer. You’re a very good writer.
+
+Chris Sacca: But that’s what I do. I write things that raise billions of dollars and we just don’t give it to anybody but the people who we work with. But dude, it’s fucking good.
+
+We did a thing where we fed ChatGPT everything I’ve ever written, and we have a lower carbon voice bot, and it knows exactly where to drop the F-bombs and exactly where to use the cowboy phrases. It’s really fucking good, man. I’m going to be extinct soon.
+
+Tim Ferriss: Okay. So what do you think things look like five years, three or five years from now? Could be a year from now —
+
+Chris Sacca: By the way, thank you.
+
+Tim Ferriss: I mean, things are moving so quickly. That’s not too far away.
+
+Chris Sacca: Thank you. You’re the only person who talks about it like I do in single digit years. It’s single digit years.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: I love when people come to us and like, “2050.” I’m like, “Fuck you, 2050.” You’re embarrassing yourself if you’re talking about 2050 right now. Are you shitting me? Let’s not even talk about geo instability and all the fucking weirdness. And what’s going to happen when our country is run by some non-serious people. Just like, shit is fucking chaotic right now.
+
+Let’s just talk about what really happens when we start in a year or two or three seeing massive job losses because you just don’t fucking need those people. I mean, Tim, you were one of the first people to be like, “Hey, here’s a way to outsource your life. Here’s a way to use tools to have more control and more leverage over what you do and allow yourself to focus on the things that are specifically like your value-add, your expertise, and not waste your time on the other bullshit.” You kicked off a wave. Sometimes I blame you for it, right? I’m like, “I can’t get some kids to work more than six hours a week.” No, I’m just kidding.
+
+But you have always been a systems thinker about what are these tools we can use? Well, now, dude, I use these tools all day long, all fucking day long. And now they’re integrated into your email and they’re integrated into your spreadsheets and they’re integrated into everything we do. And now I can tell people’s pitch emails are coming from them, and right now I can sniff out which ones are written by them, but the next generation I won’t. And they’re solving problems.
+
+And if you read Tyler Cowen, who I read every day, he’s having debates with 01, right? And I consider Tyler Cowen indispensable. I consider Noahpinion actually indispensable reading every fucking day. I would never go through my day without reading him. I try to read everything D.K. Thompson writes every day. Well, I mean, he doesn’t write every single day. And then [inaudible] and some of these other people who are really paying, Ethan Mollick, if you’re really paying attention. I don’t know what we’re particularly good at. I just don’t know anymore.
+
+I mean, our daughter, our middle daughter Circa is a really talented singer and theater person. And she at age 11 is aware of this and is like, “Hey Mom, Dad, will Broadway still exist?” And like, “I think so. I think humans still want to crave, will crave being around people.”
+
+Tim Ferriss: I think Broadway will exist.
+
+Chris Sacca: Yeah, I think people want to be in the presence of other people.
+
+Tim Ferriss: I think being a film actress or actor is going to be a much dicier proposition.
+
+Chris Sacca: My brother, who you know has been really successful in Hollywood, is currently rolling up residential real estate in climate havens because he’s just like, “Okay, I’m a writer. That’s kind of getting all fucked up. I’m an actor. I could just sell some scans of my funny face and they’ll write good jokes for me to deliver.” And he’s like, “So what do I do now?” You know?
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: And that’s just the fucking hard reality of it. And I’m literally not trying to poo-poo it because it’s also the most beautiful thing that’s happened. And I use these tools all day long, and they’re companions. And all these stories about the great things they can do for you, they’re absolutely beautiful, but they are going to shred the social fabric. And I don’t think we’re ready for that. And so I don’t know what people do for a living. I would love for my kids to know how to use tools.
+
+Tim Ferriss: Massage therapists. They could be massage therapists.
+
+Chris Sacca: Dude, have you seen the massage robots yet? They don’t get carpal tunnel, man. A good massage therapist can only do so many in a day. It’s just unhealthy to do more. And so they don’t get carpal tunnel.
+
+Tim Ferriss: Like the warm, soothing hands of my iRobot.
+
+Chris Sacca: Have you seen that 01? Have you seen that 01 robot that like — I mean, any of these things. Even ChatGPT with the video or Google with the video now and stuff like that, where it goes through the room and remembers everything it saw. Tim, you get overwhelmed. If you’re paying attention, it’s overwhelming. And you know what’s inevitable.
+
+We’re in a really bad spot, man. And I just don’t think our government and our institutions, we don’t have a social safety net. We just aren’t set up for this. I feel lucky that my kids are in elementary and middle school and not in late high school or college right now because I don’t know what I would be telling them to do. Really good parents sent their kids to coding classes. Really good parents sent their kids to law school. Here I have started asking doctor friends, “If you had a biopsy, would you rather it be read by a human being or by an AI?” I’ve yet to have one say “By a human being.” Who do you want as your pathologist? By the way, this is the one thing where I start realizing, like, “Oh, my god, the nature of this question.” I was in a car with a driver the other day and one of those Waymo cars pulled in front of us. And I was like, “I can’t even talk about this right now, because it’s existential to what this guy does.” An immigrant from Ethiopia who came over and built his own book of business as a driver and is incredible, and here he is looking at a robot that displaces him. How do I even have that conversation?
+
+Tim Ferriss: All right. Let’s nibble on this a bit because you’ve clearly thought about it a lot. I’m pretty saturated with this as well. It seems like, with AI and/or robotics, a lot of the things that humans, including developers and computer scientists and so on, engineers, thought were going to be hard ended up being easy, and the things they thought were going to be easy ended up being hard. So, for instance, drafting legal documents turns out lickety-split, piece of cake. Maybe throwing a baseball and playing catch with someone, very, very difficult.
+
+Chris Sacca: Have you seen Mark Rober? Mark is a friend and a guy I deeply admire. Mark Rober makes incredible YouTube videos. Did you ever see the dartboard he made where it’s impossible to miss? So you throw a dart and he built a machine-learning dartboard that automatically moves, you hit a bull’s eye every time.
+
+Tim Ferriss: Okay, so just play along with me for a second. There are things people assumed would take forever that were done very quickly, and the opposite, right? So I’m wondering, if you had to place bets, like you’re a better, you’re an investor.
+
+Chris Sacca: I’ve been known to dabble.
+
+Tim Ferriss: You’ve been known to dabble. So if you had to place bets on sectors or things that are going to either be slow to change or that will actually become more valuable over time, a handful of years ago, this was when a lot of these gears, at least from the mainstream public awareness perspective, were just getting going. I was like, “Yeah, I think there’ll be basically a free trade, ethically sourced stamp of ‘human made’ on things that will, for certain things, develop some type of premium connotation that seems inevitable,” those types of watermarking and things like that, even for digital products, which then we’ve already seen.
+
+So if you had to bet, you’re, “All right, sorry, buddy, we’re taking this Lowercarbon Capital thing off your hands. We’ve heard you complaining about the 70-hour work weeks. We found a robot who we think can do the admin and the annual shareholder letters as well as you can.” Now, you’re just going to bet on stuff that’s going to last or that’s going to increase in value because it’ll be slow to be affected by AI or it will be largely immune. What would you bet on?
+
+Chris Sacca: First of all, I’m betting on the Bills on the money line to beat the Ravens this weekend. And so I love that they’re playing at home. But going in as underdogs, night game, that stadium is going to be nuts. The Ravens won’t be able to hear anything. Lamar Jackson wears a turtleneck in Miami. He’s going to freeze his ass off. We’ve got this game. So sorry. Go, Bills.
+
+And so I would be betting on sports. I swear to God, I hate the head injuries in football. I really do. But on the other hand, there’s just something so primal about the gladiator that goes on in football. And when I see it bring entire communities together, particularly a beat up community like Buffalo that’s taken some lumps, I adore it.
+
+And it’s funny, we’ve never raised our kids to be jocks, but I really find kinship talking to them about sports and playing sports with them and watching them develop as athletes. Yes, I do believe we could obviously build machines that pitch better than any human that’s walked the Earth, but I do think, sports, not the all-drug Olympics, but just human sports, there will be a true analog primal attraction to those contests. It’s just one of the last real things. And so I think there’s something really truly there.
+
+Tim, I spend a lot of time in Japan, like you do. And there’s something so alluring about making pottery about the wabi-sabi, the imperfection, about the craft of studying one thing, the soul that goes into a piece of sushi, the calligraphy, the ceremony, the big nights out and cocktail bars, by the way, where there’s one piece of fruit. I am absolutely addicted to that culture. But it’s that same craving for analog. And it’s funny, because growing up, that was a place I thought of as where all the coolest new cameras came from, but it’s craving for that analog again.
+
+Tim Ferriss: And they’ve been culturally ahead of the curve with that for, probably, at least, I would say, 15 to 20 years in terms of going very retro to things that are considered outdated or analog, which is fascinating.
+
+Chris Sacca: You mean the LP bars and stuff like that? Yeah.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: But, Tim, let’s be honest, they better start having sex real soon or they’re going to disappear. And the Koreans, the reproductive rate in Korea, Korea is just going to close up shop, I’m fucking worried. I don’t know what to do about this shit. Everyone needs to start fucking.
+
+Tim Ferriss: The government tried to put, I think it was $250 billion in South Korea, towards trying to promote procreating. Didn’t work at all, zero effect. And there are actually a lot of weird reasons for that that are not immediately obvious. I think you have to put up a six to 12-month security deposit for an apartment, so people can’t afford the space. But people are also just not having sex or not procreating, which are not automatically the same thing.
+
+Chris Sacca: No, we’re societally fucked, dude, if people don’t start fucking and having more kids. And I’m putting that on you, Tim. Where are the little TimTimmies?
+
+Tim Ferriss: It’s on the docket.
+
+Chris Sacca: The distinction of that, yeah, you can’t conflate having sex and having children, but let’s get on it, okay? That’s your homework. So, the schools here in Bozeman aren’t the most academically competitive, right?
+
+Tim Ferriss: Mm-hmm.
+
+Chris Sacca: They do a pretty good job. The elementary school is actually really special. But it’s funny, when we talk to our kids about what went on at school today, orchestra is offered five days a week. And so math and science alternate every other day. English and social studies alternate. But orchestra is every single day. Choir is every single day. And so when we talk to the kids about school, they talk to us about music and PE class and lunch. And so it’s interesting. We’ll pry information out of them about the other classes. And again, they’re not the most challenging or riveting classes, so maybe that’s part of it.
+
+But there’s something happening in getting back to the arts. We went to one of their orchestra concerts the other night, and boy, there were some kids out of tune. And boy, the middle school orchestra was a little like, “eh.” And there was some squeakiness. But I was just like, “Crystal, this is not on Spotify. This is fucking amazing. You know what I mean? What’s happening here is amazing. This is human as fuck.” And two sections of the orchestra are not paying attention to the lady who’s been conducting for 30 years being like, “Can you see my fucking hand? It’s just doing like this. Get on that beat.” It was beautifully human, you know.
+
+And the same way that the awkwardness, we constantly talk to our kids about, middle school is about the awkwardness. It’s about the asking someone to the dance or being asked to the dance. It’s about all these fucking kids who stink a little bit and sweating or look gangly in their fucking clothes. And by the way, I love now being an adult and seeing who the alphas are considered. Like, “That’s the fucking alpha kid in your class? I worry that he couldn’t wrestle his way out of a wet paper bag, but that’s the attractive kid? Hilarious.”
+
+But back when you’re in middle school, you can self-identity. You’re like, “Oh, my god, that’s the fucking kid, that guy, Ray. Ray’s got to get any girl he wants.” But I just love seeing it now through that lens. I just think we have to embrace the messiness of our humanity, and it goes back to that new project we’re working on.
+
+Tim Ferriss: Yeah. So not to make it super crass and we’re going to get to that project, but because I think this is just a honing function and you’re so good at it in so many ways, how would you bet on that humanness, that imperfection, that awkwardness, that wabi-sabi?
+
+Chris Sacca: Like, my financial bet?
+
+Tim Ferriss: Yeah, yeah, exactly. Outside of sports, I think, is very on point. I would agree with that completely.
+
+Chris Sacca: Yeah. I think most people are still going to be hermits, but a large number of people are going to crave the opportunity to be together, still. Crystal and I have been looking at places.
+
+Tim Ferriss: Ketamine bars?
+
+Chris Sacca: Yeah, pretty much. But no. But it’s funny, we were looking to buy some space recently, some beat-up warehouse space, and it took a long time to help our real estate agent understand that there wasn’t a specific purpose for it. And he’s like, “Well, what’s the business plan?” We’re like, “No, no, no, no. When we see the space, we’ll know.” And he’s like, “Well, what are you hoping to do there?” And we’re like, “It’s office, it’s art space, it’s maybe we can make it available to the community. Maybe there’s some small performances there. Maybe there’s some wine or cafe there.” I was like, “We don’t really know. We’ll know when we see it, and the community will define the purpose of it.” But we’re like, “We just know that we need more convening places.”
+
+Tim Ferriss: He’s like, “I’m going to need a retainer for this.”
+
+Chris Sacca: Yeah. I’m like, “There’s no math to pencil out on it, but we just need more of those places to hang.” By the way, all right, free idea for any one of your audience. You know what needs to exist?
+
+Tim Ferriss: Tell me. Chuck E. Cheese for Gen X?
+
+Chris Sacca: If somebody starts this in a city that I will travel to, I want a landlocked yacht club that is also a mini golf country club. So, basically, it’s yacht rock themed. So, you show up, you’ve got to wear white shoes, maybe a captain’s hat. Umbrellas in the drinks, yacht rock band playing. It has the air of a country club. It’s accessible to everybody. Maybe a membership costs 10 bucks. You have to have a membership, by the way, to make it exclusive, a $10 membership. They have to apply at the door, give some references, answer some yacht rock trivia, whatever.
+
+But then it’s a country club for mini golf. The putt-putts have generally gone away. We need to bring mini golf back. And there’ll be mahogany lockers for your putter. And so you go in there and you have a really choice putter. You know, like in Caddyshack, “Billy, Billy, Billy, Billy, Billy.” And so you can talk to your golf club. But I really need someone to fucking do this. You can call it Yachtzis, you can call it whatever you want, but I need this to exist. I will be there.
+
+There’s a bar in Redondo Beach on the pier called Old Tony’s, or it’s called Tony’s on the Pier, but everyone refers to it as Old Tony’s. The inside has not changed in 50 years. And I would do anything to get it on the historic register of places to make sure it never changes, because that is the perfect place to convene. And I will ride down there, ride bikes with friends when I’m in L.A. and hang out at Old Tony’s on the pier and just feel like, “That’s what we crave, go there and talk about nothing. Just hang out.”
+
+And I think I would be betting on people want to get together and bullshit. I think our kids are the canary in the coal mine of what happens when everything went digital. It’s fucking exhausting, man. And being yelled at online is fucking exhausting. People are not accountable to each other. If anything, I could have told you how the result of this election was going to go, because most Americans are just fucking tired of it. They’re tired of being yelled at. They’re tired of being criticized. As Jonathan Haidt likes to put it, it’s no longer about the intentions of the speaker. It’s how the listener heard it. Fuck that. I’m so fucking sick of that. And I got reeled into it like everybody else. And it’s fucking exhausting. And everyone who thinks like that can fuck right off and go away.
+
+Because intentions have to fucking matter. We have to get back to it. And where intentions matter is when you’re hanging out in person. You can tell, “Hey, were you trying to be an asshole? Or did you just say the wrong thing?” My wife is half Asian. First time I brought her home to see my grandmother, she was like, “Oh, my god, Chris brought the most incredible Oriental girl home.” And now, was she trying to say, like, “Fuck you, why did you bring an Oriental girl into my home?” No, what she was trying to say is, like, “Oh, my god, this woman who I don’t know,” the more updated, less antiquated term for a woman from Asia is — I think we need to call each other in more than call each other out, right? And so you can just be like, “Grandma,” as Walter in The Big Lebowski says, “Chinaman is no longer the preferred nomenclature.”
+
+And so, honestly, I feel like we could get to a point where, as a culture, we want to hang out in person again. We want to be around each other. I know my neighbors where I live, my physical neighbors, more than I ever did in San Francisco. I lived in a building and I did not know the people around me. Everywhere I’ve lived since then, I actually know my neighbors. And I don’t think we vote the same all the time. Sometimes we do, sometimes we don’t. But I know I can count on them. I know I can have a relationship with them. I know we always find common ground. And we’re part of a community and we’re accountable to each other. And it’s fucking great to have a community. And so I would be betting on communities again.
+
+Tim Ferriss: There’s a big New York Times piece about running clubs and chess clubs and these in real life clubs with recurring events beginning to displace dating apps, as an example. Because people are just tired. People are just exhausted by having yet another inbox and with 99 percent ghost rate, et cetera.
+
+Chris Sacca: People at those chess clubs need to start fucking or we’re going to go away as humanity But no, I’m with you, man. Crystal and I didn’t go to Montana State University, but it’s right here in town. And so we started going to the football games there and would consider ourselves super fans now. I wear blue and yellow overalls to the games. It’s ridiculous. And by the way, I’ve sent you these clips before.
+
+Tim Ferriss: You sent me the photos, yeah.
+
+Chris Sacca: The start of the game is Metallica starts playing, fire torches, cannons, a band is on stage, then horses, the rodeo team rides in with American flags. And then there’s a flyover of military planes or helicopters. I’m like, “America, this is what it’s all about.” But I really enjoy that we have a fucking community here. And I really enjoy who we hang out with.
+
+And I think I would be betting on community. I would be betting on neighbors. And I don’t think the whole trend is going in that direction. I think the addiction to these phones is taking us another place. The availability of food to eat by yourself and great TV and great apps and feeds. The first time I installed TikTok, Tim, was during the pandemic. And I was like, “Oh, this is cool. Check out those dance moves.” Next thing I knew, I looked up and the sun had come up. I had been up all fucking night long on this app. It was like fucking crack cocaine injected into my veins.
+
+I realized whatever genes, some ethnicities don’t have to tolerate alcohol, I don’t have that for fucking TikTok. So I can only imagine what it’s doing to the masses right now. And I hope we come up with a GLP-1 agonist that blocks the pleasure center for TikTok. But I would be doing anything I can for profit or nonprofit to enhance community in hangouts.
+
+Tim Ferriss: All right. So you’ve got all your knowledge that you have now. You do not have all your connections, but you have the know-how. And you are somewhere between 20 and 30 years old and you’re going to start a business. What type of business might you start?
+
+Chris Sacca: Tim, what do you want me to say? I genuinely don’t know.
+
+Tim Ferriss: CrossFit gyms?
+
+Chris Sacca: CrossFit gyms are community. They’re great. I was standing at one last night. I told you, I texted you last night.
+
+Tim Ferriss: You did. You did.
+
+Chris Sacca: I was like, “If you want to make friends in a CrossFit gym in Montana, just drop that you are pals with Tim Ferriss.” Shark Tank only goes so far in that gym. Once you say you’re friends with Tim Ferriss, like, holy shit. But CrossFit gyms, first of all, I like the ethos of CrossFit. It’s how I work out. You can just fucking tell. Can’t you, Tim? But those are community.
+
+One of the things we’ve enjoyed doing is going to towns, I can’t remember which sites are doing this anymore, and finding somebody who will guide you on a local bar crawl, and just like, “Hey, take me to all the fucking dive bars or all the tiki bars, or take me to three farmers markets, or just take me to three things I want to see.” And it’s not the traditional art historian who just recites everything about Titian. And I said that one just for you. I could have said Velázquez, but I said Titian, just for you.
+
+Tim Ferriss: Thank you. Know thy audience. Know thy audience.
+
+Chris Sacca: Yeah. But people who are like, “Hey, come here and enjoy this analog experience with me. Let’s go to these places.” You asked why we go to Copenhagen, because Copenhagen is bikes, man. You get on bikes, you make it up. It’s freewheeling. But we started with Renee, but then we met a lot of other people who had spun off from Renee’s world, entrepreneurs and food and other stuff, and artisans and people who take food and service. Riccardo Marcon, who runs Barabba, Barabba is — well, Action Bronson called it the best Italian restaurant in the world. And it’s in Copenhagen. You start wars with that kind of shit. But there’s an argument that the best Italian restaurant in the world is in Copenhagen, run by our buddy, Riccardo. But Riccardo is the height of analog experiences. It starts with the hug at the door.
+
+Tim Ferriss: So would you start staging in his restaurant? What would your move be?
+
+Chris Sacca: The kids have, our children have. They’ve made plenty of pasta in that place. I think Europe is onto something with the art of the slow drink in the plaza. I really think humans still want to have a slow drink in a plaza somewhere. I hope. I hope. And I know we’re not drinking as much alcohol. But I mean, I love those athletics, by the way. You realize that 80 percent of drinking a beer is just like you wanted the 12-ounce curl part. It’s just like, “Today sucked. Give me an athletic.” And you’re like, “I don’t actually want to get fucked up right now, but there’s just something I need to cap this day. I need to say work is over.” And so, sorry, that was my Limoncello. I guess that’s a bad stand-in for athletic.
+
+We do have alcohol investments. I wouldn’t be betting on alcohol long-term. But I think people still want to just hang out, the ritual of ordering a drink, ordering a light bite, hanging out, people watching. We need central places to hang. This movement during COVID of shutting down streets, making a bike but also just café and outdoor seating-friendly, we need more of that. Humans crave that shit. That’s what I would be betting on right now.
+
+And then interactive guiding. Yes, I’ve used ChatGPT to be like, “Hey, what’s the off-the-beaten-path I should do in Berlin?” And it’s really good at it. But you know what else is cool? Is talking to a fucking punk kid in Berlin who’s like, “Let me take you to a couple places, and I know this fucking guy, and he’ll let you in. And he has a craft cocktail. And do you know what the tradition is here? Here, you spit. You put gum on the back of some marks, and you throw them up on the ceiling.” And so I want more of that shit. I think there is going to be a backlash to all this.
+
+Tim Ferriss: To all this, meaning the machines and AI and so on.
+
+Chris Sacca: The machines. And that’s the thing.
+
+Tim Ferriss: The Butlerian Jihad?
+
+Chris Sacca: Yes. Before they kill us, I think we’ve got bigger fish to fry, before AGI. And we might be at AGI right now, anyway, by the way. But before the bioweapon disassemblers, I think we’ve got to worry about the human part.
+
+Tim Ferriss: Being entertained to death by your curated feed.
+
+Chris Sacca: Yeah. Okay. So remember when we talked about Buckminster Fuller and I Seem to Be a Verb?
+
+Tim Ferriss: Yes.
+
+Chris Sacca: There’s another book designed by the same designer, Quentin Fiore, called The Medium is the Massage, not the message, the massage.
+
+Tim Ferriss: Okay.
+
+Chris Sacca: The background on that, it was originally a typo, but they went with it. It’s Marshall McLuhan. And that book, holy shit. Sorry if we just broke the market for it. That book, yeah, you should front-run that. Go buy all those copies.
+
+Tim Ferriss: Yeah, I’ll front-run it.
+
+Chris Sacca: But that book, again, is one of these old ones. It’s beautiful, by the way, because Quentin designed it. But it’s just beautiful foresight as to what’s happening, not just entertaining yourself to death, but what happens when information supplants humanity. And so when that access, it’s just, I mean, the book’s got to be 50 years old, at least.
+
+Tim Ferriss: Yeah, it’s an oldie. All right. So, outside of the Butlerian Jihad, we haven’t talked at all about Lowercarbon Capital, or very little. You have invested in a whole plethora of different companies through Lowercarbon Capital. You may not want to answer this, but are there any, in particular, could be a sector, could be individual companies, that you are particularly excited about, where it’s like, “Okay…” these are a handful, could be a sector, it doesn’t have to be an individual company. And this is a way of asking, what would you bet on outside of all the AI concerns and so on? And maybe these are AI-enabled, in fact.
+
+Chris Sacca: Yeah, okay. So, let’s just say what we do at Lowercarbon. We are venture capitalists and a team of scientists and business builders. And we back companies that are making real money by, either slashing CO2 emissions or sucking carbon out of the sky or buying us time to unfuck the planet. I think this one even says it, unfuck the planet.
+
+Tim Ferriss: Yeah, look at that.
+
+Chris Sacca: Trademarked in a lot of countries. Hard to do, by the way. It’s hard to get swears trademarked in some places. China, not huge fans of F-bombs, turns out. But it was mission-driven for me. But we had this thesis that, most climate investing and green investing, whatever you want to fucking call it, however they’re branding it these days, had been basically charitable, concessionary. Some trade-offs, some sacrifice, couldn’t be done on a for-profit basis.
+
+And that was true for a long time. You needed regulatory support, you needed subsidy, you needed legal change, you needed philanthropy. But we started to actually see the math change to where the unit economics of making shit in climate, making shit clean, were starting to pay off. And so the cost was coming down, thanks to compute, machine learning, AI. Thanks to readily available feedstock, bioreactors, you name it.
+
+And then the demand was starting to increase on the other side, because companies are realizing like, “Oh, if I do this stuff, not only is it just good for the planet, but it’s just fucking cheaper. It’s safer. It’s more resilient. It’s easier to use. It tends to blow up less than shit made with oil and gas.” Because it just turns out that digging up and burning old dinosaur bones is fucking expensive. And so using the sun to power the economy is just fucking cheaper. And that’s not a political statement.
+
+And what’s funny is, when I talk to guys from West Texas, like hardcore oil and gas, I’ll admit, I have to start the conversation by talking about the truck I drive. I have to quote some Kenny Chesney lyrics. I ask, “What’s in season?” What are they hunting? Talk about whatever trophies are behind them. And I have to establish a common peace. But then we start talking about, “Hey, how are the cattle doing? What are yields like? How many are you running right now? Where do they weigh?” You get some size. “How’s the growing season? How many harvests are you getting?” You get some size. “What’s hunting been like? You know how many tags you get — you’re able to fill all those tags? You bagging anything good?”
+
+Then you start talking about, “How are jobs going? How are people doing there?” Then you start asking, “So, you guys get any of the shakes? You get the daily seismic activity? What’s water like?” And before you know it, you have just talked all of the reality of a fucked climate without ever mentioning the word one time.
+
+And it doesn’t have to be fucking political at all. It’s just the reality. The California fires are so fucked up. But the reality is they’re actually going to be an accelerator for the work we do. Because now, a lot of climate stuff is like, “Well, if I eat this shitty mushroom burger, then maybe fewer people will be subjected to floods in Mongolia.” It’s really fucking abstract, right?
+
+And we think maybe there’s 300 million people on the planet who actually try and do that math and are willing to spend more money to buy something more expensive or who are willing to actually sacrifice deeply in their life with that kind of end-to-end relationship in mind. But seven and a half billion people don’t have that luxury. Or just, it’s really fucking taxing and exhausting to think about that all the time. I don’t want to, every time I sit down and bite into a delicious burger, have to be confronted by the existential crisis I’m feeling. I love when that juice drips down. You’re like, “Oh, fuck, this is fucking delicious. Medium rare, let’s go.” And so, “This grass-fed awesomeness, oh, shit. You left a little of that fat in there. Yeah, let’s go. What’d you marinate this in? Oh, so it’s delicious. We were meant to eat that shit, right?” And I don’t want to have to constantly be like, “I’m a horrible person. I’m a horrible person,” and eat it through my tears. It’s like, “The burger of shame.”
+
+And so it’s not who we are. And you know what? The fucking activists made us feel so bad about it for so fucking long. The soup throwers, these people throwing soup on paintings. How the fuck are you helping anything? The people who glue themselves to the floor of the US Open and stop traffic. How are you helping anything? All you’re doing is radicalizing people against the stuff that we’re doing that is practically unfucking their businesses, their communities.
+
+If you really want to put some blame on some people about what happened in the L.A. fires, if we’re really just playing the blame game, and did you see the article, by the way, it’s a bunch of Russian disinfo accounts that’s really flooding the tweets with trying to blame different people and stuff. It’s fucked up. So Russia just knows where to fucking pick the scabs with us.
+
+But if you want to blame somebody, it’s the fucking environmentalists. It’s the fucking Sierra Club who makes it impossible for anyone to actually do any defensible space to mow anything down, to do any controlled burns, to actually create defensible space around our fucking communities. It’s the fucking NIMBYs who won’t let anyone actually use appropriate materials in building a fucking house.
+
+Did you see? They are expediting the rebuild of any houses in those areas that burned down, but you can’t make any fucking changes to them. So we just saw a bunch of tinderboxes go up, and it’s a great opportunity to be like, “Hey, maybe we should build in some different shit. Maybe we should build in some different shapes. Maybe we shouldn’t have ventilation that sucks everything up into the roof structure. Maybe we shouldn’t use the cheapest wood available, which is how Americans build shit. Maybe we should have more concrete, more aluminum, more heat reflection, more concrete walls around stuff, maybe, just fucking maybe, maybe we should use more shrubbery around it that actually absorbs more water and is less flammable.” But no. Expedited permitting, if you build the exact same fucking thing you just had. Otherwise, you go back to the end of the line. How fucking defeating is that? But it’s just so funny to be a climate investor and find myself constantly at odds with the goddamn environmentalists. I am sure they have a fucking target on me. But that’s the reality, is right now for the first time I think we are going to draw the linkage between what happens if we don’t deal with these problems and the direct damage they cause in the short term.
+
+Tim Ferriss: And so if you look at your portfolio, yeah, just not to lose track of that, you can feel free to punt it for a bit, but I’m wondering if you’re like, okay, the things that I’m most excited about, moving the needle in ways that you care about, what those technologies or sectors or companies would be.
+
+Chris Sacca: There’s things that are going to transform at scale that fusion, just clean, abundant power that is almost free is single digit years away, so that’s fucking great. I don’t even bother fighting with the oil and gas people, it doesn’t fucking matter. In fact, I actually want them to work with us more on carbon capture and sequester, putting more carbon back into the ground. Because they’ve got the trucks and they’ve got the pipes and they’ve got the engineering know-how, and they’re great at it. And so we do a lot of work with oil and gas companies going in reverse. So I don’t have political battles with those guys.
+
+And again, that’s something that the activists hate about me. I will fucking sit with these people. Chris Wright, our new energy secretary, I consider him a reasonable person. He grew up in the oil and gas business. If we didn’t have the oil and gas business we would not enjoy the economy we enjoy today. Everything in that room you’re sitting in right now was made possible by oil and gas. We can’t just fucking pretend, otherwise we’d be living that primitive life that I know you’ve got in some of your survivalist books somewhere. But without oil and gas, we’re fucked.
+
+It’s my job to give you a better alternative, and I enjoy when the big oil majors come to us. Sometimes they’ll try to do a business deal or even buy us. We had one of the big oil majors tried to buy Lowercarbon Capital. We’re not for sale. But we said, “Bring your engineering team to meet with our engineering team and let’s get some shit done together.” I love that.
+
+We have a company called Solugen that makes chemicals using enzymes instead of oil as the main ingredient. And so they’re zero emission chemicals, industrial chemicals. Do you know who buys those chemicals? The oil and gas industry. And so one of the big chemicals they make is hydrogen peroxide at industrial scale, which is an important component of the oil and gas industry. When that buyer comes to Solugen to buy that stuff, they ask two questions, “Is it hydrogen peroxide, and is it cheaper? Well then fuck it, I’ll buy it.” And it’s just fun. I like to envision that guy with a dip in and a cowboy hat, “Well, fuck it, I’ll buy it.”
+
+But literally, that’s my favorite fucking buyer. Someone who buys the cleaner thing out of self-interest. And so that’s what we’re seeing across all of this stuff. Now, in the short term, you want to talk about fires. We have a company called BurnBot that is literally an autonomous drone that goes into the wild urban interface, mows shit down, starts a controlled burn, burns a defensible space.
+
+Tim Ferriss: When you say defensible space, you just mean basically a —
+
+Chris Sacca: A fire line.
+
+Tim Ferriss: Right, a fire line.
+
+Chris Sacca: Yeah, so a space where there is a gap where it would be hard even in high winds for fire to jump that, where at least firefighters know to start here and work backwards. By the way, if you have good fire lines, you can just start a fire to go back in the other direction. You’d be like, “Well, this wasn’t our preferred thing, but if we’ve got a big fire coming at us, we may as well start a fire to head back at it.” So you can look this up, BurnBot, it’s fucking awesome. And private landowners don’t have a problem usually running BurnBot, but where it needs to run is on a lot of public land, and they’ll just get sued. And so somebody will be like, “Hey, we need to do some fuel reduction here, some fuel management. And fuel management, I looked at some data recently. It takes between four and seven years for those projects to get out of litigation.
+
+Tim Ferriss: By fuel management, you mean actual timber or undergrowth, is that what you mean by fuel?
+
+Chris Sacca: So before we were all walking around the United States, what is now the United States, there used to be a bunch of fires, just naturally caused fires. Lightning stuff would happen. The indigenous people who inhabited this land knew about the power of those fires. And what would happen is when fires occurred on a regular basis, they were actually very healthy for those ecosystems. We know that there are certain conifers, pines, that only release their seeds in the event of a fire. They literally do not release their seeds otherwise. And so fire is a vitally important part of a forest ecosystem. To have healthy nature, you have to have fire.
+
+A bunch of very well-intentioned greens and environmentalists came along and said, “Holy shit, fire. It releases a bunch of into the sky, it gets close to human beings, some deer will fucking die. We need to stop fire.” And look, all this shit in hindsight, I’m not blaming those people. Because in hindsight I don’t think they knew this, I think they were trying to do the right thing. But what happened was they started putting out fires immediately. We had all those massive fire towers. Those are fun to spend a night in, by the way, if you want to camp out in an old fire tower.
+
+So we had all these fire towers, they would see a fire, they would immediately put it out. What happens when that happens is all this fuel grows. So all this undergrowth starts to grow and grow and grow, and before you know it, when the next fire starts, there’s so much fuel there that instead of cleaning it out and letting some little pine cones drop, and creating more space for the next layer of growth and for animal habitat, instead it burns so fucking hot that the biggest trees all burn down and the microbial layer all burns, and now you’ve got fucking sand.
+
+And so what we started to realize was that all those years of fire suppression were the worst form of fire management. In doing so, they actually hurt the nature they were intended to help. Even if there were no houses nearby, you have to let fires burn out. And if it’s in a place where you can’t just let that happen randomly, you have to actively manage fuels as if nature was doing it for you. And so managing fuels means, in a scrub rush area it means you just go in and you chop and burn the fucking grass, you just have to do it. And so you have to build that defensible space and you have to let some of these spaces renew. In forests, it means you have to limb stuff, you have to take the dead stuff, you have to limb stuff and then you have to set it on fire.
+
+And you do these, and it’s a really, really important part of forestry management. We know that now, and the US Forest Service knows this. Those are hardworking, amazing fucking people, but the environmentalists sue to stop them all the fucking time. And that’s killing people right now. There’s just no doubt about it. I am hopeful. A silver lining, because I’m going to talk about politics, but a silver lining is I think we’re going to cut through some of that shit right now. I think we are headed into an era of pragmatism, of putting literally the forest before the trees and starting to actually proactively get ahead of that stuff.
+
+By the way, it’s the same shit with floods, it’s the same shit with drought. It’s the same shit with famine. We have just been stopped from taking proactive measures, so a company like BurnBot. A company like Gridware, Gridware actually is monitoring equipment on every single power line, tower by tower. Do you know right now if there is a power failure on a PG&E transmission line, do you know how they figure out where that power failure was?
+
+Tim Ferriss: No.
+
+Chris Sacca: They just start driving along and looking up and trying to figure it out, or they helicopter down the whole line. They have no data that comes off those fucking lines. And at this point, well, it’s not my words, somebody else said, “At this point, PG&E is essentially the biggest arsonist in California.” And so they are responsible for utilities, electrical utilities are responsible for 11 percent of the fire ignitions in the state of California and 50 percent of the damage. And so you have these tools like Gridware that can just be tower by tower monitoring, know where there’s interruption. You can immediately go there and see, okay, where was the tree that fell? Where is the spark? You can suppress that fire in a place where you don’t want to have fire or you don’t — haven’t controlled for it.
+
+But there hasn’t been an incentive for those companies to pay that. PG&E is already bankrupted, they haven’t been on the hook for that. But now we’ve got insurance companies, multiple insurance companies are going to go bankrupt right now. And so is California’s FAIR Plan, which is the insurer of last resort, does not have the money it needs to pay for what just happened. We have a company called Stand, which is a fire insurance company that actually assesses the real risk of insuring your home. And so instead of State Farm just pulling out of the fucking state, by the way, I don’t think you watch a lot of football, but the L.A. Rams couldn’t play their game in L.A. because of the fires. So their playoff game, they moved it to Arizona. And they played in State Farm Arena. I couldn’t even believe they didn’t just put duct tape over the fucking logos, the most fucked up irony ever.
+
+But so instead of having an insurance company pull out of an entire state, a company like Stand looks at house by house by house, and says, “Here is your modeled risk, and here are the other things that you can proactively do to reduce that risk to where we will actually write you an insurance policy.” And we have companies like Floodbase that do that same thing for floods, and look at here’s the risk. Remember, 100-year storms happen every year now, we can’t just model these on historical data anymore. As Jon Stewart put it the other night, “What just happened in L.A. is like if a fire fucked a tornado.”
+
+You can’t just model for that anymore. You have to assume the worst, and assume like, okay, what do we do in terms of space management? What do we do in terms of materials? What do we do in terms of suppression? What do we do in terms of response? What do we do in terms of adaptation and resiliency in the face of all that? And so I think there are so many opportunities to be better at that stuff right now. And I am hopeful that the silver lining of a tragedy like this is the cause and the effect are so close and finally appeal so much to self-interest, they finally appeal to that linkage between instead of just like, “Hey, if a butterfly flaps its wings far away.” And you’re like, “Oh, if that bush fucking lights on fire over there, that’s it.”
+
+You and I have a buddy who went to go look at the wreckage of his home and his fireproof safe was a puddle, it was fucking a puddle. It’s just so devastating. I’m hopeful, I actually feel a second wind in our work, and so do the people I work with right now. I feel like it’s always been mission-driven, but we’re also unapologetically capitalist. It’s great, it’s making a lot of money right now. But I feel like right now makes the stakes of it even clearer. And I know there’ll be a bunch of fucking people yelling at each other about what went wrong in L.A., but here’s the funniest thing, the phone is ringing off the hook right now from people not in L.A., who are like, “That can never happen here, what do we do?” And I love that.
+
+Tim Ferriss: No Permanent Record, you want to talk about it. It’s a story. What’s happening? Why now?
+
+Chris Sacca: I don’t know what to tell a 20-something to do right now other than to be a fucking sherps or a guide, or build some in-person analog experience. But I do know that there is this cultural hole where these young people today haven’t been given the chance to fuck up. They just can’t. Did you ever TP a house, Tim?
+
+Tim Ferriss: No, but I had my house TPed.
+
+Chris Sacca: Okay.
+
+Tim Ferriss: I had to deal with it.
+
+Chris Sacca: It’s annoying as fuck.
+
+Tim Ferriss: I did plenty of other stuff that got me in trouble, but no TP.
+
+Chris Sacca: Nobody gets to do that anymore because they’re on a Ring camera, man. Nobody gets to egg anything. And to go back to Mark Rober, he’s the one who built that fucking glitter fart bomb package.
+
+Tim Ferriss: When my one close friend finally got his license, or it was probably a driver’s permit, we shouldn’t have even been out because I was a townie on Eastern Long Island. And we had a lot of tension with the city people, as we would call it. So we would drive around, and I had a wrist rocket, a slingshot, and we just bought a huge bag of grapes and just went around, not shooting at people, but we’d shoot at things next to the people. And I’m not proud of that. We didn’t hurt anybody, but we got in a lot of trouble. We got in a good amount of trouble.
+
+Chris Sacca: I think we got in lots of trouble, but I think we have a generation of kids who didn’t get a chance to get into any trouble. And I’m starting to believe more and more that trouble is actually one of those things that informs all the other things that we do. Did you ever talk somebody into getting you beer?
+
+Tim Ferriss: I talked somebody into getting me, it wasn’t really for a party, some hard liquor. It wasn’t beer, I went straight to the hard stuff.
+
+Chris Sacca: Yeah, okay. Let me ask you a question. Did you ever have a party with your parents’ liquor and then pour a little bit of water back in the vodka to make it look like the level went back up?
+
+Tim Ferriss: No, I didn’t because my parents are hoarders and the house wouldn’t have worked, but I saw that done. I did plenty of other stuff too. There’s no real victim, I remember for instance, my elementary school, same friend who drove me around with the grapes and the slingshot. He was the tallest kid in the class, also very smart, equally open to maybe deviant behavior. And at the elementary school there was this huge wall where kids would just whack tennis balls back and forth, like racquetball, but Long Island style. And nobody knew what they were doing, so they would hit all the tennis balls up onto the roof eventually.
+
+This was like ’80s, right? There were all these amazingly cheesy ninja movies, and there was the, I think it was called The Asian World of Martial Arts Catalog, which shipped completely dangerous grappling hooks and stuff from Philadelphia, I think it was. And so I had some kind of ninja tooling, and we figured out a way with rope to get up on the school and then use garbage bags to temporarily steal all of the tennis balls. And it turned into, for this small school, it was quite the scandal at the time. There was a manhunt. And then we returned the tennis balls at some point and all sins were forgiven, or at least they called off the hounds. But stuff like that.
+
+Chris Sacca: Yes, this is what I’m talking about. I feel like the statute of limitations is expired for most of these things, but they are formative. Hawkeye actually, previously referenced Hawkeye, had a music store —
+
+Tim Ferriss: I remember.
+
+Chris Sacca: — in Park City, Utah, where I was a resident, and we were in business together.
+
+Tim Ferriss: What were you in business doing?
+
+Chris Sacca: We had a few flim-flams, but so one of the things we did was, first of all, we had to build some community. So one of the things we did was we would sell you the Britney Spears album, but you had to sign your name and address posted at the front desk. Almost like a sex offender registry, but it was like a Britney buyer registry. That offends one out of 10 people, but it builds community with 99 out of 100 people. But one of the things we would do to make a little bit of extra cash is well, we had a buddy who was the postman. And so he would come into the store and he would say, “Hey, there’s all these people signed up for that Columbia House shit and then they move away,” Park City was like a town full of transients, and he’d be like, “So I get all these fucking CDs, are they worth anything?”
+
+And so we scanned the UPC symbols, and we’re like, “Oh, my God, they’re the same UPC symbols as the retail ones.” So we would do a little trade, like, “Hey, pick out something from the store and give us a bunch of those Christina Aguileras,” and that helped us stock fewer CDs. But then we figured out you could take them to Walmart and return them. So if we really needed drinking money, we would return 25 Limp Bizkit CDs to Walmart, and they’d be like, “What is this shit?” And you’d be like, “Oh, everyone at my birthday party thought it’d be so funny to buy me a fucking Limp Bizkit CD.” And then you remember, CDs weren’t cheap, so you do these things, 20 or 25 at a time, you’re like, “I’m rich, motherfucker, let’s go.”
+
+And so we also did a thing where it was around the time that Napster started, and we realized music stores weren’t for long. And so we did this thing where it was a restocking fee, but we would let kids buy a CD, take it home, rip it, presumably, I don’t know what they were doing in the privacy of their own home. But if they returned the CD the next day, we would charge them a $3.50 cent restocking fee. So essentially what we were doing is reselling the same CD over and over again, keeping our margin. I’m sure the record company wouldn’t have loved it, but it was a very customer-friendly policy. But that’s what it took to keep a music store afloat in 2000, 2001 in Park City.
+
+Tim Ferriss: So what’s the format of No Permanent Record?
+
+Chris Sacca: I don’t know, Tim.
+
+Tim Ferriss: Well, what are you going to do?
+
+Chris Sacca: I’m starting out conversations with successful people where they talk about the small crimes and misdemeanors they committed, the parties they threw, the lies they told to their parents, the clubs they talked their way into, the fake IDs they made, everything along the way. The papers that they plagiarized, just everything they did and how that actually built some sense of humanity, resilience, the shit they got themselves into and the shit they got themselves out of. And if it ends up just being the last archeological record of what it was like when we were humans still, when we weren’t judged at every fucking moment. And I actually just feel like culturally it’s the right time, because you do this two years ago and everyone’s like, “Fuck you, you privileged assholes.” And I’m like, “We’re over. We’re past privileged assholes.” We’re just like, “Hey, that’s kind of fucking amazing. You chalked IDs.”
+
+And what I found is as I tell more of these stories of without a fake ID in college you had nowhere to go, so you needed one. So we would either make them by doing some shit with some cool overlay contact paper, or we would find some fucking guy down in the deep city where you’d stand in front of a goddamn chalkboard of a huge ass driver’s license and pretend you were McLovin. We would do all kinds of things. When there was room to still cut some corners, take some liberties.
+
+Tim Ferriss: Let me reciprocate for a second. So I thought getting a fake idea would be a great idea. I don’t know how old I was, it was like 14 or something. And my buddy and I, same guy who was part of the other two fiascos, we decided to take a bus from Eastern Long Island, like three hours out, to go into the city. Now, this isn’t post-Giuliani, post-Bloomberg, friendly New York City with biking lanes through Times Square. This is a much grittier New York City. So we get there to go on this adventure, and literally within hours, we are both conned and mugged. And within hours of getting there, our first time in New York City basically, and then no cell phones.
+
+So we get separated, these two guys separate us to scam us, then proceed to steal all our shit. Then we get separated. Then I go to the police station and I’m like, “My buddy, he might be dead.” And they’re like, “Where is he dead?” And I’m like, “This intersection.” And they’re like, “Yeah, that’s not our jurisdiction, pal. Good luck.” And I was like, “What?” First interaction with asking police for help, I’m like, oh, that didn’t work out as I thought it would. And then had to take the buses home, each of us thinking the other was dead. And that was a real growth experience, it was a learning opportunity.
+
+Chris Sacca: I love it.
+
+Tim Ferriss: Not wrecking it and people do the most reckless shit imaginable.
+
+Chris Sacca: No, but maybe. But maybe. The planet’s never been safer, well, America’s never been safer. There are definitely places I wouldn’t want to hang out right now. Dude, God, what is that guy’s name? I once went to a casino in Vegas, I was broke. It was with my buddies. We were staying at the Sundowner, we split a room four ways. It was a trade, actually, I think somebody owed us money at the record store and so we traded out. He had a buddy, we got a room at the Sundowner. Rest in Peace, Sundowner.
+
+So by the way, at one point while we were staying in that room, we had two queen beds, four guys. And my buddy nudges me and I’m like, “What, dude? What?” We’d been out all night, probably two in the afternoon, and he nudges me, he’s like, “Bro, look. Look.” I’m like, “What?” He’s like, “Look.” And I look down at the foot of the bed, at the foot of the bed is a 12 to 14-year-old Southeast Asian kid standing there staring at us.
+
+Tim Ferriss: What?
+
+Chris Sacca: He looked as scared as I did. And we were just like, “Is he here for our kidneys? What is he fucking doing? Oh, my God.” And we were frozen. And my buddy was not small. But we were just absolutely frozen, like, what is happening here? And eventually the kid ran out, and we called down and apparently he had a key card that also worked in our door and went into the wrong room. There was some innocent explanation for it. Yeah, sure, we still think he was maybe there for some organs, but either way.
+
+That night we’re out, and God, what was this guy’s fucking name? But we find ourselves at Harrah’s, and a buddy says, “Hey, let’s go get our shoes shined, what do you say?” So we go over to the shoe shine, and we’re there and there’s a fucking pimp over there, full on Player’s Ball situation. And he’s got suede Hush Puppies on, so there’s no reason he should be at the fucking shoe shine. But we start talking to this guy, I’m embarrassed I can’t remember his name. I’ve got to ask my buddy immediately after wrapping this. But we start talking shit, and I consider myself pretty good at ro-sham-bo, rock, paper, scissors. I consider myself above average. It’s a talent I’ve honed over time, and it’s not a game of luck, it is a game of skill.
+
+And so I challenge this guy to a little ro-sham-bo. And I remember the stakes were, “If I win, we get to hang out with you tonight.” And so I beat the guy in ro-sham-bo, that wasn’t even a question. So I thought this would be fucking great, what an ethnography, we get to go hang out with this fucking pimp. But we found ourselves in some fucking hot water that night, this is pre The Hangover movie. We were in a couple situations. Those were formative experiences. I feel like kids these days haven’t been in danger. They haven’t been in situations like, “How the fuck do we get out of this one?” They haven’t regretted anything. They haven’t bullshitted their way in or out. I feel like no one’s gotten a chance to sell anything. Almost everyone I know who’s been a successful entrepreneur sold something.
+
+Tim Ferriss: Oh, yeah, for sure.
+
+Chris Sacca: Whether it was candy in school or door to door, or they sold something. And sometimes that just meant they worked in a Foot Locker or they worked in a RadioShack, or they worked in a computer store and sold software. But almost all of them know how to sell something. And I feel like the insight of that comes from sales. But a lot of those sales were shady, like how do you mark it up? How do you sell those? I remember we had a cable guy in Washington, D.C. Named Lucky.
+
+Tim Ferriss: It’s the guy who would trick out your box, the black box.
+
+Chris Sacca: Yes, and then he came back and stole everything in our house. We didn’t realize that Lucky’s assistant was casing everything.
+
+Tim Ferriss: It was lucky for Lucky.
+
+Chris Sacca: Yes. I need more stories like that in my life. If we really are going down in flames, I want to record for posterity all the banged up shit we did that informed who we were. And after hanging out with high school buddies this weekend, I was just reminded of how important that is, the bonds that come from that. And you and I have a mutual buddy, I won’t say because I don’t know if he’s said this out loud. But he and his wife, their 11th-grade daughter came home buzzed a month ago. And she was trying to sneak up and they were like, “”Have you been drinking?” And she’s like, “Uh…” He couldn’t help himself, but the words that came out of his mouth were like, “Thank God.” And she’s like, “What?” And the mom was like, “Oh, whew, what a relief.”
+
+And the girl was so, “What are you talking about?” They were like, “We just thought you’d never do it. We thought you’d never fucking try it. It was such a mindfuck. But I just worry. Crystal, my wife, whose GPA was 0.02 points higher than mine in the same academic program at Georgetown, but Crystal would get all her schoolwork done and then go rave, and I mean the hardcore D.C. And Baltimore rave scene rave. And would just get out there and be like, “I’ve been in some situations. I’ve been in some rooms where I’m like, holy fuck, we better get out of here before shit gets out or before the cops show up.”
+
+But even in high school, she lived on a compound. She would crush her academics and then she would literally crawl out of the window, sneak past the embassy compound guards, get in a cab at midnight, and go party with their friends in Delhi. And then sneak her way back onto an American Embassy compound without Marines noticing her. That’s fucking rad. That’s part of what makes Crystal so fucking awesome right now. And I need to memorialize these things for the benefit of humanity before we’re all obviated, like these kids who have these incredible GPAs and this test taking, I think it might be useless. I think they might’ve optimized for useless skills.
+
+And I think the only thing that might keep us going is that randomness, that unpredictability, those flaws, those fuck ups, the things that make us banged up, the things where we make bad decisions where we’re self-indulgent.
+
+I’m lucky that I have all daughters, but when they invite boys over to the house, I watch boys make bad decisions repeatedly. And at first I was like, “Wait, why is the patriarchy a thing when I watched them be so fucking stupid and take so many dumb risks?” I’m like, “Of course you were going to get hurt when you jumped off that thing, what in your head thought you weren’t going to?” Of course that was going to break.
+
+And then I start realizing, you know why we have a fucking patriarchy? Because that randomness is something that no one knows how to count on.
+
+I’ve had to teach our team the number one thing you can be in this business is unpredictable. Feed into the fact, I am known as mercurial, I burn bridges. I will not hesitate to fucking fight you. I wear the stupid shirts. I don’t give a shit about much. I’ve been known to just light it on fire. And guess what? People take me seriously as a result.
+
+I haven’t backed down from all those fucking character flaws I have that are very self-destructive, but I am all gas, no fucking brakes, as you know. Although in our line we call it no gas, no brakes. We need to cultivate more of that if we have any hope as a fucking species, we just need to, I’m sorry.
+
+That’s where I drop the fucking mic. So that’s No Permanent Record. Tim Ferriss, you are going to be one of the very first guests, and we’re going to go deep into all your high jinks, all your fucking skeletons.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: No felonies. The main rule is no felonies.
+
+Tim Ferriss: No felonies. Yeah, no felonies, I’m clear there.
+
+Chris Sacca: If you have murdered, I worry.
+
+Tim Ferriss: Oh, that time.
+
+Chris Sacca: Yeah, it was justifiable homicide.
+
+Tim Ferriss: Mass graves. What a mistake.
+
+Chris Sacca: Yeah, it was justifiable homicide.
+
+Tim Ferriss: Should have used more lye.
+
+Chris Sacca: No, high jinks, high jinks. Flim-flams, like bamboozling.
+
+Tim Ferriss: High jinks and flim-flams.
+
+Chris Sacca: No.
+
+Tim Ferriss: That’s got to be in your intro when you’re like, “Welcome to No Permanent Record.”
+
+Chris Sacca: We’ll razzle-dazzle.
+
+Tim Ferriss: where the flim-flams bamboozling has a home.
+
+Chris Sacca: Yes. Do you know any card tricks?
+
+Tim Ferriss: I used to know quite a few card tricks. I’ve let that atrophy, so I don’t anymore.
+
+Chris Sacca: Our kids are good at card tricks, it’s important. And I have rigged decks and stuff. I think it’s important to know how to do some fucking magic tricks, because magic is storytelling. It is the seat, it is understanding to look for the angles. I love that. I love when kids know riddles. I love when they have bar bets that are impossible. I think everyone should be able to tell a good joke. I’m back to my syllabus of how to fucking survive. It’s not just the survivalist of what’s in your go bag and how to handle a 30-round mag and how to dress your own meat and shit. It’s like, how do you actually tell a story? How do you make somebody who has no reason to like you, like you?
+
+Tim Ferriss: Well, maybe the semester finale for your seminar is, people have to get up and do a two to five-minute comedy set or something like that. That’s the final exam.
+
+Chris Sacca: In front of a bunch of people in MAGA hats. I’m going to find the worst fucking hecklers.
+
+Tim Ferriss: Or whatever your nightmare audience is. It could be a bunch of ultra-lefts, libs, or whatever.
+
+Chris Sacca: You model who’s actually on stage. You’re like, “Here we go. These are not your people.” I mean, that’s one of the things is, right now we all get to choose who we hang out with. The Internet has allowed us to hang out with people who are just like us, and nobody hangs out with people who aren’t like them anymore.
+
+Tim Ferriss: Which, by the way is, Even if you want to hang out with people who are unlike you by virtue of the customized feed and algorithmically tailored servings, it’s very hard, even if you try. And if you do try and you’re like, “I want to take a sampling of this.” I mean, we’re in one group’s thread in particular, where I take great pleasure in fucking up people’s feeds because I’ll send, whatever, a video of some gorgeous chick doing squats that are very suggestive, and that’s her entire account on Instagram. Before you know it, you send that to somebody and you’ve just dropped a cherry bomb into their algorithm and then that’s 90 percent of what they see. So it’s very hard to actually live in multiple worlds, you are going to get painted into a corner because that’s how advertising is sold against you.
+
+Chris Sacca: Yeah, but in the real, that’s happening, and that’s why I am hopeful for the resurgence of the rest of America. Steve Case was on The Rise of the Rest and JD Vance, bless him and his weird path, but he was onto that early too. 82 percent of the money from the IRA, the big Biden climate bill, went to red districts. It’s the green little secret. There are more clean energy jobs in Texas than there are oil and gas jobs. The Republicans’ green little secret. But that’s just the reality because it’s good fucking business. And if you want to work with good people who know the tools, who know the engineering, that’s where they are. They’re in the heartland. And I really do hope we are going to see the resurgence of some of those communities, because for me, raising kids in a community like that is going back in time, where we know our neighbors, we know our kids are safe. I love hearing the stories of my kids’ friends who work for a living. They do really incredible shit.
+
+By the way, it’s funny how few people know anything about me. I got invited to do a Shark Tank panel judging for kids like elementary school, entrepreneurial business plan class. They were just fucking around. They had product ideas. And one of the kids walked in and was like, “Oh, my God, you’ve got a real shark.” And the superintendent and the principal who put the whole thing together were like, “What are you talking about?” And they’re like, he’s a shark from Shark Tank. And they’re like, “Oh, we just needed some dads. We only had moms volunteer, so we sent out a note for dads.” I thought it was specifically targeted to me. Nobody had any fucking idea. So it was amazing. Like, I’m in camouflage here. I go out in a t-shirt and glasses instead of a cowboy shirt and no glasses and I’m camouflage, I love it.
+
+Tim Ferriss: All right, Christoph, we’re coming in on just over three hours now.
+
+Chris Sacca: Tim, I’ve got to just say something though, bro.
+
+Tim Ferriss: Yeah?
+
+Chris Sacca: I’m worried about you.
+
+Tim Ferriss: You’re worried about me?
+
+Chris Sacca: Yeah, I’m worried about this podcast. There’s been no toxic masculinity. We didn’t talk about testosterone and where it’s been. There’s very little hatred and there was just very little incendiary content. I didn’t hear any conspiracy theories, no pseudoscience, no political opportunism. I mean, this whole focus on —
+
+Tim Ferriss: Leaving a lot on the table.
+
+Chris Sacca: Let’s get some valuable and actionable content, inspiration for young people. And people are like, what is this shit? You should be baiting outrage, contriving virality, man. I mean, do we even know how to podcast, bro?
+
+Tim Ferriss: I know. You know, I sometimes want to do the same thing. And you will notice, this is the first time I’ve had — it only took me almost 800 episodes to get a reasonably professional-looking mic setup —
+
+Chris Sacca: Look at that. I hope whatever those labels are, are sponsoring you.
+
+Tim Ferriss: You can’t take them off, which is hilarious and smart of them.
+
+Chris Sacca: By the way, I can’t believe you didn’t ask me for a book list. You ready? Book list. You didn’t ask me.
+
+Tim Ferriss: Well, I did for your syllabus, but you dodged and gave me poetry.
+
+Chris Sacca: Okay. Anxious Generation and Coddling of the American Mind and Generations by Jean Twenge, who works with Jonathan Haidt, informed me more about our generation as well as how to work with other people. There’s no agenda to that book, but it’s powerful. The Coming Wave by Suleyman, I think, does the most even-handed job of assessing the future of AI, particularly by someone in the business. End of the World is Just the Beginning. Do you know that guy, Peter?
+
+Tim Ferriss: No.
+
+Chris Sacca: He’s a fucking maniac. I think it’s just provocative. He also does these really fun little YouTube updates from hikes in Boulder or something like that.
+
+Tim Ferriss: End of the World is Just the Beginning?
+
+Chris Sacca: Just the Beginning.
+
+Tim Ferriss: What’s his name? It starts with a Z, his last name.
+
+Chris Sacca: Peter Zeihan. I love Van Neistat’s book Report on the Fourth Turning. It’s just thought-provoking again. Homegrown, a book by Jeffrey Toobin about Tim McVeigh is, I think, a canary in a coal mine book. Tim McVeigh was from my hometown.
+
+His mom was our travel agent. His sister worked at Wendy’s. He bought his ammo at the same place where we bought our fishing supplies. But that book explains what happens when the factory closes down and people become radicalized and I encourage people to read it. The thing that people don’t know about Tim McVeigh is, he had a photographic memory. There were 671 boxes of evidence at his trial that were all him reciting every single person he’d ever spoken to, every meeting he had, he knew everything. So there’s no mystery about his story. Stolen Focus by Johann Hari. Do you know that one? Just amazing. I think it’s the best digital detox.
+
+Tim Ferriss: Stolen Focus. I have not read that one. I think he wrote Chasing the Ghost. I might be misquoting.
+
+Chris Sacca: [Four Thousand Weeks: Time Management] for Mortals is a great one.
+
+Tim Ferriss: Oh, Oliver Burkeman?
+
+Chris Sacca: Yeah. So good.
+
+Tim Ferriss: Yeah. He’s great.
+
+Chris Sacca: Psychology of Money, we mentioned. The best piece of fiction I’ve read recently is Rejection by Tony — I can’t say his last name, Tulathimutte. It’s amazing.
+
+Tim Ferriss: Wait, what was the name again?
+
+Chris Sacca: It’s called Rejection by Tony T.
+
+Tim Ferriss: Tony T. Tony Tulathimutte, something like that.
+
+Chris Sacca: Thank you. Yeah.
+
+Tim Ferriss: Wow, that’s a long one.
+
+Chris Sacca: That book, it’ll put some people out of their comfort zone, for sure. That guy has his finger on culture and linguistics more than anything I’ve read recently. I’ve shared that with other author friends who are like, “Fuck.”
+
+Tim Ferriss: Fiction?
+
+Chris Sacca: Yeah. Yeah, yeah, yeah.
+
+Tim Ferriss: Cool.
+
+Chris Sacca: The Every is great fiction. Did you listen to McConaughey’s autobiography, Greenlights?
+
+Tim Ferriss: I listened to some of it. I had him on the podcast years ago to talk about it, which was amazing. And I misquoted, just briefly, Johann Hari’s book, Chasing the Scream and Lost Connections. Lost Connections is the one I read in full, which I thought was great. That’s about isolation, loneliness and things to do about it in a modern world. I thought that was very well done. Stolen Focus is the one that you were talking about.
+
+Chris Sacca: Yeah. It’s so good, dude. It was given to us as a gift and it really changed our media diet for sure and our online diet. But I try and read everything Jon Ronson does and listen to it. By the way, I was just going to say, Matthew McConaughey’s audiobook. You can’t read it. You’ve got to listen to it.
+
+Tim Ferriss: Oh, no, no, you’ve got to listen to it.
+
+Chris Sacca: The Every, I love fucking Eggers, but The Every seems to be increasingly prophetic right now. Robin Sloan’s fiction, Moonbound and Penumbra are great. Did you watch Silo? Did you read the Wool series?
+
+Tim Ferriss: I’m going to admit that I haven’t. I do know Hugh and he’s amazing, but I have not yet delved into that because I know that I’ll want to consume all of it.
+
+Chris Sacca: I knew you guys knew each other from Arctic Adventure II and shit, and Iceland and shit.
+
+Tim Ferriss: Yeah. We’ve spent time in Japan and elsewhere. He was on the podcast a while back.
+
+Chris Sacca: I’m jealous.
+
+Tim Ferriss: He’s such an incredible experimentalist and innovator when it comes to publishing also. Really, really impressive.
+
+Chris Sacca: Yeah. He wrote those things and just threw them up there.
+
+Tim Ferriss: He is one of the most thoughtful, unafraid, lateral thinkers in writing and publishing that I’ve met. He’s a smart guy.
+
+Chris Sacca: I even read the Wool series after watching the first season of Silo. I fucking love it. I think it’s great. I think it’s prophetic and amazing. And then I mentioned Kelly Corrigan, I just think that’s grounding human shit. I think Kelly Corrigan, she has a podcast too, but I love her books, I think. Talking about relationships, kids, dying, but in a way that is just self-deprecating, real America. It’s just like an antidote, particularly for your tech-heavy, seriously online audience. I think that’s great. You want a kid’s book? It’s the Pirates! series. The Pirates! In an Adventure with Communists. The Pirates! In an Adventure with [Scientists]! Those books are so fucking good. You’ll laugh at them even as you read them to children. I tried to do my homework.
+
+Tim Ferriss: I know. I feel like you have more have on offer. You got anything else locked and loaded there?
+
+Chris Sacca: Yeah, my $100 purchase.
+
+Tim Ferriss: Yeah. What’s your $100 purchase?
+
+Chris Sacca: You know what are amazing? Have you ever written on stone paper, these notebooks by Karst?
+
+Tim Ferriss: I have not.
+
+Chris Sacca: It’s actually, it’s stone, and there’s no more enjoyable experience than writing on stone. So karststonepaper.com. I don’t own it or anything like that, but I highly recommend it.
+
+Tim Ferriss: Amazing. Is it just the hand feel? Is it just the actual tactile sensation of writing on it that you like?
+
+Chris Sacca: Oh, and how the pen moves across it. Oh. It’s sensual. Sensuous, sensual. It’s pretty special. Well, I’ll say two other things. One, Doladira, is my favorite booze right now.
+
+Tim Ferriss: What is that?
+
+Chris Sacca: It’s an all natural Campari and Aperol substitute with none of the bullshit in it. None of the fake dyes, just rhubarb.
+
+Tim Ferriss: What was it called, Dora the Explora? No.
+
+Chris Sacca: Doladira. D-O-L-A-D-I-R-A. You know who makes it? Richard Betts and Joe Marchese.
+
+Tim Ferriss: Oh, really? Awesome.
+
+Chris Sacca: Yeah, your homies. Yeah, the Komos tequila guys. Komos is the highest-rated tequila in the land right now. But okay, my number one purchase, under a hundred dollars that I stand by. I’ve cited it before, and it just happened again. I never show up at a party without mullet wigs. They change fucking everything. I was just at a New Year’s Eve party and I showed up with the mullet wigs and it just broke everyone to pieces. It was amazing. The most staid fucking guys. Dude, multiple guys were like, “Can I take this home because my wife thinks I’m hot in it?” And so mullet wigs change everything. Get some Dog the Bounty Hunter style ones. Get some ones with the built-in Willie Nelson, American flag bandana. Get some curly Bob Ross ones in there, just to shake it up a little bit. You can throw in a neo-punk white ’80s hair wig. But just fucking wigs. They next level everything. And I’m here 10 years later, Tim, to tell you that that still holds up.
+
+Tim Ferriss: Durable mullet wigs.
+
+Chris Sacca: Oh, God, yes. Next time, 10 years from now, we’ll talk about best playlists on Spotify that have been curated by AI and fed directly into our brain chips.
+
+Tim Ferriss: Okay, next time, right. Most commonly searched terms on Pornhub, next time.
+
+Chris Sacca: When my agent is talking to your agent. Ain’t nobody got time for this.
+
+Tim Ferriss: Oh, man.
+
+Chris Sacca: Bro, I miss you. I hope to see you in Texas really soon.
+
+Tim Ferriss: Miss you too, man. Yeah, well we are going to see each other in Texas.
+
+Chris Sacca: Hey, by the way, have you ever been to Wyoming?
+
+Tim Ferriss: There’s a great ranch for sale.
+
+Chris Sacca: It’s incredible. Five Ponds Ranch. It’s an incredible place. The fishing is abundant, the wildlife. It’s just a great lake. tricked out the barn. I used to work from there. Fun. You can host. It’s an event spot. I mean, if you really want to go and if you care about back country skiing, it’s great. Just in case.
+
+Tim Ferriss: Plop some Bitcoin mining servers in the barn. Worst case scenario, there’ll be a lot of good ventilation.
+
+Chris Sacca: Yes. You’re amazing. Thank you for doing this, dude. It’s been a long time.
+
+Tim Ferriss: Yeah, it has been a long time, man. It’s great to see you. Fam’s good?
+
+Chris Sacca: Family’s great. Tim, I need to get you on that train.
+
+Tim Ferriss: I know, I know. It’s not for lack of trying, although some of my audience have become very, very, very adamant and even aggressive with me about my lack of producing kids at this point. And I’m like, “Well look, why don’t you walk a mile in my shoes and then show me how easy it is. Let’s see what that looks like.”
+
+Chris Sacca: Yeah, but that’s the thing, dude, you just put on different shoes, and sometimes there’s a little bit of puke in them or something like that, or — okay, really quick story. You ready? It’s kid and shoe related, we have a good friend here who’s an OB GYN. She’s hilarious. I’m not going to give her name, but she’s a local and we love her to death and smart, hilarious. She was telling a story about how she’s an OB GYN, she got the page in the middle of the night, “You’ve got to go deliver the baby.” So she climbs out of bed, kisses her husband goodbye, throws on some Crocs, goes out to the hospital, and in the delivery, she stitches the gal up. There’s some blood, et cetera. And the nurse says, “Hey, let me clean up those Crocs for you.” And so she pulls the Crocs off and she holds them up both in front of the doctor. The nurse is holding them up and in front of the woman who just gave birth. And on them, you know those jewels, you can spell it out?”
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: It’s says, “Deez Nuts,” because they belonged to her 13-year-old son. She didn’t realize it as she was walking out of house, she walked out with the Deez Nuts Crocs on. Oh, that’s the most heartwarming shit.
+
+Tim Ferriss: That goes in your next screenplay, I think.
+
+Chris Sacca: Oh, my God, you can’t write like that. So anyway, Tim, people talk all these platitudes about it and stuff. And I’ll be honest, it wasn’t like the day — a lot of people talk about the magic that your kid comes out, like “My life changed forever.” I didn’t always feel that. I was like, “Oh, shit, I’ve got to do some shit and take care of Crystal and there’s two everywhere now and somebody’s crying and I haven’t slept in a while.” But as time goes on — our kids went to camp this summer and Crystal and I at first were like, “Hey, empty nesters, let’s party.” And we did. But at the same time we’re like, “Fuck, we miss our best friends, man.” We’ve got three incredible kids who are our besties.
+
+And I understand that mixed emotion of when the kids go off to college. I see this happening with a lot of our friends who had kids before we did, that both relief of like, “All right, we can go travel and shit like that now.” But on the other hand, it’s kind of lonely. These kids are fucking great. I love it. We really entertain each other and I’ve loved being on that journey with them. And so I really do hope we can get you on that program.
+
+Tim Ferriss: Oh, yeah. That’s the intention.
+
+Chris Sacca: Can I tell the quick story from that dinner party without mentioning the name of the person?
+
+Tim Ferriss: Yeah, sure. Okay.
+
+Chris Sacca: All right, so your audience needs to know this, Tim. So Crystal and I are hosting a dinner in New York City. We don’t get there that often, but we love to bring close friends together. Again, ruthless about the invites. No plus ones, we just know that if you’re coming to dinner, everyone’s going to be awesome so there’s no seating chart. We did seat you next to this person intentionally though. This is a famous actress who is single, I mean, absolute smoke show and within Tim’s league, and not entirely disinterested in Tim. Like, up for it, open to the concept. We kind of like tilled the soil. I wouldn’t say we planted the seed, but we tilled the soil and it was on the table, like household name.
+
+So we sit them next to each other, things are going great, and the meal’s wonderful, the wine is great, the conversation is stimulating. Tim is a great person to have at a dinner conversation. He can talk about anything. He’s genuinely interested in other people. He likes to ask questions, not because it’s for a podcast, but because he likes to learn from anybody, and he realizes that any single person you talk to has a story, give them a chance to tell it. So things are going really well and we’re starting to talk about meaningful shit. And at one point she says, “Hey, Tim, when do you feel most present?”
+
+Tim Ferriss: Now there’s one piece of information that’s missing here, which is her dietary preferences. Yeah.
+
+Chris Sacca: I didn’t know if that would make her too identifiable. But she’s vegan. She’s well known as vegan. Tim knows she’s vegan, animal rights type person, but not like rub it in your face vegan. There’s plenty of meat on the table. She’s fine with it all being there. But she goes, “Tim, when do you feel most present?” That’s how much you guys were vibing. That’s how well it was going.
+
+Tim Ferriss: Also, this is at a point in the meal where it’s sort of like a Jeffersonian situation. So there’s a lot of silence at this point.
+
+Chris Sacca: Yes, yes. We are all paying attention. That’s right. That’s right. It’s a small table. There’s 12 people at this table in tiny, tiny place. We’re at ZZ’s Clam Bar in New York. Tiny one-room spot, two-seat bar. But we’re at a table for 12 and we’re elbow to elbow eating incredible food. And there’s vibe, there’s energy there. And I mean, Tim’s a fucking magnet, right? And so she says, “Tim, when do you feel most present?” And Tim, what did you say? Without even having to inhale, without even having to take a breath.
+
+Tim Ferriss: I said, “When I’m having sex, doing psychedelics, or hunting.” Those were the three. And no sooner had the last syllable been uttered that Chris, who’s like eight feet away and has had a few drinks, just goes, “Oh, my God.” And puts his head in his hands.
+
+Chris Sacca: I had never seen a ticket go up in flames faster than that. That was the most combustible element in the universe at that moment, was your chance to be with that woman. That was fucking fascinating. She did raise her glass. For the record, she did raise her glass and cheers you —
+
+Tim Ferriss: Oh, no. She’s a great sport.
+
+Chris Sacca: — for your self-awareness, candor, and authenticity.
+
+Tim Ferriss: Yep. No, she was just a great sport.
+
+Chris Sacca: But any spark was immediately extinguished.
+
+Tim Ferriss: Yeah.
+
+Chris Sacca: Have you guys kept in touch? Have you kept in touch, or no?
+
+Tim Ferriss: We haven’t, but we weren’t really in touch beforehand. We had met before. She’s amazing. But I just don’t have it in me to succeed pretending to be someone I’m not. You know what I mean?
+
+Chris Sacca: Yeah.
+
+Tim Ferriss: I’d rather go up in flames.
+
+Chris Sacca: No, I mean, I deeply admire it, right? I’ve told you, my whole life’s mission is about how to be internally driven rather than externally driven. How to be more honest, more authentic, more candid. I told you I’m less patient because I’m trying to be me and you are exactly that. So I deeply admire it. But it was just so funny —
+
+Tim Ferriss: It was funny.
+
+Chris Sacca: — because in the blink of an eye, you said —
+
+Tim Ferriss: Also, because I didn’t even think about it. It came out instantaneously.
+
+Chris Sacca: You did not inhale. It was on your exhale of the breath you had already taken. But I love that your default — I say this to your audience. Your primal default was to say the real thing rather than the thing that this unbelievable woman would’ve wanted to hear. That’s fucking great, dude. That’s what makes you you.
+
+Tim Ferriss: Thanks. Yeah. So work in progress, but I’m not sitting on my hands. I know that family’s the next big adventure. So I’ll get there. I will get there. And it’s also, what’s been funny as I’ve dated, is 47 now, and the tone of the line of questioning for some women I’ve been on dates with is like, “What’s wrong with you? Why are you broken? What’s going on? You say you want a family, you’re 47.” And I’m like, “Well, two things. If I were 40, would you be saying this?” And they’re like, “No.” I’m like, “Okay. Well, I just, not so long ago, got out of an almost six-year relationship. So the intention was to have kids and it didn’t work out.” Things don’t work out. Better to figure that out before you have kids, I think, in a lot of cases. And then I was like, “Secondly, if I had been…” What I’ve found is that some women would be more comfortable if I had been married and divorced once or twice —
+
+Chris Sacca: Oh, my God.
+
+Tim Ferriss: — than having not done it. But they wouldn’t be asking that same question, which is interesting. And it’s like, okay, all right. So maybe the concern is like, “Ah, this guy is like Peter Pan, and for the rest of his life he doesn’t want to commit.” I’m like, “Well, I have two relationships that are longer than a lot of marriages.” So that doesn’t totally check out. But it’s fascinating. Modern dating. Jesus Christ, I mean…
+
+Chris Sacca: Well, Crystal and I would’ve been a disaster if we’d gotten together anytime in those 14 years I kept asking her out. I had a prior relationship, was divorced. I had a long-term relationship after that that didn’t work. If I hadn’t gone through that stuff, I would not have understood what it meant to have a healthy relationship, to have balance, to have intimacy, all those things that need to happen. I wouldn’t have known it. And you know what was a funny exercise, is we set up a really modest trust for our kids. Basically, so that the house is — you’d have to do that estate planning shit. And so it’s particularly not generous ’cause we think mostly money fucks kids up. But we had to sit and decide at what age they would have any discretion over it. And we were 36 at the time, and we said 36 because that was when we felt like we had finally gotten our shit together. And maybe now I’d set it at 45, I don’t know.
+
+But my dad is 78 years old, plays pickleball three times a week with 20-somethings. He always tells us about which guy is complaining. Like, “Oh, I can’t move like I could when I was 18.” He’s like, “Fuck you, I’m 78.” But I do think age is an attitude. I do think it’s mental. I don’t think that number actually matters, but I also don’t think everyone’s ready for it every time. But I can just say that having kids has just been a remarkable, remarkable chapter. Crystal, if she was your guest in your podcast, would tell you she never envisioned it for herself. She just did not think of herself as a mom and now she identifies as a creative and an author of New York Times bestsellers and a designer and an investor and an entrepreneur.
+
+But maybe at the top of that list is a mom. And maybe second after that is a youth sports coach. I mean, we had basketball practice at our house last night for the fourth grade team. I forget what they’re called. They have a new name. But it opens these new chapters of life that really remind you of the fundamental questions. Like, “Why the fuck are we here?” And I love going through the awkward middle school shit again. I love it. I love it. It’s therapy for me, man. All those times you were stuffed in a locker, Tim. You get to deal with it again. It’s amazing.
+
+Tim Ferriss: Yeah, that was relentless. Holy shit. It was just straight up Lord of the Flies. I mean, there were really few safeguards at that point.
+
+Chris Sacca: That’s one of the great things. The playground supervisor wears cowboy boots, has an eye patch, and a peg leg at the school here.
+
+Tim Ferriss: That’s incredible.
+
+Chris Sacca: I mean, everything is so fucking core in Montana. I love it. Everything is so, like, “Suck it up.” It’s just fucking fantastic. We need more of it, so, all right. Dude, I love you. I love you, I love you.
+
+Tim Ferriss: Yeah, I love you too, buddy. Yeah, I love you too, man. And give my best to the fam and I’m going to see you, yeah, not too long from now.
+
+Chris Sacca: I love all of you listeners who are going to visit fivepondsranch.com and explore your Wyoming fantasies. Maybe you build one of those crypto-based, distributed organizations to buy it. That’s fine, as long as it comes in US dollars. But this is the best place to shelter your gains. Just telling you. And to have a beautiful life in the outdoors.
+
+Tim Ferriss: Can’t wait for that.
+
+Chris Sacca: That’s fivepondsranch.com. Five, F-I-V-E, pondsranch.com. Thank you.
+
+Tim Ferriss: All right, everybody. You heard it here first. For $19.95, with five easy installments, you could test out the ranch for yourself. Maybe not for that price point, but we’ll see. And as always, we’ll link to things that were mentioned in the podcast, quite a few books.
+
+Chris Sacca: That’s a lot of things.
+
+Tim Ferriss: That’s a lot of things.
+
+Chris Sacca: God bless the AI that does that for you.
+
+Tim Ferriss: Yeah, tim.blog/podcast. You’ll be able to find it. Check out our first installment for Chris Sacca’s wonder years and early chapters.
+
+Chris Sacca: I also did that other episode where you had me read questions off of Reddit. That was fun too.
+
+Tim Ferriss: Oh, yes. Yeah, you did that.
+
+Chris Sacca: Remember, I didn’t have a soundproof room, so I had to put my head under a blanket —
+
+Tim Ferriss: Yes.
+
+Chris Sacca: — and talk to GarageBand.
+
+Tim Ferriss: So yeah, there is a solo episode as well.
+
+Chris Sacca: There’s an episode 1.5. Yeah.
+
+Tim Ferriss: Yeah. There’s a 1.5. And as always, folks, thanks for tuning in. Be a bit kinder than is necessary, to not just others, but yourself as well. Until next time, and thanks for tuning in.
+

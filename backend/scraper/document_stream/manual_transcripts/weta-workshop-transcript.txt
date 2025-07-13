@@ -1,0 +1,1082 @@
+Please enjoy this transcript of my interview with Richard Taylor and Greg Broadmore. Richard is a co-founder and the creative lead at Wētā Workshop, which he runs with his wife and fellow co-founder Tania Rodger. Wētā Workshop is a concept design studio and manufacturing facility that services the world’s creative and entertainment industries. Their practical and special effects have helped define the visual identities of some of the most recognizable franchises in film and television, including The Lord of the Rings, Planet of the Apes, Superman, Mad Max, Thor, M3gan, and Love, Death, and Robots.
+
+Greg is an artist and writer who has been part of the team at Wētā Workshop for more than 20 years. His design and special-effects credits include District 9, King Kong, Godzilla, The Adventures of Tintin, and Avatar, and he is the creator of the satirical, retro-sci-fi world of Dr. Grordbort’s. He is currently working on the graphic novel series One Path, set in a brutal prehistoric world where dinosaurs and cavewomen are locked in a grim battle for supremacy.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform.
+
+Tim Ferriss: It’s been maybe one to two years since we had a bite to eat and some drinks in Wellington. But here we are, and I’m looking at the backgrounds and our respective videos and I’m accustomed to having a pretty good background. I’ve got a huge bear behind me. I’ve got some plants and I have, without question, lost this background competition, if it were a competition. So Greg said, “But you have a bear.” And I said, “Yeah, but you have a Tyrannosaurus,” but it’s not a Tyrannosaurus. What do you have behind you, Greg? We’ll start there.
+
+Greg Broadmore: That’s an Albertosaurus. It was actually, Richard bought it as a prop for Kong. The idea is it’s a pit scene in Kong, and then we were supposed to put a bunch of bones in there like it’s a predator trap. And so Richard bought all these bones and that is one of the leftovers. And Richard very kindly gifted it to me. I had it painted up and put on a stand. It’s really my —
+
+Tim Ferriss: It’s gorgeous.
+
+Greg Broadmore: — proudest possession. I freaking love it.
+
+Tim Ferriss: And you have a wall of guitars in addition to that.
+
+Greg Broadmore: Oh, actually, and that is a dinosaur egg. A real one.
+
+Richard Taylor: The story behind that dinosaur egg, we don’t have time to go into, but we’ve got one each and it is one of the most bonkers stories of our lives, just how we acquired those dinosaur eggs. But we won’t go there today.
+
+Tim Ferriss: Well, that might be round two.
+
+Richard Taylor: That’s for a beer and a visit back to Wellington.
+
+Tim Ferriss: All right, deal. So Richard, I’ve been in your office briefly. I can see what’s in frame right now, but could you describe for folks and maybe show folks what you have around you?
+
+Richard Taylor: Yeah, I’m a big collector of garage kits. People that make beautiful sculptures in their bedrooms, cast them in their garages, package them up, and send them off to people like me. And I’ve been collecting for maybe going on 40 years now. I’d give you a quick tour of the office. I’ve got a Thunderbird 2 up there, and if I go around the office, you can see that there is just a near —
+
+Tim Ferriss: You have hundreds. You have seemingly hundreds of —
+
+Richard Taylor: Yeah, this is the white board where we do all our brainstorming at Wētā for new creative projects. And behind me is just even more. There’s my wonderful colleague, Ri, who will give you a wave and it carries on and on and on. In fact, there’s some of Greg’s work hanging up. How do I show you? There, those things hanging from the roof, those are Greg’s designs that I’ve turned into some collectibles or some sculptures. They’re not collectibles yet, but I love them. So I thought I’d make them as 3D sculptures. You just can’t have enough cool stuff around you. My favorite possession in my life, which my wife gave to me, so I stopped that rocking, is this beautiful sculpture here, which is by a guy called Gilbert Bayes, who was part of an art movement during the Victorian era. So this sits here as inspiration. And next to me is the Gremlin from Gremlins 2. I painted it up, but Steve Wang was the original painter of that. So just got to be surrounded by things that inspire you, I always think.
+
+Tim Ferriss: So let’s actually double-click on the inspiration. We could talk about, I guess it’s Harry and the Hendersons. I believe you have something like that also in your office if memory serves me.
+
+Richard Taylor: I’ve got a Harry above my head just up here, and I’ve got another great Harry over there. Rick Baker’s Harry is still my favorite animatronic character created for a movie. So yeah, you’ve got to have lots of Harry around you.
+
+Tim Ferriss: So if we look at inspiration, if we go way back. So we’re going to rewind the clock a little bit with you first, Richard. In terms of inspiration, how were you inspired to sculpt in the first place? I read somewhere, and you can’t believe everything you read on the internet, but that there was a wonderful book on Chinese sculpture that perhaps played a role, but how did the very early stages get moving for you with respect to sculpture?
+
+Richard Taylor: I grew up in rural New Zealand. My father was an aircraft engineer and my mother, a science teacher. That’s inspiration enough right there. I feel very lucky. But I wanted to do art, right? And my mum and dad really weren’t focused on that type of thing. So I had the great fortune of going to a closing down sale at my mother’s teacher’s training college, and I was able to buy two things, one of them being the triptych of The Garden of Earthly Delights by Hieronymus Bosch. This is in my early teens, possibly. And that was my first realization that, running in parallel to our world, is this visual fantasy world. Obviously I was reading fancy books, but I had not really comprehended, and because of the triptych, you go from Earth to Heaven and Hell. So this concept of running in parallel. But I also, this came into my possession.
+
+Tim Ferriss: What is the title of that right there?
+
+Richard Taylor: Well, this is in another language.
+
+Tim Ferriss: That’s Spanish, I guess.
+
+Richard Taylor: It’s called The Rent Collection Courtyard, right? I’ve got multiple copies of it now because I’ve been collecting them and friends in China have gifted me other copies. But it was a book of an unknown sculptor and an unknown land. It inspired me to start digging clay out of the creek on the back of the farm. I taught myself to sculpt. I started Wētā with my wife Tania. I used this book as inspiration to other sculptors, hung pictures around the walls, taught people out of the book, copied the sculptures in the book. So pretty influential.
+
+By coincidence, then jump forward 40 years, and Greg, Ri, and I are in Chengdu in the Sichuan province, raising money for the Sichuan Earthquake Relief Fund. And at random, we’ve been out doing a, hopefully, inspiration to a university that had lost people in the earthquake and running late back to have a meeting with the governor, pulled over to the side of the road. I think we ran across a four lane road to a random art studio. Went in, met the artist who owned the studio. He was sculpting a figure. He ran off, got his wife, brought back his portfolio, turned out to be the person that did the art in the book. So hugely inspirational to me.
+
+There’s obviously other inspirations. Ray Harryhausen’s work was very inspiring to me as I got into my later teens discovering I didn’t really discover the physical effects industry until I was in my teens. Unlike most people that do what I do that discovered it early in their lives. I just didn’t have access to cinema to enough of a degree. So that’s a very quick-potted overview of those two bits of inspiration. Yeah.
+
+Tim Ferriss: So the name, Ray Harryhausen, that is a stop-motion master. Am I getting that right?
+
+Richard Taylor: Yeah, yeah. I’m going to run away from my desk one more time and I’ll speak loud so you can hear me.
+
+Tim Ferriss: This is pretty —
+
+Richard Taylor: Because of course —
+
+Tim Ferriss: — signature Richard.
+
+Richard Taylor: A tribute sculpture to Ray Harryhausen in the form of — so that’s Ray. And that’s one of his characters. He’s got a library of extraordinary characters that he’s done on an amazing array of movies. Sinbad is probably his better known. But yeah, he was a stop animator. When we were very fortunate to collect the Oscars for our colleagues back home, I wanted to give them a present. Now, when we were 25, my wife and I made a, we went on our big OE to England and Europe. We got a combi —
+
+Tim Ferriss: What does OE stand for?
+
+Richard Taylor: A big overseas experience.
+
+Tim Ferriss: There we go.
+
+Richard Taylor: Right? And we got a combi van, like everyone did, and we drove it for 10,000 miles around Europe. But I pre-wrote to Ray and he didn’t know me and I didn’t know him, and I wrote to him and asked him if he would please allow us to come and say hello. We bought a bunch of flowers. We arrived an hour early. I gave the flowers to the housekeeper thinking it was his wife. He forgot we were coming. So he came down in his pajamas with his combover. But we ended up having this extraordinary day with him and Diana, his wife, and it lasted into the early evening and we just hit it off together. So once again, jumped forward to 10, 15 years, we’ve now made Lord of the Rings. We are very fortunate to win our first Oscars, and I wanted to give a lovely present to our crew, and you can throw a party or buy them all leather jackets, but I thought wouldn’t be great if they could get to meet someone that’s a hero to them that they would normally never get to meet.
+
+So I wrote to Ray and Diana and they came to New Zealand for two weeks and hung out in our workshop every day and just spent the two weeks with our team learning what they’re doing, telling stories. Ray put on a five-hour talk on the last night. His wife fell asleep on my shoulder as it went into the early hours of the morning. But so riveting was he, and so inspiring.
+
+When we were fortunate to win our second Oscars, I wrote to Dick Smith, the grandfather of makeup effects.
+
+And Dick Smith, I met, well, I met via letter writing in my late teens where I wrote to him and told him that I was sculpting in margarine. The first 300 commercial sculptures I did in the film industry were sculpted in margarine. So he forevermore used to call me the margarine guy. Sadly, Dick has now passed on, but he was one of the most inspiring, beautiful humans you could ever hope to meet. And through his educational program has inspired and educated a very large number of the world’s makeup effects people. And that concept of passing it on is something I’ve held firmly to as a company. No secret. Share everything that you are asked of. And we still get kids ring up in the evenings asking how to make blood, and I’m happy to tell them. So — fake blood, fake blood. Yeah.
+
+Tim Ferriss: Fake blood.
+
+Richard Taylor: I should have said that. Fake blood.
+
+Tim Ferriss: Not breeding vampires. I was going to ask you about margarine. Now, what I’m thinking —
+
+Richard Taylor: Of course you are.
+
+Tim Ferriss: — is this the butter substitute? Maybe you can tell me if that is one and the same, but could you also just tell the story of landing the job on Public Eye? Maybe this will paint a picture for people. And then why margarine?
+
+Richard Taylor: Okay, so it’s a very simple answer to that story. I was unaware of plasticine. Obviously, I played around with plasticine at school and I was using crude clay that I had mushed in my hands, but it was not possible to do the type of sculpting I was needing to do in those two mediums because you couldn’t buy plasticine in large quantities, et cetera. My wife got a job working as a hotel duty manager at the Taj Hotel in Upper Willow Street, Wellington. And in the evenings she used to invite me in because she became friends with the chef, this guy called Alec. And the chef was doing margarine sculptures, he was doing swans and ponies and things like that. And so I used to just hang out with him, this crazy, wonderful Scottish chef. And I started doing monsters and creatures and dragons and superhero sculptures and things like that for the tourists that would come in for dinner.
+
+So when I started working, I realized this medium, I had an affinity with it and I could work in it very quickly. So we got wind that the production company that I was doing art directing art department for on very low television commercials and documentaries, I got the wind that they wanted to make a New Zealand version of Spitting Image. And I desperately wanted to be the sculptor on this. So I actually snuck into the office late at night and I actually borrowed a couple of photographs of the boss, went home and sculpted in margarine, and then Tania and I cast it and made a puppet of it. I put it on his desk in a black plastic bag, a rubbish bag with my card on the top. I put it there at midnight.
+
+Tim Ferriss: How did you get in? Did you cat burglar your way in?
+
+Richard Taylor: No, we were working in the building. So I had keys, I had the ability to go in and out because we were doing art department. So often working at midnight. So he phoned and he said, “Found your puppet. Great, but you needn’t have bothered with the efforts of making a puppet of me. No one else has applied for the job.” But I think that sort of speaks to the individual that I am actually, that you’ve always got to go that nth degree.
+
+And that started two amazing years working for Gibson Group, making satirical puppets one every couple of days. We had a third person working with us, friend of ours called Clive, who did all the eye mechanisms. We built those out of roll-on deodorant balls and the spring wire that you hang frilly curtains off in your grandma’s kitchen. And we built 72 puppets over those two years. It was ferocious timeframes, but because I could sculpt in margarine — and margarine’s a bit of a misnomer, Tim. The true term is emulsified vegetable pastry fat. It’s actually margarine before you whip in the water and the food coloring.
+
+Tim Ferriss: I see.
+
+Richard Taylor: So it has a greater solidity. So I used to actually microwave it to get it. I describe sculpting a margarine as like using a 4B pencil. Sculpting in clay is like a 2B pencil. And sculpting in plasticine is like a 4H pencil, let’s say. So to give the people that understand illustration terms. So that’s how I started to use margarine. And I ultimately, as I said, did over 300 sculptures. All of Heavenly Creatures was sculpted in margarine. In fact, we made sculpting tools as big as shovels because the idea is that the little sculptures that the girls had done in their childhood out of plasticine from school, that green plasticine that all New Zealand schools used to get, they come alive. And so they’re really big. So we made sculpting tools out of shovels and other bits of equipment, lumps of wood that would give the gestural appearance as if the girl’s fingers had sculpted them.
+
+Tim Ferriss: Well, I remember also taking a tour last time I was in Wellington at a workshop and there was a hands-on opportunity to sculpt with tinfoil, which I had never experienced before, sculpting with tinfoil with a spoon. And I was shocked how much detail you could coax from that material if you knew how to apply the spoon properly. I made a hummingbird. First time out, I made a tiger head and it was shocking to me and really encouraging how you could take this cheap, readily available, often wasted material and use it to create things that could sit on your desk and remain there as long as you wanted to keep them there.
+
+Richard Taylor: It’s lovely that you remember it fondly. The tinfoil, I guess, is allegorous to what we are trying to do as a company. What my wife and I try and do as individuals, Tania, my wife, my business partner as well, is I say the thing we love to make today is other makers. We’ve had a lovely and amazing career and we are continuing to do fun and wonderful things every day. But it’s an imperative, and I actually feel that it’s beholden on us to try and introduce as many people as possible, specifically children, into the love of making and creating because it is slipping out of our fingers. And at one level, some may say, well, so what? It’s been replaced by other things. But I fundamentally believe that our connection as humans to the creative arts crafts are an imperative on the planet. I would even go as far as to say that the road markers that designate a specific culture’s journey through history are based in craft, right?
+
+Whether it’s architecture, clothing, totems of religious or spiritual belief, et cetera. The things that remain across history are invariably craft-based objects of importance. So the reason tinfoil and Warren Beaton, affectionately known as Wassey, Was came to us on Lord of the Rings as the chemist that mixed up all the gloop for the birthing sacks and so on. He’s an extraordinary technician, makeup artist, animatronic engineer in his own right. But for the last five or six years, he’s dedicated every day of his life to being on stage trying to inspire people, specifically children, to get off their iPhones for a moment and think about what these 10 digits can do at the end of your hands.
+
+And the reason we use tinfoil is that no matter what the socioeconomic level of a family’s life is, tinfoil invariably always exists in a family’s kitchen. You can buy it extremely cheaply if it doesn’t, and everyone owns a teaspoon. So we’ve a sculpting curriculum out of the most accessible material you can get and a teaspoon, the most accessible tool you can get. And one of our great reasons to celebrate, I think one of the highest reasons above other accolades is that we heard that the Central Auckland supermarket sold out of tinfoil a few months after we opened our Unleashed! experience in Auckland, where we do a very deep dive on tinfoil sculpting because kids wanted to go home and make things out of tinfoil.
+
+Greg Broadmore: Do you own tinfoil stocks, Richard?
+
+Richard Taylor: I don’t, unfortunately. I’ve tried very hard to get our theme to package Wētā specific tinfoil to sell in the Wētā cave.
+
+Greg Broadmore: You realize you should have been in the market from the start.
+
+Tim Ferriss: I know, I know. Maybe he’s been paid off by big tinfoil.
+
+Richard Taylor: Yeah, I wish. We’ll all get Alzheimer’s. That’s the problem.
+
+Tim Ferriss: So I have a lot of questions for Greg. I want to ask just two more. It’s actually a combo question for you, Richard, just to paint a picture for folks. So could you paint a picture of what Wētā looked like in the very beginning in terms of the organization, and then let’s just say at peak, you can pick peak, Lord of the Rings or post-Lord of the Rings, what it looked like just to paint a before and after picture.
+
+Richard Taylor: Okay. So my wife and I have run our company together for 37 years. We started off the business in the back room of our flat. It was actually our bedroom. We used to have a sheet of MDF, we call it custom board, that we would flip onto the top of the bed and we would make things on that board. Peter Jackson was interviewed once and he says, and I misquote, “I remember coming into Richard and Tania’s bedroom and it stunk of the same rubber and fiberglass smells of my own bedroom.” Right? Because he was also making everything in the early years in his bedroom. So that’s where we began. We moved workshops nine times. Our first collaborator, employee, contractor, collaborator, came about two years in in the form of the gentleman, Clive, I mentioned, to do eyeballs. And today we have about 400 people operating across seven business centers.
+
+We have designer manufacturing for the world’s creative industries, which is about 170 of our team. We also make digital games. We do merchandising, collectibles. We’ve done hundreds of collectibles over the last 27 years. We also have a location-based experience division, and we work on some of the world’s largest museums, immersive experiences. We’ve done the largest pavilion for the Dubai Expo, which remains open as a museum. We’ve done the largest traditional Chinese medicine museum in China which actually saw us design the building, 37,000 square meters, et cetera, et cetera.
+
+We have a creative media division where we are servicing people like Jay Chou, Asia’s largest recording artist, a great Chinese musician. And we are doing work for him. And he’s actually Taiwanese. We are going on holiday. We also run two retail stores. We operate three tourism offerings, including our significant location-based experience called Wētā Workshop Unleashed! in Auckland. We have a robotics division, developing and building very high-performance humanoid robots, which we’re trying to commercialize at the moment. Greg, help me here. What else have I forgotten?
+
+Greg Broadmore: No, there’s a bunch of it.
+
+Richard Taylor: Everything in between. Right? We do a lot of service providing to private and public commissions. A lot of very unique work for people’s homes. We’re just about to deliver two crazy objects that we’ve built or installations that we’ve built for someone’s private home. These have taken each a year to build. So you can imagine how complex and how significant they are. So that’s where we’ve got to today, a multi-faceted design, manufacturing and entertainment company. And that’s a desire to try and give creative careers to as many New Zealanders as possible basically.
+
+Greg Broadmore: I would say, by the way, maybe you mentioned public sculpture in there, but we’ve done some amazing public sculptures as well, huge works. And maybe you mentioned that. But one of the things that I think characterizes the workshop is that it is a workshop. You went through, Tim, it is a workshop, concrete floor, lots of bandsaws.
+
+Tim Ferriss: The sword makers.
+
+Greg Broadmore: Right? Machinery and everything. It’s a very tactile, physical place. But Richard has created an environment where new technology, new interesting ways of approaching things, is always welcome. So as Richard says, we now do video games, we do location-based experiences. We are looking at just about every — Richard, as far as I knew, was the first person in the world that I saw around me that was bringing in 3D printing and 3D milling and 3D tools into this very physical place. I don’t think you’re afraid of any technology and you’re very interested in all of it, regardless of your love and fascination with physical, tactile things. It’s like, how do we solve the problem creatively? It’s just mesmerizing how many new technologies and new approaches turn up all the time.
+
+Richard Taylor: And it’s interesting, just yesterday someone said to me, the perception is that you must run the company from a board through executives, et cetera, et cetera. And that couldn’t be further from the truth. As you saw, Tim, when you came, my wife and I are an integrated part of every component of our business. I’m on the workshop floor every day doing the work that we do when I’m not traveling with Ri around the world chasing work and delivering jobs, et cetera. We have an extraordinary group of senior management people that have grown up primarily in the building. A lot of our team have been with us over 25 years. Over half the company have been with us over 15 years. So those people, it’s just a second — well, there’s no need for a second language because they just know as deeply as I do what’s required for each division and to get through each day.
+
+The diversity is our great benefit because if we had just remained as a manufacturing and design studio we would be a small bureau in New Zealand. But the beauty of the diversity means that if one division drops off, which invariably is happening pretty much every year, the other divisions all come together to support that division, and it fluctuates and flows. Luckily to this point, we haven’t stumbled too heavily, but due to the cleverness of the team and the symbiotic collaboration of the teams to keep each division propped up when times are hard. But it is a reality that the world is changing, the creative environment is changing. And most critically, the film industry, specifically the Hollywood film industry, is dramatically changing. So where film used to make 70 percent of our work, it now probably makes 30 to 40 percent of our work.
+
+Tim Ferriss: So we’ll come back to that because I do find the diversified, not perfectly correlated nature of the company to be very, very interesting, and I do want to ask you about Hollywood changes. But first, Greg, I want to come to you with a very important question related to naked ladies slipping on banana peels. I remember you and I were exchanging messages when I was inspired after my trip actually, to attempt to learn digital painting and begin using Procreate.
+
+Greg Broadmore: Oh, really.
+
+Tim Ferriss: And I was curious about some of your practice habits and so on. And I can’t remember exactly what prompted you to send this to me, but it was a process capture of you creating many, many, I want to say, 50, 60. Who knows?
+
+Richard Taylor: 99.
+
+Greg Broadmore: 99.
+
+Tim Ferriss: 99. 99.
+
+Greg Broadmore: 99 Dodgy Slips.
+
+Tim Ferriss: Dodgy slips.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Okay. So Greg, can you explain, and this will go somewhere, can you explain how that came to be? What the hell are we talking about?
+
+Greg Broadmore: Yes. So do you remember the DS? What was the DS stand for? It was a Nintendo DS. But the cool thing that Nintendo added was a touch screen, but it was just — I actually had a stylus. I think, that’s right. But what they didn’t tell anyone was that it actually had pressure sensitivity. I guess they just didn’t include that feature. But I was playing that a lot and found that someone had made an app, a mod for it, that made it into a little art app and actually utilized the pressure sensitivity. And that was the first handheld, now they’re everywhere, these little phones and so on with Procreate on your iPad and so on. But back then, little game console, you could actually draw pictures on it. And then this guy, he’s a Swedish guy, Jens, I can’t remember his surname, but he made a little program for it, utilized the pressure sensitivity, and I just started drawing on it.
+
+And actually it happened because it would’ve been Christmastime in New Zealand, and while my partner Kate was going out shopping for Christmas presents and going into every store, I sat outside bored to tears. I would just flip open my DS and start drawing. And for some reason I like drawing figures. I like drawing people, and I don’t like drawing from life very much. I like drawing from my imagination. I just started drawing women falling over on banana peels. It’s a very 1950s comic book idea of slipping on the banana peel and breaking your neck. And every single one of them provides a new opportunity to creatively explore the human body doing interesting things. I like the stupidity of it, sort of sexualized but making fun of it, right? Because it’s like you can’t be that sexy when you’re falling over and hurting yourself. I don’t know, there’s something about that clash that is interesting to me, banana peel flying in the air.
+
+But I drew them and actually I hit 99 and we made an exhibition called 99 DS, with my friend Christian Pearce, that Richard and Tania were a patron of, and we put on an exhibition in town. But it was called 99 because I hit 99 drawings. And that was with Jens’ operating system in his game, in his program that made that allowed you to draw, that’s when it hit the file limit. So it’s like, well, I’ve done 99, I would’ve gone to 500. And so I hit 99 and I thought, well, that’s that. And so my friend, so 99 Dodgy Slips from 99 DS, and my friend Christian, he did 99. What did he do? He did Deadly Sleds.
+
+Tim Ferriss: Deadly Sleds.
+
+Greg Broadmore: Deadly Sleds, these really cool, super creative hot rods in all different ways. Anyway, that’s where that came from. And I, for some reason, that ludicrous idea, Richard decided, yeah, it’s a great idea for an exhibition. I’ll put it on in town. So thank you, Richard.
+
+Richard Taylor: Yeah, we put it on inside. We got two shipping containers, painted them white, put a massive graphic of DS 99 on the side of them. And then I had our engineers cut a hole through the insides of the shipping containers so you could walk from one to the other, and then lined them in white Melteca, so they looked like a medical laboratory, and put LED strip lighting and so on. And then we printed every image of Greg’s and Christian’s off about this big, and we hung them along the wall like this, and they looked so amazing. And one container was Dodgy Slips and the other container was Deadly Sleds.
+
+Ri, Ri, would you mind just going to Tania’s wall? And behind the door is a poster of Deadly Sleds, just take it off if you can. I’ll just show you what they actually are.
+
+Tim Ferriss: Yeah, please.
+
+Richard Taylor: I unfortunately can’t hang Greg’s Dodgy Slips on the wall of our office. They are hung in the design room in a lovely collection. But —
+
+Greg Broadmore: Yeah, there’s a bit of nudity and none of the girls are well-groomed, if that’s the right way to put it. And so people did query me about that. It’s not the modern way to lead.
+
+Tim Ferriss: It’s not the modern way.
+
+Greg Broadmore: I don’t know what to say without getting you in trouble on YouTube.
+
+Tim Ferriss: Oh, you’re not going to get in trouble. So Greg, I do want to, while we’re awaiting the arrival of more toys —
+
+Richard Taylor: Oh, here are those, here it comes. I’ll show it to you quickly. So this is Christian’s work, not Greg’s work. So you see there’s the graphic, 99 Deadly Sleds, and there’s a lovely thing that Christian’s written to Tania and I, that’s faded, but you can see that the level at which they can be illustrated on this tiny little —
+
+Tim Ferriss: That’s wild. That is just incredible.
+
+Greg Broadmore: The guy that did it did an amazing job.
+
+Richard Taylor: Amazing job that you could make this little Nintendo make a beautiful little art app. It was incredible. In fact, other people made all kinds of things for it, Animation, stop-motion animation apps and so on, which I played with and made little animations. And that guy, Jens, again, I can’t remember his surname, but he was so lovely. I wrote to him to say, actually, I wanted to export the images larger because they came out at this tiny little file size, tiny little resolution, and so he made a little program to upscale the images because it actually records all the pen stroke paths. And then he made us a little thing that did a process animation of it, like showed each brushstroke going down, because that was recorded as well.
+
+Tim Ferriss: And that is the video that I saw.
+
+Greg Broadmore: That’s what happened in the video. Yeah.
+
+Tim Ferriss: Amazing. So now you have an amazing bio, Greg, and I want to get to the two-week trial that started this whole dynamic duo.
+
+Greg Broadmore: I’m still on two-week trial.
+
+Tim Ferriss: Yeah, so we’re going to get to that. But now, if you could just refresh my memory, I believe that you learned your skills through private tutors given to you by your aristocratic parents, and then art finishing school at the finest institutions. Am I remembering correctly? How did you learn your trade?
+
+Greg Broadmore: That is a good question. Yeah, I did try and do art school. Richard, did you try and do art school?
+
+Richard Taylor: Yeah. I went through Polytech.
+
+Greg Broadmore: You did go through Polytech. I tried to go to New Zealand’s most prestigious art school and they turned me down, so I tried another one and they turned me down. In the end I went to an art college in a small town in New Zealand, but it didn’t last very long. I think for a little while they didn’t know what to do with me, so they put me off campus in a little room. And I was happy. I bought bedsheets and acrylic paint and would just paint these weird Salvador Dali tortured scenes of people. And I was happy and I thought, well, this is what school is, this is great. I’m going to do all these paintings. And then very quickly they got me back again and found out what they wanted to do with me, which was make me learn all the traditional things you’re supposed to do in art and so on.
+
+And I was a young punk rocker, and so I didn’t want anyone to tell me what to do, and I still don’t. So I was immediately out of my element. I thought this is not for me. I don’t want to learn perspective and blah, blah, blah. Actually now in retrospect, I wish I had learned perspective and all these fundamentals, but I just wanted to learn myself. And I find that I love learning by doing. It’s the only way. The act of illustrating or being creative in general I find most interesting when you don’t actually know where you’re going exactly, and you don’t really know how to do it. You just throw yourself into it and do your best, and I love that process. So sort of finding out the shortcuts I find the least interesting, if you like. I feel like I don’t learn out of that. I learn just by constant failing towards success, if you like, building up. The failures stack up, and luckily you end up seeing the horizon from that.
+
+Tim Ferriss: So how did they —
+
+Richard Taylor: Can I just say he’s not been self-effacing there, that’s literally how he works. I know it might seem to people listening that, “Oh, you must never fail. You did all these incredible films and your body of work is so amazing.” But it’s extraordinary watching Greg work because he almost massages the object out of the canvas by playing with it, by adjusting it and shifting it. Very, very different way to what a lot of people do. And I give briefs to Greg almost daily, and there’s things that I assume entirely that Greg will be able to do.
+
+Tim Ferriss: When you say brief, is that a project description?
+
+Richard Taylor: Yeah, project description, right. Here’s a great example right next to me. I needed a set of lockers designed for our Unleashed! locker, where you lock up your bags when you go through Unleashed! And Greg, there’s the wall, there’s a photograph of the lockers, and Greg has designed a set of characters on the lockers. So you don’t remember a lock and number, you remember the character that you got.
+
+Tim Ferriss: Oh, I see.
+
+Richard Taylor: And then he’s made the sign for the top of the lockers, right? That’s a great example I just happen to have next to me because that’s a discussion we are having today.
+
+But there’s things I totally assume that Greg’s just going to knock out of the park, and he’ll just say, “No, I won’t be able to do that. I wouldn’t be able to get a result for you because the way I organically work and think can’t yield something.” So he is very honest with me so we don’t waste money and time. Other things that seem so challenging, two hours later he’ll fire back a sketch, and he’s nailed it absolutely. And it’s very rare that I will go back to Greg and say, “Could you please do X, Y, and Z?” I might scale things. I might ask for a bit more absurdity in the picture. I gave him a brief, “Imagine an alien vomiting creativity across the walls of Auckland.” That was the brief. That’s ended up being one of the world’s largest murals, consisting of dozens of crazy characters rolling through brain vomit of creativity. And Greg nailed it in the first illustration. It did take me 10 weeks to then censor it so it could be seen by the general public, but that’s another —
+
+Greg Broadmore: I was in a total flow state with that, by the way, which is what I love to do. You like to fall into the image and not even think about it, just create it and it just happens, and so you’re trying to find this flow state. And so I was just doing this illustration. It’s 60 meters long by six meters high. I’m doing it in Photoshop, but in pencils, and I’m doing it. And it feels like at the end is when I woke up and then the image was done, even though this actually took weeks and weeks.
+
+Tim Ferriss: So Greg, how do you set the conditions such that that flow state is more likely to happen? What do you have? Do you have any rituals? Are there any patterns that you can spot in retrospect that seem to contribute to that?
+
+Greg Broadmore: I’m 53 this year and I still don’t know. I would ask you that. I think of it, I remember this artist, Josh Homme, he is a guitarist for Queens of the Stone Age, an amazing guy. And he actually just says you’ve just got to work. He thinks of it as the muse. And the muse is out there. The muse is the universe and it’s hopefully going to offer you creativity.
+
+Tim Ferriss: Richard is dangling.
+
+Greg Broadmore: He’s a robot.
+
+Richard Taylor: These are characters out of the mural. I just want to reinforce the total absurdity of the way Greg’s brain works.
+
+Tim Ferriss: Oh, wow.
+
+Greg Broadmore: But Josh says that thing out there, the flow state, the muse, the magic of creativity, whatever it is is out there. And it’s good to think of it as external to yourself because that’s what it feels like when it comes to you, or when it comes to you in a powerful way. But the only way is just to make yourself available to it, which is work, right? It’s just turning up. That’s why we turn up every day and we work all day, and you just do the work and then hopefully it turns up. Is there a magic trick to make it happen more? I think anything that works, that removes yourself somehow, it makes you fall away.
+
+Like I said, when I did the mural, the best parts of it were where I felt like I woke up at the end and it was done. And that was actually where Richard was pointing out where all the problems came from because I wasn’t conscious doing half of it, if you like. There are things in there that were problematic. I’d broken IP. I put Lemmy from Motörhead in it because I love Lemmy, and I just wasn’t thinking. And Richard said at the end, “Well, we don’t own Lemmy, right?” So I ended up chopping Lemmy’s head off.
+
+Tim Ferriss: That’s a horrible thing to say.
+
+Richard Taylor: And what did you do in its place?
+
+Greg Broadmore: I put Richard’s head on. Richard said, “Why don’t you put your head on?” I’m like, no, I’m putting Richard’s head on. Anyway, but it’s full of those kind of problems that Richard had to point out to me that were like, “Hey, you’ve done this and you’ve done this.” And I’m like, “Oh, really? Have I? God, I didn’t realize.” But that’s the flow state, that’s the muse. That’s the fact that it really didn’t feel like it was me doing it. It just happens.
+
+Tim Ferriss: So how did this start off? How did the two-week trial happen?
+
+Greg Broadmore: So actually I started during the post-production of Lord of the Rings. So I think most of the actual creative work that I could have been involved with was actually already done. But Richard was about to start on King Kong. I think Peter had brought up King Kong and also Evangelion, remember that never happened. It was a live-action movie of Evangelion proposed, and I sent in a folio with dinosaurs and robots in it and Richard saw it. And I actually did a comic book as well that had both of those things. And so Richard must’ve gone like, “Oh, that person looks like they can do something.” But I had never worked before. I’d been unemployed for seven or eight years before that, almost continuously on the dole, which is not something I recommend. And so I had no idea about working professionally or doing anything like that. I’m just a creative lost soul, actually.
+
+But when I saw that there was a place that — I saw the first Lord of the Rings film come out, and I was a fan of Peter Jackson’s work and everything, my mind was utterly blown. I was not prepared for the scale and how good it really was and how it transported me. But then I realized oh, there’s this place in Wellington and I’m living here and it’s got these crazy creative people, surely, maybe, please, maybe I could work there. So the timing was perfect, having that folio with some of the things that piqued Richard’s interest. And Richard was so generous. He brought me in a couple of weeks after seeing my folio and showed me around. And I just said, “So when do I start?” Richard was very gracious and said, “Well, you can come on in next week or whatever.” And I think I got a two-week contract after a while. I think I’m still on that two-week contract, Richard. It just kept on going.
+
+Tim Ferriss: It’s just you renew your vows every two weeks.
+
+Greg Broadmore: Yeah, yeah. So I constantly think I’m two weeks away from being out of a job, but I like that.
+
+Tim Ferriss: So I’m very curious, Greg, as Richard was mentioning earlier, sometimes you’ll get a brief and you’ll say, “Sorry, no, can do. This is not something I deliver.” And then other times something that Richard would think to be very complex gets turned around in two hours. And what I’m curious about in the former category, how do you know when something just is not in your wheelhouse? Or how do you decide to respond with that type of answer where you’re like, “Can’t do it. Can’t deliver this one.”
+
+Greg Broadmore: I don’t know. I think I’d have to probably see an example because I can’t remember actually saying no. I always sit there. I guess here is what it is. If Richard or anyone asks me for something, if my brow really starts furrowing and won’t unfurrow, then I know this isn’t going to work.
+
+Tim Ferriss: There’s a problem.
+
+Richard Taylor: I used to describe Greg as getting pinwheels in his eyes. His eyes would just pinwheel like this. And I’d know this one’s not for Greg.
+
+Greg Broadmore: Tim, when I started listening to your podcast, the first one I listened to, or actually I listened to one years ago and I absolutely loved it, but then I came back and I listened to one of David Deutsch in Naval’s podcast.
+
+Tim Ferriss: Sure. Oh, yeah.
+
+Greg Broadmore: And the David Deutsch one just blew my mind. I’m reading his books at the moment. I’ve become absolutely obsessed with him. There’s something in his philosophy and his science that I totally resonate with. It’s not like I’ve changed my opinion, it’s amplified my opinion. And he talks about really finding the fun, chasing the fun. It’s about finding, really, what inspires you, what interests you, and then when that feeling happens, you know you are going to be able to solve that problem, or you have a chance of solving that problem because you are motivated. You’re interested in finding that state of fun in creativity is the perfect way to learn because you are motivated to learn and you’ll overcome the challenges. Maybe when things are a little bit too hard, they’re not fun. Where they’re too easy, you’ve already done it before, there’s no point doing that again.
+
+And I get very bored very easily so the things that I’ve already done before, I’d be like, why do that? Let AI do that. AI’s already been trained on that, that’s fine. It can do that. It can solve that problem. I want to solve the problem where it’s fun. And so there’s the things that Richard will suggest, and this is 90 percent of them in my opinion, I hope so, Richard, that I get excited. My brain ignites, and then I go, “I want to solve on that.” And maybe, and I can’t think of a good of an example, there’s hopefully very few states where I go, I just go, “I don’t know why that would work.” But I would also try and say why I think it doesn’t work or why I can’t solve it, and maybe even suggest why it shouldn’t be solved and could be solved a different way. I always try and be constructive.
+
+Richard Taylor: Greg will always philosophize with me around art, right? It’s one of the great benefits of our friendship, irrelevant of our working relationship, in that trying to find the purity of an idea requires a level of philosophical exploration. Doesn’t have to be highbrow by any means. I don’t think me and Greg are capable of highbrow, but it does require you looking inside yourself, and it does require a deep observational inquisitive journey through an idea together. And we do that amongst a small group of senior creatives within the building. It’s actually, to me, one of the most joyful parts of my career is that those conversations through relationship around creativity and what comes out of the end of them, which is really great.
+
+Tim Ferriss: Richard, could you give an example that comes to mind? Any example of what that looks like in practice. What it looks like coming in and then what it looks like at the end of such a conversation. For people listening, I’m sure they’re like, that sounds awesome, but what does it look like? How could I try it?
+
+Richard Taylor: Well, I’ll do a real meta example of it. So we know that we want to own and operate our own location-based experience because we’re building them for other people. We don’t really have an inkling to try and make a movie, but we know that we want to do something that’s our own IP of our own experience. So how does the seed of the idea come to be?
+
+We’ve built an exhibition in downtown Wellington in our national museum, called Gallipoli: The Scale of Our War.
+
+Greg Broadmore: That’s right.
+
+Richard Taylor: Great.
+
+Greg Broadmore: For sure, yeah.
+
+Richard Taylor: It tells the story of a First World War campaign fought by New Zealanders, relatively what would appear to a foreign visitor a relatively modest moment in history, but to New Zealand a phenomenally important moment in the journey of our country, et cetera. And it’s through that level of philosophical exploration that you come up with the seed of the idea, and I call it the grand idea. If you can’t come up with the grand idea, then you are almost certainly not going to be able to achieve something that will engage the audience. It’s like trying to make a movie before the script’s written. With Gallipoli, myself and my colleague Rick came up with the grand idea in the first three hours that we sat together, just because we philosophized around what Gallipoli meant to the people in New Zealand, what the men must have felt, the realities of the situation. The next exhibition that we did for the same client, which they said we want to build an exhibition around bugs for —
+
+Tim Ferriss: Richard, can I pause you for one second? What was the great idea for Gallipoli? What did you land on?
+
+Richard Taylor: The great idea is the realization that most people only think of a past military conquest as visualized and quickly fading memories through sepia-colored photographs, of a time-long past, of people that no longer matter. That’s sadly fact. And most museum exhibitions of military campaigns are told through statistics, told through the army, told through a meta-like view down on the war. Our grand idea, if you can call it that, is make pillars of the men of our past and present them in a hyper realistic larger-than-life scale, in bell jars, to give people the opportunity to learn the story of the whole campaign through the intimacy of the connection to eight people, seven soldiers and one nurse. And that was the grand idea and the technique of achieving that.
+
+Going back to Unleashed!, the LBE that we’ve built in Auckland, the location-based experience in Auckland, we oscillated around the idea for a year. Sorry, I should have finished off. Bug Lab was a five-month deadline as opposed to the eight months that we had to do Gallipoli. Three months in to Bug Lab we still didn’t have the grand idea. So we won’t start until we have the grand idea. So it’s very, very perilous and puts you on the very edge of potential failure because you are trying to find that grand idea, but without it the work is a waste of time because it doesn’t congeal around a central conceit. And with Unleashed!, it took us a year of exploratory ideation and philosophical discussion till we landed on the incredibly obvious, but the thing that we really, really wanted to do and the story we wanted to tell.
+
+So that’s a good example at a large scale. But that stuff is happening most days of the week as well on micro-decision making.
+
+Greg Broadmore: Should that really contrast? Can I just add some color to that because you brushed over it really quickly? They’re huge sculptures, like Richard says. Most exhibitions of war, as Richard says, or even history in general —
+
+Tim Ferriss: [inaudible].
+
+Greg Broadmore: Yeah, they’re either dioramas, small, or recreations of soldiers at real scale and lots of photos and lots of documentation, and then you’re supposed to pour through the documentation. Sometimes they have a little bit of audio and video. But this is these huge people, hyper realistic down to the pores. Every sweat —
+
+Tim Ferriss: I remember looking at the pores when I first walked in.
+
+Greg Broadmore: That’s it. Sweat pouring down their brow.
+
+Tim Ferriss: Sweat on the pores and the hair and the eyebrows.
+
+Greg Broadmore: A man picking up food.
+
+Tim Ferriss: How large are these figures, would you say?
+
+Richard Taylor: Two and a half times life-size.
+
+Greg Broadmore: Massive.
+
+Richard Taylor: The biggest that we’ve built at hyper realism is eight times life-size. So that’s a 16-meter tall figure, if they were to stand. One and a half kilometers of fabric in their garments.
+
+Greg Broadmore: Even the fabric is scaled up, right? Everything is scaled up.
+
+Richard Taylor: People are complimentary about the heads and the hands because they can rationalize that to their own skin and how we’ve scaled it up. The challenges of making the heads and the hands pales compared to making the different fabrics and components within the costuming. Because to make a larger costume you have to find a sheep with a two and a half times larger denier of hair density to what was used for the real costumes. And then you’ve got to weave it. You’ve got to loom it, and then weave it, and then build it into costumes. You can’t just use a sewing machine because the stitching won’t be big enough. And on and on and on it goes. So we want to tackle it at that level. Some listening may go, “Oh, God, that just seems either obsessive or a waste of money and time.”
+
+We take it to that degree because you are trying to pay a depth of respect to the memory of the people. And if you shortchange the effort, you’ve shortchanged the respect to those people. These are veterans, right? They’re returned servicemen or men that lost their lives in service to our country. So what is it to us to make that extra 10 percent to try and get it as good as we can possibly get it?
+
+A lovely thing with Gallipoli is over four million people have been through it now. Now that may not seem a great number to people listening, but that’s in a population of only five million people. So yeah, so we are very proud of Gallipoli. It’s just been extended by a few more years, so it means more people can get to see it.
+
+Greg Broadmore: And Tim, when you experienced it, but when you stand there under the people, it is different. It’s very, very different. I don’t think I’ve seen anything like that before. I didn’t make it so I can hype it a little bit, I think. But I just got to wander it as well, and sit there beneath these giant men and characters. And you feel, because they’re hyper real and the beautiful way it’s all presented and lit, you feel a magnitude, literally. But emotionally, that’s a very unusual approach. I think that idea on paper, hey, we’ll make giant versions of these figures, it almost seems weird and surreal, but it has an emotional impact that makes you feel the situation profoundly.
+
+Tim Ferriss: Yeah. Richard, did I hear correctly? You said the deadline was eight months on that?
+
+Richard Taylor: Yeah, we had eight months from the first meeting with the board to deliver it.
+
+Tim Ferriss: That’s nuts. I did not know that. Wow.
+
+Richard Taylor: Well, very few things we do has the luxury of time, so it could be argued if someone took an in-depth look in our company that it does not make good business and financial sense to carry the level of infrastructure that we do at a manufacturing level. We have 11 different divisions doing 17 different disciplines under the one roof, and so you’ve got experts that are poised and ready to go. The reason for that, other than the fact we just love having that type of expertise and creativity along for the ride, is that we simply could not simply do many of the jobs that we do because the inability to turn on a dime, to react that quickly. It’s very rare that we will do a film job that has more than eight weeks. Very rare.
+
+Tim Ferriss: That’s more than eight weeks, you said?
+
+Richard Taylor: More than eight weeks. Yeah. We’ve literally just done a job over Christmas that saw us deliver hundreds of, I think over a thousand weapons and hundreds of suits of armor in less than eight weeks. That comes down to innovating new methodology and having a process. Obviously all the other things, passion, enthusiasm, tenacity, everything that comes along with a great crew of people, but being able to innovate new methodologies every year to be able to stay ahead of the deadline basically.
+
+Tim Ferriss: Let me ask a question about process and then we’re going to come back to you, Greg. But first I do want to talk about, because this certainly is so iconic and it’s in the minds of probably most people listening, which is Lord of the Rings. And I’d like to understand what some of the most — first of all, how that came to be, Richard, and then what’s some of the most crucial decisions were with respect to taking on a project of that scope. Because for a lot of companies I could see that being the hug of death where you suddenly go from reasonably, moderately contained and small to sprawling, taking on so much responsibility and many companies would implode. I’ve seen it happen many, many times. How did that come to be and what were some of the most important decisions made that allowed you to grow the company and take that on?
+
+Richard Taylor: That’s a really big question. I’ll try and answer it in a very condensed way.
+
+Tim Ferriss: We have time.
+
+Richard Taylor: Well, I just pulled this out. This is Sting from the movie, this is one of my favorite things that we’ve made in the company, and I keep it next to me and I pick it up and it gives you strength and it gives you a sense of wonder and it connects you back to a very happy time and everything. And it glows if there are challenging clients in the corridor.
+
+Tim Ferriss: For people who can’t see that, that is a sword.
+
+Richard Taylor: Oh, sorry, those that can’t see it, here I’m showing all these visual aids, because that’s how I think —
+
+Tim Ferriss: It’s okay.
+
+Richard Taylor: — in visual aids.
+
+Tim Ferriss: I’ll drive people to the video, but just so they get the idea.
+
+Richard Taylor: I just held up the 1.48 times larger than life-size Sting that’s carried by Elijah Wood at his scale. I likened it to teetering towards the edge of a precipice. There’s probably a much better visual metaphor than this. And you do this frequently in one’s life, the decision to start a family, the decision to buy your first home or the home that you’ll spend the rest of your life in, like the home that my wife and I bought way back on Meet the Feebles, the decision to X, Y, and Z. But Peter Jackson offers this opportunity and when he offered it, my wife and I, Tania and I, discussed with Peter, and we ultimately settled on doing the design for and the manufacturing of the armor, weapons, creatures, miniatures, special makeup effects, and prosthetics. Five divisions, a very, very large body of work.
+
+And you teeter to the edge of the precipice and as a human, just as the human animal that we are, you’ve got a decision. You either step back from the edge and let others take up the slack and do it for you and you follow, or you choose to leap. And you either will then slam into the bottom of the cliff and make a mess with your guts and your brains everywhere, or you will actually arrest your fall through a number of different mechanisms. Self-belief being the most important one.
+
+I have four very simple tenets that I operate by and four tenets that I try and operate our company by. And the first one is love of oneself. That doesn’t mean that you are egotistical or believe that you are better than you are, but if you can’t see in yourself your virtues, how the hell are you going to expect anyone else following you to see your virtues? Love of oneself is the first of those four tenets.
+
+And there is mixed with that, as corny as it sounds, ignorance being your greatest ally. I think all of us operate, to some degree, where we are blinded by the love of what we do, like Bertrand Russell, if I’ve got the right person, has a lovely quote, “Work is more fun than fun.” I think that’s one of the great — and people that don’t understand that, struggle. But even if you are in a low level position that you’re not really enjoying, you can still make the people that you work with really fun. I used to clean toilets on international airplanes, but man, the people I worked with. I put a cricket ball through the window of the international terminal because we were playing cricket out on the tarmac under the planes. You can turn anything into fun.
+
+I wanted to, and once again a very corny and I couldn’t think of something better at the time, but we needed 158 crew working for 7.5 years on 48,000 separate things to deliver those five divisions to the trilogy of movies. Our work’s in 98 to 99 percent of the films because our work’s in almost every image shot other than mountains with no one in it, et cetera. And you’ve got an inexperienced crew. You are highly inexperienced yourself. We’d done Hercules and Xena at the time and we’d had a career of about eight to 10 years doing Peter’s films. Peter, of course, is an inspiration in his own right and highly knowledgeable, so he’s helping as well. But I used to say, “No matter how fine and how pale the thread that I give you, if you don’t weave it with care into the tapestry, the tapestry will be in some way threadbare.”
+
+What I’m talking about, that’s more of a silly, poetic way to say you’re only as good as your weakest link. And in our case, we literally were linking handmade chainmail, 12 and a half million links, over 3.5 years. And chainmail is only as good as how well you glue the top link on your shoulder whether the chainmail is going to fall off you. Trying to get us collectively, myself and my wife and our team, to believe that we could do it didn’t require, because there is a, I’m sure it exists in other countries, but it is a fundamental part of New Zealand. I think it’s because we are a young nation, we’re at the back quarters of the world, a long way from marketplaces where you can buy components to fix your tractor, so there is this intense can-do attitude that still exists today, thankfully.
+
+We hire people that come with that beautiful can-do attitude and we were able to benefit and bottle that so significantly on those three films. And the overjoyed nature of knowing that you’re trying to prove something, prove that New Zealand could do it, that we could stamp our mark on the world stage. That was really important to us to do justice to Tolkien’s writing was really important to us, to meet Peter Jackson’s vision was really important, and to make sure that we had really good fun. That didn’t mean that it wasn’t brutally challenging, it was. But at no point in the 7.5 years did I ever think that I didn’t want to be doing it. And that was really a special part of that experience. Work is more fun than fun.
+
+Tim Ferriss: What are the other tenets? You mentioned four.
+
+Richard Taylor: Love of oneself, love of what you do, love of who you do it with and love of who you do it for. And that is, as a father of a family, well, as a husband or partner to a loved one, a father or mother to a family, a president of a country, a CEO of a business. If you can’t find those four tenets, obviously the first one, love of yourself, love of what you do. You’ve got to love being a parent. You’ve got to love being a lover, a husband, a wife, a partner. You have to love the people that you do it for. It is so easy to become cynical about your audience or your fans or your family or the person working above you, but that’s who you are trying to keep captured up in your passion for what you do, and the other one’s very obvious.
+
+That’s how I think of things very simply. And that’s after 30 plus years of working, it started to congeal, thinking about all these things that you might think about that’s the things that drive you forward. I think I’ve settled on those four simple — and try not to be a dickhead is maybe the fifth. There are thousands of self-help books. I’ve actually only read one of them, but I can’t remember the title even. But someone said to me once, “You only need a one-page book on self-help. And it’s simply, and there’s only one line, and it just says, ‘Just don’t be a dickhead.'” And if you put that against almost anything in life, it’s actually correct, if we understand collectively what being a dickhead means. And no doubt I fall foul of that and invariably am sometimes. We all are. It’s very hard to not be, but you try really hard not to be, hey, Greg?
+
+Greg Broadmore: Yeah, trying, always.
+
+Richard Taylor: Trying. Have I answered your question well enough? I’ve been a bit fringed around the outsides of it a little bit.
+
+Tim Ferriss: No, you did. I’ll have probably just one or two follow-ups related to that. But before I get to that, you mentioned the can-do attitude of a fairly remote country and the resourcefulness that that engenders. And I’m wondering if there are any other advantages that you can think of of doing this, whether it’s the Workshop or Lord of the Rings or the combination of the two in New Zealand. Are there advantages that you can think of?
+
+Richard Taylor: Yeah, and please, Tim, when I’m talking, I’m talking about Wētā Workshop. We were a small component of the overarching endeavor of making Lord of the Rings.
+
+Tim Ferriss: Sure.
+
+Richard Taylor: We’re very proud of the piece we played and we did a lot on it, but the art department, the costuming department, the props department, the camera department, the grips department, the directing department, et cetera, et cetera, the miniatures, there was phenomenal number of people all focused on the same mission. And I’ve actually said in the past, Lord of the Rings wasn’t made by a director, it wasn’t made by a film studio and wasn’t made by a film crew, it was made by a nation of people coming together in that moment to try and make Lord of the Rings in New Zealand for the world. That speaks to the phenomenal number of people that Peter and his producer drew into the collaboration of making Lord of the Rings.
+
+Tim Ferriss: And the government, the military, the whole country was behind it.
+
+Richard Taylor: The government, the military, our tourism department. You would have to have been pretty cynical at the time to have not felt a certain level of pride in what Peter was trying to do in our country and get behind it. And a lot of people benefited because of it.
+
+The driving desire to, there’s that term “punch above your weight.” I don’t specifically like that term, but that’s a well-used one that speaks to it. New Zealanders do have a burning desire to try and achieve great things regardless of where we may come from and the scale of our country. That should not restrict you at all, and you only need to look at our sports teams to see that. But whether it’s our national ballet, orchestra, contemporary dance, poets, writers, painters, artists in general, never mind the film industry or the creative industries.
+
+We have technology companies in New Zealand that are competing with the best in the world, Rocket Lab comes to mind, that are doing astounding things on a fraction of the budget. The robots that we’re building in our workshop right now are probably at a 500th to 1,000th of the investment cost of some of the robots that we’re seeing online, but we are pulling it off. We are getting there slowly, but getting there with five people and the money that we can save from projects we’re doing. It’s that attitude, I think, that plays a big part of it.
+
+Peter Jackson mustn’t be missed in this equation too. His self-belief and his just sheer drive. I’ve never, ever seen Peter quiver in uncertainty, to fluctuate in a sense of uncertainty that he isn’t sure of what he’s doing. That is an amazing thing to work around because if your leader’s confident then — and there’s a lovely quote, “The emperor will not remember you for your medals or your diplomas. He will only remember you for your scars.” And I think there is a mentality of that very much in our country. You’ve just got to knuckle down and do it. Grit is an important component in the journey, not the accolades at the end. It’s the task of getting there that is seen as equal in accomplishment as winning baubles.
+
+Tim Ferriss: Quick follow up on never seeing Peter fluctuate in uncertainty. I’d be curious to hear your thoughts on that. Is it because in your perception he’s very clear on the right thing to do and/or is he also very good at identifying things that can be fixed later? In other words, he moves very quickly and values fast decision making with incomplete information over trying to get complete information? I don’t know if that’s a coherent question, but could you expand a bit on why you think he’s able to do that?
+
+Richard Taylor: It’s a hard question because, not to be disingenuous in any way to Peter because he is an extraordinary human being, a filmmaker, et cetera. But of course he makes mistakes, he leads things possibly in a challenging way. I’m not actually speaking to the outcome as much as the sense of self-belief and confidence that he’s got it. He knows what’s right for him and he knows where to go with it.
+
+And maybe others have seen him, but as close as I’ve had the pleasure of working with him at times during my career, I’ve not walked into a meeting, which I do in front of my own colleagues here at the Workshop, I’ll go, “Guys, with this one, I’m not completely sure where we should go with this. Could we talk it through? Could we philosophize on it?” Peter doesn’t need to do that. He’ll come to us and say, “I can’t yet visualize it. I know what I want to do with it, but I don’t know what it’s going to look like yet. Could you do some concept art around it?” But the conviction of how he’s going to actually make the images on the screen is so certain.
+
+I think a lot of that is his self-education and what he has taught himself about most of the ways film is made. If he had a thousand years, he could have made Lord of the Rings himself.
+
+My assistant, Ri, is just trying to catch my eye to let me know —
+
+Tim Ferriss: No problem. Do you have to exit stage left?
+
+Richard Taylor: I’ve got to bug out very quickly, sorry.
+
+Tim Ferriss: Okay, no problem. No problem at all. Do we have time for 60 seconds?
+
+Richard Taylor: Yes, of course.
+
+Tim Ferriss: One last quick question?
+
+Richard Taylor: Yes, of course.
+
+Tim Ferriss: Okay. Richard, you mentioned creating creators, making makers, and also inspiring kids. And I’m curious for people listening, if they wanted to be more creative, to lay their 10 digits into making something, are there any resources, books, exercises, anything you’d suggest they start with?
+
+Richard Taylor: Cool. Obviously today with the internet, there’s a near infinite source of extraordinary training videos. I’m doing some sculpting of my own at home at the moment and while I’m sculpting I just have a video playing, not that I can watch the video because I’m sculpting, but just listen to a guy that’s talking through doing his own sculpture. Because I just love to think that maybe there’s a sculptor standing next to me and so I’m being inspired by that. But in answer to your question, to me, the core attribute of creativity is to be inquisitive, to be curious. And I do see that a lot of people choose to journey through life looking at the world, but not studying the world. They don’t find beauty and curiosity in the simplest of things. And if you find it in yourself to start finding extraordinary lessons and beauty and inspiration in most, if not everything around you, specifically the simplest things. What’s a good example? There was that great American movie that came out with Annette Bening, with the dancing plastic bag that was caught in the wind. We’ve all seen —
+
+Tim Ferriss: Was that American Beauty, maybe?
+
+Greg Broadmore: That’s right.
+
+Richard Taylor: American Beauty. We’ve all seen bits of plastic caught in the eddies of a lufting wind in the corner of a building or in a rubbish bin or whatever. But that director remembered it, captured it, and shared it because his inquisitive mind loved it. My mind has instantly gone to that image when I’ve been trying to visualize how to answer your question because it resounded so fundamentally with me.
+
+And then there’s only one thing that you can do is just start making, it doesn’t matter what the medium is. We have people turn up to interview with me and you can see that they’re slightly bashful. And I say, “Well, what do you do?” And they will go, “Well, I do macramé, or as you guys call it, macramé, I think. Well, macramé is about hand skills, dexterity, eye to hand coordination, pattern, weaving, color combinations, strength, engineering, et cetera, et cetera. All these things add up. That person is possibly exactly someone that we’d want to hire.
+
+And it doesn’t matter what the craft is, just start making something, leave something behind.
+
+If you think about who are the true immortals in the world? They’re teachers and parents, people that pass information to others to carry on into the next generation. But I do think about artists as craftspeople as being creatively immortal. If they can make — this is not a prop, this is an artifact to me, because it will carry on and bring joy long after I’m dead. The sword maker that made that imbued it with creative immortality, and to me that’s a good place to be as a human.
+
+Ri is losing her wig.
+
+Tim Ferriss: Thank you, Ri, thank you, Ri. And thank you Richard. Nice to see you.
+
+Richard Taylor: I’ll show you the action of telling me to hurry up. See, there it is there.
+
+Ri: [inaudible].
+
+Tim Ferriss: Greg, you and I have lots left to talk about, but Richard —
+
+Richard Taylor: Well, I’ll leave you with Greg now. It’ll give Greg a chance to get a word in after I blabbed for most of this.
+
+Greg Broadmore: I’m learning. I’m sitting here, I love it actually.
+
+Tim Ferriss: So Greg, let’s talk about some of your projects that are — I suppose Greg projects as much as anything else, and how you chose them, why you chose them. Let’s begin with vintage-inspired ray guns in 2006. Where did that lead? Then I certainly have questions about more recent projects. But let’s start there.
+
+Greg Broadmore: Yeah, the ray guns. Well, that’s a childhood inspiration. I was born in 1972. I’m 53, I think. Is that right? Done the maths?
+
+Tim Ferriss: Sounds about right.
+
+Greg Broadmore: I am a child of Star Wars. But before Star Wars, I remember really fondly the black and white serials of Flash Gordon and Buck Rogers and those things. Those things are seared into my four, five, six-year-old mind. When Star Wars came along, it was like that, it was all that stuff in technicolor and high definition and the sound and the music and everything. But there’s always been this love for retro science fiction in there. The ray guns came from that love really of Flash Gordon. But in a way, it’s not really science fiction. Science fiction I like to think of as it’s actually very clever people who know about science and know about technology, and then speculate on what could happen culturally, narratively with those things.
+
+Dr. Grordbort’s and the ray guns was not really about that actually. It’s a veneer of science fiction technology and weapons and spaceships. But it’s actually a satire making fun of our current culture and that culture in that world, and also making fun of how science fiction and science in general gets things wrong.
+
+Tim Ferriss: How did you decide to do that? I want you to tell people more about it. But how did you decide to do that? We all have finite time, and people listening when they’re listening to you and Richard, they’re like, “Good God.” I mean, they can’t keep track of the number of projects and so on. Certainly, the energy is a big piece of that. You find the things that excite you and you focus on that, so you have the fuel in the tank before you necessarily decide on the destinations. But how did you decide to go after that saga specifically and create that?
+
+Greg Broadmore: The first thing you just alluded to, and I said it before that it really is just that I found that so exciting. I thought about the ray guns and I started painting them and I found it so intriguing. I thought I could draw a thousand ray guns. I could just keep on drawing them, just drawing a ray gun. By the way, a whole world came out of it with characters and everything, but I could just draw a thousand ray guns. There’s infinite variations. So the creative potential on that just caught me and I would’ve done it and I did do it. They’re up on my wall. Here, these nine illustrations. But really the decision to keep going is Richard, I was very, very lucky.
+
+Tim Ferriss: What happened? How did you tip over that domino of the ray guns? What was the germ? Because you alluded to it. But it’s always interesting to me when you end up with an immersive world, where did it start? Maybe you could tell that story.
+
+Greg Broadmore: That’s Richard fanning the flames. I had done these nine paintings just for myself because I love ray guns to put them on the wall. 1930s-style classic ray guns. There’s something beautiful and arcane about them that I really love and silly at the same time. Just as King Kong was finishing, and Richard — one of the businesses we have is collectibles, but we don’t own any of the IP that we make collectibles from generally. So Richard had this aspiration like — when you don’t own the IP, you don’t really control it, you don’t get to do the exciting things you’d really want to do with it. You’ve got to go through the filtering process of whoever owns the IP or whoever manages it, and you don’t necessarily make the lion’s share of the money.
+
+Richard wanted to do our own IP, so he put the word out to the entire workshop, said, “Has anyone got any creative ideas for collectibles?” I was doing those ray guns, so it was perfect timing. I was like, “Richard, we should make these ray guns. Look at that.” Luckily for me, he got the idea straight away. He saw it and we almost said the same thing at the same time, “We should make these as real. They’ll be metal, they’ve got glass, they’ll be in a case. We’ll just pretend they’re real. They will be real as far as we’re concerned.”
+
+I had this vision that we’d even cover them in dust and put moths in there, and they are all stained in age. We didn’t go as far as putting the moths and the dust on. But you make them dusty and old and then you put them in your loft or whatever so that you can pull them out and say, “Look, this was Granddad’s ray gun, he fought in the Martian Wars right back in the day.” It was just this philosophy of doing that.
+
+Luckily, because Richard got it, before I even knew it, we were away and making them, really making them as real collectibles. Then the next step was provocation from Richard. I love comic books and have made them my whole life. He said, “Well, what’s this world about? I know you’ve got these beautiful ray guns, but who made them?” I’m like, “I think I know who made them.” I just started making the books from there.
+
+Tim Ferriss: So it went from ray guns to inventor of the ray guns. Then what came after that?
+
+Greg Broadmore: I think that, to me, there’s something in that creativity. The first spark, you don’t really know where it comes from. Maybe it comes from your childhood or something random that you’ve picked up along the way, and that just ignites your information. But then if you’ve created all these why questions, start coming from it. If you’ve got these ray guns, who made them? Why did they make them? What are they for? Your imagination starts presenting answers to that.
+
+I think about this a lot. Why choose any creative direction? This is a whole big metaphysical thing. I think about a lot about — there’s actually two different ways, I think two distinct directions in which people create stories and narratives and worlds. One way is directed where you know where you’re going to go, you know the ending.
+
+The other way, which I’ve discovered. I do, more often than not, is I’m just chasing these why questions. Your imagination giving you answers back and you following with the one that is most profound to you. That makes you feel the most and whatever. It must make sense logically to you, but it also must excite you. Then also, I guess, it feels the most powerful, but you can possibly see more branches coming out from there. As soon as you see the more branches, you’re like, “Well, that must be the way.” You’re taking all these choices as they pop up and present themselves to you. That world of starting off with a series of nine paintings of ray guns ended up being a whole universe and we made games from it, made dozens of different collectibles and books and all things, all from that process of just chasing the right thing. Having Richard being the one going like, “Do more, do more, do more.”
+
+Tim Ferriss: I was actually just having a conversation a few weeks ago in Utah with the fiction, mostly fantasy writer, Brandon Sanderson. He was discussing exactly in different terms, but these two stylistic options or creative approaches. I think I can’t recall exactly the terms he used, but it was something like the improviser and the architect, some people like to have the blueprint, the outline, they execute to outline and that produces what they expected.
+
+Other people, let’s just say in the realm of fiction writing, might start with two characters or one character in an interesting situation, and then they just run with it right from there. They start with that germ of an idea and then they see where the tree branches, but they don’t know where they’re going to end up, which is such a fun and liberating approach, which I’ve only explored in a little bit of fiction that I’ve done, but most of the time, I’m architecting in terms of nonfiction —
+
+Greg Broadmore: I was going to ask. You are more on that architect’s side. You can see an end point potentially or see the thing you’re trying to say. Then it’s about like, “How do I plan to get there?”
+
+Tim Ferriss: Well, now that I think about it and thinking it through out loud, I would say that when I’m in the second phase of my work, that’s true. What I mean by that is my books are actually two broad buckets. The first bucket is research and experimentation. When I’m doing the research and the experimentation, there is a lot of groping in the darkness and finding my way from one interesting thing to the next, so I can’t really predict. Otherwise, it would be very boring where the experimentation’s going to lead for any of the books, which almost always include experimentation, especially the first three and the one that I’m working on right now.
+
+Then once I have all of the material more or less, then I decide how I’m going to pick and choose and massage and create an interwoven puzzle, so to speak. Maybe that’s not the right metaphor, but you get the idea, like an advent calendar maybe, for the reader to experience as they go from one page in one chapter to the next and to the next.
+
+I would say that in the beginning it’s exploration, improvising, and it gives me the dopamine hit and the rush of energy necessary so that when I end up having to do the blueprinting and the bricklaying, which I intrinsically find less enjoying, if I’m being honest, less enjoyable, then I have gas in the tank to push me through that second phase.
+
+Greg Broadmore: It seems like there’s probably not a hard distinction between either. In fact, you’re probably oscillating back and forwards between both approaches all the time to some degree. It’s just some people naturally veer more towards exploring and some wanting to know a place. I discovered a little bit when I was showing the early stage of my current book to a friend and had a character in it. They wanted the character to resolve a certain way. They said, “I hope you have this character beat that character.” I’m being really reductive, so I’m not being specific about anything.
+
+But they’re saying, “I hope that happens.” That was the realization for me that I wasn’t doing it in the way that they were thinking because I was thinking, “Well, really? I don’t know. I don’t know who’s going to win. I don’t know where it’s going to go. I’m just following it and seeing where it goes.”
+
+I think part of that might just be a choice of that feels more fun. That is riding the wave. That’s being on the skateboard, not knowing whether you’ll fall off or not. If you can keep it fun, then you keep on going. So not knowing where it’s going to go is good, but you know that your imagination will present you these options and if it feels powerful, then you’ve hit somewhere good.
+
+Tim Ferriss: Well, I think you touched on a key component there, at least for me, which is effectively, if you have confidence in your imagination in the muse also to present you with discoveries along the way, having that confidence seems to be a prerequisite. I think I’ve always had quite a lot of self-doubt when it came to taking something from beginning to end idea to final product without a blueprint.
+
+That’s part of the reason why, in the last few years and moving forward, I want to do many more creative sprints, short deadlines with really capable people where I don’t know exactly where the end product is going to end up. To play around with honing that confidence in more of an improv jazz way as opposed to an orchestral piece where you have everything figured out in advance and executed to spec.
+
+You mentioned your new book. What is the new book? How did that come? Yeah, sure.
+
+Greg Broadmore: Thank you. I wanted catch on one thing you said there though. Because there is a missing ingredient in that you do need to have the deadline or the reality, you need to have the wolf at your back to some degree. If you’re completely creatively open and just going to find your way, but there’s no deadline, there’s no pressure on you, you can wander anywhere. There is something about making a commitment to someone else. However, you do that to a publisher, to whatever, or taking money on to do the project and knowing that you have to pay it back or whatever.
+
+That wolf at your back is so important. Even if you don’t know where you’re going to go because now you have to go somewhere and you have to pick the wolf. I think that you’ve got to be careful not to take that away from yourself. I think that can be maybe something I’m speculating, but maybe if you get too successful, that can be dangerous because now you know can just freely float along and explore. Maybe you find something, maybe you don’t. But when you know that failure is an option, you go, “Well, I can’t. I have to keep on going. I have to solve this.”
+
+Tim Ferriss: Yeah, for sure. Tell us about the new book and how you ended up deciding on this as a project to put your energies into.
+
+Greg Broadmore: Yeah, that’s One Path.
+
+Tim Ferriss: There it is. Oh, pretty. It’s my first time seeing it. It’s my first time seeing it in this form. I saw the early digital way back, but that is gorgeous.
+
+Greg Broadmore: It came out really, really good. I’m very happy with it. I’ve gone with a publisher called Mad Cave, who I didn’t know before, but they’ve been fantastic. It came out of — I started our game studio. I was one of the few people in Wētā Workshop had a real keen interest in games and I wanted to make our own games. Really luckily, for us, we partnered up this guy, Rony Abovitz, came along into our lives who started Magic Leap, a company that makes 3D goggles, like AR goggles, they call them spatial computing.
+
+We started a studio through them and he was massively supportive of me. Even though I’d never made video games before, I had a vision of how to do that, of what I wanted to see, and I understood what he was trying to do. So we were very lucky that we formed a relationship with him and then made the game studio, and I made a series of games. I’m really proud of them. They were great. They’re very pioneering and very challenging, but sadly for us, not that many people saw them.
+
+Magic Leap only got to a certain level and needed more funding. Then COVID came along. Luckily, Magic Leap managed to limp its way through and is now continuing on, which is great for them and hopefully, they continue to grow and get back to strength. But they were massively punched in the guts and my whole team was gone almost overnight. It was crushing. All the speculative money, as you’d know, sucked up at that moment and went into the safe things, which is totally understandable.
+
+It went into traditional games and it went into food and all the basics that we actually need when we’re in a crisis. But it disappeared from Magic Leap’s endeavor at that time. I actually had games halfway through production, some almost entirely finished. It was a real emotional punch in it.
+
+Tim Ferriss: Brutal.
+
+Greg Broadmore: Yeah, dude, emotional punch in the guts for me. We all went home and I actually sat here thinking about, “Well, what next?” I handed over reins of the game studio. I didn’t really want to make traditional games. I was so in love with making the wild and crazy technological things that Magic Leap was aspiring to do. I went back to basics. I thought I need to go back and do something that I can do on my own. I also discovered about myself that maybe I should take a break from running a big team.
+
+It’s an amazing thing that someone like Richard can do to have so many people doing these things. It’s an art unto itself. But I realized I needed to get back to basics. So I came back — I’m a lover of dinosaurs. I grew up in a very dinosaury place in the bush. This world of cave women and dinosaurs has been in my head for years and it started to crystallize. Sitting here looking out my window at the bush back at home, away from civilization. As civilization seemed to be falling down a little bit. I had these very primal thoughts of this world and the story started to form around those ideas.
+
+It is very much a cave thing. I felt like I was going back into my cave like a weird little shaman and going to concoct something new, something I knew I could do more or less on my own as well. A comic book is a beautiful thing because you can do the entire thing yourself. That said, I have two other writers, Andy Lanning and Nick Boshier, who co-authored it with me. They really helped me to shape it and put a lot more depth into it.
+
+Tim Ferriss: But to your point, you knew that it couldn’t be taken away, in a sense.
+
+Greg Broadmore: I thought, I can do this. I don’t need to hire 20 people to do this. I can do this all on my own. Emotionally, it became a story about technology and about collapse and about being back to basics. I think going from such a technological world, working with Magic Leap who are doing the most highfalutin, crazy stuff, and thinking about that every day about what the future of computing could be, to like, “No, I’m going to work on dinosaurs and blood and gore and people living at the edge of civilization, sorry, the edge of survival.” That’s what really motivated it.
+
+Tim Ferriss: What was the set of tools that you used when you were originally concepting this, and working on layout, and so on? Were you doing the majority of it in Photoshop? What did the set of tools look like?
+
+Greg Broadmore: I tend to draw first mainly in pencil. Then go into Photoshop from there if it’s interesting. But the first thing was really conversations. I would be having conversations with my co-authors just bouncing back, and it was really just percolating on ideas in the broadest possible sense of everything that could happen, why the world would be the way it was, and everything and all the ingredients. Then some idea really catches your mind and I can see a spark of it, see a little vision. Then it’s like, “I’m going to draw that. I’m going to draw that moment.”
+
+Then I started drawing a bunch of those moments that some of them went on to become key plot points in the story. Other things are more matter-of-fact of like, “Well, I know there’s a character, it’s named One Path after this character called One Path.” So I needed to see her. Your mind’s kind of searching around for who she really is. That’s an exercise into itself. I need to draw her. Normally, in a film that would be conceptual design, you might draw a hundred versions of her, but for me, luckily because I’m creating it, I just draw one drawing and I know that’s her.
+
+In doing that for all of the elements of the story, doing that for all the dinosaurs, the places, the characters, I essentially concepted it all out. I don’t need to be as methodical and full as you would with the film. Because in a film, you need to design every single thing in every single place because it’s going to go on, and someone’s going to actually have to build it. But in this case, I know I’m going to be drawing all the comic panels, so there’s a lot I can fill in the future that I’ll solve when I get to it.
+
+But I wanted to draw the high level of it and see it in front of me and get that feeling of like, “Is this a place? Is this actually a thing?” Drawing it all and spending the time with it gives you a chance to live in it and feel, “Does it make sense? Do you want to move further into it? Do you want to explore more?”
+
+Tim Ferriss: What are the best places for people to visit? Or maybe a better way to phrase the question is, how can people get a taste of your artwork and storytelling? That certainly includes One Path, so you can give people an idea of where and when they will be able to get that. But also, if they want to get a taste for the many flavors of Greg Broadmore, I don’t know, wording’s a little awkward, but you get the idea, where should they go?
+
+Greg Broadmore: I’ve just actually released a new website at long, long last gregbroadmore.com. My partner made it for me. I’ve always just relied on Blogspot and Instagram and all that stuff. Never actually done a decent website. Finally, I’ve got a good website and it’s got a bunch of content out there actually. I’m also on Instagram. But it’s probably not comprehensive, but it’s got a ton of my work.
+
+Tim Ferriss: Beautiful. Then One Path, what’s the timeline, and how are people going to be able to get it?
+
+Greg Broadmore: One Path comes out April 8th. That’s like a month from now.
+
+Tim Ferriss: That’s very soon.
+
+Greg Broadmore: I don’t know when they’ll release this. But hopefully, up very soon for your audience.
+
+Tim Ferriss: Within a few weeks of recording this.
+
+Greg Broadmore: Yeah. It’s a 200-page book, but there’s actually four more — sorry, three more books altogether. There’ll be four books in total. Each about the same size. I’ve already been doing it for — well, actually when was the pandemic? When did that start? I’ve lost track of time already.
+
+Tim Ferriss: Boy, 2020.
+
+Greg Broadmore: 2020? It’s been five years. I feel like I’ve just started it, but I’ve already been making it for five years and I’ll probably be doing it for another two years yet.
+
+Tim Ferriss: That’s wild. Now do you foresee — do have any aspirations to see it expand beyond comic books? Have those ideas started percolating? Or have you put those on a leash so that you can focus on getting the work done that’s at hand?
+
+Greg Broadmore: I really pushed that stuff away actually. I work, as you know, in the world of film and video games and so on. Everyone would ask me, “You’re making a new IP. Is it going to be a game? Is it going to be merchandise? Is it going to be film,” and so on. Actually, I was completely uninterested in that. I don’t know why, I’m not being dismissive of those things because I’ve made them and helped to make some of those things. I realized it because I wanted to keep the thing as pure to itself as possible.
+
+There’s a bunch of weird and possibly challenging ideas in One Path that I knew. Let’s say I would just run the simulation in your head. There’s going to be nudity in this book, and I thought, “If I think this creative world has to solve these other paradigms, film, games, whatever, then I know I have to curtail some of the decisions.”
+
+Tim Ferriss: You’ll start censoring or you’ll start editing.
+
+Greg Broadmore: Censoring of the worst, but editing in ways that take all the edges off and make it less unique. I thought, “No, it’s a comic book, it’s purely a comic book, and I’m going to do the things that I can do there.” Then if I’m so lucky down the line, the opportunity arises for it to be other things, then great, we can adjust it there. But I’m not going to think about those things at all. In fact, if I’m honest, I was almost a little disdainful. I was like, “This is a comic book. This is, like, pure, baby.” I should say graphic novel. That’s a grown-up word for it. But I still call —
+
+Tim Ferriss: Yeah, graphic novel. The tuxedo, the black-tie version of the comic book. I’ll point people to One Path, certainly in the show notes, and link to the website as well. When you reflect back on your work and time with Wētā Workshop, can you think of an example of something that was particularly hard to pull off that you ended up being very proud of? I’m just deeply interested in following you through that journey, having you tell a story of any project that comes to mind.
+
+Greg Broadmore: The one that resonates for me is District 9. I got to work on District 9, which was Neill Blomkamp’s debut film. I’ll tell you the whole arc of that and jump into a couple of moments from it. But I know other people had this experience. It started as Halo. Actually, we started working on Halo, a feature adaptation of the video game, amazing video game. It started there with no director. So Richard just said, “We might be working on this. Peter’s trying to produce it. He’s going to try and find someone, let’s just go.”
+
+We don’t have a script, we don’t have anything, we just have the game. We actually spent a long time creatively exploring that. Then we met Neill Blomkamp, and that was a revelation. I had my doubts about that as a film because I thought, “It’s a great game, but how can this be a film?” I wasn’t even quite sure. But then when Neill turned up and he’d never made a film before. I’d seen his little shorts, I was like, “Holy hell, okay, now I get it. This guy has got a style and a vision and it’s completely unlike anything else. Now I can see the film. This is going to be amazing.” But then all of a sudden, one day that whole film fell over. There was some disagreement —
+
+Tim Ferriss: Just for context, at the time, what had you been brought on to do, exactly?
+
+Greg Broadmore: I was doing concept design. What workshop would’ve done, I don’t know, but the aspiration would’ve been to make many of the props and vehicles. In fact, we were making a warthog and we were making many, many elements of the physical aspects of the film. But the whole thing fell over. I had poured my heart into that film, I had worked so hard and loved the work that I’d done, and none of it will ever be seen. It’s all locked away. I’d done hundreds of drawings and my friends had done hundreds and thousands of drawings and illustrations. It’s just an astonishing amount of work. Then one day it was just gone, film’s done. Then one day you’re depressed and then the next day you’re just like, “Well, got to keep on going.” You get up and move on to the next thing.
+
+Then all of a sudden Neill’s making — the idea of District 9 came along and we’d seen Alive in Joburg, his short that was the basis for that. That was like, “This is even more exciting. No disrespect to Halo, but now we get to create. If this can happen, we get to create a science fiction world from the ground up. It can be whatever we dream up, and Neill has a crazy imagination. This is going to be fun,” and it was. But Neill, like many directors, he knows what he wants. He has complete confidence and faith in himself, knows when he doesn’t like something. But he’s happy to change course immediately if he feels like that’s not working. So the story, I would say, of a challenging thing, overcoming it. This happened to me, but it happened to other artists as well.
+
+I designed many aspects of the film, mainly the robotics and the weapons and spaceships and stuff like that. I was working on the exo suit robot, and we designed a full organic alien that I really loved. It was like a grown robot as if it had skin, and it was actually manufactured using organic techniques. So I thought it was a really interesting idea to adhere and it looked robotic, but it also looked really different. I thought it looked cool. But I had my own little doubts about parts of it, but I really liked it. Then one day — we even went so far as to build a huge prop and ship it to South Africa, and they shot scenes with Sharlto Copley in the thing. I’m like, “This is cool.” Then all of a sudden Neill just changes his mind like, “No, it’s not going to work. That thing doesn’t quite work. I want something bigger, scarier, heavier.”
+
+Again, I had that same moment at the end of Halo of being — my design that I poured months into, that my friends built. That’s nothing. That’s just air now. Goodbye. Then you have to let it go, snap yourself out of it. You cannot be depressed, you can’t be bummed. You’re just going to be like, “Okay, now I’ve got this new problem to solve. I’ve got to figure out what this next version is.” I think I probably did 30 designs in the course of a week. Just working my ass off to create as many options as possible. Part of it’s competition. It’s like, I wanted to make sure I got my design in there. It’s the wolf at your back.
+
+The thing that came out of it was even better. Neill was absolutely right. He got the thing that solved the creative problem that was this threatening, scary, but also superpower for Sharlto to wield. By the way, just for someone else’s experience, the guy who designed the aliens is a friend of mine, David Meng, amazing sculptor. He had a similar experience where he worked for months on an alien design. We made it as prosthetics. It was all going to be prosthetics. He put guys in suits and then they walk around wearing these alien prosthetics. He sculpted this beautiful design, beautiful prosthetic, they painted it, sent it to South Africa. Then Neill went like, “Don’t work.”
+
+Tim Ferriss: Did Neill give reasons? Or was it just a very simple, “It doesn’t work, we need something else?”
+
+Greg Broadmore: I can’t remember. In my mind, it just doesn’t work. Neill doesn’t have a lot of fluff. But he may have given more. I can’t remember. But anyway, I saw in Dave what I felt, which is the slip. He had made a Fabergé egg of astonishing detail, this beautiful thing, and then goodbye, it’s dust. That experience is just so common in making film. But anyway, the alien that he made out of that, he collapsed to the floor, and then he pulled himself back up and the next day he was sculpting the new thing. What finally made it to the film was even better than the other designs.
+
+Tim Ferriss: I want to hear more about this. I want to dig into this psychological resilience piece a little bit because I’ve spent time with a lot of artists. You certainly have spent time with more artists, but it’s easy for an artist, whether that person is a visual artist or a writer or otherwise, to get attached to their darlings, they get very attached. It’s incredibly understandable. Then I recall distinctly — this is a few years ago, I think maybe it was two years ago, and I did my first creative sprint, coming back to what I want to do more of, with a number of concept artists who’d done a lot of work for Dungeons & Dragons, Magic: The Gathering, really incredible with fantasy concept art. But also, really fully fleshed out covers of, you name it, any iconic player’s handbook, etc, from D&D or otherwise. Like they just created these masterpieces. But what struck me most was not their capabilities, it was two aspects. I mean, they were both good at quality, but exceptionally good at speeds. And number one, it was just the speed and their ability to hear an idea, sit down for an hour with a pot of coffee and start with silhouetting a lot of the times, and then smashing out ideas.
+
+But the characteristic that stuck out to me most, and I don’t know if this is born or built, so that’s what I want to ask you about, is how unattached they were. So I would come in and we’d do, meaning, like they would produce so much work. And I was working with, let’s just say, a project manager, we were all in person, like shacked up in the middle of the countryside at this hotel just to do this work —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: On this fantasy world that has been kind of renamed. Initially, it was The Legend of COCKPUNCH, long story, but later, Legends of Varlata, and could actually be modified very easily to be a serious, viable, full-blown fantasy world.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Which might be something I explore. But the reason I bring it up is, I would have a decent idea of what I want to do, because I also grew up collecting comics, wanted to be a comic book penciller, so I think very visually. But they were accustomed to having 70 plus percent of their stuff Xed out by IP holders, and starting over. And they were so unfazed by it, it stuck with me ever since my first day watching them be so unattached. And I brought up the project manager, because he’s done, actually, I have his new book here.
+
+Greg Broadmore: Would love to see it.
+
+Tim Ferriss: So one of them was Adam Lee, and you can see here, this is —
+
+Greg Broadmore: Oh, yeah.
+
+Tim Ferriss: Worlds and Realms —
+
+Greg Broadmore: Classic.
+
+Tim Ferriss: Dungeons & Dragons. It runs through, basically 50 years of gameplay and different worlds within the D&D ecosystem. But he and his writing partner both said to me, they were like, “Be super blunt. You don’t have to wear kid gloves and dance around it.” They were like, “If you don’t like something, just say you don’t like it.”
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: And it was very, very hard to do, because I get so attached to —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: My own little middling attempts at artwork. So how do you develop that? Is it just brute force repetition, where you’ve built up so much scar tissue over time that you get better at handling it?
+
+Greg Broadmore: It may be, those guys sound very, very good at handling that. I would probably be more emotionally fragile, even, than them, because I do get protective. But I did realize early on, working at Wētā Workshop, because I’d never done professional work before, especially not at the speed. And I love the speed, by the way, and I think speed gives a work a quality of its own, which I think is what I love and chase after. But I realized you have to generate a ton of work, whether you like it or not, you’re in competition with your other artists, which is a great camaraderie, but it’s still a competition.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: And you’re all bouncing ideas off each other, and most of your ideas will be rejected. And you kind of know this, because if you are doing a hundred versions of a character and your team’s doing a hundred more each, it’s only going to be one of them, right.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: So you kind of know, whether you’re aware of it or not, that a lot of that stuff’s going to be thrown away. But it does hurt when it is thrown away, especially an idea that you’re passionate about. And so you realize very early on that you have to become unattached. You do need to care about the work deeply, it is your baby. You have to care about it, and if you don’t care about it, the work won’t be any good. So you cannot become cynical to the work, you have to love it, and you have to be able to let go of it. Those two things are really an opposition, because you’re fighting with yourself. It’s so hard to just let go when you care so deeply, but that’s what you have to learn, you just have to go —
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: And those guys obviously mastered it, they knew that they could be in the state of loving the work and enjoying it, and then just be like, whatever will happen, will happen. And know that the joy is not actually in what happens next with that, it’s actually in the doing of the work itself. As long as you did something great there, well, then now I have an opportunity to do something great again or try. I think they obviously have mastered that, and that’s what I tried to chase after, was like, well, I love the work, the process of doing it, I want to enjoy that process and whatever will be, will be after that.
+
+Yeah. At least you’re trying to get there, that’s easier said than done because —
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: — you still care about it going on and becoming a part of the movie, so there’s a competitive part of you that wants to win. That doesn’t go away.
+
+Tim Ferriss: Yeah, I feel like you need that though, right? And that strikes me as the crux of the challenge. It’s easy to, I shouldn’t say it’s easy, it’s not easy. But it’s easier to either care a ton or not care at all, but it’s really hard to care a lot and then also have the, what will be, will be attitude with the work. Like that strikes me as a combination that is super tricky, but it’s really, really important. I think I’ve become better at it with writing.
+
+I’m still very precious about anything that I paint or draw, I mean, ridiculously precious. But with the writing, it’s like, hey, look, it doesn’t matter how cute and clever you think that page or that chapter or that character is, if your test readers say it’s fucking boring, or it’s confusing —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: You’ve got to kill it.
+
+Greg Broadmore: It is. Right, yeah.
+
+Tim Ferriss: Yeah, yeah.
+
+Greg Broadmore: Well, they’ve given you an, even though it’s subjective to them, it’s an objective fact. And it’s not like you could argue with them, “No, this is why it’s good.”
+
+Tim Ferriss: No.
+
+Greg Broadmore: Right.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: That’s something in the art, you’re an artist, probably realize this, if it didn’t make sense to you, if it didn’t solve the problem, if that’s not the character you were after, they can’t argue you into saying why it is. You felt it and it’s true. And so the way to solve that problem is to go back and do it again and have another go at it, because that’s how you would actually solve the problem and actually come up with the right answer. You won’t solve it by some meta analysis of, “This is why. Look, here’s my study, here’s all my diagrams of why this drawing is just the one you should want.” It doesn’t make any sense.
+
+Tim Ferriss: Are there any particular, and I suppose they would need to have work that people can see, they don’t have to be concept artists or concept designers. But are there any particular artists who have really inspired and informed how you do what you do? Now, that could be the aesthetic, but it could also be, I mean, you mentioned Salvador Dali earlier, right, it could be process, it could be philosophy, it could be anything. I’m just wondering if you could sort of mention any of your influences —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Or inspirations, whether past tense or current.
+
+Greg Broadmore: Yeah, yeah. I tell you, I’m not really very influenced by technical, I’m not very interested in the technical a lot of the time, like how something is done. I find it interesting, but it doesn’t really motivate me. But there are artists and it doesn’t really matter how they do their work, that have absolutely inspired me. Salvador Dali was one of those ones, where it’s like, I love realistic looking stuff or quasi-realistic looking stuff and then someone who twisted reality in such a way, it was just mesmerizing. But I’ve actually got a book here, I should — have I got it here? Oh, no, maybe I put, oh, no, there it goes. The artist that really blew my mind as a teenager, I grew up reading 2000 AD, Judge Dredd —
+
+Tim Ferriss: Oh.
+
+Greg Broadmore: A British series of comics.
+
+Tim Ferriss: Fantastic.
+
+Greg Broadmore: Oh, the best, right?
+
+Tim Ferriss: Unreal. Oh, yeah. I think it might’ve been how I was introduced to Simon Bisley for the first time.
+
+Oh, Sláine: The Horned God.
+
+Greg Broadmore: Right.
+
+Tim Ferriss: Oh, my God, look at that.
+
+Greg Broadmore: This is the book, so my —
+
+Tim Ferriss: Right there.
+
+Greg Broadmore: I was 15 and reading 2000 AD, and I was getting better at drawing, I wanted to be a comic artist, I really wanted to work for 2000 AD. And I started to get to a level where I’m thinking, I think I’m okay, I think I could send in a folio, I think I could do this. And then this came.
+
+Tim Ferriss: Oh, man.
+
+Greg Broadmore: Actually, the book before this came out, was A.B.C. Warriors, which he did in black and white.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: It’s all penmanship. But that work, his work, just fricking blew the lid off my mind.
+
+Tim Ferriss: Oh, my God.
+
+Greg Broadmore: Right.
+
+Tim Ferriss: It’s so nuts.
+
+Greg Broadmore: It’s still unparalleled. It’s Frank Frazetta and Corben and all of that dialed to a totally unique level and I don’t know how he does it. I know he’s just a magician, he’s on another planet. He summoned true magic here, and I’m interested in how he did it, but I don’t know. I just know that that may be —
+
+Tim Ferriss: Can I just have a super nerd fest with you for a second?
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: So hold on for one second.
+
+All right. So for people who don’t have any idea what the hell we’re talking about, you can look him up, but this is —
+
+Greg Broadmore: Oh, yeah, yeah.
+
+Tim Ferriss: So this is —
+
+Greg Broadmore: I have that book.
+
+Tim Ferriss: Simon Bisley. Yeah, The Art of Simon Bisley, Heavy Metal, man, what a great magazine that was too.
+
+Greg Broadmore: Yeah. I think they just re-released it, by the way, the French version, Métal hurlant — or however you say that.
+
+Tim Ferriss: I can’t remember exactly how I chanced upon it, but I remember picking up Sláine: The Horned God, and just thinking to myself, what in the fuck is this?
+
+Greg Broadmore: How is it even possible?
+
+Tim Ferriss: This is incredible. How is it even possible?
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: And then his work on Lobo, I remember that very distinctly as well. Just an incredible, incredible artist. Okay, now are you inspired or deflated?
+
+Greg Broadmore: Both. To nerd on him for one more second though, did you ever buy his Bible?
+
+Tim Ferriss: No.
+
+Greg Broadmore: He did works from the Bible, mainly from the Old, oh, no, no, from both Bibles, Old and New Testament. Dude, go out and buy it now. I don’t know if they are still in print, but there’s two volumes of it, and they’re absolutely incredible.
+
+Tim Ferriss: Wow.
+
+Greg Broadmore: Yeah. Really raw, but just, they’re beautiful. But, yeah, to your point, it was both deflation, it was like you had the rug pulled out from under you, like I thought I was maybe good enough. And then you realized, no, no, the level is up here somewhere, the ceiling just went way up.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: And the ceiling was already very high, so yeah. And so it was a great thing to happen, really. It was depressing, I was actually really, like, punched in the guts by that as well. But then you have to, you’re like, well, I just need to get better. And I did something actually, that I weirdly still feel a slight shame for, because I never draw from life or from anyone else’s drawings, I always draw from my own imagination. But I started copying some of his drawings for a while, thinking that if I could figure out how he does his line work or something like that. It was useless, it was a waste of my time, but I did it for a little while.
+
+Tim Ferriss: So you mentioned two other names, so Frazetta, Frank Frazetta.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: And for people who don’t know Frank Frazetta, I mean, go look at everything you can find.
+
+Greg Broadmore: Which were great.
+
+Tim Ferriss: I remember being so enthralled by this, not going to do it justice, but Viking-like character with the kilt, with the —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Polar bears pulling the chariot.
+
+Greg Broadmore: Oh, yeah, yeah, yeah, yeah.
+
+Tim Ferriss: And his mastery of, not just the male figure, but also his women are just like, I mean, come on.
+
+Greg Broadmore: Yeah. Oh, my God.
+
+Tim Ferriss: Unbelievable.
+
+Greg Broadmore: Those butts.
+
+Tim Ferriss: Like that woman coming out of the water/murk with the snake wrapped around her, with that —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Huge creature in the background.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: The artwork is just, yeah, I mean, it’s hard to describe. But he was such a genre breaker in so many ways. You mentioned another name that I didn’t recognize, Corben.
+
+Greg Broadmore: Yeah. Richard Corben. I don’t know where he’s from, I think he was an American artist, but he was in a lot of Heavy Metal. And in fact, there’s an homage, one of my favorite moments in Sláine is, I won’t find the page, but there’s an homage where they talk about Sláine being the King of Kings. And in the background of the shot, there’s Sláine being throned as the King of the Celts or whatever. And behind him is Den, I think is the character from Richard Corben and Conan. And they’re both —
+
+Tim Ferriss: Ah, amazing.
+
+Greg Broadmore: In the back of one tiny panel, are these two masterful paintings of Conan in the style of Frazetta. But in the front, it is Sláine in the style of Bisley.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: And behind that is Den, in the style of Corben. And he had a very specific —
+
+Tim Ferriss: Oh.
+
+Greg Broadmore: Way of painting. In fact, he’s a bit like you are now, blue light on the side, right.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: Corben had this very specific way of lighting his characters and it’s, anyway. But yeah, he did a Heavy Metal series. I actually don’t even know what the story is about, I don’t think I even read them, I just looked at them.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: I just sat there looking at his work and go away and find his work, you’ll absolutely love it. He does big, powerful masculine figures, as well as some beautiful, strong women, that will blow your mind. Yeah, yeah, you’ll love it, you’ll love it.
+
+Tim Ferriss: Okay, cool. I’ll check it out. I saw, believe it or not, not far from where I’m sitting here in Austin, Texas, I saw my first original Frank Frazetta piece, which is owned by Robert Rodriguez, who’s a famous film director. He did Sin City, he’s worked with James Cameron on Alita: Battle Angel, he’s done tons and tons of movies. And he collects objects, kind of like you and Richard also, he’s just got the best toys. And he has a Frazetta piece when you walk into his house and it’s —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Lit as if it’s in a dungeon of sorts with this very dramatic lighting. And it’s just —
+
+Greg Broadmore: There was a museum —
+
+Tim Ferriss: It’s amazing work.
+
+Greg Broadmore: There was a museum somewhere in New York, of Frazetta’s work, but I think there was some family issue, so I don’t know what state it’s in now. But I had the chance once, of, I was in New York and me and my partner, we could either go to the Frazetta Museum, or that’s what I wanted to do, but I actually didn’t know how to get there. I didn’t know where it was. And to be honest, if I’d gone there, I don’t think I would’ve found it. But the other choice was to go, and to mention one more artist, was to go down to Delaware to where N.C. Wyeth had a studio. So he was a turn of the — do you know N.C. Wyeth’s work?
+
+Tim Ferriss: I was going to try to bullshit, I don’t, no.
+
+Greg Broadmore: Yeah. He’s an illustrator from the turn of the last century and —
+
+Tim Ferriss: The second.
+
+Greg Broadmore: So he did famous book illustrations of like pirates.
+
+Tim Ferriss: I was going to say, was he kind of like Leyendecker’s vintage —
+
+Greg Broadmore: Yeah, yeah. In that area, maybe little earlier.
+
+Tim Ferriss: Who was pre-Rockwell.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: That’s why I do think I’ve come across the name, I wasn’t totally bullshitting.
+
+Greg Broadmore: Yeah. Howard Pyle.
+
+Tim Ferriss: There was a flicker of recognition. Yeah, okay.
+
+Greg Broadmore: Howard Pyle was another great American illustrator and he was one of his students or compatriots. And anyway, his work is astonishing, I went to see that. And that was semi-religious standing in front of his paintings, they were huge.
+
+Tim Ferriss: N.C. Wyeth? Wyeth?
+
+Greg Broadmore: Yeah, the letter, N-C Wyeth.
+
+Tim Ferriss: Oh, there he is.
+
+Greg Broadmore: Yeah, yeah. And —
+
+Tim Ferriss: N.C. Wyeth.
+
+Greg Broadmore: That absolutely mind-boggling and religious experience.
+
+Tim Ferriss: Oh, wow.
+
+Greg Broadmore: Standing in front of those paintings. I recommend, if you’re in that part of the world, going there, it might still be there. In fact, it’s where the studio is —
+
+Tim Ferriss: Yeah, this stuff’s incredible, yeah.
+
+Greg Broadmore: Yeah. Super mesmerizing. But he is a great painter on the caliber of the great painters of Europe and that illustrious history of great paintings, he’s up there. But yet he’d be called an illustrator, which is a word that trivializes, really, what he does.
+
+Tim Ferriss: This was true for a lot of those artists in that generation.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Right. And I mean —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Maybe it’s just because it was commercialized. I mean, Norman Rockwell dealt with a lot of this as well —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Of course. But Leyendecker, when he was creating sort of iconic male figures for selling button up shirts and suits or whatever, I mean —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: As works of art, they’re spectacular.
+
+Greg Broadmore: They take you there, you feel them, you fall into those images and you feel like you are there in a way that even a photo sometimes can’t achieve. I find that mesmerizing.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: I’ll tell you something, I just want to throw another name out there. Bill Watterson, Calvin and Hobbes.
+
+Tim Ferriss: Oh, 100 percent.
+
+Greg Broadmore: When you say Rockwell, my mind jumps to Bill Watterson, like absolutely mind-boggling illustrations. I know they’re comic books, right, little cartoons in a newspaper, but every now and then he got to play with his illustration and take it to another level and he would —
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: And you would really see that he was a true master. He —
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: Unbelievable.
+
+Tim Ferriss: I still remember, to this day, I mean, I own just about every compendium of Calvin and Hobbes, but what, for whatever reason, sticks in my mind, are his color paintings of Calvin and Hobbes outside, during the fall.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: With the leaves changing color.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: With the birch or aspens, probably birch, and other trees and just the kaleidoscopic, autumnal colors. That foliage is partially what I remember. And also, as a side note, now this could be apocryphal, I don’t know if it’s a true story, but I like the story. Which is, Bill Watterson, to my knowledge, kind of like you with One Path, was quite a purist with his —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: With his characters and with Calvin and Hobbes. And I recall at one point, I think it was one of his partners or maybe it was a pitch for licensing, to create a Hobbes plush toy that was really large. And so the story goes, I believe he took a pair of scissors and just attacked it and ripped it to shreds —
+
+Greg Broadmore: Really?
+
+Tim Ferriss: Yeah. As his way of saying, “Fuck no, over my dead body.”
+
+Greg Broadmore: Never, no.
+
+Tim Ferriss: “We’re not going to do it.” Which I found so endearing, I mean, I like to believe it’s true. Yeah.
+
+Greg Broadmore: Is he still going? Do you know?
+
+Tim Ferriss: I don’t know what he’s up to. He’s very, as I understand it, very reclusive.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: For years, since I started the podcast, he’s been on kind of my top-10 list. I was like —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: If he would ever play ball —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: — that’s the key ingredient.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: But if Bill Watterson would ever really sit down and just have a really open conversation, where we could just shoot the shit, have a cup of tea or a drink, who knows, whatever his preference is, and talk like this.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Man —
+
+Greg Broadmore: I would love to know —
+
+Tim Ferriss: The stories that you could get.
+
+Greg Broadmore: What you’ve just intimated there and talked about, why that emotional reaction to that merchandise, even if that’s not specifically true —
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: It’s true that he didn’t really want to commercialize it in those other ways, why?
+
+Tim Ferriss: Yeah, yeah.
+
+Greg Broadmore: I find that really interesting, because I totally understand. I’m maybe not as adverse to that as he sounds like he was. But I think all the time about the reasoning for making art, why are you doing it?
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: What is art about?
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: It is more than just drawing pictures and making stories — it is finding truth. And maybe he found some real profound truth and he’s expressed it and that anything else was actually a watering down to that truth, perhaps, I’m just guessing. Because I feel that art and the act of creativity, broadly and generally, or actually, no, I’ll come back to me specifically making art as comic books and stories, is this quest to find truth or to point towards truth. It is like science, I don’t think science and engineering and art are very different at all. I just think that, like the way I was describing with the way I create, your imagination is throwing up explanations, ideas, theories, possibilities, and then you are the instrumentation, if it’s a scientific analogy. You are the instrument, your emotions are the instrument. Some part of you throws up a conjecture and then your body tells you that feels right, and that’s the scientific instrument confirming or giving you the measurements, right?
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: It’s a little bit different than science in this way, but there’s like, you know when it’s true, you know when it’s right, and that’s why you go down that path of chasing that thing. And I’m not saying that means that it’s going to be true for everyone, but you know it’s true for yourself. And so there’s something in that and the beam as one of the most liberating ways of creating.
+
+Tim Ferriss: Can you think of a project that fundamentally, maybe that’s too big a word, but changed you in some way, right. So you, before the project and you, after the project are different. That could be a skill set, it could be a set of beliefs, could be anything. But do any projects come to mind, where you before and you after, are quite different in some respect?
+
+Greg Broadmore: It’s not a project, I’m going to cheap out in a way, but also talk about something very meaningful, and I know it’s something you think about, that’s having a child. I was talking about Aaron Stupple before, but it’s having a child. I was not prepared, not that a child is a project, I guess in a way. But having a child, when my boy came out, it was like instant. Whoa, I just snapped and you moved your head at the same point. That was cool. It’s like I’m in control.
+
+Tim Ferriss: I’ve been well-trained. I’m like The Manchurian Candidate, all your work bearing fruit, yeah.
+
+Greg Broadmore: I cannot tell you, most changes in your life, you are working on a project, something goes right, something goes wrong, you have to internalize it, you feel something about it, but you have to sit there, internalize it. It might take you, maybe it takes you a few minutes, maybe it takes you a week, maybe it takes you a month, maybe it takes you the rest of your life. But you internalize it and then you figure out a new thing from it. But weirdly enough, having a child was instantaneous, I felt like I was a different person. I had a different realization. All my priorities just got reshuffled in a split second. I felt like a profound connection to that person. And I realized all these things, like holy hell, he’s going to discover that there are elephants, like what? Or, right, there’s this whole world of possibility for him.
+
+And then also, you start thinking, this is maybe one of the profound things that I think most parents get is, you, instead of thinking of your own life, you start thinking beyond your life, you start thinking multi generationally. Without even wanting to, you just can’t help it, but you start thinking that way. Because you start thinking, “Oh, my God, I’ve got to make sure things are good for them in the future. I’ve got to give them the best possible chance.” So you start thinking, your horizon goes way out into the distance, which is a beautiful thing.
+
+And then there is the mirror of a child and that everything you do is going to be reflected back at you. So you can see the good and the bad, right.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: And selfishly, it’s a chance to learn because you go, you realize when you’re doing something, and this was a bad choice, I shouldn’t have talked to him that way, I shouldn’t have pushed him to do that or I shouldn’t have, right. You can immediately know, you feel it and it’s like, oh, boy. If you want self-help, be a parent, it will teach you what you’re doing wrong very quickly. I’m not saying you have the solutions, but you know when you’re getting it wrong, so it gives you this opportunity to improve because you see where you’ve done something and it didn’t quite work. You see it really clearly. Yeah.
+
+Tim Ferriss: Yeah. Well, that’s hopefully my next big adventure. I got to work on some prereqs, but that’s definitely the orientation at this point, so.
+
+Greg Broadmore: Do it then. Do it.
+
+Tim Ferriss: Yeah.
+
+Greg Broadmore: You won’t regret it.
+
+Tim Ferriss: Yeah. I am excited about it. Really excited about it. And Greg, we’ve covered a lot of ground here, we didn’t even — you know what work of yours has stuck in my mind, selfishly, because at some point I’d still like to do a collaboration of some type, but it’s —
+
+Greg Broadmore: I would love that.
+
+Tim Ferriss: It’s the bestiary that you created with the scaling for human size.
+
+Greg Broadmore: Oh, yeah.
+
+Tim Ferriss: You know what I’m talking about?
+
+Greg Broadmore: Yeah. For the Dr. Grordbort’s world.
+
+Tim Ferriss: Exactly. And I just remember flipping through that and it gave me such a nostalgic dopamine hit, because I was thinking of the Fiend Folio and those —
+
+Greg Broadmore: Oh, yeah, yeah, yeah.
+
+Tim Ferriss: And those hardcover books from Dungeons & Dragons. But what they did not have, which you put in, were the sizing for the human figures —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: So people could envision their proportions and so on. Which, for whatever reason, just got locked in my brain. I mean, from start to finish.
+
+Greg Broadmore: But yeah, I love National Geographic and creatures in general, animals and so on. Just rendering the body of something like that is just really, really fun and mesmerizing, you kind of lose yourself in it. But I had this book as a kid, I think, so yes, Dungeons & Dragons and The Fiend Folio, those kinds of things, I loved all of that with all the stats. And if you read the Grordbort’s books, I’m kind of riffing on that and making fun of that. It’s kind of like someone who’s —
+
+Tim Ferriss: Sure.
+
+Greg Broadmore: — clearly not a scientist writing this information. Maybe they’ve heard it third hand and they really don’t know what they’re talking about it, so it’s kind of taking the piss out of itself. But the other thing was a book, and I’ve forgotten the name of it now, but it was a book from the, it would’ve been the late ’60s, early ’70s. And I found it in the public library as a kid, on alien worlds. Man, I’m forgetting the name, yeah, I was in that story, because I don’t even remember the name and it’s terrible not to remember the name, maybe you can flash it up. But there was this 1970s book, I want to say McDougall or Dougal or something like that, was the artist.
+
+And he had invented an entire alien world, much like Wayne Barlowe has done before, invented an entire alien world and drawn every creature and written about everything as if they were real. And I saw that book at probably seven or eight years old. And that’s something about that, creating something out of your imagination, but utterly being convinced that it is real and pretending that it’s real, to the point that you summarize all of it. I love that, I don’t know why I love that so much, but it’s super fun.
+
+Tim Ferriss: Grandpop’s ray gun, take it out of the case.
+
+Greg Broadmore: Yeah, yeah.
+
+Tim Ferriss: Dust it off.
+
+Greg Broadmore: Yeah, exactly.
+
+Tim Ferriss: Clean the moths.
+
+Greg Broadmore: Maybe we’ll need them for when we land on Mars, got to take some ray guns, we must.
+
+Tim Ferriss: We may need them. We may need them, yeah, I mean, I’m sure we’ll need something like that. So Greg, let’s land the plane, we’ve been going for two and a half hours here.
+
+Greg Broadmore: Oh, great, yeah.
+
+Tim Ferriss: And is there anything else you would like to say to my audience, request of my audience, point them to, anything at all that you’d like to say before we wind to a close?
+
+Greg Broadmore: Yeah. My new book, One Path, is coming out very soon, April the eighth. So yeah, please come and check it out. I hope you like it. If you like dinosaurs, you’re going to enjoy it, there’s a lot of dinosaurs in there. If you like blood and gore, there’s also a lot of that, it is a graphic novel. And yeah, yeah, I hope you really dig it and come and check it out.
+
+Tim Ferriss: And would the best place to look be your website or would it be somewhere else?
+
+Greg Broadmore: I think so. Probably come to gregbroadmore.com and you can be directed from there.
+
+Tim Ferriss: All right.
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Perfect. Well, we will drive people there. Greg, so nice to see you, man. We’ll need to —
+
+Greg Broadmore: Yeah.
+
+Tim Ferriss: Share a drink and scheme up some wild ideas in person, hopefully, in the not too distant future.
+
+Greg Broadmore: I would love that.
+
+Tim Ferriss: And we do share a penchant for heavy music as well, which we didn’t have a chance to get into, maybe some juvenile delinquency also. For people listening, going to include everything we mentioned, in the show notes, as per usual, tim.blog/podcast is where you’ll be able to find that. Just search Greg’s name or Richard’s name or, I guess, Wētā is probably the easiest, W-E-T-A, and you’ll be able to find everything. Greg can be found at gregbroadmore.com and we’ll link to that in the show notes as well. Until next time, folks, as always, be just a bit kinder than is necessary to others and to yourself. Thanks for tuning in.
+

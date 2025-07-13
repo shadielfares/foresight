@@ -1,0 +1,2212 @@
+Please enjoy this transcript of another episode of “The Random Show” with technologist, serial entrepreneur, world-class investor, self-experimenter, and all-around wild and crazy guy Kevin Rose (@KevinRose).
+
+We trade our latest discoveries, and I think it’s one of our best. Tons of actionable takeaways and laughing fits. We cover dozens of topics: new projects, what I’ve done on my recent sabbatical after the podcast’s 10th anniversary, Kevin’s latest findings and shenanigans, real vampire protocols, and much, much more.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform.
+
+Kevin Rose: Hello, friends and family. Welcome to the Random Show. I am here in my studio with Tim Ferriss. Tim, you’re here in my house.
+
+Tim Ferriss: I know, it’s so nice.
+
+Kevin Rose: Shouldn’t say that my studio is in my house. We can still see that. It’s fine.
+
+Tim Ferriss: It’s in your Batcave.
+
+Kevin Rose: I’m glad you’re here, brother.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: It’s good to see you in person.
+
+Tim Ferriss: Yeah, it’s great to see you. I’m really, really thrilled that it worked out. And what better way to get off of my podcast sabbatical than with saying hi to my good friend Kevin.
+
+Kevin Rose: Yeah. How did that feel, by the way?
+
+Tim Ferriss: So the sabbatical, first time in 10 years that I’ve taken a break from the podcast, and it’s been four months, roughly, of sharing a lot of the greatest hits. And it’s been a combination of feeling fantastic. And I’ve been working on other projects that are really energy in for me, my first new book in the seven years that I’ve been working on.
+
+Kevin Rose: That’s not a sabbatical, by the way.
+
+Tim Ferriss: Well usually though in fairness, the word sabbatical is typically used in academic circles. And when they take a break from teaching, they do other things. They do other things. And I think you and I, if we’re being honest, are both working dogs. We can take breaks, but it’s like you take some type of working dog, like a border collie, you stick it in your apartment in New York City and it doesn’t run, and you’re like, why is it chewing the couch? It’s because it has to run. And so for me to do the deep work of books, specifically, is just a different shift, different gear than feeling the pressure of putting out a podcast once or twice a week.
+
+Kevin Rose: Do you think that idea of shifting between those two — podcast and then book, podcast, book, if you had to do that, it breaks up your train of thought too much or so much so that you wouldn’t be able to have — do you need the undivided time?
+
+Tim Ferriss: You need the undivided time.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: Yeah, and I’ll make a recommendation or something that makes it very clear. There is an essay by Paul Graham, co-founder of Y Combinator, famous for many different reasons. Also spectacular writer, very good painter also I believe. But he wrote an essay called “The Top Idea in Your Mind,” or “A Top Idea in Your Mind.” And it talks about effectively attention as a currency and the importance of there’s a separate one, maker’s schedule versus manager’s schedule, something like that. But the importance of uninterrupted blocks of time, particularly if for instance, you’re dealing with a complex, this is true of coding for instance, also true of writing, where you’re juggling 27 balls in the air.
+
+Kevin Rose: Right.
+
+Tim Ferriss: And if you get distracted and you drop four, you have to start over again. And you have to build that rhythm and it takes a really long time. So if I’m thinking about the pressures of, or the prep for, even if I’m having fun, of a podcast, it’s basically robbing myself of let’s just call it 20, 30, 40, 50 percent of the subconscious cycles that I could apply to the book even when I’m not thinking about it.
+
+Kevin Rose: For something like this, obviously we’re just bullshitting, but I’d imagine a typical guest for you on the kind of research and due diligence side is like, is that a couple of days work for you in terms of —
+
+Tim Ferriss: A couple of days. In the case of some guests, it can be a few weeks if it’s way outside of my normal areas of —
+
+Kevin Rose: Oh, interesting.
+
+Tim Ferriss: And even if we look at a few days, it’s a lot of prep. It’s a lot of thinking about the interview even when I’m done prepping, which avenues I might take based on answers that go in a particular direction. So I take the craft of podcasting very seriously, although it’s been a chance also for me, and I wanted to take this sabbatical not just to work on the book, but to think about first 10 years have been great. If I continue to do this, which I would like to do, how do I keep it as exciting for me personally as possible? And if I do that, can I differentiate it in a podcast ecosystem that is increasingly oversaturated?
+
+Kevin Rose: Yes. This is the reason I just stopped doing podcasts.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Well, I didn’t stop it, but I cut back to one episode every six weeks. It’s because when I have a guest on, I totally get what you were saying, because I remember I hit you up, I had a dear friend that launched a new book and you’re like, “Hey, I’m not doing any new books.” And when you look at that person, great book, I loved it, they did 10 podcasts and they all talk about the same thing. So then you’re just playing the like, okay, maybe I want Tim’s version, maybe I want whoever else top ten podcaster out there.
+
+Tim Ferriss: Yeah. You’re eating kung pao chicken no matter what.
+
+Kevin Rose: Right.
+
+Tim Ferriss: It’s just whose sauce is slightly different?
+
+Kevin Rose: Exactly. And it doesn’t feel is additive to the ecosystem to just do the same thing that’s going around on the circuit, right?
+
+Tim Ferriss: Yes. Let me get your take. Also for people listening, I would love your take. I’m doing a lot of reflection on my own, so I’m not just outsourcing this, but in terms of rules for myself moving forward, I’ve thought about a few things. One is to basically take a barbell approach where I’m interviewing people who effectively no one has ever heard of, right? So who knows, the popcorn king of Milwaukee or whatever, some master who has not ever made the rounds. Ideally it’s someone for instance, who’s never done a long form interview like Jocko Willink, the first time he was on the podcast or whatever it might be. Or on the opposite very far end, it’s someone almost everyone would know like a Bezos or a fill in the blank, but very little in between because the podcasting circuit has largely become 20 or 30 podcasts at a time of book authors doing the modern equivalent of a radio satellite tour. And I just don’t particularly want to participate in that anymore.
+
+Kevin Rose: Yeah. But with a Bezos, I’d imagine you’re not going to go like, “Hey, tell me about Q4 of last year at Amazon.”
+
+Tim Ferriss: No, I’d want to make it more personal.
+
+Kevin Rose: You going to be like, “Tell me about how was your divorce,” or shit that you could get into, hopefully that is uniquely — you haven’t heard anywhere else.
+
+Tim Ferriss: And I’d want it to be evergreen. I really don’t want to, and this is to my economic detriment, but I don’t want to chase the current controversy of the day. I don’t want things that are going to expire in two months. I want my back catalog to be as interesting to people as the newer episodes.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: And that’s going to mean taking probably a pretty major financial haircut. But I’m totally fine with that at this point because also you have to think about, say, if you’re thinking about the economic side of things, there’s the short term and there’s the long term. If I get so apathetic or bored that I stop doing the podcast, that’s the end of the income period. So if I ratchet it back 40 percent, let’s just say in terms of volume, but I do it for longer over time and my audience can tell that I’m really excited about the episodes that I’m putting out, which I in general have been. There are very few compromises I’ve made, but I can see the slippery slope of just taking whatever gets pitched to you by publicists for the latest and greatest book. So, these are all considerations —
+
+Kevin Rose: I love that, man. I think that’s a great approach. I’d much rather see the longevity of Tim and higher-quality episodes than just banging them out every single week.
+
+Tim Ferriss: Oh, totally. And I really, I don’t feel like I’ve made many compromises, but there have been a few where I’m like, I don’t want to do this kind of interview again. And I’ve also thought in terms of format of basically doing co-hosted catch-ups with friends. So for instance, I might have, and none of these people have agreed so well, actually, I’m not even going to mention names, but you can imagine some of my closest friends who’ve been on the podcast who are very, very smart and good at asking questions, I catch up with them, they suggest a guest, they think we could interview together.
+
+Kevin Rose: That’s fun.
+
+Tim Ferriss: And then I’m catching up with a close friend while we’re interviewing someone.
+
+Kevin Rose: Oh, that’s cool.
+
+Tim Ferriss: I think that would be great. I think that’d be super additive to my life. And then hopefully that transmits in the same way that I think a large reason, say, The All-In Podcast has become massively popular because of that interplay and it’s fun. I always enjoy this type of banter and —
+
+Kevin Rose: We’ve got lots to cover today.
+
+Tim Ferriss: Why don’t you hop in?
+
+Kevin Rose: Addison, are you around? We have my dear friend Addison who lives here in L.A. who is a part-time semi-professional bartender mixologist, not really, but he does that for fun. And he also does an AI company, part-time, called PicStudio.AI, which just came out with a new model. And you know how these AI models are changing so fast, right?
+
+Tim Ferriss: Yes.
+
+Kevin Rose: And so I would say when I was first messing around with this with him a while ago, it was pretty good. It was good. It was like I used it as a headshot for a couple of places, but you could still look at it, if you squinted, you’d be like, “AI.” Right?
+
+Tim Ferriss: Yeah. Uncanny Valley. You’d be like, “Wait a second.”
+
+Kevin Rose: So they came out with the new model and I wanted to show you, we’ll see if Addison is going to make us some drinks as well. I want to show you a couple pictures of yourself. Dude, this is a brand new model.
+
+Tim Ferriss: Holy shit. That’s insane.
+
+Kevin Rose: Is that insane?
+
+Tim Ferriss: And we’ll put these up on YouTube and other places so people can see the images. That’s terrifying.
+
+Kevin Rose: Dude, how real does that look?
+
+Tim Ferriss: Looking good. This should be your new dating profile picture.
+
+Kevin Rose: You’re a little preppy there. The cargo shorts.
+
+Tim Ferriss: I’m a little preppy, but this is like —
+
+Kevin Rose: The ocean looks nice.
+
+Tim Ferriss: What’s crazy is the kind of full body dimension accuracy.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: That’s nuts.
+
+Kevin Rose: Yeah. He was saying that you can use the prompt now to say this shirt type or is your Steve Jobs.
+
+Tim Ferriss: So looking at these photos, I would say even I would be like, wait a second —
+
+Kevin Rose: Did I take that photo?
+
+Tim Ferriss: Did I ever take that photo? No, that’s not me. That is terrifying.
+
+Kevin Rose: I know.
+
+Tim Ferriss: It’s terrifying.
+
+Kevin Rose: It’s awesome though, at the same time.
+
+Tim Ferriss: It’s awesome and terrifying.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: And in short order, we’re already seeing memes turned into videos.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Right? It’s going to be the Wild West.
+
+Kevin Rose: Is It’s going to be crazy. Speaking of looking good though —
+
+Tim Ferriss: You’re looking great.
+
+Kevin Rose: And I want to do your dating life update as well.
+
+Tim Ferriss: Oh, my God.
+
+Kevin Rose: But we need a drink first. Addison.
+
+Darya: Yeah, he’s coming.
+
+Kevin Rose: Okay. Jesus. One job, two jobs, AI, and this. I’m just kidding. Just kidding.
+
+Tim Ferriss: Speaking of looking good, do you want to show off your tattoo?
+
+Kevin Rose: Oh, yeah. I just got a little crane here. Jess Mascetti on Instagram, she’s amazing. New York-based tattoo artist. She’s done Bruce Willis, a bunch of other really famous kind of people in the past.
+
+Tim Ferriss: I was wondering why you had Bruce Willis on your forearm.
+
+Kevin Rose: Yeah, exactly.
+
+Tim Ferriss: How did you choose that?
+
+Kevin Rose: So you probably know this, but in Japanese lore, children’s books and others, the crane is a symbol of because of its length that can span Heaven and Earth. And so it’s used as a bridge for souls to transfer between heaven and earth. I just like that lore. It’s cool. And I got the meditator done by her on the front of me as well, so got both. She’s insanely, insanely talented.
+
+Tim Ferriss: Very talented. Yeah. Beautiful artwork.
+
+Kevin Rose: We’ll link to her profile in the old show notes. So you were looking really good on Instagram and you posted that you got a vampire facial done.
+
+Tim Ferriss: Yeah. Vampire facial. Yeah. So I put up a photo which popped up on my phone. It was generated by the phone, and it had today, eight years ago, and it was a photo of me from eight years ago. And I realized, which I more or less hoped would be the case and really pushed forward to was like, all right, I lost my hair pretty early and then I looked older than my friends and I was like, I just need to make it the next 10 years and train my off and watch my diet. And I think I’ll kind of flatline or plateau in terms of how I look.
+
+Kevin Rose: Right.
+
+Tim Ferriss: And so the photos made it look, I think I had largely not aged in eight years.
+
+Kevin Rose: It looked amazing.
+
+Tim Ferriss: It looked amazing. So I put up “Eight years on the Romanian Vampire Protocol trademark,” and then I put (RVP) in parentheses, “will do wonders for your skin.” And it was a total joke on my part.
+
+Kevin Rose: Right.
+
+Tim Ferriss: Unbeknownst to me, though.
+
+Kevin Rose: Well, you turned off comments too.
+
+Tim Ferriss: I turned off comments. Yeah, there’s a lot of story behind that. We won’t get into it.
+
+Kevin Rose: But the reason that was funny is because so many people —
+
+Tim Ferriss: I didn’t get any of the feedback.
+
+Kevin Rose: Giving the feedback. There is such a thing as a vampire facial. And you were joking and I looked at it, I was like, oh, shit, Tim does the vampire too. I’m like, wow. He’s been doing it for a long time. He’s never told me about it.
+
+Tim Ferriss: So what is the vampire facial?
+
+Kevin Rose: So about a month ago now, I was at the dermatologist and you go in once a year and get all your warts and shit looked at to make sure you don’t have cancer. And I go in there and they’re like, “Hey, you want some good shit?”
+
+Tim Ferriss: Now that I’m looking at your eyes, we were talking about crow’s feet and turning them back into crow knuckles. I don’t see anything.
+
+Kevin Rose: It looks good, right?
+
+Tim Ferriss: Yeah. You don’t even have crow knuckles.
+
+Kevin Rose: Thank you for the compliment.
+
+Tim Ferriss: You’re welcome.
+
+Kevin Rose: But I will tell you that the options they have are all of the L.A. shit, which I don’t want to do. I don’t want to get botox all on my face and shit.
+
+Tim Ferriss: You don’t want to be a lizard cat?
+
+Kevin Rose: Lizard cat?
+
+Tim Ferriss: Walk among the lizard cat people.
+
+Kevin Rose: Yeah, exactly. It just looks horrible. You can tell.
+
+Tim Ferriss: Yeah. Please don’t do that.
+
+Kevin Rose: But I’m sure you could get by with it for a couple years and then you look like a plastic dude.
+
+Tim Ferriss: So now vampire because they’re taking out your blood.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Spinning it, creating something known as platelet rich plasma.
+
+Kevin Rose: Yes.
+
+And you’ve had that done before. Not the facial though.
+
+Tim Ferriss: No.
+
+Kevin Rose: So tell people why you did it.
+
+Tim Ferriss: Prior to The 4-Hour Body, or in the process of writing The 4-Hour Body, which is all about physical performance and modification and performance enhancement, that book was published in 2010, and at the time I was using PRP because it had been used at that time for certain types of joint degeneration or orthopedic issues related to joints. So I had interarticular joint injections in the elbows, shoulders —
+
+Kevin Rose: That’s not the one you got infected by, was it?
+
+Tim Ferriss: One of them was sadly a disaster.
+
+Kevin Rose: Oh, boy.
+
+Tim Ferriss: And whenever you inject anything, there’s a chance that you introduce pathogens through the skin. Now, what I did not realize at the time is that this particular clinic who will remain unnamed, when they injected the elbow, they used the wrong injection site. And so they disinfected the surface level of the skin. But there are so many layers to the skin, and the skin is so thick on the elbow that there was staph bacteria beneath that first disinfected area. The needle pushed that into the joint capsule.
+
+Kevin Rose: Jesus.
+
+Tim Ferriss: And then within 48 hours, my elbow is the size of a volleyball. And I was chatting with a doctor friend of mine who this was probably 11:00 p.m. at night San Francisco —
+
+Kevin Rose: By the way, this is 12 years ago.
+
+Tim Ferriss: Something like that. 12 years ago.
+
+Kevin Rose: Remember I came and visited you in the hospital?
+
+Tim Ferriss: What was that? Oh, yeah, that’s right.
+
+Kevin Rose: You squirted juice out of your arm.
+
+Tim Ferriss: Oh, that was gross.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: So a few things happened. Number one is my very competent doctor friend said, “Touch your elbow. Is it hot?” And I said, “Yes.” And she said, “You need to go to the emergency room immediately. Here’s the one you should go to. Tell them this.” And I did. And a few hours later they’re removing copious amounts of just disgusting monster fluid.
+
+Kevin Rose: Yeah. So I’m in the room, you hit me up and you’re like, “I’m in the emergency room,” or whatever, “I’ve got this infection,” or whatever. And I’m like, I should go check in on Tim. I go down there and I want to say, didn’t some of it squirt against the wall?
+
+Tim Ferriss: There was a syringe full of all this disgusting juice.
+
+Kevin Rose: Yeah, because they’re pulling it out.
+
+Tim Ferriss: And so I squirted it at you like a turkey baster.
+
+Kevin Rose: That’s right. And I was like, “You fucker.” Oh, Addison, thank you so much, sir.
+
+Tim Ferriss: Thank you very much.
+
+Kevin Rose: This looks amazing.
+
+Tim Ferriss: Oh, got it. Thank you.
+
+Kevin Rose: Thanks brother. Awesome.
+
+Tim Ferriss: What is it?
+
+Kevin Rose: What is this?
+
+Addison: Tequila martini.
+
+Kevin Rose: Tequila martini.
+
+Tim Ferriss: Tequila martini.
+
+Kevin Rose: Cheers.
+
+Tim Ferriss: Cheers. Cheers, brother.
+
+Kevin Rose: This is your tequila too that you invested in.
+
+Tim Ferriss: Oh, yeah. LALO tequila. Check it out. Only alcohol brand I’ve ever invested in.
+
+Kevin Rose: Thank you. So yeah, you squirted staph infection at me, you fucker.
+
+Tim Ferriss: I did.
+
+Kevin Rose: Which I’m like looking back at that, I’m like, that was a pretty dick thing to do.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: But we were laughing.
+
+Tim Ferriss: I wasn’t getting in the eyes. I wasn’t going to Phantom of the Opera you. But PRP —
+
+Kevin Rose: Damn, this is a good drink.
+
+Tim Ferriss: It is a great drink.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: So PRP, to be clear, number one, it’s your own blood.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Number two, it can be, in some instances, really, really effective for orthopedic issues, but there’s quite a bit of published literature so you can look it up. But I was unfamiliar with the applications to the vampire facial.
+
+Kevin Rose: So I go in, they draw about three vials of blood, they spin it, they come back with something that looks like grape juice in the vials, and then they take a microneedling kind of like, it almost looked like some type of automatic toothbrush or tattoo gun, almost. And then they go across your face, and they pepper all these little tiny microholes. And then they lather it with all the PRP. And then you go home and you’re a little bruised up and stuff like that. And then a week later, some of the lines just start to get reduced.
+
+Tim Ferriss: Yeah. I’m actually kind of shocked looking at your beautiful baby eyes.
+
+Kevin Rose: Thank you. They’re going to do four of them in total. I had to get the package. You saved some money, you got like 20 percent off. It was a good package. So it’s, for me, I’m like, dude, I’m fine getting old. If anyone’s listening to this be like, oh, they’re being too vain or whatever, I’m fine with that. I don’t care if I get wrinkles and all that. That said, yeah, a couple more years of just looking okay doesn’t hurt anybody. It’s natural. It’s my own shit.
+
+Tim Ferriss: Totally.
+
+Kevin Rose: I don’t know. Helps with the dating life. Speaking of which.
+
+Tim Ferriss: Helps with the dating life. Helps with dating life. Yeah. Modern dating. We don’t have to spend a lot of time on it.
+
+Kevin Rose: But a little bit though. What is it like on the other side?
+
+Tim Ferriss: What’s it like on the other side?
+
+Kevin Rose: Yeah, you went to Paris.
+
+Tim Ferriss: Well, I went to Paris.
+
+Kevin Rose: How was that?
+
+Tim Ferriss: And actually, I want to give them a shout-out. I stayed at —
+
+Kevin Rose: To all the women in Paris.
+
+Tim Ferriss: No, not all the women in Paris. I went to an artist’s commune effectively, or utopian community. They might not like this description.
+
+Kevin Rose: Den.
+
+Tim Ferriss: Well, it’s an old chateau called Feÿtopia.
+
+Kevin Rose: Like in that Monty Python and the Holy Grail where that guy gets stuck in that, do you know what I’m talking about, where you get stuck in the castle? “We are all but 20 to 30-year-old women.” Do you know what I’m talking about? He’s stuck in there. Yeah.
+
+Tim Ferriss: Yeah. That was the hope. But it was a broader spectrum of participants. And I’ve really been making an effort. And I think there’s a religious war afoot, which is, well, there are many religious wars, right? There’s sleep training versus attachment-style parenting. People love factions and fighting.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Another one is, and I’ve been thinking about writing a blog post about this, let’s just call it romance versus radical planning. So when I talk about some of the more systematic ways that I’m approaching dating, what some people will say is that’s so unromantic to which I usually reply now, what does romantic mean? Walk me through what a week of taking a romantic approach would look like.
+
+Kevin Rose: Interesting.
+
+Tim Ferriss: Usually they don’t have an answer. What they mean is serendipity like, et cetera.
+
+Kevin Rose: Exactly.
+
+Tim Ferriss: And I am providing space for that going to Paris or outside of Paris to something like Feÿtopia, which was an amazing experience. But I think also if you are, let’s just say, I’ll think this out loud, if you’re in college or if you are in a company and you’re right out of college, there’s a lot of natural, inbuilt serendipity.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Or if you live in a place like Manhattan.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: A lot of people are single around your age.
+
+Kevin Rose: Right, exactly. Around your age.
+
+Tim Ferriss: Around your age. You do social meetups all the time. You don’t have things to do at night. You don’t have kids yet.
+
+Kevin Rose: Exactly. Yeah.
+
+Tim Ferriss: So there’s a lot of space for serendipity, let’s just say you already have inbuilt 30, 50, 60 percent serendipity where if you want to meet literally 100 plus new people a month, it’s very easy. As you get older, as your friends, all due respect, beautiful face aside, age out, basically. They’re not going to be making introductions to maybe women who are in the age range I would be aiming for because I would like to have a few kids biologically.
+
+Kevin Rose: Yeah. So you’re dipping down a little bit at this point.
+
+Tim Ferriss: Yeah. Yeah. Right.
+
+Kevin Rose: 20s.
+
+Tim Ferriss: Look, sure, maybe in the 28 to 35 range, somewhere in there.
+
+Kevin Rose: 36, you’d be like, all right, maybe.
+
+Tim Ferriss: I want somebody who’s very ready, excited to build a family. Also has a good sense of their own identity, feels confident in being good at having developed skills or passions in certain areas. I want them to feel very happy with what they’ve done so they don’t have, say, resentment later if you feel like they’ve given up everything as it was just getting started.
+
+Kevin Rose: It’s a great point. So you want someone that’s kind of like, they’ve probably even established a career at this point. That’s what they’ve chosen to do. They’re confident in who they are. They’re like, okay, I’m mid-30s. I’m thinking about kids in the next couple of years. That kind of situation.
+
+Tim Ferriss: Yeah, exactly.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: But I’ve realized, for instance, I’ve gone on a few dates with lawyers or doctors in those age ranges, they’ve been through so much schooling, they’re just getting out of the gate and starting to get traction. So it’s very hard, I think, for a woman in that position to think about having kids in the next three years, very hard, after so much investment in their education and career and so on. So it’s been a learning process. I’ve met a lot of amazing people. I think that frankly, if I want to really double and triple down, I just have to spend a bunch of time in a few major cities.
+
+Kevin Rose: What’s the biggest turnoff for you? When you sit down on a date and somebody says something or does something, your number one, this ain’t going to work?
+
+Tim Ferriss: Well, there are a lot of little things, but I think most people would find these irritating. If someone’s late repeatedly and they don’t let you know until the time you’re supposed to meet, that’s just not being an adult. I want to be with an adult who is responsible. If we’re going to build a family together, I need to know you have your shit together.
+
+Kevin Rose: Interesting. That’s fair. I feel the same way. Even with a buddy, if I’m running five minutes late, I’m like, “Hey, right around the corner,” blah, blah.
+
+Tim Ferriss: Yeah. And if someone’s repeatedly late, it means they probably haven’t operated in higher stress situations or environments because you get punished for that. Right?
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: It doesn’t work. So that’d be one. And also I would say that for me, I’m looking for someone who is a compliment, not a duplicate. Tim Ferriss with long hair is my ultimate nightmare. I don’t need to date that person. No. We’d kill each other.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: So that varies person to person. But for me, that means someone, let’s just say you have a spectrum, like a slider in the middle. This is my working theory. It seems to hold up. So if you had a slider in the middle, you have, let’s just call it perfect androgyny, and we won’t stumble over the terms. If you want exact definitions, just choose your own. But let’s just say it’s perfect, 50/50 feminine masculine characteristics. And then as you move out in either direction, kind of about 100 percent masculine, 100 percent feminine, I think —
+
+Kevin Rose: Don’t tell me you want 50/50. I think that’s bullshit.
+
+Tim Ferriss: No, no, I don’t want 50/50. What I’ve seen in couples that really, really work well is they to be equally distant from the center.
+
+Kevin Rose: Oh, interesting.
+
+Tim Ferriss: And by the way, that’s not a gendered thing. You could have, for instance, I know couples where the male is really playful, A, B, and C, has characteristics that might be traditionally defined as feminine. Wife is like COO, runs the ship. That’s fine.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: But they’re equally distant from that center point. And that equivalent polarity seems to work.
+
+Kevin Rose: That is fascinating. Because I’ve had this conversation where I find that if you are so in the center and you’re like 50/50 and no one is stepping up to be either masculine or feminine in a traditional male female role that we’re talking about here, obviously there’s so many other ones out there, it’s very confusing.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Because you’re like, “Well, either you do something or I need to do something.” But it’s like, what is this kind of boring middle? Do you see what I’m saying?
+
+Tim Ferriss: Yeah, totally. I think if you look at primates, you look at humans, it’s like, we like to know where we stand or what we’re supposed to do. What is our job? And so I think that can take a lot of different forms. Energetically. Let’s take gender out of it. Even within a company, if it’s a pure flat meritocracy, no job titles, if things get amorphous, it’s going to be very confusing.
+
+Kevin Rose: 100 percent.
+
+Tim Ferriss: So I do think there’s a comfort that can come that is hard to put words to with matched polarity, which again, is not a gendered thing. It’s more like a constellation of characteristics.
+
+Tim Ferriss: Should we shift gears a little bit?
+
+Kevin Rose: Yeah, let’s do it.
+
+Tim Ferriss: Thank God. Get me off the hot seat.
+
+Kevin Rose: Yeah. I was just going to ask how the Paris dating scene was.
+
+Tim Ferriss: So I want to make a couple of recommendations.
+
+Kevin Rose: Yes, please. Then I got something to show you.
+
+Tim Ferriss: Do you know who Bobby Fingers is?
+
+Kevin Rose: Sounds familiar.
+
+Tim Ferriss: Always a safe thing to say. “I think I’ve heard of him.”
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Tell me more. So Bobby Fingers is one of my favorite discoveries on YouTube of the last decade. And he is one of the most unbelievably skilled artists, craftsmen, sculptor, polymaths. Is also hilarious, and his writing is incredible, is a performer and makes the most bizarre shit you’ve ever seen in your life. So they’re 10- to 30-minute-long descriptions of him making something beautiful and then hiding it by burying it somewhere. And there’s one of the, let’s say, the scene with Michael Jackson where his hair catches on fire and it’s some building this entire diorama. There’s one of the Mel Gibson DUI stop way back in the day. And I would say that if you want to see something that I think is pure genius —
+
+Kevin Rose: So is this a video or what is this exactly?
+
+Tim Ferriss: It is, yeah, it’s a video channel. So if you go to Bobby Fingers at Bobby Fingers on YouTube, you can find them on Patreon as well, patreon.com/bobbyfingers. Youtube.com/@bobbyfingers. And this guy should have, in my opinion, hundreds of millions of views.
+
+Kevin Rose: What’s he at now? Is it big?
+
+Tim Ferriss: For what he’s doing, I think it is so hard to categorize that it hasn’t had as much spread as it deserves.
+
+Kevin Rose: 195,000 followers, still decent.
+
+Tim Ferriss: Oh, he is doing well.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: But I really feel a moral, maybe a moral/immoral obligation to recommend people go check this out.
+
+Kevin Rose: Oh, this looks amazing.
+
+Tim Ferriss: There will be plenty to offend everyone, but it is so genius and unlike anything I’ve ever seen in my life, I strongly recommend people check it out. And two of my favorites, there are many good ones, but I would say Michael Jackson or Mel Gibson are a great place to start.
+
+Kevin Rose: That’s awesome. All right. I’ll check that out. By the way, were you doing Ozempic in this shot?
+
+Tim Ferriss: Oh, wow. Look at that. I’m so glad AI shaved my chest for me too.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: I’m looking good.
+
+Kevin Rose: Dude, that is a legit —
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: If you were 007.
+
+Tim Ferriss: Honestly, what’s crazy to me about that —
+
+Kevin Rose: Is how much you actually look like that.
+
+Tim Ferriss: How great I look in those Speedos. But separately is the lighting.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: It looks real. That’s really —
+
+Kevin Rose: Makes you want to go back to the gym.
+
+Tim Ferriss: Why go to the gym when I can just put that up?
+
+Kevin Rose: Yeah, exactly.
+
+Tim Ferriss: Actually, I’ve been training. I’ve been training very hard recently and feeling very good. I’m not taking Ozempic, but I have been using a few different tools that I thought people might find interesting.
+
+Kevin Rose: Yeah, let’s hear.
+
+Tim Ferriss: So one which was recommended to me by a two time silver medalist in Olympic archery, Jake Kaminski. I would also recommend people check out his channel if you want to learn anything about archery, especially recurve. He is amazing, both as a performer, proven performer, but as a teacher. So Jake Kaminski with a bunch of Is, Kaminski, he recommended the Outdoorsmans Atlas Trainer Frame System. So what is this? I’ll tell you the problem it solves. So I own a bunch of rucking sacks. So these are backpacks with weights in them.
+
+And there are a few issues with the sets that I’ve owned to date. One is that they’re usually a set weight. You can swap out these huge square plates. Secondly, they don’t necessarily have a waist or kidney belt. So the weight is on your shoulders and not also share it on your hips. And this particular system is effectively a frame hiking backpack that’s very well constructed and it has plate loading on your back. So you can put Olympic plates on it. So any weight plates you might have in a gym or that you might buy at Dick’s Sporting Goods or whatever that you could use for barbell, you can slap onto this thing.
+
+Kevin Rose: Oh, that’s amazing.
+
+Tim Ferriss: So you can adjust it amazing increments and then use progressive resistance.
+
+Kevin Rose: And do you want more weight on your hips? Don’t get me wrong, obviously long-term, 50-mile hikes or whatever you want to get the weight onto the hips. I got my DEXA scan done, which I’m sure you’ve done before. Low radiation calculates all different types of muscle and fat types and bone density. My bone density is going down.
+
+Tim Ferriss: Yeah, me too.
+
+Kevin Rose: And one of the things that Attia told me and his staff was — rucking. Get weight on the bones so that you can maintain that bone density.
+
+Tim Ferriss: Yep.
+
+Kevin Rose: Why throw it on the hips? Why not leave it on the shoulders?
+
+Tim Ferriss: All right, so there are a few reasons for that. The first is — and we’ve talked about this a lot on this show and offline too — I’ve had — it’s improved dramatically — but for the last two years, I’ve been plagued by incredibly painful chronic low back pain.
+
+Kevin Rose: You’ve had back issues for a long time, dude.
+
+Tim Ferriss: Especially the last two years to the point where there have been moments, say a year, a year and a half ago, where I couldn’t stand or sit for more than five minutes.
+
+Kevin Rose: Oh, geez.
+
+Tim Ferriss: And —
+
+Kevin Rose: Oh, that’s right. You were carrying around that little ball or something that you put behind your back. Wasn’t there something you had?
+
+Tim Ferriss: Yeah, I still have that for really uncomfortable seats if I have to be on say a plane for a few hours or something like that. I use a little Pilates ball, which you can fold up and stick in your pocket. It’s actually great for lumbar support.
+
+But the point is, I am specifically training for a hunt that I have at the end of this month. I do not hunt often. The first hunt I ever did was for The 4-Hour Chef long ago. That was 2012, but I would’ve done it probably 2010 or 2011. And I just feel very good about sourcing ethical clean meat with wild harvesting. And in this case, it’s an elk hunt. I’ve done exclusively bow for probably close to 10 years now, but part of that —
+
+Kevin Rose: Well, some of the endangered species stuff you do though. I just — for some reason, I just —
+
+Tim Ferriss: I know. I don’t know why you sent back my snow leopard pancakes.
+
+Kevin Rose: Yeah, exactly.
+
+Tim Ferriss: No, in this case, you do it the right way. You get tags. Everything is wildlife management, but if you’re going to do that, you’re going to be at high altitude. You’re going to be, in this case, it’s called bivy hunting. I’m going to be carrying everything. How do you have so many flies in one pristine —
+
+Kevin Rose: It’s southern California.
+
+Tim Ferriss:  — recording studio. In any case —
+
+Kevin Rose: It likes you.
+
+Tim Ferriss: I know. I love you too, fly. So you’re going to be carrying basically your camp with you every day, and that’s probably going to be between 9,000 and 12,000 feet above sea level. And then if you harvest an animal, you’re going to be field dressing it, breaking it down into pieces and you might be carrying an additional 50 pounds. You don’t want all that on your shoulders. That would also be a very bad idea for me — not that you would do it anyway in that circumstance — to load that on my shoulders, which would place a lot of that on my lower back, which is compromised. I have some pathological issues with my low back and my SI joint. So I shift a lot of it to the hips. You are taking some of it on the shoulders.
+
+Kevin Rose: You don’t have any meat sherpas or anything that go with you?
+
+Tim Ferriss: I think we might have one or two people who are there just to be part of the trip and might help with carrying, but you have to keep in mind, if you take down a larger bull elk, you might have hundreds of pounds of meat.
+
+Kevin Rose: How do you keep that meat fresh?
+
+Tim Ferriss: There are a number of different —
+
+Kevin Rose: Salt?
+
+Tim Ferriss: No. A number of different ways you might approach it. Given the time of year and the elevation, it’s going to get pretty cold. So a lot of folks first would hang the meat as they’re deconstructing the animal in the field and let it cool down. Then you put it into meat bags, which look like big socks effectively. And then how they’re going to actually protect that at camp or how they’ll place it, et cetera, remains to be seen. I am always going out with people who are effectively professional outdoorsmen. I’m always the slow fat kid. Always. So part of the reason I’m training my ass off is to not completely embarrass the person who invited me.
+
+Kevin Rose: That’s going to be awesome though. That sounds fun.
+
+Tim Ferriss: Yeah, it’s great. So I’m doing a lot of rucking. Also doing a lot of training on activating, say glute medius, piriformis, hip, internal and external rotators. And the more I do that, the less the obliques and other muscles turn on to compensate and stabilize the low back and the less low back pain I have. So that’s been another big breakthrough in terms of the low back issues. But honestly, if you do some rucking, maybe some kettlebell swings once or twice a week, some push-ups and some core work, you’re done. You’re really hitting everything.
+
+Kevin Rose: Yeah. I love rucking. Rucking has been kind of my three to five days a week, four miles each time with elevation. And it’s just like — you just — in an hour and a half —
+
+Addison: Corner.
+
+Kevin Rose: Oh, we got a new corner. We’ve got —
+
+Tim Ferriss: Refill. Coming in hot.
+
+Kevin Rose: What is this?
+
+Addison: Okay, sorry. I know you like tequila but I want to pause. This is called Fairbanks.
+
+Kevin Rose: Fairbanks. What’s in it?
+
+Addison: Apricot liqueur.
+
+Kevin Rose: Oh, this is one of your favorites. I know this one.
+
+Addison: Yeah. This is one of my favorites. Bitters and rye whiskey.
+
+Kevin Rose: Rye, apricot, liqueur and — thank you, Addison. I appreciate that.
+
+Tim Ferriss: Bitters and rye whiskey.
+
+Addison: I didn’t have other glasses and stuff so I —
+
+Kevin Rose: Oh, yeah. Appreciate that. Cheers.
+
+Addison: Oh, my god. Do you smell this stuff?
+
+Kevin Rose: Exactly. Tim has to board a flight after this —
+
+Tim Ferriss: Here we go.
+
+Addison: Fireball shots.
+
+Kevin Rose: Yeah, Fireball shots.
+
+Tim Ferriss: Cheers, Kevin.
+
+Kevin Rose: Cheers.
+
+Addison: I want to watch the reaction.
+
+Kevin Rose: There we go.
+
+Tim Ferriss: Reaction shot.
+
+Kevin Rose: This is one of his favorite drinks to make.
+
+Tim Ferriss: That’s really nice.
+
+Addison: I know you said not too sweet. I try to —
+
+Tim Ferriss: It’s not too sweet.
+
+Kevin Rose: Isn’t that good?
+
+Tim Ferriss: And it has the fancy ice cubes too.
+
+Addison: Spirit forward, for sure too.
+
+Tim Ferriss: Yeah. Spirit forward. That’s in my dating bio.
+
+Kevin Rose: Exactly. So with Paris — hold on. Just tell me what they look like because they’ve got a good fashion sense out there.
+
+Tim Ferriss: Well, part of what I was interested to see — I spent almost eight weeks in Europe was, how does dating differ in different places in Europe?
+
+Kevin Rose: They’re a little softer out there though. You like that.
+
+Tim Ferriss: Not necessarily. Not necessarily.
+
+Kevin Rose: Really?
+
+Tim Ferriss: No. So it varies tremendously by country, I would say. And of course there’s a huge range within each country, but say in — dating in France is very different from dating in Madrid, which is very different from dating in other places. It really varies tremendously, but part of what I’m hoping for is finding someone, and these women exist, but a lot of women, understandably from a million reasons, feel very conflicted and are put in I think a difficult position frankly when thinking about career, kids. Basically trying to do more than any person in history had to do before 50 years ago.
+
+Kevin Rose: All right, let’s not go by the back end into this. We can —
+
+Tim Ferriss: No, I’m just saying —
+
+Kevin Rose: No, I hear what you’re saying though.
+
+Tim Ferriss: It’s very challenging. But what I want to get a real clear signal on is that somebody is excited to be a mom in the same way that I’m excited to be a dad and that it’s not, well all my friends are getting married. I guess this is what you do. Even though I’m going to make all these compromises and might resent it later. I don’t want to subject a kid to that potential risk, right?
+
+Kevin Rose: It’s wise of you.
+
+Tim Ferriss: Yeah. So that’s what I’m looking for, but there isn’t some Garden of Eden where you magically just walk down Whole Foods and pick up a woman like that. But there are some significant cultural differences from place to place.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: All right. Yeah, let’s move on.
+
+Kevin Rose: All right, so I have a gift for you.
+
+Tim Ferriss: I have a gift? How kind of you. Oh, wow.
+
+Kevin Rose: This is called a Feno. This is my buddy’s new startup.
+
+Tim Ferriss: Thank you.
+
+Kevin Rose: And in the self-experimenting kind of crazy vein of things, I want to show you this. Now, Feno. F-E-N-O.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: So this is — okay, this is a beta. Okay, so you can’t laugh at me because remember you’re going to be doing this by yourself, okay?
+
+Tim Ferriss: Oh, god.
+
+Kevin Rose: This is not like a Fleshlight or anything. Okay.
+
+Tim Ferriss: What the fuck?
+
+Kevin Rose: So this is a medically proven way to brush your entire mouth in 20 seconds.
+
+Tim Ferriss: Wow. Okay. That’s interesting.
+
+Kevin Rose: So watch this.
+
+Tim Ferriss: Wow, you’re going to try it?
+
+Kevin Rose: Yeah, I’m going to take a look at this here. You put those foam in here and so they have this little app that custom creates a mold. I estimated your mouth size.
+
+Tim Ferriss: You didn’t buy this from an ad on PornHub?
+
+Kevin Rose: So this is going to look a little mouth aggressive. Okay? So if you’re watching the video —
+
+Tim Ferriss: Spirit forward, mouth aggressive. That’s also my bio.
+
+Kevin Rose: Exactly. So what you do is that this was created by a couple of founders that obviously one of them was a dentist and they figured out that compliance is really hard with — people say — everyone says they floss. They don’t. I do, but do you floss?
+
+Tim Ferriss: Oh, seven times a day.
+
+Kevin Rose: So check this out. I put this in my mouth and this is going to wrap around both sides.
+
+Tim Ferriss: How are you going to rinse that?
+
+Kevin Rose: I don’t know.
+
+Tim Ferriss: All right, let’s see it. Let’s see it. This is going to be good.
+
+Kevin Rose: I couldn’t stop it.
+
+Tim Ferriss: Holy shit.
+
+Kevin Rose: I know what you’re thinking.
+
+Tim Ferriss: You definitely bought that on PornHub.
+
+Kevin Rose: No, I did not, but it works surprisingly well.
+
+Tim Ferriss: I’ll try it.
+
+Kevin Rose: I got one for you.
+
+Tim Ferriss: Thank you.
+
+Kevin Rose: I’ve got to say that I do love — it has sensors in there. I know, I know.
+
+Tim Ferriss: I bet it does.
+
+Kevin Rose: You’re doing it by yourself so you don’t look like you’re getting mouth-raped every time.
+
+Tim Ferriss: I can see you winking. I can see you winking.
+
+Kevin Rose: It is it aggressive, but I will say that —
+
+Tim Ferriss: Aggressive.
+
+Kevin Rose: — it does a very good job cleaning.
+
+Tim Ferriss: Aggressive but effective.
+
+Kevin Rose: Aggressive but effective. And it is 20 seconds, which is great. They have sensors that actually scan your gums and look at gum health and can send it back to your doctor.
+
+Tim Ferriss: What? On that device?
+
+Kevin Rose: On the device, built into the device. So that your doctor can actually see recession and things that are happening with your gums. So it’s a very tech forward device. It’s crazy.
+
+Tim Ferriss: You know, I had my — my first real surgery was when I was a kid for receding gingiva. I actually had a huge piece of my upper — well, I guess it’s your only — palate removed and grafted —
+
+Kevin Rose: Holy shit.
+
+Tim Ferriss: — onto my lower gums.
+
+Kevin Rose: From sugar and shit? What were you doing?
+
+Tim Ferriss: No, no. It was just genetic. My gums were receding when I was a kid. I don’t know how old I was. Maybe 12, something like that. It was brutal.
+
+Kevin Rose: That’s the first time I’ve ever done that. That was —
+
+Tim Ferriss: Oh.
+
+Kevin Rose: — vigorous.
+
+Tim Ferriss: Yeah, it’s a —
+
+Kevin Rose: I’m so —
+
+Tim Ferriss: It stretched.
+
+Kevin Rose: — upset that I did not video that from this direction.
+
+Tim Ferriss: We’ve got —
+
+Kevin Rose: Go here. We’ve got that camera right there.
+
+Tim Ferriss: Oh, that’s the slow-mo. We need that in slow-mo. The intro to the episode.
+
+Kevin Rose: Listen, hey, you know what’s funny is when I was putting together these stories for The Random Show, I’m like, I love — if you look back historically at all the years we’ve been doing this episode, we’ve had some of the most craziest, stupidest shit and talked about the dumbest stuff. I mean, we already today talked about you squirting your freaking infectious fluid at my body.
+
+Tim Ferriss: That’s true. That’s true.
+
+Kevin Rose: We’ve done some weird shit and so I always try to find stuff. I mean, this is both cool and —
+
+Tim Ferriss: Every once in a while, one of those things. Five years later, look at that. It’s everywhere.
+
+Kevin Rose: Exactly.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Exactly. Remember dude, I talked about Ethereum for the first time on this show, before it launched.
+
+Tim Ferriss: You did. When was that? That was — God, that was a long time ago. That was when I was still living in my first place in San Francisco.
+
+Kevin Rose: I watched the clip and I’m like, “Oh, there’s this one cryptocurrency. Usually [inaudible]” And you’re like, “No, no, no. Tell me, tell me.” And I’m like, “Well it hasn’t launched yet.” And you’re like, “What is it?” I’m like, “Well, it’s called Ethereum.”
+
+Tim Ferriss: When was that? That was like 20 — it had to be —
+
+Kevin Rose: I have to go back and look.
+
+Tim Ferriss: Yeah, 2014 or something. I mean, it was way back then. It was way back in the day. I remember exactly where we were sitting by the fireplace in my first rental in San Francisco.
+
+Kevin Rose: It was a cool spot.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: All right, your turn. What do you got?
+
+Tim Ferriss: My turn? Well, let’s see. I would say that I can’t say too much about it. You’re going to hate that. We never asked what your book was about. But anyway, I can’t really —
+
+Kevin Rose: So I know you never talk about that shit.
+
+Tim Ferriss: I’ll talk about a superstition that may actually have something to it. So I, as well as a handful of other authors I know really well who’ve written a lot of books, feel like there is such a thing as, let’s call it mimetic release. And what I mean by that is I think it’s fairly frequently observed that you’ll have some, as an example, intractable scientific problem or some scientific problem that researchers around the world are grappling with, and there’s almost no apparent major progress made for years and years and years, and then within the same two-week period, people in all these different locations suddenly make breakthroughs. What is happening there? And what I have observed, and again, this is getting into maybe what people would consider magical thinking, but I can’t explain it. It doesn’t mean there isn’t an explanation. When people talk about ideas, that idea seems to suddenly pop up in a lot of other places.
+
+Now you could make the argument that that’s maybe expectancy bias. If you buy a Hyundai — It’s a red Hyundai —
+
+Kevin Rose: Then all you see red Hyundais.
+
+Tim Ferriss: — all you see is red Hyundais, right?
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: So there could be an element of that, but there seems to be more to it, which is part of the reason why I don’t talk about the key core concepts in a book before I release something.
+
+But I will say in terms of progress, in case anybody’s wondering, have probably five to 600 pages drafted.
+
+Kevin Rose: Oh, shit, it’s a big book.
+
+Tim Ferriss: Got a lot. Yeah, I mean all my books are phone books and that is going to get cut down, probably. Well, actually, it’s probably going to get to 800 and then it’ll get cut down to 500 or 400.
+
+Kevin Rose: Did you use any AI in crafting this?
+
+Tim Ferriss: I did not.
+
+Kevin Rose: Nothing?
+
+Tim Ferriss: Not yet.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: Not yet.
+
+Kevin Rose: Will you apply that to some of the chapters?
+
+Tim Ferriss: I might apply it in combination with test readers looking for gaps in the material. Basically use AI as a critic and try to find gaps that would be ultimately helpful to mainstream for a larger audience of readers. I could see using it that way.
+
+Kevin Rose: I did a really cool thing the other day where I created a custom ChatGPT and I uploaded — I went back and I looked at every single book that Warren Buffett had ever recommended, The Intelligent Investor, all these. And I found the PDFs from them all because you can just Google them and they’re there. And I uploaded them all to the ChatGPT and I said, “You’re my investment advisor. What should I do in this particular situation?” And I’m asking questions of this custom saved ChatGPT based on all of Buffett’s favorite books. It’s freaking fascinating, dude.
+
+Tim Ferriss: You know, what you could probably also do is take all of his annual letters.
+
+Kevin Rose: Oh, yeah, a hundred percent. I have that. There’s a book about his annual letters that I uploaded into it.
+
+Tim Ferriss: [inaudible] the green cover.
+
+Kevin Rose: Yeah, they’re in there.
+
+Tim Ferriss: That is so cool. So what happened?
+
+Kevin Rose: Well, I just got some insights. I was asking —
+
+Tim Ferriss: “Buy low, sell high.”
+
+Kevin Rose: It turns out “Index funds” is all it says back to me. It’s like, “You idiot. Stop.”
+
+Tim Ferriss: “Don’t outsmart yourself.”
+
+Kevin Rose: Yeah, but I mean there’s very specific questions you have around timing of markets or not that — I didn’t ask that particular question, but things around the markets where you’re like, okay, how do you feel about our current state when we think the Fed is going to cut rates over the next 12 months? What do you think about bonds? Blah, blah, blah. And it just spits back very intelligent responses based on the historic data, which I find is just — I mean. That is so cool.
+
+Tim Ferriss: Yeah, it’s amazing.
+
+Kevin Rose: It’s really cool. Anyway, I’m excited for your book. When will it launch though? When are we talking? I mean, you’re 500, 600 pages in.
+
+Tim Ferriss: So I’ve been thinking about a few different options. One is doing it the way that I’ve done it in the past, which is to release it all at once as a book launch. There will definitely be some new experimental wrinkles to that no matter what.
+
+Kevin Rose: Traditional publisher? Because before you did Amazon once. You did —
+
+Tim Ferriss: Well, I did Amazon Publishing, which at that time you could consider a traditional publisher. So in structure it was very similar. They just had the distribution advantage being Amazon. This time around, we’ll see. I mean, I could very easily see doing ebook audio on my own or through an Amazon platform.
+
+Kevin Rose: Interesting.
+
+Tim Ferriss: And then possibly doing a print-only deal or doing print-on-demand, frankly. The quality of print-on-demand has improved so much.
+
+Kevin Rose: It’s insane. Yeah.
+
+Tim Ferriss: It’s absolutely perfectly sufficient.
+
+Kevin Rose: Dude, I was at Ryan Holiday’s — I went to his bookstore outside of Austin, which is amazing.
+
+Tim Ferriss: Painted Porch. It’s a great bookstore.
+
+Kevin Rose: He has the best bookstore. What a life. I love him. He’s such a good dude. I went to his bookstore and — beautiful — it’s such a beautifully curated art project that is driven by him.
+
+Tim Ferriss: Yes.
+
+Kevin Rose: If you want to see sort of a new manifestation of the best of old school bookstores, visit Painted Porch.
+
+And it’s about a half hour to 40 minute drive outside of Austin. He’s got cats walking around there. It’s all of his favorite books.
+
+Tim Ferriss: He even has cats.
+
+Kevin Rose: Yeah, they’re even cats for the cat lovers. But the thing I would say that was really cool is that he actually had his books printed, like higher-end versions of his books, leather-bound, super high-end versions that he had done that were just insane quality.
+
+Tim Ferriss: Yeah, they’re beautiful.
+
+Kevin Rose: And those are kind of as you need them, kind of like on-demand. It’s amazing.
+
+Tim Ferriss: A bit of a trivia for folks. Well, I’ll give trivia on trivia. So trivia, “tri via” wreath three roads. It’s actually these little tchotchkes that travelers would put down for good luck on their path at intersections of paths. That’s where trivia comes from. But separately, The Painted Porch refers to Stoicism, which comes from the Greek stoa because early iterations of the philosophical tenets of Stoicism were taught in this open-air porched area. So that is why his book store is called The Painted Porch.
+
+Kevin Rose: That’s amazing.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Yeah, we’ve got 14-year-old Toaster, almost 14 here, coming to visit us.
+
+Tim Ferriss: You’re saying he’s totally deaf, but he still remembers me. Came up, licked my face.
+
+Kevin Rose: He did. He’s done courses of rapamycin.
+
+Tim Ferriss: Oh, yeah?
+
+Kevin Rose: Yeah. So I put him on it a few years ago.
+
+Tim Ferriss: And?
+
+Kevin Rose: And it seems to be working. I mean, dude, you see him. He’s moving around great. And he’s almost 14.
+
+Tim Ferriss: I know. This brings back so many memories. I mean, back way, way back in the day. I’m looking at Darya. Hi, Darya. I remember recording on your couch. This was back still in Digg days and Toaster was a little pupper and he was chewing on the XLR cable and almost killed our podcast and killed himself. And here he is, all these years later, wagging his tail.
+
+Kevin Rose: Yeah, I caught him halfway through one time, an actual full voltage cable out of the wall and it was just — yeah, it was horrible.
+
+Tim Ferriss: So rapamycin, we’ve probably talked about it before, but people can check out — I’m not sure what this current status is, but The Dog Aging Project, I did a podcast with Matt Kaeberlein.
+
+Kevin Rose: Yeah. University of Washington. You and I both —
+
+Tim Ferriss: Supported that.
+
+Kevin Rose: — supported that, funding-wise to fund that and power that study.
+
+Tim Ferriss: Yep.
+
+Kevin Rose: Yeah. So did Peter Attia. Yeah, so did Brian —
+
+Tim Ferriss: Armstrong.
+
+Kevin Rose: — Armstrong from Coinbase. We all kind of chipped in to see what would happen.
+
+Tim Ferriss: Really, really, really fascinating work. So people who are interested in rapamycin for potential longevity applications can take a look at that. And I did an interview separately with Matt Kaeberlein, which I really, really enjoyed. What else do you have?
+
+Kevin Rose: I have one quick update. One just for people to check out. So original of Henry Shukman’s new book, who is my Zen master. Got to give him a plug. He’s such an awesome human.
+
+Tim Ferriss: He’s a great guy.
+
+Kevin Rose: And his app, The Way, fantastic meditation app. You and I are both investors in. I always want to give Henry some love because he’s such a good soul. The book is fantastic.
+
+Tim Ferriss: You did some — that’s called Original Love.
+
+Kevin Rose: Original Love, yeah.
+
+Tim Ferriss: All right. You did some training recently and you sent me the schedule, the daily schedule. What did your daily schedule look like and how long did it last?
+
+Kevin Rose: So I went to a five-day silent meditation retreat with his master, who is the head of the Zen sect out of Japan, flew in for this into Santa Fe, New Mexico. And so I will tell you, when you sit with Henry and you do — I’ve done a seven-day silent retreat with him in the past. If it’s just Mountain Cloud Zen Center, which is his Zen center, it’s probably four hours of sitting a day. And then there’s walking meditation and a stretching thing. When the Zen master’s there, when the guy from Japan’s there, it’s legit.
+
+Tim Ferriss: Like Hell week.
+
+Kevin Rose: It’s Hell week for meditation. So I was up at 5:00 a.m. every morning and I didn’t get to bed until probably — released at 8:30 and I was sitting for most of the day.
+
+Tim Ferriss: So one thing I wanted to ask you about — because I saw it in there. There’s a lot of sitting meditation. I’m like, okay, that sounds uncomfortable, doing that for eight hours a day, which I tried once. People who want to read about my complete implosion —
+
+Kevin Rose: You were also doing mushrooms at the same time.
+
+Tim Ferriss: And fasting for six days. Yeah, people want to read about my self-inflicted implosion, that’s in a separate interview, but the chanting before mealtime?
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: What’s the story here?
+
+Kevin Rose: In Zen, traditional monasteries and whatnot where they have actual monks, there is a lot of — it is only 10 minutes.
+
+It’s just kind of reciting.
+
+Tim Ferriss: Only. Try chanting for 10 minutes. Tell me it’s only.
+
+Kevin Rose: No, but it’s just reciting a lot of the precepts and a lot of core beliefs.
+
+Tim Ferriss: In English? Japanese?
+
+Kevin Rose: Yeah. Sometimes it’s in Japanese, sometimes it’s in English, depending on who’s running it.
+
+Tim Ferriss: Do you have a little psalm book that you read from?
+
+Kevin Rose: Yes. When it’s in Japanese, a hundred percent.
+
+Yeah. I don’t even know what I’m saying. I could be like, “Large Donkey Kong.”
+
+Tim Ferriss: McDonald’s donkey cock.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Garbage bag. Triceratops.
+
+Kevin Rose: I don’t know what to say, but it’s quite nice. It’s just a way to kind of endcap a set and then move into the next thing.
+
+Tim Ferriss: Must feel so good after being totally silent —
+
+Kevin Rose: Oh, my God.
+
+Tim Ferriss: — just to hear some voices.
+
+Kevin Rose: I know. I went out afterwards because I was waiting for my plane to fly out and I went to this place because Santa Fe is known for their chilies, their good chilies. And I had — Because you eat vegetarian food the entire week.
+
+Tim Ferriss: Yeah. I was immediately wondering, how’d that go for you?
+
+Kevin Rose: Oh, dude. I went straight to a double chili burger and a large IPA, straight out the gate.
+
+Tim Ferriss: Oh, God.
+
+Kevin Rose: Which was probably —
+
+Tim Ferriss: Actually, you sent photos.
+
+Kevin Rose: Yeah, yeah. I’m sure I did. To you and Sacca. That’s right.
+
+Tim Ferriss: So was that disaster pants at 30,000 feet?
+
+Kevin Rose: It was definitely — my stomach was not happy. I was paying for that. But, yeah. So how much time do you have? Because I know you have —
+
+Tim Ferriss: I have time. I have time.
+
+Kevin Rose: Do you want — I got a really crazy one.
+
+Tim Ferriss: Let’s do crazy.
+
+Kevin Rose: Okay. Crazy. Is that —
+
+Tim Ferriss: We can cut it out if you can’t, but are you allowed to talk about klotha yet?
+
+Kevin Rose: Yeah. So Peter Attia did a fantastic episode, which we both, I would say would highly recommend with —
+
+Tim Ferriss: A hundred percent.
+
+Kevin Rose: — Dena, who is a fantastic researcher out of UCSF. She has identified a compound called klotho, which is just absolutely insane.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: So in fairness, it was identified by Japanese research.
+
+Tim Ferriss: Sorry, sorry, my bad.
+
+Kevin Rose: But she’s spent a good part of her career.
+
+Tim Ferriss: She’s one of the foremost experts in world.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: For sure.
+
+Kevin Rose: Yeah. So she did an episode with the Attia that was a deep dive for about an hour and a half. And it is — I mean, do you have the kind of stats in front of you? I can ballpark it if you want.
+
+Tim Ferriss: Why don’t you ballpark it?
+
+Kevin Rose: So the ballpark it in my understanding is that — so klotho, just so people know, is that it’s naturally produced in humans, especially under high-intensity kind of interval exercise. So you get more natural level of this. We all have it in our blood right now. As you age, you get less of it. So the interesting thing in humans that they know is that people that have these — there’s two genes and these genetic polymorphisms — and if you are an overproducer, if you have these snips where you’re an overproducer, meaning you naturally produce more of this klotho, you just get dramatically less dementia risk.
+
+And even if the very famous gene out there is the APOE3, APOE4 genes, whereas if you are a four carrier, meaning most people are 3-3. If you’re a 3-4, you’re something like five to seven times more likely to get Alzheimer’s. If you’re 4-4, you’re kind of fucked. It’s 80 percent of people get Alzheimer’s or something like that. If you have one of these snips and you are way more likely to get it, but you’re also an overproducer of klotho, it evens out the playing field.
+
+Tim Ferriss: Yeah, it’s crazy.
+
+Kevin Rose: So don’t get the same risk of dementia. So there is a lot of — now the crazier shit is, forget the mouse studies. The mouse studies are all awesome. They reverse dementia and all that shit when they give them klotho. When you give it to monkeys, even if they don’t have dementia, they instantly — this is a subcutaneous shot —
+
+Tim Ferriss: Monkey Limitless.
+
+Kevin Rose: — they instantly become 20 percent smarter for four weeks, instantly from just getting a little boost of klotho.
+
+Tim Ferriss: It’s going to be in the headline. Monkey Limitless.
+
+Kevin Rose: Dude, it’s nuts. It’s nuts. So we’re very close to finishing the deal, but at True Ventures, we’re writing a very big check that I’m leading around into — we’re going to get this in humans in the next year and a half. You’re going to participate?
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Attia’s going to participate.
+
+Tim Ferriss: And I can read quickly.
+
+Kevin Rose: Yeah, please. Just for people who want to check it out.
+
+Tim Ferriss: So this is the name. I believe it’s the name of the episode that Peter has on The Drive, which is his podcast. “A Breakthrough in Alzheimer’s Disease: The Promising Potential of Klotho for Brain Health, Cognitive Decline, and as a Therapeutic Tool for Alzheimer’s Disease.” So I have Alzheimer’s on both sides of my family. This is —
+
+Kevin Rose: But you’re a 3-3 though, right?
+
+Tim Ferriss: I’m a 3-3, but I have been interested in tracking this for so long in terms of possible therapeutic intervention.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: That’s why I studied neuroscience initially as an undergrad. That’s why I was initially — the very first check I ever cut for supporting science was for Adam Gazzaley and some of his early stuff.
+
+Kevin Rose: That’s awesome.
+
+Tim Ferriss: Way back in the day.
+
+Kevin Rose: I’ve also given Adam some cash to go do some cool stuff.
+
+Tim Ferriss: Yeah. Adam, check him out. He’s been on the podcast as well. And the description is, I’ll just give you this very quickly. So Dena Dubal is a physician scientist and professor of neurology at UCSF whose work focuses on mechanisms of longevity and brain resilience. In this episode, Dena Dubal. Okay, that’s the bitters talking. Dena delves into the intricacies.
+
+Kevin Rose: The Alzheimer’s juice is talking.
+
+Tim Ferriss: The longevity factor klotho. It’s formation and distribution in the body, the factors such as stress and exercise that impacts its level and its profound impact on cognitive function in overall brain health. I don’t want to skip over the exercise because while you’re waiting for this to be available is a subcutaneous or intramuscular shot, I think should be effective subcutaneous.
+
+Kevin Rose: By the way, that’s the way they’ve gone into monkeys. It’s been —
+
+Tim Ferriss: Yeah, it’s very easy. Very, very, very simple. It’s like using Ozempic or —
+
+Kevin Rose: Is Ozempic subcu?
+
+Tim Ferriss: It is, yeah. Very, very simple to do. Not painful. Before that is available, exercise. Exercise is arguably the most potent way to increase your circulating levels of klotho.
+
+Kevin Rose: Yeah. So we’re very excited for this. The potential application here is huge, obviously. This could be the Ozempic for the mind. We’ll see. We’ll know more in a bit. And once this gets funded, I’m excited to see where it goes. But I think this is what I love about just our ability finally, at this stage in life. Tim, you’ve done so much on the psychedelic research side, which has been amazing on the philanthropic side to watch happen. And I started a new Substack, which is a paid newsletter where I can have a more private community and a hundred percent of the proceeds from the first month are going in to fund a Matt Walker sleep study in which he’s identified some antioxidants that he believes can repair a bad night’s sleep.
+
+Tim Ferriss: So Matt Walker, for those people who don’t recognize the name, amazing, super sweet guy, a brilliant researcher.
+
+Kevin Rose: I just had him on the podcast.
+
+Tim Ferriss: Who also wrote Why We Sleep, which was a mega, mega bestseller.
+
+Kevin Rose: And Matt’s such a fantastic, well-rounded researcher in the —
+
+Tim Ferriss: Beautiful voice too.
+
+Kevin Rose: Yeah. I mean his accent for —
+
+Tim Ferriss: Dulcet, velvet British tones. Soothing.
+
+Kevin Rose: Exactly.
+
+Tim Ferriss: He could read the Cheesecake Factory menu.
+
+Kevin Rose: He should read your next book.
+
+Tim Ferriss: And I would listen to it.
+
+Kevin Rose: So that’s exciting. I am very excited to — I think you and I both enjoy this idea of moonshots around science because it’s severely underfunded. And if you do get grants —
+
+Tim Ferriss: You can do a lot with very little.
+
+Kevin Rose: A lot with very little.
+
+Tim Ferriss: Yeah. Because otherwise, this is part of why on a lot of levels, I find it certainly as exciting as the startup investing is you have these potentially sort of history-bending scientific developments or discoveries that will take years and years and years to fund through traditional grant writing and government support. And if you are able to — I know this is not pocket change, but if you’re able to cut a check quickly for say 25, 50 grand, the check I cut for Adam way back in the was 10 grand. That was a big check for me. You can actually make a difference.
+
+Kevin Rose: Can I give you an example of this?
+
+Tim Ferriss: You can accelerate it quickly. Yeah, please.
+
+Kevin Rose: So Dena, who’s the principal investigator at UCSF around klotho, I had a conversation with her and I said, “Hey, what’s the study that you want to do right now on klotho that would take you a year or so to get the grants and blah, blah, blah?” And she’s like, “I got this one that I want to look downstream a little bit further and we can tag klotho and see where it goes and all this stuff.” And I’m like, “What does that cost?” And she’s like, “50k.” I was like, “Holy shit.” I’m like, “Do you have the researchers ready to go?” She’s like, “I could start this tomorrow.” And so, I donated some stock that were these little tiny distributions that I had received over time and I just donated stock to her, to UCSF, and now she has the funding and she already started the study like a week and a half later. And it’s like I know that’s a lot of money to a lot of people, so please, I’m not trying to flex here on the cash side, but I’m just saying even $1,000.
+
+Tim Ferriss: Flexing so hard.
+
+Kevin Rose: Fuck you. But even sometimes if you get to know these researchers or you hear about something on Attia’s podcast or your podcast where you’re like, wow, that’s great science being done, you can call them up, you can email them and say, “Hey, how can I contribute $100 here?” Oftentimes it can be tax-deductible, depending on the organization.
+
+Tim Ferriss: Yeah. Oh, almost always, almost always tax-deductible. And I will say, this doesn’t have to be a super high concept doing the greatest good for the greatest number of people motivation. It can be, but it is so exciting and gratifying to catalyze science that could, I think without making it sound too exaggerated, change the world literally in the case of say a Klotho.
+
+Kevin Rose: Oh, dude —
+
+Tim Ferriss: And the fact that you can expedite it for relatively the cost of a car is nuts.
+
+Kevin Rose: Dude, so my mom now sometimes sadly thinks my sister is her mom and she has dementia. And thankfully it’s not Alzheimer’s. So we’ve been with this for about seven years now. And we’re going to put this in humans in a year and a half. My mom’s turning 84 in a few weeks. And it’s like, I don’t know, there’s a chance we get this in her in a couple of years and we get some more great memories back. We get a little bit more of even, I can’t guarantee what’s going to happen, but even just a little bit more awareness would be beautiful, beautiful. So it’s like this is what motivates me more than anything.
+
+Tim Ferriss: And we’re an age also where it’s almost every friend in our same cohort is having this experience.
+
+Kevin Rose: Oh, a hundred percent.
+
+Tim Ferriss: At least one parent, usually both.
+
+Kevin Rose: I’m sure there’s probably a thousand people listening right now that are like, “I hear you.”
+
+Tim Ferriss: Starting to fray the ends.
+
+Kevin Rose: A hundred percent.
+
+Tim Ferriss: And it’s so painful to watch. I remember watching my grandparents kind of descend to the point where they didn’t necessarily recognize me or my brother, or anything like that. And if you could just add a few years or cut down on the symptoms by 20 percent, it’s so significant for not just their quality of life, hopefully, but also the interpersonal relationships and the whole family constellation.
+
+Kevin Rose: The relationships is the big thing. When people go, they go. But just to have that awareness of who is around you when you do go, I think is just such a huge deal.
+
+What else you got? I got some crazy ones. I got more crazy ones.
+
+Tim Ferriss: Bring some crazy, bring your crazy.
+
+Kevin Rose: So I talked to my dead dad via a medium.
+
+Tim Ferriss: Okay, all right. Didn’t see that coming.
+
+Kevin Rose: Yeah. Yeah. It was on my list of stories to talk about.
+
+Tim Ferriss: All right, yeah, tell me.
+
+Kevin Rose: So my tattoo artist was out here and gave me this fantastic tattoo. Jess is awesome. And she was like, “Hey, there’s this crazy shit that happened to me.” And I’m like, “What’s up?” And she’s like, “I tattooed this woman that was a medium and she gifted me a free session.” And I’m like, “Was it crazy?” And she’s like, “You have no idea.” She’s like, “Okay, a bunch of people…” So cute that Toaster’s coming to say hi to you.
+
+Tim Ferriss: Toaster just keeps coming to say hi to me.
+
+Kevin Rose: He definitely missed you. So I’m the biggest skeptic on this shit. I take this as entertainment value. And so she was like, “No, you don’t understand.” Someone, I don’t want to get into her personal details, but someone that was not directly related to her, but one step removed of her immediate family had been shot and killed. And this person came in and said, “Listen, I had been…” This is not Googleable, you couldn’t have found this anywhere, was like, I am the person that was shot in this particular location at this particular spot, like crazy scary, really accurate. And I was like, “Oh, my God.” And she kept going, and I’m not going to go into her personal details, but enough to where I was like, “Give me the number.” I want to book this $150 session, it’s 150. And so I book it and it’s early because she’s back east. And I get up at 7:00 a.m., barely have my coffee. And she goes, “Oh, my God, she goes, “There is this person that is beating down my door to talk to you.” And I’m like, “Okay.” And she’s like —
+
+Tim Ferriss: Wait, this is what the medium said?
+
+Kevin Rose: Medium said, yeah, we were on Zoom. And I’m like, “Okay.”
+
+Tim Ferriss: He’s got a start-up in dog cosmetics.
+
+Kevin Rose: And please. Yeah, exactly.
+
+Tim Ferriss: They want to pitch you.
+
+Kevin Rose: It’s a great pre-money valuation. They only want a million dollars. The dog cosmetics are, it’s going to boom, you watch. So it’s the next AI. So basically I was like, I’m kind of early, whatever. And I’m like, okay, I’m very Googleable, I am aware of that, and you can find out things about my dad and stuff like that. And she’s like, “It’s a man. He passed from some heart tension,” and my dad died of a heart stroke. And I’m like, okay, well, you can Google that. And then she’s describing all kinds of stuff and even including a fight with my mom the night before, little tiny bits. So my sister did it too, and we didn’t tell him we were related because my sister has a different last name. And so with my sister, it was like, oh, he’s good with numbers. He was an accountant.
+
+And he was just saying that, he kept saying the number three. And she’s like, “Is there a third sibling?” And I’ve never told anybody this, but I have a half-sister that I didn’t know about, that’s never been on the internet. And I was like, I started sobbing, dude, immediately. Because I get that it’s entertainment value, but just to feel. And what she said is she goes, “He’s very proud of you.” And that just hit me like — It’s like I don’t care if it’s real or not, just to hear that. And even if two percent of your body can say that might be real, you immediately break down. And so snot’s coming out of my nose and shit over Zoom and there’s no filter to turn that off. And it was just very therapeutic. And I was just like, holy shit. And the amount of that she got right was scary.
+
+Tim Ferriss: Did she whiff on anything?
+
+Kevin Rose: I’m trying to think. Gosh. It’s funny, once you start believing it and once you’re halfway in, you don’t want to ask any questions that might get them to whiff.
+
+Tim Ferriss: Yeah, to disconfirm.
+
+Kevin Rose: Yeah, exactly. But I’ve got to say there was a bunch of stuff where she was like, your girls and one of them looks a lot like your dad and has that same kind of energy, and he likes to watch them play because he thinks it’s really cute how one of them is like this, and was predicting their personalities to the tee, like absolutely perfect. And so then I have Darya do it, my wife, and her mom comes to her, and scary accurate again. And everyone’s going to be asking for this URL, I swear I’m not trying to plug any medium here and sell medium things, but it was insane, dude.
+
+Tim Ferriss: Dogcosmetics.com/kevkev.
+
+Kevin Rose: Yeah, exactly. Get that coupon code. So do you have anybody that’s passed away that you’d want to talk to?
+
+Tim Ferriss: Sure, yeah. I mean if I could. Right? I mean I’ve gone out to the edges pretty hard in my subjective experience, a lot of experiments. But I would say I’ve also watched, for instance, there’s a documentary about the Amazing Randi called An Honest Liar, and I’ve watched documentaries on mentalists. And you watch, say, performers like Derren Brown who are —
+
+Kevin Rose: Like how they can read and lean in.
+
+Tim Ferriss: I mean the stuff they can do is —
+
+Kevin Rose: Yeah, it’s insane.
+
+Tim Ferriss: It’s just beyond, I shouldn’t say it’s beyond explanation, but it’s very hard to explain, very convincing. So I’m very skeptical, but if I could somehow assure myself that I had shielded them from the potential of Googling things and figuring things out, if I could come in blind. Like maybe the appointment’s made someone else’s name and then I show up.
+
+Kevin Rose: Tim Berriss. Yeah, Tim Berriss.
+
+Tim Ferriss: Then I’m like, “Okay, here I am. Yeah, tell me.” I mean, certainly I’m game to try.
+
+Kevin Rose: I’ll pay for your session. I want you to see if this holds up for anybody else.
+
+Tim Ferriss: I’ll try, I’ll try it. Yeah, I’ll try it. My feeling is, and this is maybe people are going to be like, wow, Tim Ferriss is wearing a tinfoil hat and we’ve lost him, he’s out at sea, especially after my sort of mimetic contagion comment earlier. But there are a lot of, I think it’s very sort of, it’s impossible to dispute that there’s a lot we don’t understand.
+
+Kevin Rose: Yes, a hundred percent.
+
+Tim Ferriss: That does not mean that these things are unexplainable. It’s not invoking necessarily the supernatural per se. But there’s a lot of weird shit that we can’t currently explain. And so in the meantime, if we’re waiting for a scientific agreement or consensus or breakthrough that it’s accepted, I’m happy to experiment, as long as you have some preparation and safeguards in advance so that you’re not a mark for fooling yourself really easily.
+
+Kevin Rose: Well, here’s the funny thing is she never, so out of myself, Darya, and my sister, she never asked for a rebook appointment. In fact, my sister, she had a bunch of people that came to her that she didn’t recognize and she got to my dad a little bit later and she’s like, “Listen, I’m so sorry, this never happens. I want to give you a free session for free. Come back next time.” It was very weird and there was none of that salesy shit. I’m always on the lookout for that kind of stuff. Anyway, we’ll have you do it.
+
+Tim Ferriss: “Sorry, our time’s up,” like a cliffhanger.
+
+Kevin Rose: Yeah, exactly, exactly. “I found your dad.”
+
+Tim Ferriss: “Oh, he gave me five of the winning lottery ticket numbers. Oh, sorry, we’re out of time.”
+
+Kevin Rose: Exactly. But it was one of these random things that you just walk into in life and you say yes to and it was, like, weirdly awesome.
+
+Tim Ferriss: I mean, look, I’ll give you, this is like two drinks definitely informing what I’m about to say. But in my experience, so I get, say, soft tissue treatment once a week, I get a massage treatment.
+
+Kevin Rose: Like a handy?
+
+Tim Ferriss: What was that?
+
+Kevin Rose: I said a handy.
+
+Tim Ferriss: No.
+
+Kevin Rose: What does that mean?
+
+Tim Ferriss: No dragon rolls, no happy endings. I’m saying just massage treatment. I have people who work on because I’ve broken my body so many times.
+
+Kevin Rose: Oh, like a good massage. Okay. Yeah, yeah.
+
+Tim Ferriss: And there are certain people who have bizarre abilities that they cannot explain. They are just good at fixing —
+
+Kevin Rose: Like the Reiki people.
+
+Tim Ferriss: It doesn’t necessarily even have to be that far afield from manual therapy. There are just some people who have very seemingly strange abilities and they have incredible track records. And when they try to teach other people their method, it does not translate. Their disciples are unable to do what they do. And I don’t know how to explain that, but there seems to be an extreme variance between outcomes.
+
+And there’s some people who are very purely secular. They have their technique, they can explain it, and they’re effectively architects and carpenters of the human body and they’re able to do some miraculous, I shouldn’t say miraculous, but predictably effective things based on their understanding of the human body. Then there are people who just seem to operate on a different channel, and I don’t know what to make of that. And I would say any athlete who has competed for a long time or had a lot of manual therapy will have a story about someone like this.
+
+Kevin Rose: Why do you say athlete?
+
+Tim Ferriss: Well, just because they’re going to —
+
+Kevin Rose: Like flow state stuff or like —
+
+Tim Ferriss: No, because they’re going to injure themselves or they’re just going to have more table time than an average person. You talk to the average person on the street, I mean, by and large, when did you have your last massage, it’s like never, five years ago, two years ago. Whereas if somebody is a very serious athlete, they’re probably getting some type of manual therapy once every, I mean at least once a month, if not once a week. If they’re like an Olympic sprinter or something, they’re probably getting it every day or every other day, something like that.
+
+Kevin Rose: Right. Can I ask you a question that you may want to cut from the podcast?
+
+Tim Ferriss: Sure.
+
+Kevin Rose: You told me once that during one of your ayahuasca sessions that it was either someone had spoken in a different tongue that they didn’t know or there was something crazy. What is the craziest Tim Ferriss supernatural thing that you’ve ever seen in your life?
+
+Tim Ferriss: Oh, so I’m going to, that’s a good question. I’m going to pull out the supernatural just because —
+
+Kevin Rose: Okay, natural.
+
+Tim Ferriss: Hypernatural. Simply because I don’t think these things are beyond explanation. We just lack perhaps the tools or the —
+
+Kevin Rose: To measure it.
+
+Tim Ferriss: Yeah. We can’t currently investigate any of these phenomena in a granular enough way to make it gratifying. Yeah. Okay.
+
+Kevin Rose: Give me a couple good ones. Come on.
+
+Tim Ferriss: Yeah, I’ll give you some good ones. I mean, so I have a decent amount of flight time, I guess we can call it. I have seen on a few — now, what I’m going to do is I’m going to describe what I saw and then I’m going to debunk it.
+
+Kevin Rose: And I know you don’t lie, which is what’s awesome. It’s like I’ve known you long enough to know that you’re a very, very trustworthy, legit person. You don’t embellish, which I think is great.
+
+Tim Ferriss: Yeah. I try not to. And I also try to cross examine.
+
+Kevin Rose: Yeah. You’re very skeptical, dude, which I love. It’s great.
+
+Tim Ferriss: Yeah. So I’ve seen a few people, this is first person, speak or sing in languages that they do not speak during —
+
+Kevin Rose: Like in tongues shit where you’re like I can’t understand you and they’re like [inaudible]?
+
+Tim Ferriss: No, no, no, no. You can hear them coherently.
+
+Kevin Rose: And you speak a lot of languages.
+
+Tim Ferriss: Yeah, I do.
+
+Kevin Rose: So were they ever speaking a language that you understood where you’re like, no?
+
+Tim Ferriss: Yes.
+
+Kevin Rose: What language?
+
+Tim Ferriss: Spanish.
+
+Kevin Rose: Well, that’s an easy one. They could have watched enough like —
+
+Tim Ferriss: No, no, no, no. These are people without any exposure or been —
+
+Kevin Rose: They didn’t watch Dora the Explorer or anything as kids. They could have picked up a lot of shit.
+
+Tim Ferriss: Look, I’m not fluent in these languages, but like the Shipibo, or like from the Shipibo-Conibo people or Kichwa-Lamista.
+
+Kevin Rose: And these were like white people coming in like where you didn’t have any —
+
+Tim Ferriss: Yeah. They’re coming in blind. They couldn’t even tell you the names of these tribes.
+
+Kevin Rose: Holy fuck.
+
+Tim Ferriss: Or indigenous peoples.
+
+Kevin Rose: Like how many words? Like one or two words?
+
+Tim Ferriss: No, we’re talking like an hour.
+
+Kevin Rose: What?
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: And you’ve seen this firsthand?
+
+Tim Ferriss: Yes. And I also have what I would consider credible witnesses, people who are hyper-competent in their own lives, they have very effective careers, et cetera, et cetera. These are not people who are just navel-gazing folks who do personal development seminars every two days and don’t have a job. These are real operators who have seen, in one instance, this woman who ended up speaking what sounded like in tongues, but there was an academic there who later was like, oh, it was something like ancient BLEEP language.
+
+Kevin Rose: Holy fuck.
+
+Tim Ferriss: It was something that he could identify. And he’s like, “Oh, yeah, that’s a dead language.” He’s like, “But I’ve studied enough of it.” He’s like, “That’s what she was chanting in.”
+
+Kevin Rose: Is any of this being recorded?
+
+Tim Ferriss: No. So if I were to take the debunk side of this, I would say, “Well, everyone’s tripping balls.” So let’s be honest, everybody could just be making up the never-ending story fantasy that they want to be true because they’re trying to recapture some mystery in a world that seems just like profane and disgusting.
+
+Kevin Rose: And this is all ayahuasca.
+
+Tim Ferriss: Those examples are all ayahuasca, but it’s not limited to that. It seems to be particularly prevalent. Reports, let me be clear, not occurrences, but reports of these types of events or phenomena are most widely reported, it seems, in cases of ayahuasca. But the format I think matters in the sense that it may not be limited to ayahuasca, which is a brew, it’s a combination of different plants. So Banisteriopsis caapi in the case of the vine, and then Psychotria viridis if they’re using chacruna, also another name for the same thing. So it’s a bit of a cocktail. You can think of it as an old-fashioned, there are a lot of ways to put a spin on an old-fashioned, and depending on the brew, it’s going to be very, very different.
+
+Kevin Rose: I had one the other day with the cognac and it was so good.
+
+Tim Ferriss: So I could tell you what is not delicious is ayahuasca. But the point I was going to make is that I think the reports in part are more frequent with ayahuasca than, say, psilocybin or more psilocybin mushrooms, let’s say, or LSD, because ayahuasca is almost by default, at least in the syncretic mestizo neo-shamanic formats that you see say in North America and at a lot of the ayahuasca tourism places. It’s inevitably in a group context. And so when you have a group together, the dynamic, the potential for storytelling, the volume of things that you will observe from other people is just higher than if you’re laying on a mat by yourself taking mushrooms.
+
+Kevin Rose: Of course, yeah.
+
+Tim Ferriss: So I think since that shared experience is such an intrinsic part of most ayahuasca circles as North Americans experience it, that it’s almost inevitable that you’re going to get more reports of these types of things. And who knows, maybe people are just hearing and seeing what they want to see. They are ultimately considered hallucinogens, although I do think there’s more to the story.
+
+Kevin Rose: That’s crazy.
+
+Tim Ferriss: Yeah. Yeah. And I will say, when you’re listening to anyone talk about fucking crazy town, which is what we’re talking about right now, and this is not to say that I’m the ultimate impeccable objective witness of reality, but you just have to ask yourself, has this person demonstrated the ability to reason and logic their way through other complicated problems? Because if they haven’t demonstrated that and they believe in the fucking Tooth Fairy and spirits and ayahuasca, then you really don’t have a basis for judging their judgment. But if someone comes in and they are demonstrably world-class in a bunch of domains, a real operator, very skeptical, and nonetheless they have these experiences and they’re just like, “What the fuck was that?” then it’s more interesting.
+
+Kevin Rose: Yeah, I had a jet navy fighter pilot named Ryan Graves on my podcast.
+
+Tim Ferriss: Ryan Graves?
+
+Kevin Rose: Yeah, like the Uber Ryan Graves, but a fighter pilot. And he’s the one that came out and said, “I saw some crazy alien ships in the sky.” And we talked an hour and a half for what it’s like and the training that he does and the sensors that they have in these jets. And you’re like, there is nothing — this guy is the most credible dude on earth. He’s a retired Navy fighter pilot. There was no, he wasn’t kicked —
+
+Addison: [inaudible].
+
+Kevin Rose: Oh, we’ve got —
+
+Tim Ferriss: Here we go.
+
+Addison: Can I have the corner bit?
+
+Tim Ferriss: Oh, my God.
+
+Kevin Rose: You can have the corner bit.
+
+Tim Ferriss: Here we go.
+
+Kevin Rose: What is this?
+
+Addison: So this is —
+
+Tim Ferriss: I sense some egg whites.
+
+Addison: :So unfortunately — yeah, egg whites. I got you.
+
+Tim Ferriss: Thank you.
+
+Kevin Rose: Thank you.
+
+Addison: It’s apricot liqueur again, I apologize.
+
+Tim Ferriss: Ooh, I like this little clothespin. It’s very nice.
+
+Kevin Rose: Little clip, yeah.
+
+Tim Ferriss: Kevin, etiquette.
+
+Kevin Rose: Sorry, sorry. Please, please, please.
+
+Tim Ferriss: Must be some decorum.
+
+Kevin Rose: Sorry.
+
+Addison: Lemon juice, bitters, and then our world-famous tequila there.
+
+Kevin Rose: Tequila. Oh, nice. That’s not tequila. That’s my water. That’s my water.
+
+Tim Ferriss: Oh, yeah, the LALO.
+
+Addison: Egg whites.
+
+Kevin Rose: Egg whites, okay. Cheers.
+
+Tim Ferriss: Egg white. It’s healthy. It’s basically a protein shake.
+
+Kevin Rose: Yeah, exactly, exactly.
+
+Tim Ferriss: So to what, Kevin?
+
+Kevin Rose: To experimentation.
+
+Tim Ferriss: To experimentation.
+
+That’s outstanding.
+
+Kevin Rose: Jesus, that’s probably the best one yet.
+
+Tim Ferriss: Outstanding. I’m going to be laying on —
+
+Kevin Rose: You get on a flight, you’re fine. All right, what do you have? Do you have anything else or do you want me to go on? I’ve got one or two more, if you want to go there.
+
+Tim Ferriss: Why don’t you fire away? I mean basically here, there are a few things that I can recommend just in case people are looking.
+
+Kevin Rose: Yeah, let’s do a couple recommendations, then I have one crazy one.
+
+Tim Ferriss: I’ll make it fast. So just in case people are looking for a couple of recommendations for things that over the last few months I have found really compelling in viewing or reading, a few things. So one is Jerry Seinfeld’s Duke commencement speech.
+
+Kevin Rose: Oh, yes.
+
+Tim Ferriss: Amazing.
+
+Kevin Rose: Amazing.
+
+Tim Ferriss: Amazing. Just trust me, check it out. Then there’s a very old documentary that I watched again, David Hockney: The Art of Seeing.
+
+Kevin Rose: Going to write that down.
+
+Tim Ferriss: And David Hockney is an incredibly well-known artist, perhaps Britain’s best-loved living artist.
+
+Kevin Rose: The Art of Seeing, okay.
+
+Tim Ferriss: And The Art of Seeing really dives into through interviews his way of viewing the world, art, and life. It’s tremendous. And you can find it on YouTube. You might be able to find it elsewhere, but it’s actually surprisingly hard to find.
+
+In terms of books, after many, many people recommended it and I had a hell of a time getting into it, it took 20 or 30 pages, so just suffer through the first 20 or 30 pages. It is one of the most beautifully written books I’ve ever read, also probably the most brutal book. It is just brutal, brutal, brutal, called —
+
+Kevin Rose: Brutal in what way?
+
+Tim Ferriss: Okay, so it’s called Blood Meridian by Cormac McCarthy. And it’s been selected —
+
+Kevin Rose: You got this in on Audible?
+
+Tim Ferriss: Yeah, you can get in on Audible. I listened to it. It was actually great narration. Selected by The Atlantic as one of the great American novels of the past 100 years.
+
+Kevin Rose: Oh, shit.
+
+Tim Ferriss: Here’s an endorsement. One of the quotes from Michael Herr, I think that’s how you say it, H-E-R-R, “A classic American novel of regeneration through violence. McCarthy can only be compared to our greatest writers like Melville, et cetera, et cetera. And this is his masterpiece.” So it’s brutal in the sense that it is set in the Wild West, but the Hobbesian behavior of humans and just evil acts of brutality are just beyond vile.
+
+Kevin Rose: Is this going to be a Quentin Tarantino film in 10 years kind of thing, or five years?
+
+Tim Ferriss: It would be hard to make an adaptation. I think it’d be hard to sell because people would just come out of the movie theaters being like, “What the fuck did I just do to myself?” But the prose is so gorgeous. I mean, this is one of those books that I listened to and I was like, I should just fucking hang up my spurs and be done with writing.
+
+Kevin Rose: Oh, shit, really?
+
+Tim Ferriss: This writing is so good.
+
+Kevin Rose: Oh, fuck.
+
+Tim Ferriss: This writing is so good, it blows — maybe this guy’s an alien. It doesn’t seem conceivable to me that a human could produce this. It’s so good.
+
+Kevin Rose: AI.
+
+Tim Ferriss: Now, I will warn you, if you listen to the audiobook, in the beginning of chapters, they have these, they’re not quite random, but they’re foreshadowing snippets of different phrases, and it’s confusing as fuck on the audiobook. So when he’s like “Marshmallow tobacco, a man finds a dog, hat in the wind,” and you’re like, what the fuck is happening?
+
+Kevin Rose: That’s the perfect Quentin Tarantino little slide that they put up on the screen.
+
+Tim Ferriss: They always, yeah, exactly. So that’s at the beginning of every chapter, but it’s outstanding.
+
+If you want something that is shorter and also metaphorically quite beautiful, The Bear by Andrew Krivak, I think if I’m saying his name correctly, is a beautiful story of a girl and her father who lived close to the land in the shadow of a lone mountain. The father teaches the girl how to fish and hunt the secrets of the seasons and the stars. He’s preparing her for an adulthood in harmony with nature, for they are the last of humankind. I’ll just stop there. But it’s beautiful. I finished it in a handful of days. It’s very short. That’s a very special book. Really, really fast.
+
+Kevin Rose: If you’re doing documentaries, I want to throw one out there. You’ve probably seen this and I just watched it again for the second time. It’s called The Birth of Saké.
+
+Tim Ferriss: Never seen it.
+
+Kevin Rose: What?
+
+Tim Ferriss: No.
+
+Kevin Rose: Oh, dude, this is a beautiful story.
+
+Tim Ferriss: Now, we tasted a lot of sake in Japan.
+
+Kevin Rose: We did. Yeah, we went to actually one of the breweries and took it right out of the spigot. It was amazing.
+
+Tim Ferriss: That was so good.
+
+Kevin Rose: So The Birth of Saké is about a traditional handmade, there’s only a thousand of them left. There used to be like 4,000 like a decade ago, and now it’s down to a thousand handmade.
+
+Tim Ferriss: Sounds like Japan.
+
+Kevin Rose: And well, they’re like machines and automation and all that are taking over. And this is about, I didn’t know if you knew this, but if you’re actually making sake, you have to tend to it for about six months around the clock. And so they get together in these little tiny micro homes where they live, they leave their families and they just work on sake for six months. And so this covers old men, young men coming in, like tradition, the handing off of reigns to one generation to another, somebody dying, the whole thing, and it’s beautiful. And it’s this little tiny brewery called Yoshida Brewery. And so there’s a great store in San Francisco, I’m sure you probably remember it, called True Sake. Remember over in, sorry, in —
+
+Tim Ferriss: Hayes Valley?
+
+Kevin Rose: Hayes Valley, yeah.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: So they actually —
+
+Tim Ferriss: I bought a sake there called Hitorimusume, which means “single daughter,” which to this day I’ve been trying to find. So good.
+
+Kevin Rose: So they actually sell this, I found this sake, I have it upstairs, we can take a sip of it, I bought. But it’s not much, it’s like $50 a bottle. But it’s this little tiny family. The story is beautiful. It’s all 4K. There’s snow falling in slow motion. Highly recommend watching that documentary, The Birth of Saké. That’s my go.
+
+Tim Ferriss: What else do you got? I’ve got a short one.
+
+Kevin Rose: Okay, go.
+
+Tim Ferriss: All right, so this is a video that was sent to me by my friend Mike. You’ve got to watch this. You’ve got to watch this. It’s called —
+
+Kevin Rose: Is this some of the stuff we send each other normally?
+
+Tim Ferriss: No. No. Not that horrific mutually assured destruction known as our group chat.
+
+Kevin Rose: Yeah. Like you can never make it out.
+
+Tim Ferriss: No, no, no, no. It’s called Hi Ren, R-E-N, by Ren, who is a musician, storyteller, lyricist. And it’s fucking incredible. You have never seen anything like it. And this is a combination of talent, craziness/lunacy, philosophy, redemption, and relief. The lyrics are so good. It’s a one man performance where he’s playing a guitar. He looks like a mental patient, he’s in an inpatient outfit, gets wheeled in. And it’s just him and a guitar and he goes back and forth playing the light and dark sides of himself having a conversation.
+
+Kevin Rose: Oh, shit.
+
+Tim Ferriss: It is so good.
+
+Kevin Rose: Can we watch it now or no?
+
+Tim Ferriss: It’s probably too long to watch now.
+
+Kevin Rose: All right, I’ll watch it.
+
+Tim Ferriss: You should watch it. It will blow your mind.
+
+Kevin Rose: All right, we’ll link it up. This is some good, I love when we throw out the random links that are just really good.
+
+Tim Ferriss: This one, seriously, I was like, oh, I’m not the only one who’s fucking crazy. Oh, that’s great. Oh, that’s great.
+
+Kevin Rose: Fantastic.
+
+Tim Ferriss: I love that.
+
+Kevin Rose: We’re all fucking crazy.
+
+Tim Ferriss: We’re all fucking crazy.
+
+Kevin Rose: God, what a relief.
+
+Tim Ferriss: So that’s definitely one that came to mind.
+
+Kevin Rose: All right, I’ve got my last story of the day, and then maybe you have one to add on top of this. So I’m taking a lot of risk here in that —
+
+Tim Ferriss: Tantalizing.
+
+Kevin Rose: — speaking about podcasts that we don’t want to do what everybody else is doing. One of the things that was a complete tragedy that we can all agree upon is that Matthew Perry’s passing away from ketamine overdose or becoming unconscious and then drowning in the pool. A lot of data came out recently. Did you see that story?
+
+Tim Ferriss: Yeah, I did.
+
+Kevin Rose: It was really horrible. These doctors were conspiring to give him as much as he wanted and injecting him with what would be considered to be —
+
+Tim Ferriss: Like a general anesthesia dose.
+
+Kevin Rose: Yeah, exactly. Enough to put you out. And obviously you don’t want to fall asleep in the hot tub.
+
+Tim Ferriss: Doesn’t mix with water. Right. It doesn’t mix with water.
+
+Kevin Rose: Yeah. So the thing that bummed me out about that is that we talked about this before about my treatment like six months ago, and I feel fantastic after that treatment, but the thing that bummed me out is that —
+
+Tim Ferriss: Meaning intravenous. Was it intravenous or muscular?
+
+Kevin Rose: I did intravenous, yeah.
+
+Tim Ferriss: Yeah. So IV ketamine treatment.
+
+Kevin Rose: Yeah. So I did it, I did the six sessions and I was going through a really hard startup and I feel as good as ever, which is great. Since then, when we did that podcast, I’ve had, and I can’t say on camera, but I’ve had a household name that has built a business that is bigger than you and I have ever built, that would be a shock to the world that hit me up and was like, I did this and it changed my life. And they’ve since paid for a bunch of people to do it after them that were really suffering. That person in particular was having some depression, things of that nature, that was treatment resistant depression was what they call it. Colleague of mine hit me up and was like, “I have suicidal thoughts. I’m not going to kill myself, but I hate that I have them every day.” And —
+
+Tim Ferriss: Also a scary message to get.
+
+Kevin Rose: Yeah. But she went and did five treatments and is now in full remission. And I was like, this is amazing. And it kills me that, I mean, obviously there are insane dangers around recreational use. I’m not disputing that at all. And it’s being used in clubs. It’s being used all over the place as a dis-associative. And I get that it’s really bad. But I wanted to go out and say, if I’m going to do a different podcast on this, I want to have in an expert, which I brought my doctor in. Her name is Dr. Jen. She’s a Princeton-trained doctor.
+
+Tim Ferriss: Not a chiropractor.
+
+Kevin Rose: Not a chiropractor.
+
+Tim Ferriss: No offense to chiropractors, but they tend to do the Dr. Bob, Dr. Jack, Dr. Jen thing.
+
+Kevin Rose: Yeah. You don’t want a chiropractor doing this, but she’s been an ER room doctor for like 15 years.
+
+Tim Ferriss: Now I feel like a dick. I’m going to have to say there’s some great chiropractors out there who I work with, but you don’t want them running your ketamine.
+
+Kevin Rose: Right, exactly. And she gets into that and she’s like, “This is why we need to take this seriously.” And so we did the whole podcast and we take it from a very scientific point of view, talking about the neuroplasticity, talking about her outcomes that she’s witnessed, blah, blah. But the crazy thing that I added onto this, and this is coming out in like a week or so, is that I actually said, “Okay, I will go in to demystify this.” And I went into the clinic and I did inner muscular, which is just a shot in the arm.
+
+Tim Ferriss: That’s what runs the rocket ship.
+
+Kevin Rose: And I tried to stay as conscious as I could and explain the feelings as I was starting to go into La La Land.
+
+Tim Ferriss: All right.
+
+Kevin Rose: Now let me tell you why.
+
+Tim Ferriss: Are you going to share marble mouth moments?
+
+Kevin Rose: Oh, yeah, 100 percent.
+
+Tim Ferriss: [inaudible].
+
+Kevin Rose: Oh, yeah, there’s all that in there. But —
+
+Tim Ferriss: It is an anesthetic. Doesn’t generally help you talk.
+
+Kevin Rose: No. I had to stop and restart the same sentence like five times. But I will tell you the reason why I did this is very simply because of my friend that was suffering from severe depression that she knew me personally. And she’s like, “I saw you do this, and I saw it have a positive benefit.” I am not recommending anyone to do this. But there is a subset of people out there that are suffering, that are seriously contemplating horrible things, and I just want them to check it out and also see what a high quality clinic looks like. Don’t go to the chiropractor, just look inside of —
+
+Tim Ferriss: I’m so sorry I said that.
+
+Kevin Rose: Yeah. No, but it’s true though. Let’s not say chiropractors, but people that have access to this compound. Don’t go to them. But you should have a real legitimate doctor. There should be a real legitimate intake. There should be blood pressure cuffs, there should be heart rate monitors. There should be all the real things that come with a legitimate practice. And so I want to demystify it a bit. It’s going to be controversial, it’s coming out soon. But I think I’m on the right side of history here. I think that this will help a lot of people. It’s not for everyone, but if you’re really, really suffering and you tried everything else, all the exercise, all the antidepressants, and you still want to do harm, maybe consider.
+
+Tim Ferriss: Yeah, for suicidal ideation. I mean, there are many resources that we could recommend. We’re not doctors.
+
+Kevin Rose: I mean, this one is that hit you personally.
+
+Tim Ferriss: We’re not doctors. We’re not medical doctors. Yeah. I almost off’d myself in college. I mean, if you search “some practical thoughts on suicide” and my name, there will be a long post that will walk you through my history with this. But if someone’s contemplating self-harm, serious self-harm, then I do think of all the interventions I’ve seen in clinic, that’s the operative term. Ketamine sessions, whether IV or intramuscular, are very interesting.
+
+They effectively hit stop or pause on the thought loops so that you can have a moment of respite to really examine what is happening and going on and take a short break from your pain in the form of these thought loops that are incessant. And that is also the reason why in my opinion, you should not use ketamine outside of clinic.
+
+Kevin Rose: 100 percent.
+
+Tim Ferriss: It is too seductive. It is very easy to become addicted if you have any history of using alcohol to take the edge off. Ketamine is like alcohol times 100 in terms of its effectiveness of taking that edge off. And therein lies the danger because there are severe consequences to becoming really addicted to ketamine.
+
+Kevin Rose: I will say this, that was really interesting. I talked to Dr. Jen, who’s done hundreds of patients now. And I said to her on the podcast and her defense, this was very interesting. I said, “For me, I don’t see how anyone could be addicted to this because it’s like a journey you go on.” And by the time I’m done with the journey, I’m like, oh my God, thank God I get a few days off because you do it twice a week for three weeks.
+
+But she goes, “No, no, no. Kevin, I just want to let you know there are some people that when they feel that, they feel high from that.” And I’m not one of those people, thank God, but she’s like, “Therein lies the danger.” And I’m like, “Thank you for correcting me there.” That’s a real legitimate person that is trying to set the record straight because some people can get that alcohol times 1,000 and get addicted and then they go finding street sources and all that stuff. But so it’s a really crazy compound because in some settings it can be a savior and a reboot that people need and an outside perspective to look at themselves, disassociated a bit to laugh and to take the edge off.
+
+Tim Ferriss: To take an observer status on their own stories.
+
+Kevin Rose: Observer status, exactly. I talk about that. Actually when they filmed me coming out of it, they go, “What did you feel?” And I go, “Kevin was over here. I took an observer status of that. And I was able to say he’s being crazy and he’s his own worst enemy.” And so it’s very challenging because in some sense this is a very dangerous compound. But I don’t think we need to just throw it away.
+
+Tim Ferriss: No, we don’t need to demonize it. I think it’s a very powerful tool. And the risk is self-administration.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: 100 percent. And I will say I’ve seen some of the most impressive, amazing, soulful, high-functioning people completely derail their lives using ketamine and other compounds. And you just have to be very, very cautious. Because my belief is, and I think this is a, even if it’s inaccurate, I think it’s a constructive positive belief to hold. Which is everyone has a molecule that will make them addictive, everyone.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: You just don’t know exactly which key is going to fit the lock, but everyone has the potential to be addicted.
+
+Kevin Rose: Did I take —
+
+Tim Ferriss: And it’s just the right molecule. So for me, I’m like, let’s safeguard against that. Oh, my God.
+
+Addison: [inaudible].
+
+Kevin Rose: What is this?
+
+Addison: This is just a single shot of that.
+
+Tim Ferriss: Oh, the great whiskey, or the great tequila. Thank you.
+
+Kevin Rose: All right. Thank you. Thanks so much.
+
+Tim Ferriss: I love that text was from like 20 minutes ago. He said thank you. Addison, you’re the best, man.
+
+Addison: Sure.
+
+Kevin Rose: Thanks man.
+
+Tim Ferriss: PicStudio.AI for Tim in Speedos.
+
+Addison: Wait. Did you already pull it up?
+
+Tim Ferriss: I pulled it up.
+
+Kevin Rose: It was so good. Amazing. Crazy.
+
+Tim Ferriss: I mean, it looks just like him.
+
+Kevin Rose: It does look just like him.
+
+Addison: Here’s —
+
+Tim Ferriss: What’s the story of the snake through the skull on your forearm?
+
+Addison: It’s traditional. There’s no stories, man. It’s a piece of great art.
+
+Kevin Rose: There’s no stories. Just beautiful.
+
+Tim Ferriss: All right. You know what? I stand corrected. I like it.
+
+Addison: Hold on, hold on. What about this one? There’s no story with the —
+
+Tim Ferriss: Oh, yeah, like the monkey in the hat with the cigar?
+
+Kevin Rose: He was [inaudible] —
+
+Tim Ferriss: That looks pretty traditional too.
+
+Addison: How about this little baby?
+
+Tim Ferriss: Oh, look at like the CCP baby with the boxing gloves? Yeah. Who knows?
+
+Kevin Rose: Addison’s the best. Thank you so much.
+
+Addison: Did you guys talk about just what happened last week or two weeks ago with Flux and the model?
+
+Kevin Rose: Oh, yeah. So we did mention that up front, but I think we should mention it. Well, I didn’t mention Flux. So there was a new model that came out.
+
+Tim Ferriss: All right. Addison, you get to do the cheers. What should we cheers to?
+
+Addison: To our girlfriends and our wives, may they never meet.
+
+Kevin Rose: “To our girlfriends and our wives, may they never meet,” is what Addison says.
+
+Tim Ferriss: Future tense for me, but a boy can dream.
+
+Kevin Rose: So just to give the round out of the 30 seconds. Addison, you switched to a new model called Flux.
+
+Addison: Yeah, everyone knows about it. That’s deep in the AI space.
+
+Kevin Rose: Yeah, this is the new AI shit.
+
+Addison: What’s really crazy is, so you guys brought up —
+
+Tim Ferriss: Should we get him a mic?
+
+Kevin Rose: Yeah. Yeah. Here, talk in this mic. Kneel down for a sec. Take a knee.
+
+Just tell us about Flux because the pictures of Tim are insane. Why are they better now than they were three months ago?
+
+Addison: Sure. Well, you guys originally brought up Prompt Hunt like maybe two years ago now, or maybe a year and a half ago. It was in December of 2020. You look good. That’s not even AI.
+
+Tim Ferriss: I do.
+
+Addison: That’s our trip to Mexico. It’s so good.
+
+Tim Ferriss: Yeah, that’s just Mexico.
+
+Addison: No. So you guys brought it up and you were making all these theories about what’s going to happen with AI. And really, the models just keep getting better and the prompts are kind of still staying complicated.
+
+And so essentially there was a team at Stable Diffusion or Stability AI. Those folks left and basically started another open source model. And this thing is competing with Midjourney and it’s all open source. And it launched and the day or the couple days after it launched, everyone was saying, “You won’t be able to fine tune. You won’t be able to train basically these lores and things like that.” 24 hours later, I was like, “Actually, you can.”
+
+Kevin Rose: And that’s how rapidly this changes.
+
+Tim Ferriss: Sounds like AI.
+
+Addison: It’s just insane. And it takes very little effort now to train these models.
+
+Tim Ferriss: We’ll put a bunch of these up. They’re nuts.
+
+Kevin Rose: Let me ask you a question on this.
+
+Tim Ferriss: Also, I feel like we’re going to put these up and then people are going to meet me in person and be like, “What happened? You really let yourself go.”
+
+Kevin Rose: Hold on, this picture of Tim with the red Speedo type stuff.
+
+Addison: Just pull the AI photos up.
+
+Kevin Rose: Exactly. Nice way to get on Tim’s good side. Could you say I want him in a black jacket here, red pants?
+
+Addison: Yeah. Yeah. So the way, what I’m working on with like PicStudio.AI is essentially everyone wants really —
+
+Speaker 1: I’m going to edit this part out. But do you want to go a little bit more over here so we can see your face?
+
+Kevin Rose: There we go.
+
+Addison: I mean, sure.
+
+Kevin Rose: Come more this way.
+
+Addison: I want to get my good side. Shit.
+
+Tim Ferriss: Just sit on Kevin.
+
+Kevin Rose: [inaudible] editing.
+
+Tim Ferriss: You can just sit on Kevin’s lap if you want.
+
+Addison: I’m not saying that’s hot, but if the boner police were around, I’d demand a lawyer.
+
+Tim Ferriss: That’s definitely staying in.
+
+Addison: Shut up. [inaudible]. Okay. [inaudible], Jesus.
+
+Kevin Rose: [inaudible] my toothbrush.
+
+Addison: You’re going to have to catch up.
+
+Tim Ferriss: Oh, God, you’re kneeling on his Fleshlight.
+
+Addison: They should make adapters for this. This would be amazing.
+
+Kevin Rose: Multiple adapters.
+
+Tim Ferriss: Okay.
+
+Addison: There you go. Sorry.
+
+Kevin Rose: Tell us how we can modify this.
+
+Addison: Well, no, the way I’ve seen this sort of working in a way that is actually usable, which is what I keep telling people, is how many times have you taken head shots where you just need them from either LinkedIn or a show that you’re working on? It’s just a really —
+
+Kevin Rose: Dating.
+
+Addison: Yeah, I’d hate to be dating right now. That’d be really bad.
+
+Tim Ferriss: Yeah, me too.
+
+Addison: But you can do anything. Really, essentially what we’re trying to do is figure out what kind of photos people want.
+
+Kevin Rose: [inaudible].
+
+Tim Ferriss: Wait, wait, go to the website for a second.
+
+Kevin Rose: Oh, there you go.
+
+Tim Ferriss: What’s the tagline? Pro portraits created with AI.
+
+Addison: We’re making a whole bunch of stuff. And these are actually old ones because we’re sort of piloting this right now of these different portraits.
+
+Tim Ferriss: God, that’s fabulous.
+
+Addison: Those are old versions of our portraits.
+
+Tim Ferriss: That is so nuts. Wow.
+
+Addison: But I see it less being, “Hey, I want to be riding an elephant going crazy.” It’s more like I used to take portraits every year with my buddy Nate Taylor, who took your portraits by the way. And we’d have to spend a day or two taking these photos and he doesn’t want to do it. I don’t want to do it. He’s going to take 1,000 photos and maybe one looks good? And it’s like this is just going to get it right right away. So it’s just a realistic way of getting a great portrait.
+
+Kevin Rose: I love it.
+
+Addison: But you can do whatever. I absolutely did that and that’s going to my library.
+
+Kevin Rose: Your private stash.
+
+Addison: [inaudible].
+
+Tim Ferriss: Bookmarks. Tax returns 2011.
+
+Kevin Rose: I think I’m going to make it OnlyFans for Tim. I’m going to make it OnlyFans for Tim based solely on this AI model.
+
+That’s an interesting thing. All right.
+
+Tim Ferriss: That’s true. I can cheat. You all right over there?
+
+Tim Ferriss: I’m good. Microphone went for a wobble.
+
+Kevin Rose: I love Addison. He’s the best. He’s always dabbling. This is a one-person startup that he did on his own.
+
+Tim Ferriss: I fucking love that, though.
+
+Kevin Rose: Yeah, I know. It’s so cool.
+
+Tim Ferriss: Dabbling is where you find things to double down on.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Right? That’s where all the magic happens
+
+Kevin Rose: 100 percent. All right, I’m out of good stories. You got anything else? You good?
+
+Tim Ferriss: You’ve got good stories. I think I’ve covered most of it on my list. I’ll mention a few things. There’s a children’s book for adults.
+
+Kevin Rose: A trildren’s.
+
+Tim Ferriss: You all right?
+
+Kevin Rose: You said trildren’s. Children’s.
+
+Tim Ferriss: Yeah, a children’s. Children apostrophe S, a children’s.
+
+Kevin Rose: Children’s.
+
+Tim Ferriss: Yes.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: Maybe it’s Long Island coming out. I don’t know. I think that’s how you say it.
+
+Kevin Rose: It’s called the tequila coming out.
+
+Kevin Rose: Oh, Lordy.
+
+Tim Ferriss: Called The Well of Being by Jean-Pierre Weill, I guess, if you’re going to say it in German.
+
+Kevin Rose: All right.
+
+Tim Ferriss: And this has made an impact on me. It’s a beautiful book. It’s very easy to read. You could read it with your kids. And the couple who introduced me to this are one of the most thoughtful, present and playful couples I know. F. And K., thank you for all this. They’ve also infused the raising of their daughters with the ethos of this book in a way.
+
+So here’s the description. “The Well of Being from Jean-Pierre Weill is an illustrated inquiry into the art of happiness and what it means to be radically alive in our daily moments.” I’ll stop there. It’s a long description.
+
+Kevin Rose: It’s out of print.
+
+I’m on Amazon right now. It’s out of print.
+
+Tim Ferriss: Is it really?
+
+Kevin Rose: Yeah. And so I had to just buy a used copy.
+
+Tim Ferriss: Buy a used copy. It’s a beautiful book.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: And then separately, there’s a question that I’ve been asking myself a lot, and you can find this more elaborated upon on my blog, takes two or three minutes. But don’t freak out because the first few paragraphs of the blog post. But it’s a strong metaphor. And the question is, are you hunting antelope or field mice? And I’ve been thinking about this with the podcast as well as with respect to next projects, how I choose next projects. Because all we have is our energy and time. And if you spend it in one place, you can’t spend it in another. And this particular question, people can look it up for the history. Are you hunting antelope or field mice is a reference to sort of the metaphor of the lion. A lion can survive on field mice, but it’s going to ultimately be very, very, very, very, very over busy. And it’s going to burn more calories than it earns through hunting field mice.
+
+Kevin Rose: So it’d be skinny.
+
+Tim Ferriss: Don’t be skinny, but pick a big —
+
+Kevin Rose: No, it would be skinny if it was just doing field mice.
+
+Tim Ferriss: Yeah. But pick a big, audacious goal that can feed you for a long time. So as you’re being “busy,” are you hunting field mice or antelope?
+
+Kevin Rose: Can I challenge that for a second?
+
+Tim Ferriss: Challenge.
+
+Kevin Rose: So if you’re hunting field mice, I’m assuming that’s easier prey, easier to get, probably gives you more time to sit with who you are.
+
+Tim Ferriss: Watch Netflix.
+
+Kevin Rose: The one thing that struck me about today, and let’s have a little real talk for a second at the end.
+
+Tim Ferriss: Oh, wow. Oh, God. Coming to Jesus moment. Here we go.
+
+Kevin Rose: No, but you went on this sabbatical and yet you had to write a book. It’s funny —
+
+Tim Ferriss: I didn’t have to write a book.
+
+Kevin Rose: Well hold on, hold on. Our mutual friend —
+
+Tim Ferriss: Oh, boy.
+
+Kevin Rose: — who shall not be named, pointed this out as well. Where it’s like, can you sit and just be you? Or would that be too hard?
+
+Tim Ferriss: Okay, let’s do it. All right. So yeah, this is good. Let’s get into the fucking chewy bits. So I routinely, every year, spend at least a month off the grid. Last October I was gone. I was off the grid.
+
+Kevin Rose: Yeah, but you were doing shit.
+
+Tim Ferriss: I was doing stuff, but here’s my question, right? And this was in our shared text thread. I basically said, “Okay, look.” So the accusation is that Tim doesn’t know how to chill out. I’m like, “Okay, fine.” Let’s take that as true. If Tim were to chill out, what does that look like on a daily and weekly basis? And one of my challenges was humans are built to be social. You have a family. Our mutual friend has a family. There’s an inbuilt social network in that family. I don’t have that. So my —
+
+Kevin Rose: I mean, you’re a brother to me, so you always have a family.
+
+Tim Ferriss: Yeah, I appreciate that. And on a day-to-day basis, when I wake up in the morning, my hotel room, my house is empty. So I need to go externally. I need to travel outside of the confines of my house to find that human interaction.
+
+Kevin Rose: Sure.
+
+Tim Ferriss: So the question is, okay, well if you could write the script, what would Tim Ferriss chilling out look like?
+
+Kevin Rose: I know what that would look like.
+
+Tim Ferriss: What would it look like?
+
+Kevin Rose: Oh, it’s very simple.
+
+Tim Ferriss: All right.
+
+Kevin Rose: I’ve got the best answer for you ever.
+
+Tim Ferriss: Oh, boy.
+
+Kevin Rose: No script.
+
+Tim Ferriss: That sounds like some fucking fortune cookie stuff that I can’t make sense of though. What does that mean?
+
+Kevin Rose: I know you can’t make sense of it, but that’s the point. It’s no script.
+
+Tim Ferriss: When have you done that?
+
+Kevin Rose: When I did my meditation retreats. When I do, there’s no script.
+
+Tim Ferriss: But you had a schedule for each day.
+
+Kevin Rose: Sure. But I think —
+
+Tim Ferriss: That was an intensive silent treatment —
+
+Kevin Rose: Okay, okay. [inaudible].
+
+Tim Ferriss: Where you’re meditating eight hours a day.
+
+Kevin Rose: Okay, I suffer from the same thing you do. I suffer from the same thing you do. And that is, that we can’t —
+
+Tim Ferriss: But there’s a reason we’re all friends. We’re all fucking border collies chewing on the couch.
+
+Kevin Rose: We can’t turn it off. And it’s like, honestly, I think the healthiest thing though would be to wake up with no agenda for a month, with no friends for a month. With the fact that you just wake up saying, “What is today going to bring?” And that is damn fucking hard for people that are driven like you and me are.
+
+Tim Ferriss: So I did that for almost a month last October.
+
+Kevin Rose: But you did some psychedelics during that time and shit. Come on, you did shit.
+
+Tim Ferriss: Towards the end. But in that particular case, I mean, I’ll just say that I don’t think humans are built for isolation and they’re —
+
+Kevin Rose: Agreed. Agreed.
+
+Tim Ferriss: And there is a fetishizing of self-sufficiency and independence in the US that I think is unhealthy. It exists in other places for sure. But if you look at our evolutionary biological, like our biological programming completely refutes that. To be exiled, to be excluded from the group, is effectively tough.
+
+Kevin Rose: 100 percent. And I’m not arguing that. But what I’m arguing is what if you couldn’t touch a pen or a computer for a month?
+
+Tim Ferriss: Yeah, I’d shoot arrows or a bow.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: I mean, I do think, and I can’t remember the particular attribution of this. Man, I wish I could really remember it.
+
+Kevin Rose: Ron Jeremy?
+
+Tim Ferriss: The Hedgehog. No, it was someone else. But it was basically like man finds leisure through the switching from one activity to another, one compelling activity to another. Something along those lines. And I wish I had the exact quote and the attribution, but I don’t. And this applies obviously cross-gender. But the point being that I’m not convinced that being idle is a fruitful goal to have.
+
+If you can’t sit with yourself for five minutes, that’s a problem. But different people have different constitutions. And for me, for instance, if you look at The 4-Hour Workweek, So I get rid of, not get rid of, but I automate my whole business, blah, blah, blah. What do I do? I end up doing tangos six to eight hours a day. But that was not done from a position of obligation or fear. It was done from a place of enthusiasm and excitement and love.
+
+Kevin Rose: That’s different.
+
+Tim Ferriss: And that I think is good medicine. Right?
+
+Kevin Rose: Mm-hmm.
+
+Tim Ferriss: So as long as I have the self-awareness to distinguish between something that is done from a place of fear or guilt or prestige hunger or responsibility or some nebulous obligation versus the things that enliven me, I think being active is fine as long as I land in the latter category. For instance, I am doing a lot of archery right now.
+
+Kevin Rose: But —
+
+Tim Ferriss: Because I fucking love it. I am so fed by it. And I’m not saying I’m the world’s best. I certainly am not. But I just find it so meditative.
+
+Kevin Rose: But can I ask you one question?
+
+Tim Ferriss: You can ask me three questions if you’d like.
+
+Kevin Rose: Okay. So one of the things I’m really curious about is, Tim, I respect you so much because of how I’ve watched you dissect and assimilate information like no other human I’ve ever seen on Earth. And you are able to learn and pick up and go deep on any topic within a matter of minutes or hours or weeks. You do that quite well.
+
+Tim Ferriss: Yeah, thanks.
+
+Kevin Rose: The one thing that is the rounding out of the holistic picture of Tim that I’m curious if you can ever tap into is the Tim that says, “I can just be without having to go for those things or having to engage in that type of thinking.” That type of pursuit, that type of analyzing.
+
+Darya, my wife is, she’s a PhD in neuroscience. And I oftentimes get engaged in intense debates with her about there where I’m just like, “Chill the fuck out.” No, I’m just —
+
+Tim Ferriss: [inaudible].
+
+Kevin Rose: Darya, don’t listen this far. But I’m like, I wish with all my friends’ balance. And I think where our mutual friend was trying to get to is like, might you find —
+
+Tim Ferriss: Voldemort.
+
+Kevin Rose: Might you find a little bit more of that side of the house? Because you have the other in spades.
+
+Tim Ferriss: Yeah. Yeah. It’s a good question. I mean, I’ll stay with it. I think that balance can come in a lot of different forms. So the balance is time-bound in the sense that, is it balanced on a daily basis? Is it on a weekly basis?
+
+Kevin Rose: This is you analyzing it though, dude.
+
+Tim Ferriss: No, hold on. Hold on.
+
+Kevin Rose: You’re analyzing it.
+
+Tim Ferriss: No, it’s not. It’s finding the right conceptual framework through which to think about it. And I don’t think that’s a mistake. I think it’s actually very helpful. It depends on how your mind works. For me though, it’s like if I’m super intense for a month and I’m going 10 out of 10 and then I’m zero out of 10 for a month, that equates to a five/five. That’s for me a certain degree of balance. But if you looked at on the minute to minute, hour to hour, day to day, it would look very lopsided.
+
+Kevin Rose: I know a fantastic app that I would love to build for you, which would be the Tim-Tim Random app. And you open it up every morning and it tells you what to do for a month. And it’d be like, today it’s like, “What the fuck is this?” And you’d be like, “Oh, I have to buy a Slip ‘N Slide and go down it 20 times?” Just something where it’s just throwing you completely out of your — and you’re like, “Wow, I didn’t have to think about it. I didn’t have to overanalyze it. It’s just a fucking thing I’m going to do.”
+
+Tim Ferriss: Well, this is part of the curse of the entrepreneur.
+
+Kevin Rose: But it’s also —
+
+Tim Ferriss: No, I’m just saying.
+
+Kevin Rose: 100 percent.
+
+Tim Ferriss: You know exactly what I’m talking about.
+
+Kevin Rose: I know exactly.
+
+Tim Ferriss: We talked about this. Jesus.
+
+Kevin Rose: But also at the same time —
+
+Tim Ferriss: These are your mics.
+
+Tim Ferriss: I know these are my mics.
+
+Kevin Rose: But also at the same time, I will say that when you introduce another partner, it’s the dance that’s fucking hard, right? Because Darya is very much about structure and shit where I’m just like —
+
+Tim Ferriss: Darya and I are very similar.
+
+Kevin Rose: Very similar.
+
+Tim Ferriss: Super similar.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Love you, Darya.
+
+Kevin Rose: She’s you with hair.
+
+Tim Ferriss: You’re the best.
+
+Kevin Rose: Yeah. But —
+
+Tim Ferriss: Kevin doesn’t know what he’s doing.
+
+Kevin Rose: She has a better body. No offense.
+
+Tim Ferriss: I mean you look at my AI Speedos —
+
+Kevin Rose: [inaudible].
+
+Tim Ferriss: — I mean, I’m sorry.
+
+Kevin Rose: We’ve got to shut this off. You got to catch a plane. Okay. Thank you everyone for tuning into the show.
+
+Tim Ferriss: Great to see you, buddy.
+
+Kevin Rose: I love you, brother.
+
+Tim Ferriss: Yeah, I love you too, man.
+
+Kevin Rose: It’s always good to hang out with you. Seriously. I wish we could be in the same city for more than a day or two at a time.
+
+Tim Ferriss: Yeah, fuck that, seriously. 100 percent agreed.
+
+Kevin Rose: So if we can talk Darya to moving to Austin, that would be done. Seriously.
+
+Tim Ferriss: We’ll figure it out. We’ll figure it out.
+
+Kevin Rose: All right.
+
+Tim Ferriss: Good to see you, buddy.
+
+Kevin Rose: All right.
+
+Tim Ferriss: All right, man.
+
+Kevin Rose: Peace.
+
+Tim Ferriss: See you, guys. And, oh yeah, for all the links and whatever, images of me in my Speedos and all that good jazz, go to tim.blog/podcast and [inaudible] —
+
+Kevin Rose: Yes. And check out my ketamine episode at kevinrose.com.
+
+Tim Ferriss: There we go, kevinrose.com. All right, everybody.
+
+Kevin Rose: Peace.
+
+Tim Ferriss: Take care.
+

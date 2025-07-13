@@ -1,0 +1,732 @@
+Please enjoy this transcript of my interview with Andrew Roberts (@aroberts_andrew), bestselling author of twenty books, which have been translated into twenty-eight languages and have won thirteen literary prizes and include Salisbury: Victorian Titan, Masters and Commanders, The Storm of War: A New History of the Second World War, Napoleon: A Life, Churchill: Walking with Destiny, The Last King of America: The Misunderstood Reign of George III, and most recently, Conflict: The Evolution of Warfare from 1945 to Gaza, which he co-authored with General David Petraeus.
+
+Lord Roberts is a fellow of the Royal Society of Literature and the Royal Historical Society, the Bonnie and Tom McCloskey Distinguished Visiting Fellow at the Hoover Institution at Stanford, and a visiting professor at the Department of War Studies at King’s College, London. He is also a member of the House of Lords.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform.
+
+Tim Ferriss: Well, pleasure to meet you. Thank you for taking the time.
+
+Andrew Roberts: Thanks so much, Tim, for having me on this show.
+
+Tim Ferriss: I thought we would start with Cranleigh after your A Levels.
+
+Andrew Roberts: Did you now?
+
+Tim Ferriss: What happened? What on Earth happened?
+
+Andrew Roberts: Did you now? That’s the way we’re going to make friends and get on with each other.
+
+Tim Ferriss: Roll up the sleeves and just get into it.
+
+Andrew Roberts: You’re going to mention the reason that I was expelled from school, or at least I’m going to mention the reason because you don’t know the reason.
+
+Tim Ferriss: I don’t know the reason.
+
+Andrew Roberts: No, absolutely, good, okay. Well, yeah, I don’t think I’m the first person ever as a young man to get drunk and climb up buildings.
+
+Tim Ferriss: Absolutely not.
+
+Andrew Roberts: Thank you.
+
+Tim Ferriss: Time-honored tradition, I think.
+
+Andrew Roberts: Hallelujah that I’m not the only person this happened to. But quite understandably, the school chucked me out before I fell off one of them and they’d have got blamed. It led to actually one of my wife’s most brilliant witticisms. She’s a very funny woman, my wife, and she said, “Yes. And all Andrew’s done since in life is to get drunk and social climb.”
+
+Tim Ferriss: That is clever.
+
+Andrew Roberts: It’s not bad, is it?
+
+Tim Ferriss: We might come back to that. It seems like also, maybe, it’s hard for me to tell given the British school system, although I did go to St. Paul’s in New Hampshire where they do have the third, fourth, fifth, sixth form, and so on. So that much I know. But I think in the same piece where I found the Cranleigh bit in doing the research, also found a note that you were approached as a possible candidate for MI6 a bit later on.
+
+Andrew Roberts: No, that was when I was at Cambridge.
+
+Tim Ferriss: Cambridge?
+
+Andrew Roberts: Yes, yes, absolutely. That’s the right time to be approached for MI6, because Cambridge and MI6 have had a long and fairly disastrous career needless to say. All of the worst spies in the 1930, traitors of the 1930s, went to Cambridge. But yeah, it was a fascinating thing. I was just going down from university and somebody in my college, one of the dons there, who’s still there actually, come to think of it, approached me and said, “How about it? Would you be interested in becoming a spy?” And so automatically, needless to say, you just think of yourself as James Bond immediately. That sort of [music] is going off —
+
+Tim Ferriss: The soundtrack kicks off.
+
+Andrew Roberts: The soundtrack in the back of your brain, you are automatically there with your Beretta and the beautiful women and all of that kind of thing. But I then had to actually do the process of where you need to join, which I did get through, and it was completely hilarious. I mean, you couldn’t satirize it basically. They asked you things, like there were hundreds of questions and you had to answer them very, very quickly. And some of them were things you’d expect, like what are the five longest rivers in the world kind of thing, and put them in order and all that. But there were also things like place in order of social precedence, prince, duke, viscount, marquis, baronet —
+
+Tim Ferriss: Oh, I’m out.
+
+Andrew Roberts: Exactly, yeah, because you’re —
+
+Tim Ferriss: I would’ve thrown in Cookie Monster —
+
+Andrew Roberts: You’re American, you’re allowed to. They’re not going to ask that in the CIA. But for some reason in MI6, this was, I hasten to add, back in the sort of mid-1980s, that was one of the questions.
+
+Tim Ferriss: What did the Don think made you a potential candidate?
+
+Andrew Roberts: Well, that also was a little bit annoying really, because he told me later about how he had been interviewed by MI6. And one of the things he’d been asked is, “And is Andrew a kind person?” And this person said, “No, not really,” and he saw the person interviewing him put a tick in the margin next to the question.
+
+Tim Ferriss: Wonder if that made you more or less desirable?
+
+Andrew Roberts: Much more desirable as far as they were concerned. They ticked the thing. I know. I can understand. Well, James Bond, he’s not a kind person, is he, really?
+
+Tim Ferriss: No. No, no. We view them as disposable pleasures. Well, perhaps. So let’s see if we can take off the initial layers of the onion with respect to history. Christopher Perry, Mr. Christopher Perry. Who is that?
+
+Andrew Roberts: He was my first history teacher when I was at prep school, which in the English version means when you’re 10 to 13. He’s dead now, but he was an inspirational history master. He taught history in the way that I think it should be taught in a narrative way of explaining really what happened next and why. He believed in the great events, the great wars and battles and things like that, and he was a kind man. He wouldn’t have made it into MI6, but he was a sort of old-school history master of the best possible kind.
+
+Tim Ferriss: What characterized that? You said narrative, but maybe would you be able to contrast the status quo as it goes in terms of teaching history and then how his style most differed from that?
+
+Andrew Roberts: He taught it as the most exciting story you’re ever going to hear, basically, which has the extraordinary added advantage of being completely true. He’d sort of sit cross-legged on the table and give you the voice of Charles I and then the voice of Oliver Cromwell, Elizabeth I, and Mary, Queen of Scots. He would entrance you with the excitement of the unfolding story, every word of which would be true. It would have loads of dates in it. At the end of the term, each of the terms, the semester, you’d be tested on 300 dates, and not a child in that class didn’t get at least 298 of them right.
+
+Tim Ferriss: That’s wild.
+
+Andrew Roberts: Extraordinary way of teaching, and he did it entirely through inspiration rather than through just sort of standing there on a blackboard ordering people to remember what happened in 1356 or 1415.
+
+Tim Ferriss: Did he have any theater background?
+
+Andrew Roberts: You’d have thought, wouldn’t you? You’d have thought.
+
+Tim Ferriss: Just sitting cross-legged on the desk is going to get a requisite minimal amount of attention from the students, which is brilliant.
+
+Andrew Roberts: Automatically. Of course, exactly. No, I mean, now I come to think of it, of course, he was overacting from day one, but he didn’t seem to be at the time, at least as far as the 10-year-old Andrew Roberts was concerned.
+
+Tim Ferriss: We have a sort of rental library behind us in this room that I’ve rented, and one of the books sitting over there, The Power Broker, does an amazing job of end-of-chapter cliffhangers. That’s, I think, Robert Caro over there.
+
+Andrew Roberts: And he managed to make urban development, essentially that book’s about urban developments, isn’t it?
+
+Tim Ferriss: 100 percent.
+
+Andrew Roberts: And he managed to make that interesting. But you’ve got a few other ones. You’ve got a great friend of mine, Niall Ferguson writing about, you know his book Colossus. You’ve got some pretty interesting people, a few people that I’ve met. And yeah, so you might’ve rented it, but it’s a pretty good bunch of books.
+
+Tim Ferriss: It worked out. And it’s also quite surreal that Niall is featured here since he is, I’d say, partially responsible for us meeting in the first place.
+
+Andrew Roberts: Yeah, he told me definitely to go on your show. He said loads of people watch it and you’ve got a good sense of humor. And we’ll see.
+
+Tim Ferriss: We’ll see about the sense of humor.
+
+Andrew Roberts: We’ll see later whether that turns out to be true.
+
+Tim Ferriss: The jury’s out, the jury’s out. I found in writing history, and I’m paraphrasing here, but I believe you’ve said before that you’re cautious around the words “perhaps,” “maybe,” “possibly,” — especially “probably.”
+
+Andrew Roberts: Yeah.
+
+Tim Ferriss: Could you explain why?
+
+Andrew Roberts: Don’t use them. They’re cheat words. What they’re saying to the reader is “I haven’t worked hard enough on this, I don’t know, I’m going to just come up with some kind of theory here, and bear with me.” You shouldn’t do that. If the person’s paid $40 for your book, he or she is going to want to think you know what you’re talking about. So if something is a great story and you’re not sure it’s true, but nonetheless it’s funny or it shines a light onto personality or for some reason there’s a great reason why you need to put it in the book, there are loads of ways that you can hint to the reader. You can say, “It is said that,” or “The story is told that,” or “Anecdotally, people stated that,” and that’s the signal to the reader this is probably not true at all, but nonetheless —
+
+Tim Ferriss: It’s almost hedging the bets.
+
+Andrew Roberts: Yeah, but it’s too good to leave out. But “perhaps,” “probably,” and “maybe,” and so on, there you really are hedging your bets, and I think it breaks the bond of trust that you need to have with your reader.
+
+Tim Ferriss: Would you mind speaking to the importance of steady nerves or self-control in crisis? It seems that that’s something that recurs. And the reason I’m asking about it is, this would be, I suppose, a sub-question, how much of it do you think is nature versus nurture also? But feel free to take that in any direction you like.
+
+Andrew Roberts: Both Napoleon and Churchill were educated in war. They both went to military colleges. And so as their level of command grew, as they grew older, the sense of responsibilities they had, the number of men essentially that they were controlling increased exponentially. And so they had the intellectual background, they had the training as well, and as young men in both cases, they thought a lot about war, about Julius Caesar and Alexander the Great and so on. They had an egotism to look at it in a negative way, but a self-confidence to look at it in a positive way, that gave them the ability to take these shatteringly important decisions.
+
+So I think it’s much more nurture than the nature. In both cases, as far as they were concerned, there was a sort of holy fire that they both had. Not holy in a religious sense obviously, because neither of them were at all religious, but in a sort of deeper spiritual sense, a belief that what they were doing was so good and right and proper and had to be done, that they were not kept up awake at night over even the death of friends. Death of friends that they were responsible for.
+
+Tim Ferriss: They were responsible for. In the cases of Churchill and Napoleon, we could bring up other names or, I suppose I’m using the royal we here, you could bring up other names, were there particular philosophers or writers that they found particularly instructive, who they leaned on in some sense, that they found solace in? Were there particular minds?
+
+Andrew Roberts: Well, certainly Churchill did because he was a huge reader. He was a massive autodidact. He never went to university. And so therefore, when he was a young subaltern in India in his early 20s, he sat down and read the great philosophers as well as writers. And he was particularly influenced by Gibbon and Macaulay, the two great 19th century historians, English historians. And that affected his writing style, and of course later his oratorical style, but also his outlook on life, philosophical outlook on life.
+
+With regard to Napoleon, he was even more literary really, because he also wrote short stories and books and so on. And so he was very much affected by what he read, again as a young man. And in both cases, they were reading so much that it slightly cut them off from their contemporaries. Napoleon didn’t have many friends when he was in his early 20s. And Churchill, when the other people were off sleeping in the midday heat of India, his colleagues and comrades, he’d be sitting there reading Schopenhauer and Gibbon and Macaulay and so on.
+
+Tim Ferriss: How did Gibbon and Macaulay inform his philosophical leanings?
+
+Andrew Roberts: They made him into what was called, at the time, a Whig. We don’t have them today obviously, but they were sort of in modern sense, I suppose, liberal conservatives who believed in noblesse oblige, in the importance of —
+
+Tim Ferriss: What is that? I’m sorry.
+
+Andrew Roberts: Noblesse oblige, it’s almost a medieval concept where your duty, if you have privilege, is to work for the greater good of the community to protect widows and orphans. It’s sort of like the knightly, chivalric concept that you get from the Middle Ages. And they very much believed in that, and so did Churchill.
+
+Tim Ferriss: Let me ask about Napoleon. So I know shockingly little about Napoleon, I’m embarrassed to admit, and I do want to ask more about Churchill as well. But you’ve described him as the prime exemplar of war leadership. Why do you say that?
+
+Andrew Roberts: There are lots of military leaders who can do a lot of things, but he was the only one that I can think of who could do all of them. Of course, it helps if you’re winning. In the last three years of his military career, he was losing. But even then, even when he had far fewer troops, when he was retreating, when he was defending Paris in the 1814 campaign, for example, he was still able to win five victories in seven days in the 1814 campaign. That’s two years after the retreat from Moscow. It’s quite extraordinary capacity, and he was able to win whether he was advancing or retreating, whether he was defending a town or attacking it, whether he was attacking on the right or left flank, or sometimes straight through the center, as at Austerlitz. He had that capacity, that mind for military conquest, but also, of course, the greatness that was required completely to revolutionize French society. People think that the French Revolution revolutionized society. The clue’s in the name, as it were. But in fact, the long-lasting things that actually dragged France into the 19th century were things like the Code Napoleon, which were not a revolutionary concept, they were a Napoleonic concept.
+
+Tim Ferriss: And this may seem like a lazy question, but since I’m operating from a deficit here with respect to knowledge of Napoleon, what do you think it was that allowed him to be a decathlete of war, as it were, being good at all of these different facets? And I think of how we might analyze different athletes and what allows them to exercise the capabilities we see, breaking it down into its component parts. How would you describe what enabled him to do that where others were unable?
+
+Andrew Roberts: It was inspiration, but also perspiration. He really did put in the time thinking about it and reading about it. By it, I mean warfare. And of course, he’d been educated in it. He read the key books. There’s a guy called the Comte de Guibert, who in 1772, wrote a book about strategy and tactics, and he, 30 years later, put these into operation. And so he was able to spot the best of the best when it came to modern thinking, or in this case, 30-year-old thinking, in fact. That didn’t matter because the weapons of war hadn’t changed in the intervening period. And he was able to put those thoughts and ideas into practical use. The classic example being the corps system. And when he —
+
+Tim Ferriss: What was it called?
+
+Andrew Roberts: It’s called the corps system. It’s basically —
+
+Tim Ferriss: C-O-R-E?
+
+Andrew Roberts: C-O-R-P-S.
+
+Tim Ferriss: Oh, there you go.
+
+Andrew Roberts: What he did with them was to create mini armies, essentially, which were able to march separately, but converge and concentrate for the battle. One of your corps would engage the enemy, and then he would use the other corps to outmaneuver and envelop the enemy, sometimes double envelop the enemy. It was a brilliant concept. Actually, the allies didn’t start beating Napoleon until they had also adopted the corps system. He was always at the cutting edge of thinking of the new concepts, but at the same time, he had very old-fashioned views about how to excite the men. Victory, obviously, is the best thing when it comes to encouragement.
+
+Tim Ferriss: It’s the best. Encouragement.
+
+Andrew Roberts: Exactly. Nothing much works better than that. But as I say, he was still winning at the end of his career. But he had this belief that to appeal to the soul was the way to electrify the men, and so he was able to do that. Some people who he was against, the Duke of Wellington, the British general being the classic example, who won the Battle of Waterloo against him, wasn’t interested in electrifying the soul of the man at all. He rather despised his ordinary soldiers. But nonetheless —
+
+Tim Ferriss: You’re talking about Wellington or Bonaparte?
+
+Andrew Roberts: The Duke of Wellington. He had some choice negative remarks about his own soldiers. He was a rather stuffy aristocrat. But they loved him because he cared about how many of them died in battle. And he never lost a battle as well, which is a very useful thing in a commander, needless to say. But he didn’t try. He didn’t go out. He would think it beneath him to go out and try to inspire the men. Whereas Napoleon, his choice of hats and his gray coats, and his way of taking off his own medals and giving them to soldiers on the battlefield and his orders of the day, his proclamations. Before the Battle of the Pyramids in 1799, he said, “40 centuries look down upon you.” This is an extraordinary thing for a soldier in Egypt far away from home. And he looks up at the pyramids and thinks, “Well, yeah.” He’s placing the events of that day in the long historical parabola.
+
+And Churchill did that too, by the way, of course, to a great degree. In about 10 percent of all of the speeches that Churchill gave in 1940, there’s some reference to history or the past. He too would summon up the idea that yes, Britain is on its own, Britain and the British Commonwealth are on their own. This, of course, was in the period before America and Russia were in the war. But we’ve been in terrible straits before. Look at Sir Francis Drake, look at Admiral Nelson and so on. We came through those and won. He also brought up the First World War a lot. And so yes, he too drew on history. And people knew that because he’d written history books and written biographies, including the biography of his great ancestor, the first Duke of Marlborough, who was, with Wellington, the best soldier that Britain ever produced. People trusted his view of history.
+
+Tim Ferriss: So instead of biographies, I’d like to ask about autobiography. It’s my impression that you recommend that young people read My Early Life, and that there are life lessons contained within it that perhaps might help young people. What types of good advice or life lessons can people expect to find in that book? Does anything stand out to you?
+
+Andrew Roberts: Oh, yes. Loads of them. Resilience is the classic one. Although he doesn’t go in this book into criticizing his parents, even between the lines, Churchill was tremendously resilient because his father despised him and his mother ignored him, essentially. But in the actual book itself, he talks about how wonderful it is to be young. 20 to 25, those are the years, he says, people will forgive you for mistakes you make in that period. It’s not until you are 30 that people judge you on what you’ve achieved rather than your promise and so on.
+
+He writes about his escape from prison, for example. Which, let’s face it, there is no young man or woman who hasn’t at some stage dreamt about the idea of a successful prison escape. He took part in the last great cavalry charge of the British Empire, and so he writes about what it’s like to charge with lancers in, he himself had a pistol, in a great cavalry charge. It’s just the most exciting book. It draws you along with life lessons that are very good, I think, even for today, at a time when you’re, frankly, unlikely to have to escape from prison or take part in a cavalry charge.
+
+Tim Ferriss: Or you’ll just be very unsuccessful at attempting to escape prison with the modern lockdown. I can’t let this go. It’s sticking in my mind, the corps strategy, I’m not sure if strategy is the right modifier for that, but that Napoleon used. It seems like that was waiting to be used.
+
+Andrew Roberts: But it took him to be in the position, of course, of Emperor of France, whereby he could impose it. But equally, there are other things, like the Code Napoleon, that were not really waiting to be used. He had to work them up into a body of laws that completely revolutionized France.
+
+Tim Ferriss: Now, when he took the writing from 30 years prior and applied it, is it the position that enabled him to do it or did he think about risk differently than other people, and that is part of what allowed him to implement it?
+
+Andrew Roberts: Yes, he had taken huge risks. He was 26 years old, and according to the Churchill view of life, you can take risks when you’re 26 years old because people will forgive you. Actually, the French Revolution government would not have forgiven Napoleon if he’d lost the army of Italy in 1796. But nonetheless, he was a huge risk-taker. He would attack when normal generals would have fallen back. He was very lucky in that he was fighting — he was 26. He was fighting generals who were Austrian generals who were in their 70s. He used to hit the hinge of enemy forces. In an Austrian Sardinian army, for example, he would hit the point between the Austrians and the Sardinians, pushing them both back along their own supply lines and so on. He used psychology a great deal, trying to get into the minds of the generals he was opposed to. He was a great chooser of lieutenants, of divisional commanders, and people who he felt he could trust. Superb sense of timing as well in a battle. He was, as I say, the exemplar of so many of the leadership tropes.
+
+Tim Ferriss: Do you think he would’ve viewed his decisions from the outside that look risky as risky? If someone takes uncalculated risks over and over again, then you could call them reckless. But at least at face value, that’s not maybe the adjective I would use. So just —
+
+Andrew Roberts: Yeah, but they came off. This was the thing. In the Italian campaign, this first great campaign of his, he hardly lost a battle. He fought 20 and won 19 of them. So if you do that, even though you have taken risks, it’s a force multiplier in a sense. You wind up thinking that they aren’t as risky. He did believe in luck, which is very important. He famously said that he wanted his marshals to be lucky. And he would promote people if he thought they were lucky. And that, of course, runs against everything that we 21st century rationalists can possibly believe in. But it worked for him.
+
+Tim Ferriss: Yeah, it seems to have worked.
+
+Andrew Roberts: Until it didn’t.
+
+Tim Ferriss: Until it doesn’t.
+
+Andrew Roberts: Of course.
+
+Tim Ferriss: Until it doesn’t.
+
+Andrew Roberts: So the decision —
+
+Tim Ferriss: Promoted the unlucky guy.
+
+Andrew Roberts: The decision in 1812 to march on Moscow was hugely risky. And of course, it didn’t pay off.
+
+Tim Ferriss: Is it true that you have a signed letter from Aldous Huxley?
+
+Andrew Roberts: I do.
+
+Tim Ferriss: All right. Now, Aldous Huxley, I believe —
+
+Andrew Roberts: Aldous, as we English say.
+
+Tim Ferriss: Aldous. I’ve realized the longer I spend in England, I really need to — I think I should take TOEFL classes, Test of English as a Foreign Language. I need to brush up on the mother tongue, as it were. He died, if I’m not wrong, the year you were born, I think it was. Why do you have that letter and what does the letter say?
+
+Andrew Roberts: The letter actually was written from Los Angeles, where he was living in the 1950s. It was in 1959, and somebody just wrote to him asking for his autograph. I don’t have the letter from the autograph hunter, but he obviously asked for some sort of deep, meaningful thought. And the deep, meaningful thought that Huxley gave him — and I’m a huge admirer of Huxley. Eyeless in Gaza, and obviously Brave New World and so on are wonderful works, and so are his minor books as well. And he said in this letter that men do not learn much from the lessons of history. It’s one of the most important of all the lessons that history has to teach us. And that is so true, isn’t it? I’ve written 20 books. There’s not a book that I’ve written when I haven’t looked across at that framed letter in my study and thought, “Wow, that is just so perceptive.”
+
+Tim Ferriss: A question about the subtitle of your biography on Churchill, which I believe is Walking with Destiny. And you mentioned this holy fire, I think is the term you used earlier. But do many of the leaders you’ve studied have this belief, and I may not be wording this the best way, but of being chosen by destiny in some fashion?
+
+Andrew Roberts: The phrase comes from his remark in the last few pages of his war memoirs, the first volume of his war memoirs, The Gathering Storm. Wonderful book. He’s referring to the day that he became Prime Minister, the day he was appointed by the King as Prime Minister. Which happened to be, coincidentally, as it turned out, because Hitler didn’t know he was going to become Prime Minister, on the same day that Hitler invaded in the west, invaded Belgium and Luxembourg and Holland, and shortly afterwards, of course, to invade France. And he said, “I felt as if I were walking with destiny, and that all my past life had but a preparation for this hour and for this trial.” He had a profound sense of personal destiny.
+
+Now, you and I might think, again, as 21st century rationalists, that this is a bit mad to think that you’re preordained to save, in this case, Britain and civilization. If you said that to me, that that was your belief about yourself, I would think that you were clinically insane. But enough things had happened to Churchill in his life, he had had so many close brushes with death, that it’s not insane to think that. But it’s not by any means just — and Napoleon also felt that he had a star to guide him, and he had the luck that we spoke about earlier. But that luck, who was a woman in his case, was somebody he needed to woo and to try to seduce. And of course, in 1812, she turns her back on him, and he speaks of her in that sense. Which is also a pretty insane way to look at life, isn’t it? But they were both, as I mentioned earlier, devotees of the ancients, of Caesar and Alexander the Great, both of whom also, of course, had this driving sense of personal destiny. And so it does exist in people.
+
+Tim Ferriss: If you could, I’ll give you two options, stand in, meaning take the place of, one of the people you’ve studied in depth, or just simply witness them in a given moment or day or period in their lives, what might you choose?
+
+Andrew Roberts: Well, first of all, I wouldn’t want to stand in their place at all. I know that I don’t have the intestinal fortitude of these extraordinary people. But it would be the day that I just mentioned, it would be the 10th of May, 1940, the day that Hitler’s invading. The cabinet meets and recognizes that Neville Chamberlain is not the man to continue on the war now that it’s turned to the West. The meetings that took place the previous day and that day whereby Neville Chamberlain goes to the King and suggests Churchill. And the King wasn’t terribly excited about Churchill either because they’d fallen out over the abdication crisis, and he thought Churchill was a bit of a loose cannon. But nonetheless, he’s willing to call Churchill. Churchill then goes to Buckingham Palace and becomes Prime Minister, and comes back and starts to organize his government as the news is coming in of the German success and victories on the Western front. What a day in history that must have been. So if I could be a fly on the wall and any day in history, that’s the day that I would choose.
+
+Can we just go back, though, to this concept of a sense of destiny?
+
+Tim Ferriss: Of course.
+
+Andrew Roberts: Because, of course, it isn’t just great men, as in good men, positive forces in history that has this. Adolf Hitler also had a sense of destiny and providence and luck and being watched over by bigger forces and so on. When he survived his assassination attempt on the 20th of July, 1944, when you remember Stauffenberg moves the briefcase with a bomb in it to a point in the table that just shreds Hitler’s trousers when it goes off and doesn’t kill him. He also put it down to providence that he had been allowed to survive, and therefore, to stay in charge, and the Führer was going to save the Fatherland and the Reich. I don’t want your viewers and listeners to come away thinking that it’s a really good thing to think that you’re being watched over by a more powerful force who’s saving you to become the world-saving figure.
+
+Tim Ferriss: It cut a lot of different ways.
+
+Andrew Roberts: It sure can.
+
+Tim Ferriss: I think of David Koresh and cult leaders.
+
+Andrew Roberts: Well, exactly. Exactly that.
+
+Tim Ferriss: Jim Jones down in Guyana, wherever he was.
+
+Andrew Roberts: All of these frauds and crooks and con men use it as well.
+
+Tim Ferriss: Are there any particular weaknesses or pathologies or failures that come to mind in, say, Churchill and Napoleon or others, who helped to make them ultimately great in the ways that they were great?
+
+Andrew Roberts: Definitely. Definitely. The key thing is learning from mistakes, which not all politicians do, I need scarcely point out. But Churchill certainly did. He made mistake after mistake. He got female suffrage wrong. The abdication crisis that I mentioned earlier. He joined the gold standard at the wrong time at the wrong level. The Black and Tans in Ireland was a disaster. Primarily, of course, the Dardanelles crisis of 1915 to early 1916 where over 100,000 allied troops were killed, wounded, or captured. This was a series of mistakes. In every single one of them, he learned from those mistakes.
+
+Tim Ferriss: How did he do that? Because there’s probably, I would think, maybe some method behind the madness. Maybe it’s just more self-awareness or reflection. But did he have a process for learning?
+
+Andrew Roberts: He wasn’t hubristic. That was the key thing. I think it probably helps also, of course, that he was in a democratic system, unlike Napoleon or Hitler, whereby he was criticized the entire time in the House of Commons for all of those things. He had to defend them, and therefore, had to in a logical and rational point. Democracy works very well at pricking the pomposity and hubris of people if it’s working properly.
+
+Napoleon also learned from mistakes in his military career. I don’t believe that the decision to march on Moscow itself was hubristic. I’m slightly aside from a lot of military historians about this. But just to explain, he’d beaten the Russians twice before, he had an army twice the size of the Russians. He knew perfectly well that the winter was going to come. He stayed too long in Moscow, but if he’d gone to Moscow and then come back again immediately, he would not have had the climactic disasters that overcame him with the blizzards in October and November of 1812. And so you have this sense that, yes, it was an appalling strategic error, but it wasn’t done out of a drive because he thought he was a demi-god. That, I think, is a misunderstanding of his personality.
+
+Tim Ferriss: So I’m going to ask something that Niall Ferguson, I have Colossus on the shelf, put in an email. “I would ask Andrew about the diary he keeps, which is a source of intense anxiety…”
+
+Andrew Roberts: He’s obsessed with this. Okay, finish the rest of that.
+
+Tim Ferriss: “…which is a source of intense anxiety to all of his friends, and even more to his enemies. Best wishes. Niall.”
+
+Andrew Roberts: Niall doesn’t care about any of that. He only cares about what I say about him. He is the friend who is obsessed with the diary. Yes, I keep a diary. For God’s sake. Is it such a crime? We went on a skiing holiday this year and it’s all he talked about. He’s obsessed.
+
+Tim Ferriss: Is it the forbidden fruit? What is the story here?
+
+Andrew Roberts: I think he’s kicking himself that he didn’t keep one. You think of all these extraordinary people he meets. Every time I see him, he’s just been talking to President Xi or Bibi Netanyahu or President of America, and he doesn’t write down and keep it all in a diary. So I think there’s an element of envy going on here, frankly. But I find it very relaxing and calming to think that my life isn’t just going to be a complete waste of time. And one of the only ways that I can —
+
+Tim Ferriss: I can see that.
+
+Andrew Roberts: Thank you. Well, that’s kind of you. Thank you. One of the only ways that I can justify this concept that it’s all not just a nihilistic maelstrom —
+
+Tim Ferriss: Boondoggle.
+
+Andrew Roberts: Boondoggle, exactly. Is by writing books, obviously, which I hope will survive me. But also, noting down what I’ve done in the day. Niall is convinced that every time he says anything embarrassing or something, I’m going to be noting —
+
+Tim Ferriss: You’re just loading the ammo into your diary.
+
+Andrew Roberts: Exactly. And when we are 80, he’s going to go to the bookshop, buy the diary, flick to “Ferguson, Niall,” and see 40 entries, each of which is going to make his face go redder than —
+
+Tim Ferriss: Filing charges.
+
+Andrew Roberts: Exactly. Which it’s not going to be like that at all. What he’s actually going to do is to immediately go to the diary and look up “Ferguson, Niall,” but see all the amusing, charming, intelligent remarks he’s made, the witticisms and all that kind of thing. And not just him, obviously. Everybody that I’ve ever met over the last 40 plus years.
+
+Tim Ferriss: How do you keep your diary —
+
+Andrew Roberts: So you’re on your mettle now. You’re going to have to —
+
+Tim Ferriss: I know.
+
+Andrew Roberts: I’m going to say, “Went on Tim Ferriss’ show.”
+
+Tim Ferriss: “Be on best behavior.”
+
+Andrew Roberts: Exactly. “What an idiot.”
+
+Tim Ferriss: “Note to self, send chocolates to Andrew. Don’t forget his birthday.” Now, there are many people who keep a diary. How do you keep your diary? Is it a nightly exercise? Is it typed out?
+
+Andrew Roberts: No, you mustn’t do it nightly.
+
+Tim Ferriss: Is it pen? Is it a quill pen?
+
+Andrew Roberts: You mustn’t do it nightly because — or at least you might be able to. But I drink, and so —
+
+Tim Ferriss: I like drinking too.
+
+Andrew Roberts: Good. And so there’s nothing worse than trying to write if you’ve been drinking also, writing down the witticism, sometimes there’s a bit of a problem owing to the fact that I can’t read my writing the next morning. But no, it has to be done pretty much the next morning. You can’t leave it for two weeks or so.
+
+Tim Ferriss: Do you do it with — what’s your frequency?
+
+Andrew Roberts: Every day.
+
+Tim Ferriss: Every day?
+
+Andrew Roberts: I used to write it — oh, no, but if nothing interesting has happened, then I won’t put anything down.
+
+Tim Ferriss: Nothing to report.
+
+Andrew Roberts: Yeah, no. Or like Louis XVI on the 14th of July 1789, the day of the fall of the Bastille. All he writes is “Rien,” nothing. So I hope I’m not going to be quite as moronic as that. It’s not really intended for publication, which is another thing that Niall doesn’t understand.
+
+Tim Ferriss: He’s going to latch onto that, really part of that sentence. He’s going to be like, “You see? You see?”
+
+Andrew Roberts: Of course he is. But nonetheless, I do find it — well, you mentioned earlier about how many words I write, it’s never more than about 500 words maximum. And it picks the most interesting parts of the day. And if somebody has said or done something interesting, I’ll stick it in.
+
+Tim Ferriss: Do you do that before your book writing? Let’s say you’re on —
+
+Andrew Roberts: Yes, yes.
+
+Tim Ferriss: You do?
+
+Andrew Roberts: First thing in the morning.
+
+Tim Ferriss: All right. Is that just pajamas, slippers, and a cup of coffee?
+
+Andrew Roberts: Yeah, precisely that.
+
+Tim Ferriss: Yeah. All right, great.
+
+Andrew Roberts: Exactly.
+
+Tim Ferriss: Do you take — seems like such a ridiculous question, but how do you think about taking breaks when you’re writing? I mean, obviously you might have a bathroom break or something like that, but do you build in breaks? Do you ride the flow as long as you have it? What does it look —
+
+Andrew Roberts: The flow as long as you have it, absolutely, yeah. Because it might not come back if you deliberately have breaks.
+
+Tim Ferriss: Interrupted.
+
+Andrew Roberts: Sometimes, and I’m slightly loath to admit this in public, but, I mean, there are sometimes if you are really flowing, I can go without washing for three days. I can be in my dressing gown and slippers. My wife finds it extremely unhygienic and I’m not allowed to sleep in the same bed. But if I’m running hard at a really difficult chapter and I need to keep my thoughts in order, I will not waste time doing anything. I’ll get some breakfast and so on, but that will just be a dash to the kitchen and back again.
+
+Because you’ve got to get — if something’s complicated and there are lots of occasions, another classic is we go back to the 10th of May, 1940, that, in my Churchill book, you have to get it right because every minute, not just every hour, every minute something is happening. They’re getting news from what the Luftwaffe is attacking, and he’s then having to create his government. He then goes off to the House of Commons and so on. It’s just relentless. And unless you encapsulate in your mind successfully what is important about that day, you’ll never get it over to the reader. And if you’re constantly going off and going for a walk or going to the gym or showering or whatever, there’s a danger that you’re going to fall out of the rhythm of creativity.
+
+Tim Ferriss: How do you think about that flow, when you have the flow? I mean, there is —
+
+Andrew Roberts: I hasten to add, it’s never more than three days I’ve ever gone without a shower.
+
+Tim Ferriss: I wouldn’t judge. I was just on a hiking trip.
+
+Andrew Roberts: I promise.
+
+Tim Ferriss: I went 10 days without showering, so I don’t judge. I won’t throw stones in my glass house.
+
+Andrew Roberts: It’s only when I’m writing a book, I hasten to add that as well. I don’t want people to come up at parties, hold their nose, and go, “Hello, Andrew.”
+
+Tim Ferriss: How do you think about that flow with writing? There’s one reason not to interrupt the writing. If you have a hard task ahead of you and you have 47 balls in the air, and if you drop them, you’re going to have to start the juggling process all over again, the boot-up sequence takes a long time. How do you think about the flow of writing or that feeling that things are coming to you more easily or moving onto the page more easily?
+
+Andrew Roberts: Sometimes it’s a very bad thing, of course. Dr. Johnson did say, when you have written your most brilliant purple paragraph, read it again and rip it up. So you mustn’t —
+
+Tim Ferriss: Tell me more about that.
+
+Andrew Roberts: Well, if you think that you’ve just written something completely brilliant, there’s a very good chance that it’s rubbish, and that it has to be somebody else. It has to be your publisher or some other person who can read it and have a completely objective eye, because there’s a very good chance that you are hugging yourself with glee about something that actually you think sounds wonderful, but in fact is complete — it’s complete rot.
+
+Tim Ferriss: Put it in my memoir, “hugging yourself with glee.” Let me write that down. I’ll give you your customary five percent. That’s fine.
+
+If you had to choose, maybe you don’t want to choose from your darlings here, but if this question has an answer, you don’t even need to name them, but you could keep a person in mind. If you had to choose one person to act as your proofreader for your work, to be that sanity check —
+
+Andrew Roberts: He’s called Stuart Proffitt. He’s the most brilliant publisher in London. He’s known by everybody to be the most brilliant. He’s also the most irritating —
+
+Tim Ferriss: Makes sense to me.
+
+Andrew Roberts: Peasant. He, oh, my God, for my Napoleon book, he’s going to listen to this, so I’m going to have to be as nice as possible. But oh, he’s — Professor Perfect is my nickname for him, because he’s a total professorial kind of figure. For my Napoleon book, I remember a series of marginalia. Again, this is the thing where you think you’ve done something rather good. And he writes — one of the things he wrote in the margin, “Are you sure this joke is funny?” Nothing more crushing than to have that. But he also wrote —
+
+Tim Ferriss: Actually, it is very British.
+
+Andrew Roberts: Exactly. Question mark. And you read it again and you chortle to yourself and you go, “Yes, it is funny, damn it.” But he wrote, there were a whole series of them, in the — well, we were talking earlier about the 1796 campaign of Napoleon. He said, “How wide was the river Po in 1790?” There was another one. “Did Napoleon take Herodotus to Egypt?” You say, “Damn, I don’t know. I’m going to have to find out.” So he is a, he’s a genius but also a very irritating person.
+
+Tim Ferriss: Could you say more about what makes him so good? And I’ll buy some time just by saying, if I can’t find a writer friend of mine, let’s just say, or an editor who can proofread my work, I’ll very often give, and I write particular type of thing, but I’ll give my chapter, let’s just say to a friend who’s a really good lawyer. Part of the reason for that is that they’re very good at trimming out excess. And if anything is ambiguous, they’re —
+
+Andrew Roberts: Or contradictory.
+
+Tim Ferriss: Or contradictory, they’re very good at surgically excising that. What makes this particular gentleman, what was his name again? Stuart?
+
+Andrew Roberts: Stuart Proffitt.
+
+Tim Ferriss: All right, great name. What makes Stuart so good at giving feedback? Does he see things differently?
+
+Andrew Roberts: He’s profoundly committed to history. He loves history. So he has a higher purpose to try to flood the world with great history books, which is, as far as I’m concerned, the greatest purpose that you can have.
+
+Tim Ferriss: It’s beautiful.
+
+Andrew Roberts: I mean, it doesn’t get better than that. He has a very logical brain. He’s very good on syntax. So anything that doesn’t sound right in a sentence he will point out. Sometimes to an infuriating degree.
+
+Tim Ferriss: Sounds right from a poetic perspective?
+
+Andrew Roberts: From a poetic perspective. If there’s a rhythm that isn’t right or if something rhymes as well, sometimes you can use two words that have a rhyme in them and he will cut that automatically because it just doesn’t feel right.
+
+Tim Ferriss: Doesn’t sit well with his sensibilities.
+
+Andrew Roberts: Precisely. And mine, I hasten to add. Because I very rarely actually disagree with him. I did on the joke, by the way. And whenever anybody tells me that that particular joke is funny, I —
+
+Tim Ferriss: Forward it to him.
+
+Andrew Roberts: I forward to him. I ping the email straight on to Stuart. Of course I do. I’d be mad not to, wouldn’t I? And he’s been doing it for 40 years and he’s at the top of his trade, so you would expect him to be really good, but boy is he.
+
+Tim Ferriss: So those two examples you gave, the width of the river and Herodotus, why did he ask those two?
+
+Andrew Roberts: Because he is always trying to put himself into the mind of the reader and wondering what the reader would be thinking. He thought, rightly or wrongly in this case, that the reader would be interested in the width of the river and whether or not Herodotus went with him. I mean, there are loads more examples like that.
+
+I will send him 100 pages and he’ll send me back 100 pages of questions and criticisms and remarks. I almost sometimes think that I ought to put his name on the front cover of the book. He phoned me up actually, about the Napoleon book. The original of Napoleon just had a huge N on it and lots of bees. And he said, he phoned me up and he said, “I’ve got this idea for the front cover of the book. Your name isn’t going to be on it.” And he said, “And neither is Napoleon’s.” And over the phone, I thought, okay, he’s finally gone completely mad.
+
+Tim Ferriss: Finally cracked.
+
+Andrew Roberts: Exactly. That’s right. Poor man. How long can he stay in his job if he’s going to come up with ideas like —
+
+Tim Ferriss: Hope he can fake it for a while.
+
+Andrew Roberts: Yeah, that’s right. Exactly. But it can’t be long now before. And it turned out to be totally brilliant concept because if you see a gigantic N with bees you think of Napoleon and that’s what —
+
+Tim Ferriss: Bees as in?
+
+Andrew Roberts: Bees, as in —
+
+Tim Ferriss: I’m such an idiot. Bees, like honeybees.
+
+Andrew Roberts: Honeybees, yeah. That was his symbol. It was Napoleon’s symbol, because they could sting, but they could also give honey. That was the idea. And it just captured people’s imagination, sold an awful lot of copies, which was really great. That’s sold half a million copies, that book now.
+
+Tim Ferriss: That’s incredible. That is incredible. Sounds like such a gift to have a Stuart. I need a Stuart.
+
+Andrew Roberts: Yeah, everyone needs a Stuart.
+
+Tim Ferriss: Everyone needs a Stuart.
+
+Andrew Roberts: Don’t take mine, but whatever you do.
+
+Tim Ferriss: No. I think he might find — he might spend his entire first month on just the syntax errors in my first chapter.
+
+Andrew Roberts: You do want to strangle him, by the way, though.
+
+Tim Ferriss: This is the sign of a very good proofreader, often.
+
+Why do you think it is that some historical figures take on these mythic proportions where some who have huge impacts seem to fall into obscurity over time? Are there particular characteristics? Is it self-made, in a sense, where people create that myth of themselves while they’re still alive? How do you think about that?
+
+Andrew Roberts: I hadn’t thought about that before. That’s a really good question. I think that it’s a bit like — there are some things that are very difficult to get over to people on the printed page. Charisma is one of them. Charm is another one. Sexiness. These are things that we all know from our own lives matter enormously. If somebody is charismatic, charming, and sexy, you’re going to want to be interested in them, follow them and so on, much more than somebody who isn’t.
+
+And yet explaining how they are any of those things, very famously hard to explain.
+
+Tim Ferriss: And I think the same is true with historical characters. How can it be that this unprepossessing looking American president who happens to, with this strange beard but not mustache, who happens to be President at the time that the country is falling apart, manages to save the country through this terrible, see it through this terrible civil war, and then is assassinated right at the end of the Civil War. I mean, the story is so extraordinary, isn’t it? And yet to explain the charisma and charm, not sexiness, I don’t think in Lincoln’s case, but many of your listeners —
+
+Tim Ferriss: Who knows?
+
+Andrew Roberts: — or readers might disagree with me nonetheless.
+
+Tim Ferriss: Just imagining him popping up on a dating app.
+
+Andrew Roberts: If you swipe right or left for Abe Lincoln, exactly.
+
+Tim Ferriss: Might ride a fixed gear bike, make expensive cappuccinos. That’s kind of the hipster look. Anyway, I digress.
+
+Andrew Roberts: It is difficult to explain how some people just grab it, grab the headlines and others don’t. I mean, of course it does help to be a leader in a war. That’s true of Lincoln and Churchill and Napoleon and so on. The chance of becoming a world historical figure if you are Prime Minister of Luxembourg in a time of peace is going to be much more difficult, of course. But yeah, there doesn’t seem to be a hard and fast rule does there?
+
+Tim Ferriss: Hard and fast recipe that I can follow. I’m just kidding.
+
+Andrew Roberts: Well, don’t take us to war on the back of you wanting to be remembered.
+
+Tim Ferriss: No, no. I don’t think I’m capable. Certainly not eager. It makes me think of — what is the title of that poem? Ozymandias. “Look upon my works and despair.” I’ll leave that alone.
+
+Andrew Roberts: I met a traveller from an antique land,
+
+Who said—“Two vast and trunkless legs of stone
+
+Stand in the desert. . . . Near them, on the sand,
+
+Half sunk a shattered visage lies, whose frown,
+
+And wrinkled lip, and sneer of cold command,
+
+Tell that its sculptor well those passions read
+
+Which yet survive, stamped on these lifeless things,
+
+The hand that mocked them, and the heart that fed;
+
+And on the pedestal, these words appear:
+
+My name is Ozymandias, King of Kings;
+
+Look on my Works, ye Mighty, and despair!
+
+Nothing beside remains. Round the decay
+
+Of that colossal Wreck, boundless and bare
+
+The lone and level sands stretch far away.”
+
+Tim Ferriss: Hot damn. There you go, listeners.
+
+Andrew Roberts: Can you point out to the listeners that you didn’t tell me that this was going to happen?
+
+Tim Ferriss: I did not. I did not send a memo in advance. And I suppose the preface to that is that there are these ruins sticking out of the sands? Am I getting it?
+
+Andrew Roberts: The feet.
+
+Tim Ferriss: The feet.
+
+Andrew Roberts: Well, the trunks —
+
+Tim Ferriss: That’s right.
+
+Andrew Roberts: — the trunks of the legs. There was obviously a huge, magnificent, pyramid high, glorious statue to Ozymandias. And now there’s nothing. It goes back to what I was saying earlier about not being remembered.
+
+Tim Ferriss: Did you remember the — now I feel like I’m crossing — it’s not cross-examining but asking too much, but who is the author of that poem?
+
+Andrew Roberts: Percy Bysshe Shelley.
+
+Tim Ferriss: I saw one of, maybe the original, or certainly a first draft in Oxford because I was going through a program at Wadham College and there’s an exhibit on right now, which is something like [“Write, Cut, Rewrite”], and it shows the hand-edited works of Mary Shelley, Frankenstein and all these others. And I came across that.
+
+Andrew Roberts: If anybody wants to see a first edition of Mary Shelley’s Frankenstein, it’s just gone on an exhibition at the, I was there this morning, Lambeth Palace Library. There’s a thing called “Her Booke.” It’s about female, early female writers. It’s a brilliant exhibition. So if there’s anyone in London who’s interested in seeing that book, it’s there today.
+
+Tim Ferriss: Beautiful. And if you’re near Oxford, Weston Library has the exhibit that I was mentioning. A lot of gems. A lot of gems. You have some really fun old stuff in the UK, it turns out.
+
+Andrew Roberts: Thank you. I’m not going to take that personally.
+
+Tim Ferriss: No, no, it’s a compliment. Old in the US is 1970. It’s smaller.
+
+Andrew Roberts: I thought you were talking about me.
+
+Tim Ferriss: Oh, no.
+
+Andrew Roberts: Good. All right.
+
+Tim Ferriss: Not you.
+
+How do you think about legacy? Because I, along the lines of the Ozymandias piece, I’m like, is it just sort of hubris to believe in the first place that that’s something worth aspiring to, having something last and stand the test of time? I mean, how do you personally think about this? Especially as someone who studies history.
+
+Andrew Roberts: Yes, and I obviously do want people to read my books long after I’ve died. Now, I’m not going to know whether they are or not, so why on earth — it just seems so illogical to even think that, doesn’t it? That it should matter to me that anything happens the second after I’ve died. But I know that I do, and it is one of the drives for being a writer, because words always live forever. And they’re virtually the only thing that does.
+
+Ozymandias’ statue is just two trunkless legs of stone. Whereas actually his words, “Look on my Works, ye Mighty, and despair,” that goes to the heart of the human condition. And Shelley’s poetry still survives in a way that Ozymandias’ statue doesn’t, so there is something about words that are immortal and we’re all grasping for immortality in one way or another, aren’t we?
+
+Tim Ferriss: Yeah, it is true. Do you read fiction?
+
+Andrew Roberts: Yes. Yes, I do. For the first — when I go on holiday, which is usually hiking, actually, with my wife. She loves going to places that involve mountains. And in order to get history completely out of my system for the two weeks or so that we’re hiking, I do read fiction. Sometimes if I want to completely clear my brain, I’ll have a detective novel. And I’ve chosen the most complicated of all of the detective novelists, a chap called Robert Goddard. Have you ever heard of Robert Goddard?
+
+Tim Ferriss: I have not.
+
+Andrew Roberts: So complicated to work out whodunit or what groups of people done it. It’s very rarely just one person and why. And I try and make notes in the back of the book, connecting each person to everybody else. So by the end of it it looks like one of those really complicated management —
+
+Tim Ferriss: Oh, it’s like an org chart.
+
+Andrew Roberts: Yeah, exactly, exactly, with hundreds of people connecting to everybody else to try and work out whodunit. And he always, always beats me.
+
+Tim Ferriss: That sounds fun. I’ve been getting —
+
+Andrew Roberts: But as far as high culture writing novels is concerned, I will occasionally do that. I’m President of the Cliveden Literary Festival and so we have lots of novelists come to that. And so if you’ve got William Boyd or Salman Rushdie or somebody who you’re going to be bumping into at the festival, it’s always a good idea to read their latest novel. We had Robert Harris recently and so that’s always well worth doing. And then there are a few writers like Michel Houellebecq who is just so great that you have to read whatever he brings out, really.
+
+Tim Ferriss: I don’t recognize the name, I’m embarrassed to say.
+
+Andrew Roberts: He’s a French writer. It’s pronounced Houellebecq —
+
+Tim Ferriss: Houellebecq.
+
+Andrew Roberts: And he’s a genius, very controversial and quite unpopular in France. And the latest one I’m reading is it features his own murder. It’s a great satire. It’s very, very funny.
+
+Tim Ferriss: Is there a book you might suggest starting with, if I were going to start with one?
+
+Andrew Roberts: The Map and the Territory.
+
+Tim Ferriss: The Map of the Territory?
+
+Andrew Roberts: The Map and the Territory of Michel Houellebecq is a — the name starts H-E-L-L-E-B.
+
+Tim Ferriss: I’ll find it.
+
+Andrew Roberts: Yeah, it’s a satire on French intellectual customs and —
+
+Tim Ferriss: I can see them loving that.
+
+Andrew Roberts: It’s very funny. It’s very funny.
+
+Tim Ferriss: Why is he controversial?
+
+Andrew Roberts: Oh, because he’s deeply politically incorrect as well. He just doesn’t care. He just doesn’t care what he writes. He’s a honey badger in that sense. Do you know what I mean?
+
+Tim Ferriss: I do. I do. I do.
+
+Andrew Roberts: He’s a literary honey badger is Houellebecq.
+
+Tim Ferriss: Literary honey badger. All right, so speaking of politically incorrect, how should we, in your mind, write about imperial history?
+
+Andrew Roberts: We should try as far as possible to be genuinely objective. We shouldn’t take the assumption that all White people, whenever they went abroad, did so solely in order to rape, murder, massacre, and exploit. And because certainly in the latter parts, we were talking earlier about actually about Winston Churchill and the noblesse oblige, the concept that it was part of your duty as a privileged person to try to make the world a better place for other, less privileged people. And that was, especially in the last part of the British Empire, a driving force for a lot of people, especially obviously missionaries and Christians, but also other people, explorers and people who are involved in agriculture and so on. They actually were not driven by rapacity and greed in the way that essentially the Marxist analysis of imperialism has made out. So be objective. Some of those people were like that. Undoubtedly, of course they were, especially some of the people in Southern Africa and elsewhere. But for a long period of the story of the British Empire, for much of that Empire, it actually was a force for human good rather than evil.
+
+Tim Ferriss: What do you see as the challenges moving forward for the capturing of history and/or how do you see it changing as we move forward?
+
+Andrew Roberts: I am quite worried about it in Britain because first of all, fewer and fewer people seem to be taking it as a subject at university level. Secondly, we have this thing, it’s nicknamed Henry to Hitler, where we jump from the Tudors to the Second World War and we don’t do the very important intervening stages of the Stuarts, the Civil War, the Hanoverians, loss of America, really anything up to the outbreak of the First World War. And there’s so much of really important history in that period that we seem to jump from one to the next. There was a survey quite recently of British teenagers, quite a big survey, over 1,000 of them. And 20 percent of them thought, it was like 23 percent of them thought that the American War of Independence was won by Denzel Washington.
+
+Tim Ferriss: The Americans get a bad rap.
+
+Andrew Roberts: I know, I know, exactly.
+
+Tim Ferriss: It’s not just us.
+
+Andrew Roberts: No. And also, there were 20 percent of these kids, these are British school kids who also thought that Winston Churchill was a fictional character and that Sherlock Holmes and Eleanor Rigby were real people. So whatever’s going on in British history teaching, I think there’s still a lot to be desired.
+
+Tim Ferriss: If you had never been able to write any books in that alternate reality, what have you personally or what would you have gained personally from studying history?
+
+Andrew Roberts: Well, it’s a lot of things, isn’t it? History, it can be a bit of a quicksand. It can be a —
+
+Tim Ferriss: In what sense?
+
+Andrew Roberts: Well, as soon as you think you understand a period, all it takes is one new set of papers or a new book written by somebody else, of friends especially, that can make you look again at the same period and completely change your mind about it. And that’s a little unnerving at the age of 61, I have to say.
+
+I’m just reading Ronald Hutton’s second volume of his life of Oliver Cromwell, which has just been published. And I’d always thought of Cromwell as somebody who had a set of principles that he molded his times around in order to see through. And Ronald Hutton has completely exploded that thesis for me. And I realized that he was, like most politicians, just grabbing the coattails of history and hanging on as much as he could. And yes, he was a good soldier and so on, but in terms of his politics, he was constantly trying to create alliances, of course, like all politicians do and when opportunities came, he grabbed them. But he was at the mercy of events much more than creating them. Whereas I, for years, had the image of Oliver Cromwell like that statue outside Parliament of this incredibly solid figure. He wasn’t like that at all.
+
+Tim Ferriss: What are other things that attract you or attracted you to history?
+
+Andrew Roberts: It wasn’t just Christopher Perry. My dad read history at Oxford and he used to take me around castles. We’d go on holiday to Wales and see the great Edward I castles. And on journeys, we’d chat about history and what ifs, counterfactuals and things like that. And so I grew up feeling very comfortable with it and recognizing that it’s a beautiful and fascinating thing. Whereas I think sometimes some people can be, not scared of history, but they can be put off history because they weren’t taught it very well at school or they just thought it was a succession of dates or they can’t see any relevance to their daily lives and so on. And I’ve never been one of those people.
+
+Tim Ferriss: So if you were doing a presentation, it could be anywhere on why people, aside from conflating Denzel Washington with other historical figures, why they should read history or engage with history, what would the thrust of the presentation be?
+
+Andrew Roberts: I suppose it does come back to that Aldous Huxley quote about trying to learn some of the lessons. There’s a marvelous moment when in 1953, July, 1953 at the time of the — sorry, June, 1953 at the time of the late Queen’s Coronation, Winston Churchill is walking across Westminster Hall, this fabulous great hall that was, when it was built in the late 13th century, the largest room in Europe. And it’s fused with history. It’s of course where Churchill himself was to lie in state, but also where the monarchs lie in state, where Warren Hastings went on trial and Charles I went on trial and people like Mandela and Zelenskyy have given speeches and things like that. It’s compounded this — Thomas More went on trial there, the Earl of Strafford. I just mentioned a whole load of people who were all decapitated, actually. William Wallace as well. He was decapitated as well.
+
+And so you’ve got this sense of all of British history summed up in a room essentially. And a young American student stops Churchill and asks essentially for a piece of life advice. And Churchill replies, “Study history, study history, for therein lies all the secrets of statecraft.” And that would be one of the reasons that I would tell people that if you want to understand what’s going on in the world, you do have to look and see what has happened before and there’s no person who doesn’t want to have a better understanding of what’s going on in the world or try to work out for themselves, the great forces in our planet today. So that, I suppose, would be the answer. That’s why I’ve chosen “Study history” as my motto of my coat of arms, for example, and why I’ve got a podcast too. I call it Secrets of Statecraft. I think that’s a motivating factor.
+
+Tim Ferriss: Secrets of Statecraft, that is —
+
+Andrew Roberts: It’s the Hoover Institution’s podcast, but it’s great fun to do.
+
+Tim Ferriss: And what —
+
+Andrew Roberts: Must have Niall Ferguson on at some stage and I can tease him about not being —
+
+Tim Ferriss: About the diary? What is statecraft? Just so I — think I know, but very often I think I know something and it is in fact not true at all, so.
+
+Andrew Roberts: It’s the ability to run a country. So you’ve got to juggle the diplomatic, the military, the economic, the cultural, all of these things, the religious, all of these things together to create the kind of country that you want it to be. And that is statecraft. And so it’s been going on as long as human history has and always will.
+
+Tim Ferriss: Looking forward, lets see, you’ve studied many great figures from history, you’ve looked at these different chapters of —
+
+Andrew Roberts: Including your late king, your last king, George III. I wrote a biography of him a few years ago, which was great fun to do. Yeah, sorry, carry on.
+
+Tim Ferriss: Oh, no, that’s all right. I was just going to ask you, looking forward, given how much you’ve reflected backwards, where do you think things are going for the UK and/or for the US? If you were a betting man, would you say, “Hmm, there’s a good chance. It’s not a certainty, but if the dominoes continue to fall the way they’re falling, A, B, or C.” Do you have any —
+
+Andrew Roberts: I’m afraid I’m a bit of a pessimist. Yeah. Not so much for the United States because you’re still such a rich and innovative country, but I’m wondering in Britain whether or not, and history plays an important part of this, especially the way in which history is used politically, to wonder whether or not we still believe in ourselves, certainly in the way that we did when I was growing up. In 20 — I’m going to try and get the statistics right. I think it’s 2015, as recent as 2015, maybe it’s 2010, 86 percent of people were proud of British history. That has now fallen down to 56 percent. And I’m sure that the reason for this is the sustained attack on, well, the British Empire that we were discussing earlier and people forgetting the part that we played in the abolition of slavery and concentrating just on the horrors and the monstrous things that happened.
+
+And therefore, if you’re not proud of your past, you’re not proud of your ancestors, you’re not proud of the things that they produced, and Britain has produced some pretty extraordinary and wonderful things for the world, then it’s difficult to see why anyone would want to be proud of the future of the country as well. And so I’m pretty pessimistic, and when I feel pessimism for America, it’s for things like taking the Thomas Jefferson statue down from the New York City Hall. I mean, it’s a form of cultural suicide. It strikes me not to admire the founders of your nation. And yes, of course he owned slaves, but he also wrote a constitution that has survived for a quarter of a millennium and he was brave enough, and Washington and all the others, brave enough to stand up against the most powerful empire in the world. These things, you deserve your statue, it seems to me.
+
+And if you go around pulling these things down, I think you’re breaking a living link with the past that makes you a great country. And that’s certainly happening in this country as well. I mean, I’m a bit of a pessimist anyway because I’m a Tory and pessimism is an essential part of Toryism. I’m not as big a pessimist, I hasten to add, as Niall Ferguson who, I like to say, it’s a quote from P.G. Wodehouse, “[It’s] never terribly difficult to tell the difference between a ray of sunshine and a Scotsman with a grievance.” And Niall always tells you that it’s all doom and gloom and everything’s going to be utterly disastrous. I wonder whether or not he truly believes it because he’s actually himself a very upbeat and personally positive individual who does lots of things that imply that actually he does think the world’s going to get better. But boy, oh, boy.
+
+Tim Ferriss: How do you personally, if you do, I mean, it seems like you examine or you have a fascination with counterfactuals, the what-ifs, you read books that have the potential for upending long-held theses, which can be uncomfortable, I would imagine. Do you have people around you or who you deliberately expose yourself to who offset perhaps some of your pessimistic tendencies with forms of optimism that they can defend?
+
+Andrew Roberts: Yes, my wife is the classic example. She’s optimistic about the future. She’s in business, she’s a very successful businesswoman, so she actually sees a lot of the things, the innovations that are taking place. The drugs that are coming online that are saving lives and taking on defeating pain and so on. She’s great at believing in the innate capacity of capitalism to reinvent itself in a positive way for more and more people and take people out of poverty and all of those positive things. So yes, it’s an invigorating thing to talk about the world with her because it makes me much less eel-like and Ferguson-esque.
+
+Tim Ferriss: I feel like — any other inside scoop that people should know about Niall?
+
+Andrew Roberts: No, no, no.
+
+Tim Ferriss: His secret, optimistic voice memos that he sends you. You can annotate, add to your diary, “Please see audio reference 47.” Well, Andrew, this has been great fun. You have many books that people can read certainly, and they’ll all be in the show notes, but is it most recent, Conflict?
+
+Andrew Roberts: Yes, that’s a book I wrote with David Petraeus, and of course, him being a general whose commanded armies of over a hundred-and-sixty-thousand in both Iraq and Afghanistan has been so fascinating intellectually for me because of course, I’m a military historian, I’ve never worn a uniform for one minute. So that was great.
+
+Tim Ferriss: The subtitle for folks, just so they have that, The Evolution of Warfare from 1945 to Ukraine.
+
+Andrew Roberts: Well, it’s now actually Gaza. The paperback takes —
+
+Tim Ferriss: Oh, it’s Gaza?
+
+Andrew Roberts: — us up to Gaza as well, about halfway through that campaign in Gaza and it was after the Russian invasion of Ukraine that I came up with the idea of writing the book. And I got onto David who I knew and said, “Why don’t we write this as a military history? There are going to be lots of political histories about this, but just the military side of it and put it into the context of all the wars that have happened since 1945.” So we go through, not all of them, there are 400 of them, but all the key ones, the 40 or so key ones that you’ll have heard of and that show how war has evolved and developed. And sometimes it leaps forward and other times it goes into side shows.
+
+But we went to the publishers and they quite understandably said, “Well, how are you going to divvy up the chapters?” And I said, “Well, David’s going to write about all the countries he’s invaded and I’ll fill in the rest.” And he also did the Vietnam chapter as well, actually. And then we sent hundreds and maybe thousands of emails to one another over the course of the year or so that we were writing it.
+
+Tim Ferriss: That’s very fast.
+
+Andrew Roberts: It is fast. It is fast. But the thing was —
+
+Tim Ferriss: How did you do it so quickly?
+
+Andrew Roberts: Well, because the situation in Ukraine was moving so quickly and then the Gaza war broke out on the day of the publication of the hardback. So that was literally the 7th of October that we were bringing that out. So we then needed to get on with writing about that as well. And as you know, I tend to write quickly. And so does he. He’s a soldier scholar. He went to your old university. He was at Princeton doing a postgrad on military history, and so he was very much able to keep sending back those emails.
+
+Tim Ferriss: Yeah, I suppose he’s not lacking discipline —
+
+Andrew Roberts: Say that again.
+
+Tim Ferriss: — would be my guess. What did you find were key ingredients to that successful collaboration? What made it work, especially with that type of pressure under deadline?
+
+Andrew Roberts: Well, I know there was a mutual respect, which is very important. I’d never written a book with anybody before and I was —
+
+Tim Ferriss: I’m in the midst of doing that right now, which is part of the reason I’m asking.
+
+Andrew Roberts: Yeah, no, well it’s slightly nerve wracking, isn’t it? Because one can get very, I don’t know, proprietorial about one’s work, but that wasn’t the case with David because the insights that he gave about what it was like to be a commander into wars at the absolute apex of command meant that he could then look back on wars like the Korean War, the Vietnam War, Iraq one and other wars to the Gulf War, I mean, to place himself in the position of Matthew Ridgway in Korea for example. And that was so fascinating that I knew that there was nothing that I could add to that. I just knew that the combination of the soldier and the historian would produce something that was really intellectually stimulating for me. And in the end, life is a constant battle against boredom, isn’t it? It’s a constant rear guard action against not being stimulated.
+
+Tim Ferriss: Do you think you’ll do more collaborations? How are you thinking about your writing moving forward?
+
+Andrew Roberts: No, I know my next two books are just going to be written by me. I’ve got Napoleon and his marshals about how the Emperor interacted with his marshals and how the marshals interacted with each other. They fortunately all hated each other — so that’s much easier for a historian to write something interesting — and hated each other in very imaginative ways.
+
+Tim Ferriss: The greatest reality TV show ever seen.
+
+Andrew Roberts: Exactly. And then after that, I’m doing Disraeli and he’s an extraordinary character who was a complete outsider as a Jew, of course, didn’t go to one of the British public schools or Oxford and Cambridge or any university. And through his own brilliance, and he was a novelist of course also, his own wit, he wound up becoming the most powerful man in the world.
+
+Tim Ferriss: Yeah, I look forward to reading that one.
+
+Andrew Roberts: Good. Thank you.
+
+Tim Ferriss: Thank you.
+
+Andrew Roberts: Let me back on the show in 2030, which is when it’s being published.
+
+Tim Ferriss: I hope I’ll still be around. We’ll see. I’ve been here for a decade. We’ll see how it goes. Andrew, this has been great. I really appreciate you taking the time. People can find you, correct me if I get any of this wrong, andrew-roberts.net? Would that be the main website? That’s what I have here.
+
+Andrew Roberts: Can’t remember, but yes, I hope so.
+
+Tim Ferriss: Let’s just say that’s right. And if it’s not —
+
+Andrew Roberts: Edit it out.
+
+Tim Ferriss: — I’ll put the correct version in the show notes, and then is Twitter or X as it stands now, a good place for people to follow you as well?
+
+Andrew Roberts: Yeah, that has things like my podcast and so on.
+
+Tim Ferriss: Perfect. So that’s, as I have it here, aroberts_andrew?
+
+Andrew Roberts: Is it? Good.
+
+Tim Ferriss: Perfect. We’ll fact check off that, but we do have that. Is there anything else that you would like to add? Any requests of my audience, anything at all that you’d like to —
+
+Andrew Roberts: Absolutely not.
+
+Tim Ferriss: — mention?
+
+Andrew Roberts: Just thank you so much, Tim, for being on the show. I’ve really enjoyed it.
+
+Tim Ferriss: Yeah, thank you so much for taking the time. This has really been great. And for people who are listening, as always, you can find the show notes at tim.blog/podcast. We will include links to everything we discussed and also, as always, until next time, just be a little kinder than is necessary to others, but also to yourself. Thanks for tuning in.
+

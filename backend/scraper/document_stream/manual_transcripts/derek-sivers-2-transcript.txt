@@ -1,0 +1,904 @@
+Please enjoy this transcript of my interview with Derek Sivers, an author of philosophy and entrepreneurship, known for his surprising, quotable insights and pithy, succinct writing style. Derek’s books (How to Live, Hell Yeah or No, Your Music and People, Anything You Want) and newest projects are at his website: sive.rs. His new book is Useful Not True.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch the interview on YouTube here.
+
+Tim Ferriss: For people who don’t know who Derek Sivers is, what is the brief overview of Derek?
+
+Derek Sivers: Oh, I have to do it? Right.
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: I was a musician for many years, and then I started selling my music online in 1997, when there was no PayPal and there was, Amazon was just a bookstore. So I started a little thing called CD Baby just to sell my music. But then, it grew and became the largest seller of independent music online. And I did that for 10 years, till I got sick of it and sold it. And then, I was a TED speaker for a few years and then threw myself into that completely. And then, Seth Godin asked me to write a book. So I wrote a book and then people really liked it. So now I’ve written five. And now I’m a, I don’t know, dad in New Zealand, thinking philosophically and living my life. How about that?
+
+Tim Ferriss: I thought you did a great job. Thank you for that. When I can’t find a virtual assistant to do work for me, I’ll ask my podcast guest to do my jobs. I will also, I’ll also add, number one, people, if you enjoy this conversation, which I’m sure you will, not to apply any pressure to Derek, but I always have so much fun, go back and listen to the other conversations also, because you’ll notice a few things.
+
+Number one, Derek has one of the most eclectic CVs imaginable. He’s worked in traveling circuses, he has played music at pig fairs, he has been an entrepreneur, he has certainly been a philosopher/coder, and many other things. But also I would say, overarchingly crafted a life that is uniquely Derek’s, and frequently tests assumptions. And two, I suppose bucket one of what we’re going to discuss today, changes his mind and —
+
+Derek Sivers: Yes.
+
+Tim Ferriss: — and finds himself zigging when he might’ve otherwise zagged, or where other people are zagging. And that is part of why I enjoy spending time with Derek, aside from the dashing good looks and wit and charm, of course. So let’s begin. As we were brainstorming what we might chat about, because we were hoping to catch up, I suggested a few things. We batted a number of things around and we landed on things you’ve changed your mind about —
+
+Derek Sivers: Mm-hmm.
+
+Tim Ferriss: — things you’re fascinated by, people you’re studying, not necessarily in that order. So let’s start with things you’ve changed your mind about or on. Where shall we begin?
+
+Derek Sivers: I’ve got five things for you. I’m starting small and getting big.
+
+Coffee. I have never liked coffee. Every time I tried coffee, I went, “I don’t understand how you people like this.” And even when I’d be with somebody that knew I didn’t like coffee and we were out somewhere and they would go, “Oh, my God, this is the best coffee I’ve ever had in my life. Here, I know you don’t like coffee, but if you’re ever going to try coffee, this is the one. Try a sip.” And I’d say, “Okay.” I’d try to get myself into this mindset, “I’m going to like this.”
+
+Never liked it. So then, I was in United Arab Emirates and I was the guest of this Emirati man that we will get to later, and he said, “It is Emirati custom, you must have the coffee.” And I went, “Oh, sorry, I don’t drink coffee. I just…” He said, “You must have the coffee.” I said, “No, really, I’ve never liked coffee in my life.” He goes, “My friend, you must have. It’s Emirati custom. You must have the coffee.” I went, “All right.”
+
+I took a sip. I was like, oh, my God. I’m like, “This is really good.” He goes, “That is Emirati coffee.” I went, “No, really, there’s something different about this.” He goes, “Yes, it’s Emirati coffee.” I said, “Is that the one where they make it in the sand?” He said, “No, no, no, that’s Turkish.” He said, “This is Emirati coffee.” So knowing that we were talking today and I was going to mention coffee, I texted him, I said, “Hey, what was that coffee you…”
+
+Because he’d said there were only three places in Dubai that know how to make real Emirati coffee. So he told me one, Bateel, B-A-T-E-E-L. If you’re in Dubai and you want to try real Emirati coffee, apparently, according to this Emirati, try Bateel in Dubai for real Emirati coffee. I’ve changed my mind on coffee. I now like, at least, Emirati coffee. There’s one.
+
+Tim Ferriss: Okay. Just for definition purposes — all right, I’ll hold my follow-ups. There are going to be a couple of follow-ups, including how do you define Emirati? Is that basically a Brahmin in the UAE?
+
+Derek Sivers: Sorry, that’s what we call people from United Arab Emirates.
+
+Tim Ferriss: All right. Everybody.
+
+Derek Sivers: If you are of the lineage, if you were a citizen of United Arab Emirates, you’re referred to as Emirati.
+
+Tim Ferriss: What is the special technique, special ingredient that makes Emirati coffee —
+
+Derek Sivers: I don’t know.
+
+Tim Ferriss: — so miraculous for you?
+
+Derek Sivers: Hey listeners, if you find out what’s different about Emirati coffee, please let me know. I don’t know. I just, I’ve been there, I went back six months later, same thing. I tried Emirati coffee and I like it. Yeah.
+
+Tim Ferriss: Severe social pressure.
+
+Derek Sivers: Yeah. Oh, yeah, yeah —
+
+Tim Ferriss: Maybe that’s the —
+
+Derek Sivers: — that might be the magic ingredient —
+
+Tim Ferriss: — magic ingredient.
+
+Derek Sivers: — severe social pressure. Ah, It makes anything taste better.
+
+Tim Ferriss: You must have it — yeah. And it will be disastrous if you don’t like it.
+
+Derek Sivers: I don’t know what it is, but it surprised. Okay, Python. So I’m just going to include this because 20-something years, 23 years ago, I learned the Ruby programming language and I became fluent in Ruby. And Ruby and Python are as similar as Portuguese and Spanish. But let’s say Ruby is Portuguese, where Spanish became more and more and more popular. So when I first learned Ruby, it’s like Ruby and Python were side by side. Ruby was a little more popular at the time. But then, over the years, Python just took off and I refused to look at it. I was like, “No. I chose Ruby. I speak Ruby, I don’t want to learn Python. It’s too similar. If I’m going to learn another language, it’s going to be Lisp or Haskell or something really different. I’m not going to learn Python. No.”
+
+And so, for years and years I’ve been refusing, and then just irrationally prejudiced against Python. When I was choosing a new language for a new project, I considered everything but Python. And then, I realized I had left Python out because of my severe prejudice against it for no good reason. So I finally looked at the Python programming language and I went, “My God, it’s beautiful, it’s great. Oh, my God, it’s wonderful.” So now I love Python, and that just felt amazing in my heart to be like, “Wow, this thing that I was prejudiced against for 20 years is actually wonderful. How cool.” So coffee, Python number two.
+
+Tim Ferriss: Mm-hmm.
+
+Derek Sivers: Should I go on?
+
+Tim Ferriss: Number three. Let’s go on.
+
+Derek Sivers: I brought a prop. I want to make this a good show. For the first time ever, appearing are my little pet rats. Okay, if you see on YouTube —
+
+Tim Ferriss: Oh, look at that.
+
+Derek Sivers: — or whatever —
+
+Tim Ferriss: All right, we have two —
+
+Derek Sivers: My little guys.
+
+Tim Ferriss: — on video. They’re sizable.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: Yeah. They’re little — nice.
+
+Tim Ferriss: Those are chunky monkeys.
+
+Derek Sivers: Mwah. They are so cute and they’re so wonderful and they’re so affectionate. You can’t maybe tell, because I’m holding them up like they owe me money right now. But, all right, I’ll put them back. So here’s the deal, years ago, I used to kill rats. I hated rats so badly. I lived in a basement apartment in Boston, that had rats in and around the apartment, that would sometimes be blocking my entrance to my apartment as I would come home and I was tired. So I killed many rats with great vengeance. I hated rats.
+
+And then, just a few months ago, my boy said, “Hey, Dad, can we get a pet rat?” I was like, “Ha, ha, ha!” and I just thought it was, he was kidding. And he said a week later, he said, “That really made me sad that you just shot down my idea of the pet rat.” I said, “Wait, you were serious?” He said, “Yeah.” I went, “Oh. Well, why would you want a nasty, awful rat as a pet?” He said, “No, they’re not nasty and awful. Look.” And he showed me some videos that rats are really sweet and they’re really wonderful. They’re smart, they’re trainable. You can train them to do little tricks and pick things out and go to a wallet and open up and take money and bring it to you. Very useful in a crowd.
+
+Tim Ferriss: Thieves guild.
+
+Derek Sivers: Yeah. Exactly.
+
+Tim Ferriss: Interesting.
+
+Derek Sivers: Sweet little Artful Dodgers. So it’s — the difference between a wild rat and a pet rat, it’s the difference between a wild dog and a poodle. The pet rats are really sweet. So no matter what you think of wild rats, don’t discount or don’t hate on pet rats. They’re actually really wonderful and cuddly. And they’re even clean. They use a litter box. They don’t like to, they can control their bladder. So like a cat, they prefer to go in a litter box, and so they’re really clean and wonderful.
+
+So I love my rat — oh, and wait, the lifespan. Their lifespan is two to three years. Which, as a parent, is really wonderful, because when a kid says, “I want a pet,” you don’t always want a 15-year commitment. The kid’s going to be away at college and you’ve still got the pet that your kid wanted when they were eight. I like the lifespan is two to three years, which is — so rats are good pets.
+
+And so, I love my little rats. We’ve just got these two boys. But as, even more than loving the rats, I love that I am now cuddling what I used to kill, that I now love what I used to hate. It’s so sweet. I cuddle them, but it’s like, “God, I used to hate you.” This is such a good feeling in my heart that I now love what I used to hate. And you’ll see this is the theme of my five things today. Ready for the next?
+
+Tim Ferriss: And what are the names? What are the names —
+
+Derek Sivers: Oh.
+
+Tim Ferriss: — of the two rats?
+
+Derek Sivers: Cricket and Clover. Yeah, Cuddly Clover and Crazy Cricket Climber.
+
+Tim Ferriss: Do they eat crickets? What do they eat?
+
+Derek Sivers: Actually, well, they do love clover. But no, they just eat rat food from the store. They eat anything. It’s like when you’re making —
+
+Tim Ferriss: Opportunists.
+
+Derek Sivers: — food and you’ve got little leftovers, you’ve got little bits and crusts, or little things, you just give it to the rats and they usually love it. It’s great. I keep them in the kitchen.
+
+Tim Ferriss: That’s perfect. That’s what —
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: — some folks in South America do with guinea pigs.
+
+Derek Sivers: Oh.
+
+Tim Ferriss: Although, the difference is they fatten up the guinea pigs on the table scraps, and then they eat guinea pigs.
+
+Derek Sivers: Right. Well —
+
+Tim Ferriss: — probably not going to eat Cricket and Clover, I imagine.
+
+Derek Sivers: I won’t be eating Cricket and Clover. But I do like that, hang out near the kitchen and give them the scraps. Okay, number four, China.
+
+Tim Ferriss: Number four. Number four, China.
+
+Derek Sivers: So, in 2010, I went to Guilin, China, and then I went to Taipei, Taiwan. And at the time, China was rough. I was walking over rubble, the air was just choking me with its smoke and the scents of oil, and everything felt very third world, very rough. And I just thought, okay, that’s what China is. China, developing, the economy, it’s just rough. And then, you go to Taipei, Taiwan and it just feels like the most refined, first world, beautiful version. It’s like Japan, but with Chinese culture. And I thought, “Ah, someday I want to live in Taiwan, because that’s the really nice part of China.”
+
+So, here we are, 2024, 14 years later, I go to bring my kid on a school holiday to China for his first time. And I thought, well, we’ll start out rough by going to mainland China and then we’ll move on to the best of the best, with the refined culture of Taiwan and Taipei. And it turned out to be the opposite, that China was wonderful. We went to Shanghai and it was like first world, amazing, refined, silent. Because all the vehicles are electric now. So that was the very first thing I noticed. As soon as — I took the train from the airport, we got off in downtown Shanghai. I’m surrounded by a hundred vehicles and I hear nothing. It’s just —
+
+Tim Ferriss: That’s so nice.
+
+Derek Sivers: And I was like, “Oh, my God. What?”
+
+Tim Ferriss: That’s sounds incredible.
+
+Derek Sivers: “This is surreal.” 20 motorbikes went in front of my face right there, three meters away, and I heard none of them. It was just the silent movement. I was like, “This is so nice.” And the people were just so polite and cultured, and it was none of this hacking and spitting that I’d associated with it before, the shouting and the spitting.
+
+Tim Ferriss: Yeah, that’s good to hear. I remember the spitting from my visits. A lot of spitting.
+
+Derek Sivers: Yeah. And even just transactionally. You have to get Alipay or WeChat on your phone first before you go, attach it to your credit card. But then once you’re there, all transactions are just beep, everything is so easy. And there are beautiful rental bikes everywhere, laid out in perfect color-coded queues. You can just walk up to one and go, “Beep,” and step on the bike, and then just go where you want to go. And you drop it off, you go, “Beep.” And everything is just so civilized and wonderful. I was so — it completely changed my mind about China.
+
+And then, I don’t want to sound like I’m trashing Taiwan, but it was just interesting that by comparison, then I went to Taipei and I thought, “Whoa, if China’s this nice, imagine how nice Taipei is going to be.” And I got there and it was stinky and trashy, and they don’t take credit cards or they don’t have the apps, and so you have to pay cash everywhere. And I’m like — money and paper and coins. And I was like, “Wow, interesting.”
+
+And so, I met with a Taiwanese woman for lunch, that I’d emailed with before, and she’s an investor that goes to mainland China often. And I mentioned something about this cautiously. I was like, “Yeah, I don’t want to trash your home.” I didn’t say it like that, but I just cautiously said, “Hi, I noticed something.” And she said, “I’m glad you noticed.” She said, “I noticed this too.”
+
+She said, “I go to mainland China cities every six to 12 months,” and she said, “I feel like Taiwan maybe plateaued 12 years ago. We hit first-world status and stayed there,” almost like Japan. It’s like Japan used to feel futuristic, now it feels stuck in the ’90s, fax machines and stuff, which is cute in a way. Again, not to knock it, it just, it feels like it got to a certain point and then it said, “Okay, we’re happy here.”
+
+Tim Ferriss: And it plateaued, yeah.
+
+Derek Sivers: And she said, “Every time I go to China,” she said there’s visible, noticeable improvements every six months. She said, “It blows my mind that they just keep improving and keep pushing.” So I read a book called China’s World View by David Daokui Li that changed my perception of China’s government, too. It’s really impressive. He’s a guy that’s in, but not in, China’s government. And so he is trying to explain the mindset of China’s government to outsiders. And it’s a beautiful book I highly recommend if somebody wants to understand China better. China’s World View.
+
+Tim Ferriss: China’s World View. Just as a sidebar note, your mention of Japan. I love Japan and I’ve spent time also in mainland China and in Taipei. It’s time for me to get back to both of those. I’ve spent much more time in Japan. But when people are going to Japan for the first time and they’re like, “I can’t wait to experience this futuristic view, 30 years ahead.” I typically say, “Look,” especially if they’re going to stay there for a longer period of time, I say, “You’re going to love it. And it is 30 to 40 percent Blade Runner and 60 to 70 percent DMV.” Just like —
+
+Derek Sivers: Nice.
+
+Tim Ferriss: — filling out paperwork in triplicate and fax machines.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: It’s going to drive you nuts, if you actually try to live there. On some levels, right? There’s so many beautiful things about it. But yes, it does have the feeling of having frozen in time, in a sense.
+
+Derek Sivers: Yeah, yeah.
+
+Tim Ferriss: As opposed to continued to inflect the way that it was perhaps some time ago. Need to get back to the East, so to speak. It’s been a long time. All right, I think you have —
+
+Derek Sivers: Actually, because of this newfound love, I’m actually going to Shenzhen and Chengdu in a few weeks.
+
+Tim Ferriss: Oh, wow.
+
+Derek Sivers: To kind of, I just want to keep experiencing different Chinese cities.
+
+Tim Ferriss: You going to do any factory tours —
+
+Derek Sivers: No.
+
+Tim Ferriss: — or see manufacturing there?
+
+Derek Sivers: I’m just meeting with people. That’s how I travel these days. I tend to go to a place, and instead of just looking, instead of seeing the sites, I want to meet the people. So I’m meeting with people that I’ve emailed with over the years and just — I chose those two cities because I know a lot of people there.
+
+Tim Ferriss: Great. That — can’t wait to hear the report. So I think, now I’m no mathematician, but maybe you have one more?
+
+Derek Sivers: Smartass. Okay, number five, Dubai. So this is my big one. Because, when I lived in Singapore, Dubai would often come up. People would compare the two and they would tell me things about Dubai, about the shopping malls, and the millionaire pandering and the Instagram hashtaggy, “You look at me” crap. And Dubai was in my top 10 places I never want to go in my life. Fuck that place. It sounds awful. Sounds like everything I hate in one place. You couldn’t pay me to go there.
+
+But then I have to notice that feeling in myself, and this is going to be, we’ll get to the theme when we’re done with this number five. But I had a flight from New Zealand to Europe that — it changed planes in Dubai. And I looked at that and I went, “Ugh, Dubai.” And I was like, “Wait a second, what is this prejudice in me against Dubai?” It’s like saying I hate artichokes, but I’ve never tried artichokes. I hate Dubai, but I’ve never been to Dubai. Maybe I should go to Dubai. So instead of making it a three-hour layover, I made it like a three or four-day layover. I went, “Wow, okay, I’m going to Dubai for a few days.”
+
+So, I read a book called City of Gold, which was about the founding of Dubai and the creation of Dubai. And dude, it was so good. It is such a great book. Anybody listening to this, if you want a great read, read the book City of Gold about the history of Dubai. It is inspiring, the wisdom and the foresight and the boldness it took to make that place happen. It was really just like a vision that saw its way through to the end, against all odds. So super inspiring.
+
+Then somebody said, “Oh, you need to read Arabian Sands” by this man named Thesiger. And that gets into the Arab Bedu culture. It was written in the 1940s or ’50s, like a Lawrence of Arabia guy. From England, but went through the desert and became one with the Bedu people and got to know the culture and wrote about it. So that was really inspiring. And then, the United Arab Emirates itself, as I learned more about — so Dubai is a city in a region inside the United Arab Emirates. It’s one of the seven states, the Emirates, in that country.
+
+And then, so Sheikh Zayed, the guy that was really the father of the nation, was a really great dude. Like when I moved to Singapore and I learned more about Lee Kuan Yew and started to really admire the decisions he made. It became a bit of a role model. Learning about him makes me want to be a better person. I just noticed that it actually subtly influences my actions. And so, when I’m in Singapore, I feel like a little bit infused with the role model. I feel the presence of the role model of Lee Kuan Yew. And when I’m in UAE, I feel little bit inspired by Sheikh Zayed, because he was just such a great, generous dude.
+
+And also, I think it’s interesting that Arab culture gets a really bad rap in the media. Hollywood portrayal is usually some white actor with brown makeup being stupid saying, “Oh, I like this building. I’ll buy 10 of them.” “I think I want a penguin colony in the desert. Make it happen.” And they’re portrayed as fools that are too rich. And so getting to know the culture felt like “This is really interesting. I really had the wrong idea about this culture.”
+
+Okay, so as I read these books, City of Gold, and Arabian Sands, I have a thing on my website where I always show what I’m reading and I take notes from the books and I put the notes on my website. And a friend of mine that lives in Muscat, Oman saw my reading list and he said, “What is your interest in this region? I’ve noticed you’re reading books about the Middle East.” And I told him I’m just really interested in Arab culture.
+
+And he said, “You must meet the man from Tamashee.” I said, “What?” And he goes, “Go to tamashee.com, T-A-M-A-S-H-E-E dot com,” and he said, “You will see a shoe store. His name is Mohammad Kazim. He designs sandals, but underneath the surface, he’s an educator of Arab culture.” So the sandals are just like the storefront.
+
+Tim Ferriss: It’s like the pirate shop in San Francisco.
+
+Derek Sivers: Oh, I haven’t heard this.
+
+Tim Ferriss: There is a place in San Francisco, it’s on Valencia Street, and it is used for, now, educating kids, writing workshops, things like that. But because they couldn’t get it zoned in San Francisco, they couldn’t get permission for what they actually wanted to do. They had to create a storefront and then do the teaching in the back. So they created a pirate attire store, and all of the classrooms were in the back.
+
+Tim Ferriss: So that was a bit of digression, especially because I can’t even recall the proper name of the writing outlet that is associated with this. But Tamashee, shoe store, sandal store on the front end, but it’s actually education in disguise.
+
+Derek Sivers: Yeah. Well, at first, I thought there was no connection, and then I realized that his sandal designs are actually reflecting Arab traditions and culture through the design of the sandals. But it’s like his true passion are these cultural trips he does. So if you go to tamashee.com and you go in the menu, you can click “Cultural trips,” and then you’ll see. So my friend introduced me to this guy. So I met with him on my trip to Dubai. We meet by the creek, and he tells me that his grandfather built the first building in Dubai. That was his grandfather. That’s how young that city is.
+
+Tim Ferriss: Wow.
+
+Derek Sivers: And he’s just like, “Yeah, basically right over there. That was the very first building in Dubai. My grandfather’s the one that built it.” So I said, “Can you explain to me something about Arab culture?” And he said, “Well, wait. First, you’ve got to understand that the culture of the people of the desert is very different than the people of the sea, like the Arabian coast and which is very different than the people of the hills.” I said, “Okay, well, where’s your family from?” And he said, “Well, from the desert.”
+
+But he said, “But two uncles got in a fight and so half the family moved off to Iraq for a while, and there was a split in the family, but then they reunited in Abu Dhabi.” And he said, “But then Islam came along.” And I said, “Wait, hold on. Islam, that was the year 600.” I said, “Have you been telling me your family history from 2,000 years ago?” And he goes, “Well, 1,800 years ago, yeah.” I said, “Wait, how the fuck do you know your family history back 1,800 years?” He said, “Well, we keep good records.” Went, “Whoa.”
+
+Imagine what that does to how you see your life, if you see yourself in this long lineage of 1,800 years of recorded family history, how that affects your dating and whatever choices on where to live. Okay, so Mohammad Kazim, this guy is a badass. I love this guy. He’s such a wealth of information, and he communicates it so well. It really helps, by the way, that — he’s got a complete American accent.
+
+He went to college in Boston for six years. Got into finance, came back, worked in finance in Abu Dhabi, and then just said, “No, my real passion is teaching the Arab cultural traditions that I think have gotten lost in our modern skyscrapers.” So that’s why he made it his passion project. He could’ve made way more money in finance, but he has this tamashee.com sandal store and he teaches Arab culture, and I admire the hell out of this guy.
+
+Tim Ferriss: That’s a really cool Easter egg. All right, so we’ll link to that in the show notes.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: And I also pulled up this word that was on the tip of my tongue. McSweeney’s — mcsweeneys.net, people can check it out.
+
+Derek Sivers: Oh, of course.
+
+Tim Ferriss: There’s some hilarious writing. The one that I most recently shared with someone, after it was shared with me, is Cormac McCarthy Writes to the Editor of The Santa Fe New Mexican by John Kennan. It’s only going to be funny for people who have read some of Cormac McCarthy, like The Road or Blood Meridian, but there’s a lot of really good stuff. So that is the outlet.
+
+Also wanted to mention, because you mentioned Iraq, Iraqi music, traditional music, some of the most incredibly intricate music I’ve ever heard, using a dulcimer or hammer dulcimer. There’re different instruments involved. Absolutely spectacular. A lot of that has been destroyed, unfortunately, and culturally, and various teachers and so on, due to all of the goings-on in Iraq over the last while.
+
+What is the overarching lesson that you take from the five things you have changed your mind on? Are there meta lessons that you take from this?
+
+Derek Sivers: Yeah, you can see the theme, which is, I love my rats. But even more, it’s like, I love that I used to hate them and now I don’t. And I could’ve gone on twice as long about Dubai, by the way. The place is amazing. It is this cultural melting pot that just warms my heart. The — it just — sitting on the second floor of the Dubai Mall and watching the whole world go by, just the Nigerians and the, I don’t know, the Saudis and the Russians, and the Chinese and the British, just all walking in, through, in the same place. And, ah, it’s so amazing. I just, I kind of want to live there. But as happy as it makes me, I get this extra happiness of going, “Wow, I used to hate this place without even knowing it.” And I take a sip of this coffee and it’s like, “Wow, for my whole life, I’m 55, I hated coffee.” The Python programming —
+
+Tim Ferriss: But the secret has been held back from you. So now you have to go to Dubai to have the coffee that you like.
+
+Derek Sivers: The theme is that if you feel completely averse to something, get to know it better, that whatever you feel yourself leaning away from, try leaning into. If you hate opera, then go learn more about opera. And if you hate sports, well, then go learn more about sports. It’s usually just learning about something gives you an appreciation for this thing that you used to just dismiss.
+
+So now, it’s my — at the end of the year, last year, I just thought, “God, this has been, I think, maybe the greatest year of my life. I think this is the happiest I have ever been in my whole life.” And I think the reason why was because I had five major things in one year that I used to hate that now I love. I think, “God, this is the greatest joy.”
+
+Tim Ferriss: It’s a major thing. So the rats make it into major things. I like this.
+
+Derek Sivers: Sure. I mean, they’re my pets now.
+
+Tim Ferriss: I’m not minimizing rats.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: I’m not minimizing rats.
+
+Derek Sivers: But it’s —
+
+Tim Ferriss: Maybe I need some rats.
+
+Derek Sivers: — even the coffee, even the Python, I’m doing something in Python going, “Wow. I can’t believe I hated this for 20 years.”
+
+Tim Ferriss: I suppose they’re major in the sense that to the degree you had a fixed position beforehand. These were —
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: — strong, fixed positions of dislike. Right?
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: So that turnaround. It’s very interesting.
+
+Tim Ferriss: Let me ask you this, since, in the case of the rats, that was catalyzed by your son bringing up pet rats. Dubai, you had a layover that then prompted you to extend how long you stayed there. Python, I’m not sure exactly how that about-face came to be, but having experienced the past year, you say to yourself, “This is one of the greatest or maybe the greatest year of my life, high levels of happiness. I think it’s because I had these changes in mind.” Are you farming for opportunities to change your mind proactively?
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: And if so —
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: — how are you doing that?
+
+Derek Sivers: I don’t have a systematic thing I can share. And not that I’m not sharing it, I just don’t have it. But it just made me notice. Now, I just need to notice in myself when I’m irrationally averse to something. It can’t even be a thought process. Okay. This is actually in my Useful Not True book that just came out. This idea that was actually a little bit sparked by you, where somebody dismisses everything a person says. It dismisses everything a public figure says because they don’t like something about that public figure.
+
+Like, “Oh, I don’t like the way he acts on social media, so fuck him. I’m not going to listen to a word he says.” I think I told you last time that the first time I encountered that was years, and years ago when I saw somebody holding 4-Hour Workweek, and I said, “Oh, wow. Great book.” And he goes, “Yeah, the guy’s full of himself. Here, you want it?” And it’s like he didn’t want to read the book because he saw one thing in there that made him think you were full of yourself.
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: So that’s it. “Fuck this whole thing. Fuck this 400-page book. There’s nothing in it for me because there’s something I don’t like about this guy.” When I think about that, to me, that’s trying to think of people as either true, or not true. Instead of useful, or not useful. That’s judging the box, not judging the contents inside. And so, I think there are many things in my life where I have judged the box. I’m like, “Python? No. China? Rough. Dubai? Fuck that place. Rats. Coffee.” Sorry, I just had to spit all five times.
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: And all of those, I was judging the box, but if you learn a little bit more about it, then you get into the contents. And you go, “Oh, actually, the contents are wonderful. It was just — I was dismissing the package.”
+
+Tim Ferriss: He probably read the first edition where I had that whole chapter on my cock size that ended up being a little over the top, so I took it out for reprints.
+
+Derek Sivers: And then you put it into 4-Hour Body. Sorry.
+
+Tim Ferriss: It was a bit much. Yeah. Then, I ended up putting that as an appendix in The 4-Hour Body, so fair play on his part. I would actually build on that to say that I look to my close relationships, and I pause and question how I’m thinking about friendships if, in every case, there isn’t something substantial I disagree with each of those friends on.
+
+Derek Sivers: Ooh.
+
+Tim Ferriss: Does that make sense?
+
+Derek Sivers: Yes. I love that.
+
+Tim Ferriss: I really want friends where the differences of opinion bring us closer, and make our friendships more valuable. Not the other way around.
+
+Derek Sivers: Yes.
+
+Tim Ferriss: If you and your friends agree on pretty much everything, I view that as symptomatic of a problem.
+
+Derek Sivers: Okay.
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: I’m so glad you brought this up. Sometimes I wonder about your motivation for continuing these podcasts, and how you keep up the enthusiasm for doing this for so long. And then I thought, “God, wait, you must be immersing yourself in so many diverse worldviews,” that it made me think about the comparison to investing. I was in a situation recently. You’ve probably had this many times, and I think it’s maybe part of why you left California. Where you catch yourself in a group of people, and everybody agrees with everybody else.
+
+It’s like this groupthink. Even if they’re all really smart, but dammit, they all basically agree. This sucks. And I thought about the benefits of diversification when it comes to investing. So anybody who learns Investing 101 learns about having a low correlation between your asset allocations. So your US stocks, international stocks, real estate commodities, bonds, gold, cash. Some things risky, some things riskless. And the whole idea is they’re supposed to have a low correlation.
+
+So if one goes down, they won’t all go down. And I thought about that in terms of the thought portfolio in our head. Any given person. So you say it with the friends you have around. But I assume, aren’t you then, by knowing your friends so well when you’re in a certain situation, you’re thinking about what to do. You don’t just have Tim’s thoughts. You also have this friend’s thoughts, and that friend’s thoughts. And it’s like, “How would this friend of mine approach this?” Do you do that actively?
+
+Tim Ferriss: Oh, yeah. I definitely do, and I’ll give a real-world example. And I don’t know if we want to get into the thick of it, but I was reading some of your writing before we hopped on the phone. And I was taking an ice bath, also, right before we got on the phone, which I know I am fonder of than you are. But I was sitting in the tub freezing my balls off, and there were certain statements and positions in the writing that got me all riled up.
+
+And I was sitting there getting riled up, and thinking about my counter positions. And then I thought to myself, “Well, that’s interesting, to observe these feelings coming up. These very strong feelings.” And then I thought to myself, “This is really good.” This is good because the feelings are coming up in a strong way, and you’re not someone to shy away from a conversation about those things. And what a gift to be able to have civil disagreement with friends. What a fucking treasure that is.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: We don’t have a lot of models for civil disagreement, I would say. At least not in most media, or online. It’s just not what sells. And I very much want friends who are going to call me on my bullshit, or at least take counter positions, and help me think through things. Right?
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: And I think that in your new book, for instance, does a very good job of discussing perspectives, and perspective taking, and how you can read many things differently from different viewpoints. And you want friends who can help you do that, so that you don’t get trapped in your own thought loops. And furthermore, just on a very practical sense, you want to be able to speak truthfully to your friends, and you want them to be able to do the same. And if you do that, and you talk about a really wide breadth of things. If you never have conflict, one or both you is probably being dishonest.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: And if you’re going to have some friction in the system, which you probably will if you’re really being honest. Then, you’re going to need to be good at conflict resolution, or repair, or talking about hard things. So that’s a very long stream of consciousness that I just let out. But if I look for friends who I can and will disagree with on things.
+
+Then, it becomes my dojo for life overall. With people I really care for, and love. And good God, what an amazing gift, and advantage that is. So yes, I do that deliberately. And I invite people on the podcast who I suspect, or know, I’ll disagree with on a few different levels. And that gives me a chance to interrogate their thinking, but also, interrogate my own thinking.
+
+Derek Sivers: I love it. I’ve noticed within myself that when I’m around people that I know agree with me, my inherent curiosity level drops a bit. And when I’m around people that I know don’t think like me, my curiosity piques. So when I meet somebody that is a scientist that is also Hindu, I’m like, “Ooh. Oh, my God. I have so many questions for you.” I was like, “Can you explain to me how this — okay.”
+
+I’m filled with curiosity to meet somebody that grew up Hindu, and still actively has the Hindu beliefs. I want to understand this better. “I’ve read two books about Hinduism. I don’t get it still. I have so many questions for you.” But if I’m around somebody that’s like me, I’m like, “Meh, how you doing? What’s up? Yeah, me too. Cool. All right.” So I think it’s a deliberate overweighting. If we’re going to kind of use a back to quantitative, and investment metaphor. I have a whole lifetime of thinking my way.
+
+Now, I want to overweight learning other ways of thinking, and to me, it’s just pure curiosity. There’s no debate. There’s no, “Let’s work this out, and get to the right answer.” It’s just “No, please, tell me this other way of looking at things. Tell me this other way of looking at your family history, 1,800 years. Tell me this other way of looking at, I don’t know, spirituality, life after death, etc. Please, I’m so curious.” It reminds me that my way of looking at it is not the only way. I love dislodging my first impression.
+
+I think our first thought is an obstacle, and we have to get past it to realize there are other ways to look at the situation. Once you realize that you can get past your first way of looking at something, then you can do that — what do they call it? Systems two thinking. Thinking, Fast and Slow. You can go, “Oh, right. Okay, hold on. That was my first reaction. What are some other ways I could look at this?” That’s what my whole Useful Not True book is about. Yeah.
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: I think this was on the podcast in one of our earlier conversations, but I asked you who the first person was you thought of when I gave the word successful, and your answer was along the lines of, “Well, I think answer number one isn’t that interesting because I might say Richard Branson —
+
+Derek Sivers: Oh, good memory.
+
+Tim Ferriss: — or Elon Musk. But if Richard Branson wanted a life of peace, and tranquility, and a slower pace. If that were his goal, then he’s utterly failing. So maybe that isn’t success, but perhaps overarchingly…” I’ve used that twice now as an adverb. That’s pretty funny. I never use that word. “But the question should be, who’s the third person you think of when you hear the word successful?”
+
+Derek Sivers: I’m so impressed that you remember that.
+
+Tim Ferriss: It’s a long time ago. Yeah.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: And that is an example of what you’re talking about, is getting past the first thought. I think the operative word there is thought. Just to draw a distinction. For me, I think paying attention to feeling, the first feeling, can save you from a lot of pain in the short, and the long term. In other words, along the lines of The Gift of Fear, Gavin de Becker, etc. If your system says no, pay very close attention to that. But if you have an inbuilt story, “I hate Dubai because A, B, and C.” Which is very different from, “I don’t feel safe in this airport, and I don’t know why.” Those are two very different things.
+
+Derek Sivers: Very. Yeah.
+
+Tim Ferriss: Questioning that first story can pay a lot of incredible dividends.
+
+Derek Sivers: Dude, I love this subject so much. To me, it’s kind of like the key of life. So often, the difference between success and failure is the mindset that leads you to take different actions. But if you just look at a situation, and you say, “That’s it. That’s what the situation is,” I’m not talking about physical things. I mean declaring something to be a dead end, declaring something to suck, these are all things of the mind, and nothing of the mind is necessarily true. Everything that’s just in the mind is just one perspective. Physical things are true. Sure. There are some physical realities. The number of votes cast in an election is a physical reality that an alien or a computer could observe and agree. But all these things of the mind. We’re social creatures, and we treat them like they are realities.
+
+Like, “Hey, that person wronged me, and that’s just a fact.” It’s like, “That’s not just a fact. That’s one way of looking at it. And you might be a lot happier, and a lot more successful if you realize that that’s just one way of looking at it. It’s not true. It’s just a perspective. It’s just a thought, and there’s another way of seeing that. And that other way of seeing it might lead to actions that would be much more effective for you.” Yeah.
+
+Tim Ferriss: Yeah, for sure. And I think your new book pairs well with Byron Katie’s The Work.
+
+Derek Sivers: Very much. Yes.
+
+Tim Ferriss: It focuses on a lot of what we’re discussing. And I was going to say, in addition to what we’ve already covered, that the content is different from the mindset. And what I mean by that is you have crafted a very path of Derek life for yourself, and you’ve made some very unorthodox decisions. Some of which I think are, frankly, sometimes cuckoo bananas. But —
+
+Derek Sivers: Thank you.
+
+Tim Ferriss: — even if I don’t — you’re welcome. If I don’t agree, even if I wouldn’t replicate the decision. Hearing you explain why you did it, and how you navigated that,the lenses through which you viewed this scenario, has allowed me to learn things that I can apply to totally different circumstances, and that’s really valuable. Right?
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: You might not make the same house as someone else, but learning how to use the carpentry tools that they use to build that house could actually really, really, really aid you in a lot of disparate scenarios. So that’s how I’ve also thought about it.
+
+Derek Sivers: I so often try to get people to devalue the example, but value the theme. The process, like you just said. That too many people focus on the example that you give them, but it’s try to forget the example, and look for the process. So thanks for saying that. I do that with everything.
+
+There’s a person that we could talk about here if you want later. But he’s a computer programmer, but he gets up and gives a talk about computer programming that I see the theme in what he’s talking about. I’m like, “Ooh, okay. Well, forget the code for a second. That’s a brilliant theme.” And it’s fun to be able to do that.
+
+Tim Ferriss: So let’s pause. This might be a good segue. Is that part of the next bucket of people you’re studying?
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: — or things you’re fascinated by? Where would you like to go next? This might be a good segue.
+
+Derek Sivers: Yeah. It’s funny. You actually jumped to the last thing I was going to mention. You brought up this diversified portfolio of perspectives. So that was one of the things I wanted to talk about today, and you didn’t even know that.
+
+Tim Ferriss: Oh, amazing. Look at that. I did not.
+
+Derek Sivers: So that was great. Yeah. Okay. You asked me in advance of people I’m studying. So let’s do them in reverse order since we already brought up Rich Hickey. So R-I-C-H H-I-C-K-E-Y. Wait a second. Before we switch to that, have you ever met Brian Eno? The record producer.
+
+Tim Ferriss: I have not met Brian Eno, but I have his Oblique Strategies —
+
+Derek Sivers: Yes. Wow.
+
+Tim Ferriss: — card set. I was just reading about how he ended up coining the term ambient music in the hospital because he couldn’t get up and change the volume. He ended up listening to very, very low volume music a friend had put on for him. So I’m fascinated by Brian Eno, but I’ve never met him.
+
+Derek Sivers: Brian Eno is one of these guys that his thought process is fascinating. I don’t love his music. I like his music. I don’t love it, but I love his thought process. By the way, if you go to the website musicthoughts.com. That’s my love letter to Brian Eno, and John Cage, and some of these music thinkers. I made that website in 1999, and it’s a collection of inspiring quotes from Brian Eno, John Cage, and a bunch of other musicians.
+
+Tim Ferriss: Musicthoughts.com?
+
+Derek Sivers: Yep, it’s totally non-commercial. I’m not going to make a penny off of anybody looking at it, so I’m not trying to pitch it. But I’m just saying it’s a collection of Brian Eno’s philosophies on music, and thoughts on music. I would read these quotes to inspire me as I was making music, and kind of knock my thinking. Kind of like the Oblique Strategies cards to shift my thinking into something different. And so, even just reading his interviews.
+
+One thing he said is his job as a record producer is to have strong opinions in the studio. So that if he’s in there producing a record by U2, and the guys are fighting about whether to have a guitar solo or not, whether it should be a loud guitar solo or a quiet guitar solo. He said, “Well, my job then would be to say, ‘Well, how about we have no guitar at all in this song?'”
+
+And the band members go, “What? Are you crazy? No, this song needs guitar. No, Brian, we absolutely need guitar.” And he goes, “All right. Happy I could help. By you disagreeing with me, I just helped you solidify your position. So that’s my job here.” So on the other hand, if you would’ve said, “Oh, yeah. Okay. No guitar, that’s a good idea. Great. Glad I could help. I’m not saying my opinions are right. I’m just trying to help you respond.” I love that.
+
+Tim Ferriss: You’re providing a foil.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: Yeah. Yeah. You’re providing a foil. That’s musicthoughts.com. Quick question on — was it John Cage you mentioned?
+
+Derek Sivers: Yeah. Yeah.
+
+Tim Ferriss: So I was first exposed to John Cage in a documentary a friend of mine named Steve Jang was involved with. Nam June Paik: Moon is the Oldest TV, which is about Nam June Paik. This amazing pioneer, and experimental art, performance art. Many different media, and he was inspired by John Cage. Now, I know very little about John Cage, but I did get to see a segment of a performance that he did, which caused 90 percent of the audience to leave.
+
+It was just the most agonizingly uncomfortable, I would say, noise to listen to. That is my sole exposure to John Cage, but I’ve heard him invoked as this figurehead of great influence. I’m basing my impression of him only on that, what I would just say is the awful performance that I saw part of in this documentary. How would you sell John Cage, or why is he interesting?
+
+Derek Sivers: Ooh. I’m no expert, but let’s just say he questioned things that hadn’t been questioned before. A lot of modern art, the kind where people look at it and go, “What? That’s it? It’s a seesaw over the border between US and Mexico? You call that art? I could do that.” And it’s like, “Yeah, but you didn’t.” Somebody looked at that border between US and Mexico, and said, “I think we could put a seesaw over that.”
+
+And in a way, that’s a beautiful statement. It’s not about the brushstrokes on canvas. It’s about the statement. So I think John Cage was doing that with music. He was questioning the core of, what is this anyway? And so that’s why I think his most famous piece is called “4’33,” which is just four minutes and 33 seconds of silence. The point was, “Hey, listen to the room around you for four minutes and 33 seconds. There are sounds going on here already.” I mean, I think that was his point. Maybe he stayed mute on it. I don’t know, but yeah.
+
+Tim Ferriss: Okay. So is it fair to say that he’s interesting to you for the same reason that Brian, in the producer capacity, is interesting as a provocateur of sorts?
+
+Derek Sivers: Yes. Yeah.
+
+Tim Ferriss: Like an instigator of new thinking?
+
+Derek Sivers: Yeah. I want to emulate his thought process, even if I don’t love his end results. Well, you said it first. That’s why I love that you beat me to this. You may not want to live my life here with my, whatever, three glasses and two rats. But you like some of my thought processes.
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: People keep emailing me about that. “Hey, I heard your podcast with Tim Ferriss. So three glasses, huh?” Yeah.
+
+Tim Ferriss: So let me explain that for people who don’t have the context. You should get a third rat just so you have the same number of rats that you have glasses. But when I visited you, and I was like, “Hey, do you mind if I have glass of water?” “No, no, no. Knock yourself out.” “Where are the glasses?”
+
+“Oh, they’re in the cabinet.” And I went, and I saw three glasses. All of dramatically different sizes, and I was like, “What happens if you have more than three people over?” And you’re like, “Oh, I’ll just buy some more glasses.” I was like, “Well, actually, that kind of makes a certain elegant sense.” So those are the three glasses —
+
+Derek Sivers: All right, on that note, do you want to hear?
+
+I am building my dream home right now. You can imagine where this is going. Just 20 minutes north of Wellington, I bought a piece of land, or I’m building my dream home. It is a four-by-eight-meter rectangle with nothing inside. No toilet, no kitchen, no nothing. I thought every house I’ve lived in came with its default shit, and I adapted myself to its default shit.
+
+Like, “Well, that’s just where the bathroom is. That’s just the size of the living room. That’s just what it is,” and I’ve always had to adapt myself. So I’ve never experienced the process of making the place adapt to me through practice, not in theory. So I thought if I just start with a four-by-eight-meter, well-insulated rectangle, then over time, we’ll see what I need. So I’m going to start with just a little —
+
+Tim Ferriss: Wait. Did you say four-by-eight? Hold on.
+
+Derek Sivers: Yeah, four-by-eight meter.
+
+Tim Ferriss: Four-by-eight meters —
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: — is the whole house?
+
+Derek Sivers: Oh, sorry, sorry. It’s actually two. So it’s a four-by-12.
+
+Tim Ferriss: Okay, got it.
+
+Derek Sivers: Hold on. Hold on. No, four-by-14-meter rectangle. That’s the two-bedroom place where I’ll sleep with my kid, and then next to it is a four-by-eight where I spend all of my waking hours.
+
+Tim Ferriss: Okay. Got it.
+
+Derek Sivers: So it’s the sleeping house, and the waking house. And my kid actually gets his own four-by-eight-meter cube to experiment with. And the whole idea is to see what you need. So I’m starting with no bathroom, no kitchen. I’m just going to put a little induction hob outside, and an outhouse.
+
+And then I’ll see if that’s okay with me, or if I find through experience that I really want a bathroom inside, okay, well, now I know from experience. Not just because it’s the default setting. So I’m trying to start from scratch, and this is my dream house because of the process that it will allow me to have.
+
+Tim Ferriss: Okay. So this is a very mundane question, but I’m curious. Generally, if you’re going to have a kitchen, or a bathroom, or something. You would have the piping, or the power, and so on put in a certain place. So as it stands, that is not the case. So you might have to do a fair amount of demo, or deconstructing your house to add any of these things internally.
+
+Derek Sivers: Stewart Brand wrote a brilliant book that everyone should read. Anyone who’s smart, that is. Called How Buildings Learn. How Buildings Learn by Stewart Brand. You should try to get the paper book because it’s just laid out in such a way that you kind of need the paper book. He goes through this analytical thing about buildings, and he said, “This is a reason why you should never hide your wires, and pipes. Just keep the infrastructure on the outside, so that it’s easier to change.”
+
+He has a beautiful line in there. It’s almost the opening point. He says, “All buildings are predictions, and all predictions are wrong. So therefore, the less predictive you can make your building, the better.” That’s why I’m just getting this rectangle. All pipes, and wires will just be exposed. Nothing buried, so that I can quickly change them. I can always see where they are. Yeah. I’m very much following Stewart Brand’s philosophy.
+
+Tim Ferriss: Stewart Brand is a smart, fascinating man. Just a quick pitch for Stewart Brand. So I met Stewart through Kevin Kelly. Now, Kevin Kelly, founding editor of Wired magazine. Fascinating, genius, bizarre guy. Has an Amish beard, but he’s a technology futurist. Built his own house by hand. Spends more time in China than probably, anyone I know. He’s just an eclectic combination of all sorts of things. And the title of my podcast with him way back in the day was “The Real World,” “Most Interesting Man in the World,” or something like that.
+
+And in the midst of the conversation with Kevin, or maybe speaking offline. He said, “If you really want the person I consider to be the most interesting man in the world, it’s Stewart Brand.” And so, had Stewart on the podcast a number of years ago, and boy, oh, boy. You want to talk about polymath? He’s something else. All right. So you’ve preserved the optionality with the possibility of putting things on the outside rather than on the inside in terms of support infrastructure. And how do you see yourself using a space with nothing inside —
+
+Derek Sivers: I don’t know. See, that would be a prediction. I’m trying not to —
+
+Tim Ferriss: — to begin to determine what you —
+
+Derek Sivers: I’m trying to not predict. I’m just going to show up. It’ll be ready in a few months. And then I’ll start living there, and we’ll see what happens. That’s all I know.
+
+Tim Ferriss: Okay.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: Is it going to be totally empty? Are you going to have some desks? A chair? I mean, are you going to have anything at all, or are you just going to sit on the floor, and be like, “What do I require at this moment?”
+
+Derek Sivers: I’m bringing a mattress to start, and then over time, I’ll notice. If I wish I had a desk here, then I’ll get a desk there. So I’ll add things as I feel that I really, really need them. Again, I highly recommend the book How Buildings Learn. He kind of goes into this about, “The best spaces are just rectangles, and the best places are ones that are easy to alter. So that if you suddenly decide…”
+
+He talks about this MIT building where people were just allowed to bash a hole in the wall because it wasn’t some beautifully architecturally designed masterpiece. It was something thrown together quickly in World War II. And people love that building because if they do need to bash a hole in the wall, or run some wires through, they can just do it. It’s a trashy old building, and because of that, it’s such a creative space. The places that are award-winning are often the ones that are the most hated by their residents. They might win the award for the architect —
+
+Tim Ferriss: That’s true.
+
+Derek Sivers: — but because they’re award-winning, they’re inflexible. They’re sacred. I mean, talk to people who live in a Frank Lloyd Wright home now, and it’s like, “Ugh. I’m living in a masterpiece museum. And I can’t change a single screw, or anything because it’s the way he wanted it.” Anyway —
+
+Tim Ferriss: It’s a practical recommendation. I would say if you’re going to be sitting on the floor a lot, if you’re not accustomed to doing that, just so you don’t end up with all sorts of orthopedic issues. I would start doing Turkish get-ups, and getting accustomed to sitting on the floor, and getting up a lot. Just to —
+
+Derek Sivers: I’ll probably get a good chair almost right away.
+
+Tim Ferriss: — see if your body’s ready.
+
+Derek Sivers: But I want to make sure that I really need it.
+
+Tim Ferriss: See if your body is ready for the rectangles. All right. Fascinating. Yet another example. I’ll let you be the first monkey shot into space on this particular type of home design. I can’t wait to learn so many things.
+
+Derek Sivers: You experiment with some things I don’t want to experiment with, and I’ll experiment things that you don’t want to experiment with. I’ll renounce my US citizenship, and let you know how it goes. I’ll build my dream home of a four-by-eight rectangle, and let you know how it goes.
+
+Tim Ferriss: Yeah, you’ve got to divvy it up. I mean, the redundancy and experimentation is kind of, I don’t want to say pointless, but it’s more fun to have people doing different things. Other people you are studying?
+
+Derek Sivers: All right.
+
+Tim Ferriss: Or the things you’re fascinated by. We can hop around. Depends on where you want to go.
+
+Derek Sivers: Okay. Well, I already started Rich Hickey.
+
+Tim Ferriss: Oh, that’s right. You mentioned him. I wrote him down because that was left dangling and I was like, who is this Rich Hickey?
+
+Derek Sivers: So Rich Hickey is, he’s a programmer. He’s the inventor of a programming language called Clojure, C-L-O-J-U-R-E. He’s actually one of my number-one picks for somebody that I would like to get on your show, like if we did a co-hosting kind of thing and I were to get somebody on, he’s — actually, I already emailed him. He didn’t reply, but maybe, hey, if anybody knows Rich Hickey, and if he’s interested, nudge, nudge, nudge. He did a brilliant talk. If you search YouTube for either “simple versus easy,” or I think the name of the video on YouTube is called “Simplicity Matters.” Here’s his point. And I actually jotted down these notes so I could try to bang out his point quickly and then we’ll talk about it.
+
+And keep in mind everything I’m about to say, he’s just talking about programming. He’s speaking to a room of programmers. He said, “Oh, we mistake simple and easy. We think that simple means easy and easy means simple.” But he said they’re two different things. The word “complex,” if you look at the definition, it comes from the word “Complect,” which is to braid things together. So if something is complected, it means it’s intertwined with other things. And so the adjective complex means that something is bound to other things. Whereas simple comes from simplex, which means it is not bound to other things. It stands alone. Easy, the root of that means that something is near at hand. It’s something you already know how to do. It’s within your realm.
+
+So easy and hard are subjective, but simple and complex are very objective things that we can look at. Something is simple, stands alone. It’s complex, it’s bound to other things. And he said, “Here’s where it gets tricky, is that it can be very easy to make something very complex.” So he says, “You could just type gem install hairball, and with typing three words on a computer, you can install a massive framework, whether it’s Ruby on Rails or WordPress. And if you start using that, well wow, you are now complected with a huge complicated system that you’re intertwined with.” And so now everything I say after this, this is my take on his analysis, but it’s really easy in life to say, “Okay, yeah, let’s get married, or to have unprotected sex and get pregnant and have a baby.”
+
+That’s easy. Adopt a dog. Hiring people, you can have a problem and think, all right, “Well, I’ve got some money and I’m overwhelmed. I’m going to get a consultant to hire 10 people. Okay, great. Now I’ve got 10 employees. Phew, that was easy to take some work off my plate.” But your life is now objectively complex. You are complected with these other people and their needs and their time schedules and their desires. Handing off parts of your business to say, “This is hard. I’m just going to hand off my billing or my something or my this or my scheduling to these apps or these subscription services.” That was easy to just hand it off. But now your business is very complected with these other services. So hence my rant on our last conversation over scotch at my house about tech independence. His point is it can be really hard to make something simple.
+
+It can be much harder to do something that is objectively simple, that stands alone, that isn’t dependent on other things. It can be harder to make that, but it’s ultimately usually a better choice because it’s more maintainable, it’s easier to change, it’s easier to stop and start. It’s simpler even if it’s harder to make. So the point in his thinking is to be aware of the objective measure of complexity or be aware of complexity, which can be objectively measured and aim for doing the simpler thing, even if it’s harder. In my take, I think you can make simple things easier just by learning more, say, about the fundamentals of something. Instead of just adopting somebody else’s high-level solution, you can just spend a little time learning about the core underneath it, about the fundamentals. Then you can forget norms, you could forget what others do, what others think, and you can just get to the real essence of what you need. I’m not just talking programming now. I’m just being, like, in life.
+
+Tim Ferriss: What would be an example of that?
+
+Derek Sivers: Okay, my four-by-eight house, it’s like, really, I just need a shelter where it’s temperature controlled, so it’s really well-insulated. I do need a mattress to sleep on and I do need a place I can work. But to me, those are the — oh, and I do need a little food. To me, these are the core things of a shelter. But even, say, with friendships, do I need to live in the same place with my friends? Well, not necessarily. My dear friends, my best friends are often far, far away. I don’t need to move to a place that has all of my friends, if I can reach them on the phone.
+
+Talk about just the thought process, I very often find myself asking, “Well, what’s the real outcome I’m after? What’s the real point of this?” And once I’ve figured that out, well then what’s the most direct route to that outcome? Never mind what other people do, what the norms are, what do I think is the most direct route to that outcome? And then try to keep it simple along the way and be very wary of dependencies and entangling myself with other things. So that’s my take.
+
+Tim Ferriss: Could you give another example or two of how you implement that in your life?
+
+Derek Sivers: Sure.
+
+Tim Ferriss: How you might, because I know there are more examples.
+
+Derek Sivers: The next two might be less relatable because it’s writing and programming.
+
+Tim Ferriss: Less relatable than the four-by-eight-meter box?
+
+Derek Sivers: I know everybody wants to live in a cube.
+
+Tim Ferriss: With nothing inside.
+
+Derek Sivers: So I mean, well, first, okay, here’s a good question to strip away some things. Ask yourself, “Would I still do this if nobody knew?” There might be a lot of things in our actions that we do because we like the way it would look to others, because it would be impressive to others. That’s the first thing to just strip away when you’re beginning this thought process is like if I were to never tell anybody and nobody were to ever know, would I still do this thing? Okay, well then that might just be the decoration.
+
+Okay, so two examples. Programming-wise, I’m constantly asking this, when I’m building something, it is just I need to get this calendar entry into this database with this time. Do I need a whole bunch of JavaScript? Do I need a bunch of CSS and things flying around? Do I need fading graphics? No, I just need this thing there. What’s the most direct way to get that calendar entry into that database? Okay, so that’s like a programming example.
+
+Writing-wise, my last two books, How to Live and Useful Not True, I’m spending most of my time reducing. My rough draft, I always spew out everything I have to say on the subject, and then I spend 1,000 hours crunching every single word going, “Is that word necessary? Wait a second. Is that whole sentence necessary? Wait, can the point still be communicated without that sentence? If it can, okay, let me try to get rid of that sentence and see if the point still comes across. Actually, does the point come across without this entire chapter? Oh, my God, it still does. Then, therefore, I don’t need this chapter.”
+
+One of the most useful things that happened recently is a few months ago, an organization in Australia paid me to come give a talk. And I said, “What do you want me to talk about?” They said, “Anything.” I said, “How about my next book called Useful Not True?” They said, “Sure.” So it was a room of very successful, very effective people. And I had one hour on stage to communicate the whole idea of my next book. And at the time, the book was still in process, and that was so helpful because I noticed that there were a few things on stage, even though I had it in my notes, I skipped over it and I thought, okay, well actually we don’t need to do that. Okay, let’s get to the next point.
+
+And so later when I was back home, I thought, wow, I just skipped over that whole point on stage. So why do I think it’s worth killing trees to print that point? Apparently it’s not. Cool. So anyway, this is now the shortest book I’ve ever written. I’m very proud of that fact. I compressed this 400 pages down to, I think it’s 102 pages or something. And so those are two examples of where I’m constantly asking what’s the most direct way to just get rid of what I really want, get the outcome, skipping the usual fanfare?
+
+Tim Ferriss: How do you think about first-order simplicity versus complexity versus second-order, third-order, and planning? And the reason I’m asking that is you strike me as someone who prizes freedom, independence, simplicity, all very highly. But I imagine there could be cases where looking at the first-decision and the first-order effects, you might think, well, it’s much simpler for me to do X, to renounce my US citizenship, to build a box, to do everything myself instead of taking on these cloud services for accounting and so on. But there are levels of second, third-order complexities that ultimately make it kind of net, net more complex than doing the slightly more complex thing upfront. Does that make sense?
+
+Derek Sivers: Almost.
+
+Tim Ferriss: I guess I’m wondering how, practically, people might think about simplifying but not over-simplifying and then shooting yourself in the foot in the long term. I’ll give you an example. I know people who have moved to Puerto Rico to trim taxes substantially.
+
+Derek Sivers: Right.
+
+Tim Ferriss: But in the process, have — they viewed that as the most direct route to reducing taxes, therefore, they can do X, Y, and Z over time with more income or preserved capital gain, whatever it might be. However, in the process of doing that, they’ve created all of this lifestyle complexity and applied a lot of constraints to what they can or cannot do. And the tax tail is wagging the dog. And instead of money serving life, now life is serving money. And they’ve kind of put themselves in a topsy-turvy, upside down situation when if you were to look at it from first principles two years later you’re like, wow, that was really bungled.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: That’s not true for everybody in Puerto Rico. I’m not trying to make it sound like that, but I have seen those types of examples where the thing that seemed simple and straightforward at the outset ended up producing a lot of ripple effects that produced not just complexity, but complexity that was hard to undo.
+
+Derek Sivers: Yeah. Great example.
+
+Tim Ferriss: Think about that kind of risk mitigation.
+
+Derek Sivers: By the way, my two little examples of that, a few years ago, Tony Robbins had a MONEY Master the Game book. I was like, “Oh, wow, Tony hasn’t put out a book in 20 years. I wonder how this is going to be.” And in it, he’s giving these prescriptions for extremely complex insurance things that you could set. I was like, “Oh, wow, that’s objectively complex.”
+
+And another example is in Neil Strauss’ book called Emergency. I’ll never forget this point. He said that he’s off at one of these nomad, sovereign, individual, “I’m beholden to no country” kind of events. And he meets this guy that is bragging to him about his setup. He’s like, “I got my income coming here, but then all expenses go here, but then I’ve got a trust and this, but I’m the non-managing member of the trust, which is held by this and that.” And in the end he’s going to save 30 percent taxes. And Neil said, “Wouldn’t it just be a lot easier or make a lot more sense to just work 30 percent harder or to just make 30 percent more money?” He said, “That’s a ton of work just to save 30 percent.” He said, “It’s not that much harder to just go make 30 percent more.” And dude, when I read that, I love that thought process.
+
+So I know that your podcast and the Titans and all that is often about how do we use the wisdom of others to avoid making these mistakes ourselves. But some of these things maybe you just have to, I don’t know — I think for some of these things, I’m willing to throw myself in and feel the pain to see if I’ve done it wrong.
+
+Tim Ferriss: Okay, so I know we’re improv-jazzing here, so let’s keep going. This thought just occurred to me because when I hear you talk about code and programming, I mean there’s a poetry to it and there’s an economy to it that seems, I’m not a programmer, but I do write, there seems to be something intrinsically rewarding to you about that presentation of elegance. And I’m wondering, in the case of following Stewart Brand’s principles and building this box or doing certain things that seem to me, optimized for freedom, independence, is there — even if it ends up face planting, is there something that you find beautiful and redeeming just about taking the simple approach even if the outcome is suboptimal?
+
+Derek Sivers: It’s related. It’s finding out — in fact, instead of just in theory, we can sit at home and wonder what it might be like to do such and such, but at a certain point you’ve just got to throw yourself in and go try it. And if you try moving to Puerto Rico and you hate it, well now you know it was worth a try maybe. And now in fact that that doesn’t work for you. That’s maybe the How Buildings Learn idea is don’t predict that you will want to sink in that spot. Put yourself into that spot first and live without a sink for a while, and eventually you’ll get a good feeling for where the sink needs to be. In fact, not in theory.
+
+And so I think I do this with my life as I’m willing to mess up happily because I will know that then I found out in fact that that doesn’t work for me. And maybe this is coming from the core of the fact that I’m a really happy person, and so I feel that my base level is up here. I can take some big knocks.
+
+Tim Ferriss: You can take a hit.
+
+Derek Sivers: And I think a lot of the crazy shit I’ve done — I did marry somebody that I hardly knew after a few months because fuck it. Let’s see what happens. In fact, you and I have never talked about that directly, but do you know the mindset I was in at the time, I had just sold my company. I had a ton of money and I felt like I need to change my trajectory because my first impulse after selling my company was literally the next day I set up my next company and I thought, I’m going to move to Silicon Valley. I’m going to do this thing. I’m going to stay on the same trajectory. And I did that for a few months, but then I caught myself going, wait, I want a full life. I don’t want to stay on the same trajectory. I want to shake shit up. So I very deliberately did what we might call the George Costanza Principle, which is —
+
+Tim Ferriss: Do the opposite.
+
+Derek Sivers: Do the opposite of all of my impulses. Every time I felt yes, everything in me said yes, I would say no out loud. And everything in me says no, I say yes out loud as a way of deliberately shaking shit up. And so I was dating this woman for a few months and we had no great connection. And she said, “Oh, well, I can’t travel to California with you unless we get married.” And everything in me says, “Oh, hell no, don’t do that. That’s stupid. I don’t want to marry this person.” So I said, “Yes, let’s do that.” And so we got married and I kept doing that in every way. I deliberately fucked up my life and made a bunch of crazy fucking decisions, and some of them worked out great, and some of them didn’t. And I’m so happy that I did that. In some ways I could say that that’s my biggest regret or biggest mistake, but in other ways it was wonderful. It deliberately sent me on a different trajectory, and I’m glad I did it.
+
+Tim Ferriss: That, it definitely will. So for people who don’t have any of the connective tissue here to figure out how to orient themselves to this, people are going to want to know, cliffhanger. So how did that turn out? Everything in me says no. So I said, yes, let’s get married. Let’s do that.
+
+Derek Sivers: The marriage was awful. No, that was terrible. And we knew it literally days later, like, oops, we made a big mistake. That was instantly a big mistake. And that’s fine because we knew in fact then that it was a big mistake. Not just in theory. I could have walked away from that going, “Oh, God, remember that woman that wanted me to marry her and I said no? God, I wonder what would’ve happened.” Well, now I get to find out. I did it.
+
+Tim Ferriss: Now, hold on a second though. I’m going to push on this a little bit.
+
+Derek Sivers: Great.
+
+Tim Ferriss: We could use this logic to be a reverse George Costanza for every decision we think is bad, we could turn around and say yes to. But as a life strategy, I don’t see you continuing that.
+
+Derek Sivers: No.
+
+Tim Ferriss: So you don’t know for a fact that the awful idea would’ve been awful. But I mean, there has to be a point at which you think about self-preservation and time as a finite currency. So you’re like, well, when would you apply that versus when would you not apply it? Because you could apply it everywhere indefinitely, but certain things are one-way doors, and some are two-way doors. I mean, for instance, getting a pet rat, okay, lower cost, more reversible, let’s just say, than maybe giving up your US citizenship. That is a little harder to control Z.
+
+Derek Sivers: Yeah, I cannot undo that. Yeah.
+
+Tim Ferriss: Moving forward for you, having learned everything that you’ve learned, when do you play the George Costanza strategy versus not? Because there are lots of things we can’t over effect unless we make the right or the wrong or the good or the bad decision, but you can’t make all decisions. So what do you do?
+
+Derek Sivers: Long ago when I said the “Hell yeah or no” thing, and —
+
+Tim Ferriss: It’s going to be on your gravestone.
+
+Derek Sivers: Yeah, it’s fine. “Hell, yeah,” or, “Here I am. Here he lays.” So some people emailed me after that, after that was on your show, and they said, “Hey man, I like this hell or no thing. I’m using it for everything. I just got out of college. I’m getting a bunch of offers. And I’m like, I’m not feeling hell yeah about any of them. I’m dating. And it’s like, I’m not hell yeah about any of you.” And I go, “Wait, wait, wait, wait. Hold on. Everything does not become a nail because you’re holding this hammer. This is a tool for a specific situation when you’re overwhelmed with options. You have to have the wisdom to know when to use this tool. You don’t use it on everything always.”
+
+It’s the same thing with this going against your instincts. Of course, you don’t use it on everything always, but that was a specific time in my life when I wanted to deliberately change my trajectory. I wanted to go against my normal way of doing things and deliberately introduce some randomness and variety into my life.
+
+Tim Ferriss: It’s not your default.
+
+Derek Sivers: But let’s look at, I mentioned Dubai earlier. Everything in me said, “Fuck that place.” And then I caught myself feeling that, and I thought, “Okay, wait. Hold on. This is a good time to use this tool. My impulse is saying no. I’m going to try saying yes. I’m going to go get to know this thing. Because that sounds to me like that would be a learning, growing experience to try it.” So that’s a good example of integrating this into your life. But then say if maybe you do hit a situation where it’s like nothing is working out. You’ve been an idiot your whole life. You just got fired. You were just dumped by your romantic partner. It’s skid row. Maybe it’s a really good time to go against all your natural impulses since it’s pretty clear that your defaults were set wrong.
+
+Tim Ferriss: Not working. Not working well.
+
+Derek Sivers: Yeah, I like integrating it. Maybe the question is this going to be a learning growing experience for me? I like leaning into discomfort. Whatever scares you, go do it. Yeah.
+
+Tim Ferriss: All right, so I have quite a few follow up questions. We can take them in many different directions. So we’ve covered Rich Hickey, Clojure. Knock, knock. We’ll see if anyone lets him know he appeared on the show. I also want ask you a question, we can cut from the conversation if we need to, but since Dubai, this has come up repeatedly —
+
+Derek Sivers: That’s a great lead-in. I love that. This may be too risky for anybody’s ears, but here we go.
+
+Tim Ferriss: Do taxes fit into this at all? Is this people who move to Nashville or Austin and they’re like, “Oh, the barbecue and the music,” and they will dance and dance and dance until you corner them with a broomstick and then they’re like, “Yeah, okay, fine. Yeah, the taxes, also it’s a thing.” Is Dubai one of those or no?
+
+Derek Sivers: Not at all. I mean, I had to ask myself that. That’s one of those things, okay, when you ask yourself, would I still be doing this thing if nobody knew about it? I got an email from Guy once that was just like, “Hey, man, I want to travel the whole world. I’m going to visit every country in the world. Do you have any suggestions for me?” I said, “Yeah, don’t bring a camera and don’t tell anyone that you’re doing this. Is it still appealing to you now? Probably not.” Okay. So anytime, like say Dubai for example, I was like, “Whoa, this place is fascinating. Oh, my God, I think I want to live here.” And I was like, would I still live here if the taxes were like 50 percent? I was like, yeah, that’s moot to me. I mean, look, I’m living in New Zealand where yeah, my income tax right now is 45 percent. I pay a ton of taxes, but it’s worth it to me. I love it here. I don’t care.
+
+So that thing I mentioned in Neil Strauss’s book Emergency, that sentence hit me hard. When I first sold CD Baby, that was 2008. There were some things I was thinking at the time where it’s like, “Oh, wow, I just got mega millions. How can I pay less taxes?” And it was literally the month before or month after I sold CD Baby that I read that book Emergency, and I saw that sentence and I went, “Whoa. That is a great point.”
+
+Tim Ferriss: Good point.
+
+Derek Sivers: Don’t jump through hoops to save taxes, jump through a hoop to go make more money. That’s the growth choice anyway. That’s the thought process that leads you to make growing decisions, not shrinking decisions.
+
+Tim Ferriss: So you’re about to sell or have just sold CD Baby. You form a new company the next day, you’re planning on moving to Silicon Valley and you see yourself moving on that track and you decide to throw a Costanza curveball in and mix things up because why? What was the fear or the hazard you’re trying to avoid by following that path? Was it thoughtlessly in repeating what you’ve done before, that it wasn’t intentional? What was it?
+
+Derek Sivers: It was, I want to live a full life. At the end of my life, I want to look back and go, “Wow, I did a bunch of different things. I tried a bunch of different ways of living. I followed this philosophy for a while. I followed that one, I tried this, I tried that. I lived here. I lived there.” That to me is my definition of a full life. My previous book, called How to Live, was 27 conflicting philosophies and one weird answer and the whole idea was that it’s 27 chapters, each one disagrees with the rest. But each one has a strong opinion of saying, here’s how to live. Now live for the future. Then the next one’s like, here’s how to live, live only for the present. And the next one’s like, here’s how to live, leave a legacy. And these are all valid ways of living.
+
+And my definition of a full life is I want to experience the different approaches to life. I want to have the diversified portfolio of thought and of experiences. So that was it. I just felt like if I was to create a new company the next day and move to Silicon Valley, I’d just be doing more of the same shit I’ve already done.
+
+Tim Ferriss: Yeah, makes sense. Makes perfect sense. Who else do you have on your list of people you’re studying?
+
+Derek Sivers: All right, Tyler Cowen. Just a few days ago in an article on bloomberg.com called “Who Was Bitcoin’s Satoshi?” So we still don’t know who is Satoshi, the inventor of Bitcoin. And there’s this law of headlines that if it ends in a question mark, the answer is usually no. So when I first saw the headline, I thought that the answer was going to be, it doesn’t matter. It doesn’t matter who Satoshi is. Forget it. And oh, my God, Tyler Cowen took it somewhere else. Even if you would’ve asked me, by the way, “Hey, Derek, I’m going to give you an hour alone in a room to think about one question, does it matter who is Satoshi, the inventor of Bitcoin?” Even after an hour, I think my answer would’ve been, “Of course not.” And I would’ve just sat there for an hour just going, “No, no, no.” Tyler Cowen took it the opposite way, and I jotted down his points, but it’s a masterpiece in this if then knock on thinking. So he said, “Okay, if we find out that Satoshi is dead, that the inventor of Bitcoin is dead, then that’s a good thing because it means Bitcoin will be more safe because it won’t be open to future alteration.” The person can’t tarnish the reputation of it. Say like Elon Musk and Twitter, by continuing to be there, can tarnish the reputation of something. Sorry, I shouldn’t have gone there. Satoshi can’t come back and change the rules for the worst. And then he even said, “This is why all religions have dead founders is because the founder can’t stay in and tarnish the reputation of the religion.”
+
+So I went, “Okay, good point. If Satoshi is dead, that is good for Bitcoin, it can stay as is and won’t get tarnished, won’t get changed.” And he said, “So there’s a chance that Satoshi is an older guy from this previous movement around E-Gold that was generally seen as a failed project that a bunch of people were into this idea of E-Gold and it didn’t work out. If Satoshi is somebody from that group, then that means that even projects that look like they’ve failed can create great things. So we should maybe think more highly or be less dismissive of projects that seem to be failing because who knows what they will lead to.” He said, “There’s a chance that Satoshi is this person…” And I forget their name, but he said, “…that would’ve been 21 years old and in grad school at the time of inventing Bitcoin.” He said, “If that’s true, that means we should raise our perception of what young busy people can do, that they can do more than we realize.”
+
+This guy, while in grad school, also invented Bitcoin and then said, “If Satoshi is still alive that means…” Oh, by the way, we should say for your — I assume people know, but maybe not, that whoever is Satoshi has hundreds or — okay, let’s say at least tens of billions of dollars in Bitcoin that all he’d have to do, whoever Satoshi is, would have to just take it. It’s already there in the account, in the public record that we can see. So Satoshi is one of the richest people on Earth, whoever Satoshi is. So he said, “If Satoshi is still living, that means that some people don’t want to be billionaires or just have incredible self-restraint. Maybe, upon realizing what he created, he destroyed the key, destroyed the password so that he could not take those billions of dollars to protect himself from that.”
+
+I said, “Now if there’s a chance that Satoshi is a pseudonym for a group of people, if that’s true, it means a group of people can keep secrets way better than we expected, which means that conspiracy theories are more likely to be true about anything, in general, about UFOs, about JFK, or whatever if this group of people is Satoshi and they could have tens of billions of dollars, but they are choosing not to and they are all keeping the secret, that’s amazing. And we should regard secrecy more higher than we can.” So that’s the end of the bullet points. But I read this one little Bloomberg article and my jaw dropped. I went, “Oh, my God, this is the kind of thinking I aspire to. That is some amazing lateral creative, I don’t know what kind of thinking do you call that, but that’s what I want to do more of.”
+
+Tim Ferriss: Love it. Tyler’s incredible. I highly recommend people check him out. That’s a really good Tyler example. Cowen, C-O-W-E-N. Definitely recommend people check him out. Also past podcast guest.
+
+Derek Sivers: That was a great one. So previously to this, one of my favorite points of his is he said that restaurants are better in places of high income inequality. Why? Because these are places that have both rich customers and low-paid staff. So somebody can afford to run a great restaurant because there are enough people that will pay because there are rich people around, but there are enough low-income people that we can have a good amount of staff. He said that’s why the best restaurants are in places of high income inequality. Whoa, that’s again a brilliant connection.
+
+Tim Ferriss: That’s interesting. I would also add to that that a lot of folks who want to dedicate themselves to a craft or an art are, depending on the industry, but frequently not going to be well paid for that, let’s just call it volitionally poorly paid in some cases. And I’m thinking of, in this particular case, San Francisco and East Bay where a lot of restaurants in San Francisco, a lot of restaurants in different places, but as the price of living went up in San Francisco, a lot of the best restaurateurs, I should say chefs, a lot of the best chefs, a lot of the best line cooks, a lot of the best massage therapists, a lot of these people could no longer afford to be there, had to move to the East Bay. And I would say that led to a decline in the quality of all of the goods I just mentioned — and services. So that would also make sense. If you want access to the artists, they’re not going to be in the most expensive areas typically, unless it’s a Jeff Koons or someone.
+
+Derek Sivers: I haven’t been to Pittsburgh lately, but I heard that that happened with — a lot of the best chefs from New York City went to Pittsburgh and that now Pittsburgh, it’s hotter than you’d expect.
+
+Tim Ferriss: I can see that. I can totally see it. All right, Tyler. Anybody else on the list of people you’re learning from or people you’re studying?
+
+Derek Sivers: Those are my two that, Tyler —
+
+Tim Ferriss: Perfect.
+
+Derek Sivers: Because there’s specific things..
+
+Tim Ferriss: I love it. All right, so I think we have one more category. We’ll see how many we get to.
+
+Derek Sivers: [Sharp inhale]
+
+Tim Ferriss: I heard a sharp inhale. Where should we go?
+
+Derek Sivers: So inchword, inchword.com, I-N-C-H-W-O-R-D.com. This is actually a bit of a call-out. I don’t usually do this, but I would like to hear from translators that if you’re a translator, contact me, because I’ve got a lot of paying work because I’m really interested in the subject of translations that are always improving. Well, not always. At a certain point maybe you call it a release. But as a writer, the first time you write a sentence is not always the best. You improve it the second or third time, and at any given sentence we see in your books, that might be the fourth time you’ve improved that sentence, maybe over the course of months. There’s always room for improvement. But now when you think, when somebody makes a translation of one of your books, the incentives are a little off now because the translator’s incentive, as long as they’re not translating the Bible or something, their incentive is mostly just get it done good enough, get paid.
+
+The publisher’s incentive, the publisher who publishes a translation, their incentive is hire a translator that will make a good enough translation for a low enough price that we can get this out in the market now and make a profit selling it. But my incentive as the writer that sweated over these words for years and really crafted it almost like song lyrics, I have a different incentive. If I’m going to have a translation of this book out in the world, I want it to be great, really, really great, which means my incentive is to work closely with the translator to make sure that what they’re doing is the best it can be and that it’s communicating what I intended.
+
+Tim Ferriss: How do you do that in a language you don’t speak?
+
+Derek Sivers: I don’t know, but that’s my question. So this is the, I don’t have the answer, but I’m fascinated with the problem. So, so far, the best idea is what I’m putting at inchword.com is this idea of incremental improvement.
+
+Tim Ferriss: Oh, so this is your website?
+
+Derek Sivers: Yeah, I made it. It’s my little passion thing.
+
+Tim Ferriss: Okay. All right.
+
+Derek Sivers: So it’s this idea where once I call something done, whether it’s an article or a book, I put every sentence into its own entry in the database and then I pass it to a computer that does the first round of a bad translation. So now we have a starting point. So now, if you’re the first translator to come through and translate the automatic translation into your language, that’s a low bar, that’s low hanging fruit, so let’s say that will pay 50 cents per sentence.
+
+But now, if you’ve done one round of improvements over the computer translation, and now somebody else comes through and says, “Hm, I can improve that further. That sentence, not the whole thing, that sentence, I can improve that one.” Now that’ll pay a dollar per sentence if it’s improved. And now, say two different people have improved it twice and now a third person looks at that and says, “Hm, I know how to improve that better.” Well, now you can make, say, $2 per sentence to improve it better. The stakes are getting higher for improving it. And so there are incentives now to make it as good as can be.
+
+Tim Ferriss: How do you know if it’s been improved?
+
+Derek Sivers: So then we have reviewers, readers, whatever you want to call them that are paid a little something to just read through and judge, and at any given sentence where an improvement has been made, both sentences are shown in random order and they have to vote for which one they feel is the better sentence in that case. And when the majority votes that that sentence is better, then it’s chosen and that’s when the translator gets paid. So a translator can’t get money just for coming in and spewing crap. They only get paid when the readers believe that that was a better translation. Anyway, I’m not saying this is the final answer, but I think it’s a fascinating problem that I’m willing to —
+
+Tim Ferriss: It is a fascinating problem.
+
+Derek Sivers: Spend money on it because I’m incentivized to have the best translation of my works out there. That’s it.
+
+Tim Ferriss: If they’re a good translator, how do you incentivize them to go first knowing that someone might come along and make substantially more money by doing the fourth or fifth iteration?
+
+Derek Sivers: Ooh, thank you. See —
+
+Tim Ferriss: Or is that not a problem?
+
+Derek Sivers: I don’t know. See, you just asked a great question. Thank you.
+
+Tim Ferriss: You’re welcome. You’re welcome.
+
+Derek Sivers: That question is kind of the answer. That’s a really good thing to ask. I don’t know. I know nothing about this. I’m not fluent in any other language, but you’ve probably seen this effect.
+
+Tim Ferriss: Cool.
+
+Derek Sivers: Whenever you start to learn another language, doesn’t it make you look at your English more closely?
+
+Tim Ferriss: Oh, 100 percent. That’s part of the fun. It makes you look at the whole world differently depending on how divergent the language is from your native language, in this case English for us. Oh, yeah, it’s so, so, so interesting. I was just trying to help somebody with their approach to Japanese yesterday, and my first thought was, if you have three or four weeks, maybe you go to South Korea first and try to pick up Korean because the reading is so much easier. So perhaps you could learn the basics of Korean, which isn’t identical to Japanese, but the grammar is very, very, very, very similar. And then you go back to Japan with your newfound knowledge of the grammar without the handicap that slows you down of having to learn three writing systems — Hiranga, Katakana, and Kanji.
+
+Derek Sivers: Interesting.
+
+Tim Ferriss: And I don’t know if that’s a good approach, but it was the first time it had occurred to me and I was like, “Huh, I wonder if that actually would be helpful?” Or like Python and Ruby, would it just be confusing as fuck because now you’re like learn Portuguese and Spanish at the same time and you just get scrambled? It’s possible that it would be the latter.
+
+Derek Sivers: Do you remember Benny Lewis, Fluent in 3 Months, Benny Lewis?
+
+Tim Ferriss: Sure. Yeah, the Irish polyglot, I think was the nickname?
+
+Derek Sivers: Yes. Yeah. Benny recommends Esperanto for that same thing that you just said. He said, because objectively Esperanto is the easiest language to learn, that’s why it was invented in 1888 by Zamenhof to be easy to learn, therefore, if you’ve never spoken a second language before, go learn some Esperanto first. Get used to having a conversation that’s not in your native tongue and then go learn your target language.
+
+Tim Ferriss: Interesting.
+
+Derek Sivers: And I’m happy to —
+
+Tim Ferriss: I wonder if that’s too much of a lift.
+
+Derek Sivers: Well —
+
+Tim Ferriss: Have you done it?
+
+Derek Sivers: I will report, I did it. I became fluent in Esperanto about six years ago on Benny’s advice, and I regret it.
+
+Tim Ferriss: It’s less useful than Klingon, at least in communicating with others, right?
+
+Derek Sivers: Actually, I think Esperanto is hippie Klingon. I went to the annual Esperanto conference in Seoul, Korea, and it was a bunch of 60-year-olds in tie-dye singing about world peace, kind of like Woodstock 1969 revisited. And they’re all singing like, “Oh, the world would have perfect harmony if we all just followed the ways of Zamenhof and had the one-world language.” And even though I had spent six months learning this language, I got to the event and I went, “I don’t like you people. I’m sorry.” And I stopped on that day. I was like, “I don’t want to speak this language anymore.” Okay but —
+
+Tim Ferriss: You’re done.
+
+Derek Sivers: Then, so talk about the Ruby, Python, I never learned any Spanish my whole life, even though I grew up in America, I just thought, “Nope, Spanish is too similar to English. If I’m going to learn another language, I want it to be Chinese or Arabic or something very different.” So I never learned any Spanish, but just two months ago I went to South America for my first time, and so I spent a month learning Pimsleur basic Spanish, and Tim, it was like, “Oh, my God, this is a great language. This is amazing. This is fascinating.”
+
+Tim Ferriss: Yes, it is.
+
+Derek Sivers: And also, it is so easy that I went, “Damn it, Benny, I shouldn’t have learned Esperanto for six months. I should have learned Spanish. It’s just as easy and it would’ve been more useful.” So anyway, I like that you brought up the Korean thing. I think it is proven to be a good technique to do the easier language first to help you disconnect, or like you say, to help you understand the grammar and then do the difficult one. But it does help, I guess, if it’s Korean or a language that people actually use, not Esperanto.
+
+Tim Ferriss: Spanish is a great language. For people who are curious about Korean and just how brilliantly the writing system is designed is a point of national pride, and it is not something that was out of the box. It was something that was developed long after Korea had first adopted Chinese writing, much like the Japanese. There is a cartoon online and it is something like “How to Learn to Read Korean in 15 Minutes” or “How to Read Korean in 15 Minutes.” And it’s a comic book. You can find it and literally, it might not be 15 minutes, but within two or three hours you can learn Korean well enough that you can read anything in Korean. You will not understand a damn thing that you’re reading —
+
+Derek Sivers: But you can mouth it.
+
+Tim Ferriss: But you’ll be able to sound out phonetically roughly, roughly what it is, which is great fun and well enough that if you’re, as I was a few weeks ago, in an Uber, and you see the Uber app is set to Korean, you could say, “Thank you,” or “Have a nice day,” or “How are you?” in Korean and blow their — and they’ll be like, “How did you know?” And you’d be like, “Well, it’s Korean on the app.” Oh, my God. If you want some cheap applause that’ll make somebody’s day, that’s an easy way to go.
+
+Derek Sivers: It’s funny, it fits right in. Remember your whole like, “Hey, here’s how to learn how to spin a pen with your fingers. Here’s some things you can learn in 15 minutes.”
+
+Tim Ferriss: Oh, yeah.
+
+Derek Sivers: The old Tim Ferriss 1.0 South by Southwest.
+
+Tim Ferriss: Yeah, exactly.
+
+Derek Sivers: Speak Korean in 15 minutes.
+
+Tim Ferriss: Also courtesy of Japan for sure. This is what all the kids used to do in class, and now I have something that will endlessly distract and annoy everyone who sees it if I’m on an airplane or something. Thanks, Japan. All right, Derek, anything else in that top hat?
+
+Derek Sivers: I’ll just say this quickly, I love this little phrase. I realized, when I was digging into my incentives why I do things, I travel to inhabit philosophies.
+
+You can hear about life in Brazil or life in Japan, but it’s a different thing to be there in it that I think there’s some philosophies, whether it’s stoicism or hedonism, that we can just do from a chair by just sitting and changing our thought process. But Brazilianism, Japanism, Arabianism, I don’t know, Parisianism, these are kind of like philosophies. The way that people live in places are kind of living philosophies that I want to experience what it’s like because I want to think that way. So I would really like to go there, live as close as I can to being a local, learn the language, live that life according to that way, to inhabit, embody this way of living in order to feel the actual physical results, the actions of living that philosophy. And I thought this is actually the reason I travel. It’s not to look at things or take pictures or post them to impress people. I travel to inhabit philosophies.
+
+Tim Ferriss: I love that. What are you finding of the philosophy? What is the philosophy of the UAE or Dubai, recognizing that the cultures are very different, depending if they’re by the hills or the water or the desert, but how would you try to express that philosophy?
+
+Derek Sivers: Easy, generosity. That’s the thing. When I said that Sheikh Zayed founded it, Bedouin culture underneath it and then say Emirati culture or Arabian Arab culture, generosity is by far the number one. If you read this book Arabian Sands by Thesiger, he has all these stories of when he’d be out in the desert, on the camels with his little crew of six guys and they only have this much food left, nothing, and their tummies are grumbling and they’re starving — it’s funny that I just said tummies. That was cute.
+
+Tim Ferriss: I noted that for myself. “When’s my bedtime story, Dad?”
+
+Derek Sivers: And also, my little rats here, I love kissing their little tummies. Anyway, but then if somebody would approach them like, “Oh, hello my friend.” Whatever. He said, “As soon as somebody approaches, that’s it. We’re not going to eat today.” Because this is the way you give whatever you’ve got. So anybody, a stranger approaches, you say, “Hello, friend, come sit with us here.” “No, have some soup. Don’t worry. We’re not hungry. We’ve eaten enough. This is for you now. Come sit with us.” When I went to Dubai that first time, somebody I had met once from Riyadh, Saudi Arabia, we met briefly in Oxford, he was the only person I knew that lived in the region, so I emailed him saying, “Hey, man, I’m going to Dubai for my first time. Are you going to be around?” And he said, “My friend,” he said, “Cancel your hotel reservation.” He said, “You’re going to stay at my home in the Burj Khalifa, the tallest building in the world. I have an apartment in the Burj Khalifa. Stay at my home. You’re my guest.”
+
+I said, “Wow, that would be great.” I said, “It’ll be so good to see you again.” And he said, “No, no, I won’t be there.” He said, “I live in Riyadh, but my uncle will get you from the airport and just give you the keys. My home is your home. Stay as long as you want.” So I did. I stayed in the Burj Khalifa for a few days. This generosity runs so deep. It’s hospitality, it’s generosity, and you understand why that you’re in the harsh environment of the desert. Everybody’s living a harsh life. When you meet somebody that’s traveling and passing, it’s like, “Oh, come in. Come in. Here, have some — don’t even need to tell us your name or who you are or your tribe or nothing, just come in, my guest, please have whatever you want my food. Take a bed. Stay as long as you want.”
+
+And that’s so deep in the culture that, yes, I would like to inhabit that philosophy. Now that I’ve been on the receiving end of that hospitality, part of me wants to have a home near the Dubai airport and make that my main home base, and for whenever I’m not there and I’m traveling, to just open it up for any of my friends of the world, like, “You’re coming through? Please stay at my home.” I want to return that generosity.
+
+Tim Ferriss: It’s going to be a six-by-eight-foot cube.
+
+Derek Sivers: Touché. “Come, my home.”
+
+Tim Ferriss: “Everything I have is yours.” “Wait, Derek…”
+
+Derek Sivers: “There’s nothing here.”
+
+Tim Ferriss: Quick text, “Where’s the bathroom?” “Oh, no, there’s no bathroom.”
+
+Derek Sivers: “Oh, no, my friend. Question whether you truly need it or not. You will find out.”
+
+Tim Ferriss: “Let me know where you think the sink should be.”
+
+Derek Sivers: I’ll be a bad Emirati. I’ll be fired.
+
+Tim Ferriss: How is understanding that Dubai is an international city for a lot of different reasons. You could get by on English, almost certainly. How is your Arabic coming? Have you started tackling that?
+
+Derek Sivers: I haven’t spent more time in Dubai yet. I’m planning on going back very soon and getting to know more people and spending more time there and considering it as a place I really might want to live. Because I’ve just noticed, throughout my life, I grew up in a suburb of Chicago. Then I moved to downtown Boston, then I moved to New York City in the middle of it, and it was like, “Oh, yes, this multiculturalism, this feels more representative of the real world to me.” Then when I went back to my hometown in Hinsdale, Illinois, it’s like, “Ugh, everybody’s white. This is weird.” I like places that are multicultural because it feels like I’m more in the real world.
+
+I’ve also lived in London, I moved to Singapore, I lived in Singapore for years. I thought I had been in the most multicultural places in the world. No. I looked up statistically, New York, London, Singapore, they’re all about 30 to 35 percent foreign-born population. Dubai is 90 plus percent foreign-born population. Everybody is from everywhere. And so when I got there, it was anthropology jackpot. I was like, “This is amazing. Everybody’s from everywhere.” I could get into any taxi drive — anybody, you can just ask anybody you see, “Where are you from?” And you’re going to get a different answer all the time. “I’m from Cameroon.” “What are you doing here?” “I love languages.” I said, “Okay, what does that mean?” He said, “Well, I love languages and I thought, where can I get paid to learn languages? I said, I’ll move to Dubai. I’ll drive a taxi and I can get paid to learn languages.” I said, “Did it work?” He said, “My friend, I can speak eight languages now. I’ve been here 18 months. I can converse with people in eight languages.”
+
+Tim Ferriss: What?
+
+Derek Sivers: He said, “Everybody that gets into my taxi, I just talk with people all day long.” He said, “I speak Urdu, Hindi, Arabic.” Or whatever. I think he grew up with French. He said, “I’m speaking to you in English.” He said, “I couldn’t speak English 18 months ago. Now look at me.” And he said, “I’m getting paid to learn languages.”
+
+Tim Ferriss: That’s wild.
+
+Derek Sivers: “This is amazing.” And I turned to somebody else, I’m like, “Where are you from?” She’s like, “I’m from Nairobi.” She had the most beautiful accent, and we got into a long conversation about Nairobi and I just thought, “This is what I want.” Just by being in Dubai, the whole world comes through there and you meet so many people from all over the place. I thought, “Oh, God, this is — what a beautiful place.” Anyway. Sorry.
+
+Tim Ferriss: Living in the cantina in Star Wars. That’s funny.
+
+Derek Sivers: God, you said it first. That’s what I usually say. Dubai is the bar in Star Wars. It’s the cantina. Everybody comes from all over the world to this spot to do their shady dealings, but oh, my God, if you’re an amateur anthropologist like me, it’s Heaven.
+
+Tim Ferriss: Well, I’m excited that you’re excited, man. It’s fun to see and I hope to break some bread in person in the not-too-distant future. What fun. Always fun to hang, man. Always great fun.
+
+Tim Ferriss: Is there anything that you would like to say? Anything you’d like to point people to, mention? Anything at all before we —
+
+Derek Sivers: Let’s bring out the little buddies again.
+
+Tim Ferriss: — hop off and land the plane?
+
+Derek Sivers: These guys have been sleeping by my feet the whole time we’ve been talking.
+
+Tim Ferriss: Adorable.
+
+Derek Sivers: They are. They’re really good little pets. If you don’t wash your hands after you cook, then you just let them lick your fingers. Oh, he’s licking me right now. It’s really sweet the way they lick. They never, ever, ever bite. They’re very gentle.
+
+Tim Ferriss: Unlike my hamsters I had when I was a kid, they were biters.
+
+Derek Sivers: Yes, yes, same. I had gerbils. They were nasty. Anyway, I don’t know. Well, you know my usual call out. I really enjoy the people that I’ve met through your podcast, so hey, anybody listen to this all the way through, I’d truly enjoy my email inbox. I spend about 90 minutes a day just answering emails and I really like it, so send me an email, say hello, introduce yourself, especially if you’re a translator or if you live in Dubai or you found anything here fascinating.
+
+Tim Ferriss: All right. Do you want them to do the detective work of finding the email address? Is that the hurdle?
+
+Derek Sivers: Oh, sorry, go to my website. Just go to sive.rs. There’s a big “Contact Me Here” link. Easy detective work.
+
+Tim Ferriss: Okay. Sive.rs
+
+Derek Sivers: Yeah, my name.
+
+Tim Ferriss: That’s a pretty low hurdle, so if they can’t clear that, then they have other problems. All right, man. Well, thanks for taking the time. As always, really appreciate it.
+
+Derek Sivers: Sorry I missed you in England.
+
+Tim Ferriss: Next time. Next time.
+
+Derek Sivers: I guess we’ll have to talk about —
+
+Tim Ferriss: We’ll both get our knees repaired and then we’ll meet up for another walk and talk.
+
+Derek Sivers: I might ask you some tips on meniscus stuff, though.
+
+Tim Ferriss: Oh, boy. Yeah, we’ll talk about the knee repair. For everybody listening, go to tim.blog/podcast. I’ll link to everything we talked about, all the books, City of Gold, China’s worldview, all these various things, the figures and places, musicians and so on. And until next week.
+
+Derek Sivers: Oh, I should say that —
+
+Tim Ferriss: Oh, yes.
+
+Derek Sivers: Useful Not True is only through my website. Fuck Amazon, it’s not on Amazon. I put it on my website only. So don’t go to Amazon and look for it and email me and ask why it’s not there. It’s because I don’t like them. So go to Sivers.com. That’s where my books are.
+
+Tim Ferriss: All right, go to sivers.com or sive.rs, those go to the same place and you can find all things about Derek. And until next time, be a bit kinder than is necessary, not just to others, but also to yourself. And thanks for tuning in.
+

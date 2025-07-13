@@ -1,0 +1,1014 @@
+Please enjoy this transcript of my interview with Craig Mod. Craig is a writer, photographer, and walker living in Tokyo and Kamakura, Japan. He is the author of Things Become Other Things and Kissa by Kissa. He also writes the newsletters Roden and Ridgeline and has contributed to The New York Times, The Atlantic, Wired, and more.
+
+He’s walked thousands of miles across Japan, and since 2016, he has been co-running “Walk and Talks” with Kevin Kelly in various places around the world: the Cotswolds, Northern Thailand, walking across Bali, Southern China, Japan, Spain (Portuguese and French Caminos), and more. He’s a MacDowell fellow, Virginia Center for Creative Arts fellow, and Ragdale fellow.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch on YouTube.
+
+Tim Ferriss: Good morning. [Japanese]
+
+Craig Mod: [Japanese]
+
+Tim Ferriss: You’re good, you’re good. Japan–US is always a little tricky with the time zones. I typically do end of day my time, early morning Japan time, but this morning’s good. It’s good to be back on Central Standard. I was coming from Mountain, so this is like three hours before I usually get up, which is totally fine. It’s good. No, it’s good. I mainlined some caffeine and we are ready to go off to the races. This is going to be fun, man. I always love an excuse to do creepy internet sleuthing on my friends.
+
+Craig Mod: Oh, no.
+
+Tim Ferriss: What would make this — I ask this question always, you know all the housekeeping rules, bathroom break, water break, if you start something you’re like, “Ah, let me try that again,” we can clean it up in post since this isn’t Carnegie Hall. What would make this time well spent? I know you’ve got the new book. What else? Anything come to mind? This comes out, you’ve done interviews, you’re pro, you know how to weave prose. You’re a man in the public to some extent. What would make this time well spent?
+
+Craig Mod: Probably the most affecting story of the last year or so of me is the adoption stuff, like meeting with —
+
+Tim Ferriss: Yeah, for sure.
+
+Craig Mod: So, I think that that’s pretty fecund of emotion. It’s got a lot going on there.
+
+Tim Ferriss: Might want to work on that headline, but I like it.
+
+Craig Mod: That’s a thing. And then, all the stuff that’s happened with the cities has been really, kind of a weird journey.
+
+Tim Ferriss: I got the very short summary tease of things, but I don’t know the story, which always makes it more fun for me as well.
+
+Craig Mod: Yeah. So I think in terms of what will listeners get the most out of, I think that story about the cities and the New York Times stuff and what’s come out of that, because it encompasses a lot of what does travel mean today? Why are we traveling? What does overtourism mean? How do you handle these massive tourism surges that are happening? Is there a way to mitigate them or to send them to different parts of the country? So I think that’s really interesting, I think the adoption stuff is really interesting. I mean, everything ties into the walking.
+
+Tim Ferriss: What about you?
+
+Craig Mod: What?
+
+Tim Ferriss: This comes out in three months. After it comes out. I appreciate you being so listener focused, because God bless my dear listeners. But as far as this interview, it comes out, what would make it — you look back and you’re like, “Goddamn, I’m so glad I did that. I’m going to point people to that interview.”
+
+Craig Mod: I think it aligns very much with what I think would be interesting for listeners to listen to. I mean, I think the adoption stuff is — so basically I haven’t talked about the adoption stuff in English anywhere. I haven’t written about it, this is the first time me doing anything public about that and —
+
+Tim Ferriss: The debut of the fecundity and —
+
+Craig Mod: The emotional garden. So I think that being able to crack that nut well would be really nice.
+
+Tim Ferriss: Cool, totally.
+
+Craig Mod: Yeah. And everything else, I don’t know. I’m just happy to chat.
+
+Tim Ferriss: Let’s just chat, man. Let’s just chat. I mean, we never have trouble doing that. I was trying to think how we initially connected. Do you even remember?
+
+Craig Mod: I mean —
+
+Tim Ferriss: Was it through —
+
+Craig Mod: — I remember saying —
+
+Tim Ferriss: Mullenweg at some point maybe? I don’t know. Something else.
+
+Craig Mod: Well, so there were two moments that we met. One in 2011, right in the beginning of 2011 I was at, what’s the neighborhood you lived in, in San Francisco?
+
+Tim Ferriss: Glen Park. Down south, just south of the Mission.
+
+Craig Mod: Isn’t there another one up where Ev lived up on the hill, you go up — not Pacific Heights or anything like that, but —
+
+Tim Ferriss: Let’s see.
+
+Craig Mod: — West —
+
+Tim Ferriss: It was close to Bernal Heights. West, boy. I’m a left-right kind of guy, embarrassingly.
+
+Craig Mod: Anyway, I was working in a cafe there with one of the Flipboard engineers.
+
+Tim Ferriss: Pretty sure Ev must’ve been in a fancier place. Okay, Flipboard. Right. Well, this is as good a place as any, yeah, let’s keep going. Okay.
+
+Craig Mod: So, then I said hi to you there. I said, “Hey.” “Oh, hey, yeah it’s…” Blah-blah-blah. And you were like, “Oh, cool. Yeah, Flipboard’s great.” And then we exchanged words in the bathroom at a food camp.
+
+Tim Ferriss: Oh, thank God. I was like, “Oh, shit. What happened here? Power Exchange. How did we end up at the Power Exchange?” Kidding.
+
+Craig Mod: Yeah, yeah.
+
+Tim Ferriss: All right.
+
+Craig Mod: And then I think it was just, I think it was the Japan walk. That was the first time we ever really talked. So that was two and a half years ago now already, which is —
+
+Tim Ferriss: Got to mega-hang. Yeah, that’s bananas. I was looking at the printed book of the walk with the photographs just the other day, and I was like, “Wow, that’s wild.” And I don’t want to sound like too much of an old geezer, although I am every day turning into more of an [Japanese] but the fact that it was two years ago is just mind blistering in a sense. It does not seem that long ago.
+
+Craig Mod: Yeah, yeah.
+
+Tim Ferriss: All right. Well, let’s just hop into it then. And you mentioned Flipboard, so let’s start there. You lived in Silicon Valley.
+
+Craig Mod: I did, yeah.
+
+Tim Ferriss: And for a lot of people, that’s the dream. But you left Silicon Valley, ended up back in Japan. Could you just give us a bit of a thumbnail sketch? It doesn’t even need to be a thumbnail, we have all the time in the world, but where did you grow up? We’ll make it the really boring back in childhood intro, but where did you grow up? How’d you end up at Silicon Valley, and why didn’t you stay in Silicon Valley?
+
+Craig Mod: So yeah, I mean it’s funny to start with Silicon Valley because that was the shortest period of anything I did in my life, for the most part. It was very truncated. I mean, I think I’m glad I went —
+
+Tim Ferriss: The reasons for which it’s truncated I think might be interesting though.
+
+Craig Mod: Yeah, yeah. So I mean, I grew up in this lower middle class post-industrial town. I grew up in this town where an airplane engine factory was the heart of the town. And it sounds really —
+
+Tim Ferriss: What state was that?
+
+Craig Mod: This is in Connecticut, weirdly. So, you really don’t think of Connecticut as an industrial state, but there is —
+
+Tim Ferriss: There’s plenty.
+
+Craig Mod: — stuff happening. Yeah. And ever since I was really young, I mean, I loved books, I loved writing, I was drawn to that, but I was also really drawn to video games. And I did not grow up in a place where people were reading, no one around me was reading Ulysses. It was pretty culturally a bit of a desert. But there were video games, and those came from Japan, and that was intriguing to me. That was my first contact I’d say with a culture outside of the town I came from. And there were computers, and I was really, really lucky. We did not have much money, and our school districts were not well-funded, and I look back on it and I was extremely, extremely lucky with these chance opportunities I had, which basically enabled me to do everything I’m doing now.
+
+Very, very, very sliver, Sliding Doors style chances of opportunity.
+
+My family couldn’t really afford a computer but my neighbor bought one, and my neighbor was divorced, and he lost his son in the divorce. So he was lonely and I was really hungry to be using computers. I was eight or nine years old, 10 years old. I started going over there so much to use his computer that he just gave me the key to his house and he bought me my own phone line, and this guy’s kindness, and he was really kind, he was just genuinely just a kind guy. And I went to go about 10 years ago, I went to go find him and just say thank you for having lent me his computer. I mean, it really changed my life, this computer thing. And he had passed away, he’d had a heart attack. So if you have someone in your life that you really want to thank, go thank them while they’re around. But you know how it is when you’re a kid, you don’t realize the luck that you’ve fallen into with something like that.
+
+Tim Ferriss: For sure.
+
+Craig Mod: So that was going on and then I started using, at his place, I got onto IRC. I started using PPP emulators to be able to use Mosaic. I was in the ANSI art scene. I was like —
+
+Tim Ferriss: What does PPP stand for? Just going to take a brief side quest here. We don’t need to get into the hyper specifics, or what was it?
+
+Craig Mod: It’s so funny that we’re starting here because this is such a bizarre, almost like a footnote to everything I’m doing now. Everything I’m doing now feels so removed.
+
+Tim Ferriss: I like starting with the footnotes.
+
+Craig Mod: This is a pretty serious footnote. So I don’t even remember what PPP stands for. Basically you had shell accounts, so you had these text-based shell accounts. These are the first ISPs. I swear to God this is going to get more literary. If anyone’s listening, it’s going to get —
+
+Tim Ferriss: Internet service provider. Even I know that one. Yeah, right.
+
+Craig Mod: No, but we’re going to talk about books, and walking, and Japan and stuff, that’s all coming. But this genesis story is interesting in that, so you had these text based things. You could use IRC, which is like chat, it was like Discord, old school Discord —
+
+Tim Ferriss: Sure, I remember that.
+
+Craig Mod: — not owned by anyone. It was totally open, hosted on university servers, stuff like that. And I got connected with the ANSI art scene in there, and I started doing ANSI art. I was really captivated by design and by computer programming in the sense that it allowed what it could do for storytelling. That’s how I saw it, and that’s what really captured my attention. And so, I started working, doing artwork with these guys. I was 12, 13, these guys were all five, six years older than me. They were mostly in California, a lot of them were, and they were all getting into the internet. And so, when I graduated high school, I had these weird connections that I had made on this text chat room when I was 13. And these guys were like, “Hey, we’ve started a design agency, we’re doing a startup, whatever. Come out for the summer, be an intern.”
+
+So that was my connection, and essentially I didn’t grow up with money and no one around us had money. There was no wealth, looking back now, I mean, there was absolutely no real wealth happening in our town. And if you look at the GDP statistics and stuff like that, I mean, it’s like 20 percent of the national GDP was the average, I think GDP per capita of our town. So America’s GDP is really high, per capita GDP is like $85,000, way higher than Japan, for example. Japan’s like 40, 45, something like that.
+
+Tim Ferriss: Didn’t realize it was such a high discrepancy.
+
+Craig Mod: The Delta is pretty insane. So I basically did not come from money. And so I saw two ways to get out essentially. From a very early age I’m adopted, so there’s a sense of disconnection from that. And then, from a very early age I realized the place that I was growing up in was very, very tiny, and I needed to get far away, for a number of reasons. But I knew I needed to get away, and I saw money as critical for that escape. And I saw two ways of making money, and one of them was the stock market. And I joined the stock club as soon as I could at high school, and was super geeking out. And as soon as, I think when I was 18 or 19, I was 19 when I opened an E-Trade account, I think I was one of the first probably 10,000 people to have an E-Trade account.
+
+I was just like, “Yes, okay. I need this.” So, very weird. I mean, because there was no one in my family that had ever bought a stock. I was raised by my mother and my grandparents, my father was out of the picture even though it was an adoptive —
+
+Tim Ferriss: This is your adopted mother.
+
+Craig Mod: These are my adopted, yeah, my adopted parents. Even though they adopted me, they got divorced when I was two. I mean, which was good. My father wasn’t a great guy, so it was good to push him aside. But there was no archetypes for me of like, “Oh, this is how you generate wealth, or create wealth, or cultivate wealth, or grow wealth.” There was absolutely none of that. Or even just how to engage culturally with the world, to think about literature or to think about art. So, I was just scanning the horizon, and it was like we knew Lifestyles of the Rich and Famous. Think of it as an ’80s kid —
+
+Tim Ferriss: I remember watching that, eating TV dinners with my parents watching —
+
+Craig Mod: Yeah, for sure.
+
+Tim Ferriss: — Lifestyles of the Rich and Famous.
+
+Craig Mod: I didn’t eat a single meal that didn’t involve TV for my entire, basically childhood.
+
+Tim Ferriss: Yeah, same. I’ll do that differently when it’s my turn to set the rules. But, yeah.
+
+Craig Mod: For sure, yeah. So, you think about when you come from a place like I come from, what are your archetypes? Who establishes what’s possible in the world? And it really is like pop culture, those are the things you reach for. Anyway, so you have Lifestyles of the Rich and Famous, what do those people do? They buy stocks, they invest in stocks, blah, blah, stuff like that —
+
+Tim Ferriss: Yeah.
+
+Craig Mod: So I was like, “Okay, I need to do that to get out. That’s step one.” And then, I just loved the potential of the internet. As soon as I saw the world wide web, I was like, “Yes, this is where I want to write, this is what I want to build on top of.” It was just so obvious to me. I was like 14 when I used Mosaic for the first time, and it was just, “Oh, okay, great. I don’t have to think about anything. This is just what I do.” And very quickly I realized if I became good at web stuff, I would be making more money than anyone in my town. It was just this weird, again, this arbitrage of information and skill, and I just saw this very early on. So the ability to go out to Silicon Valley as an intern, I drove my Honda Civic.
+
+It was a ’93 Honda Civic with no power or anything. I basically had to crank the thing to get going. Drove across America and went out there and interned, and I really loved it and I loved the people, and the culture, and the opportunities, and it really just set my mind ablaze. I mean, it was really exciting. And I was working on blogging software before Blogger launched. When I talk about opportunity, and they say basically wealth is unevenly distributed, but really what you’re talking about is opportunity being evenly distributed or not. And when you listen to the genesis story of someone like Bill Gates, he’s just surrounded by this abundance of opportunity, the fact that the university had these terminals he could use and people were all cultivating his ability to take advantage of these opportunities.
+
+And there’s definitely an alternate reality where I had a little more opportunity, I was in Silicon Valley a little bit earlier, and I just had the sense of self-worth and confidence I think, to do things differently and build stuff. And that was one timeline that didn’t happen.
+
+And I went out there and I loved it, and I enjoyed it, but at the same time I really wanted to live abroad. I knew I needed to get away, and because of certain things that had happened and things that I felt in my town, but not being the people of my town not being supported by the greater whole, I had this, from a very early age, a lack of, I would say belief in the American system. And I just felt like I had to leave America. There’s a very strong impulse like, “I have to get outside of this country to see things differently.” This felt important for some reason, intuitively.
+
+Tim Ferriss: What about the system? When you say system, what specifically? Because we’ll spend a lot of time talking about Japan, I am sure, but Japan is, it’s not exactly North Korea. It’s similar to the US in some respects. So, what do you mean by the American system in that context? Could just be a felt sense of something, it doesn’t have to be super —
+
+Craig Mod: In the moment I had absolutely no words for it. I had no way to describe it. Because you’re operating from a lack of experience, you haven’t seen enough of the world, but just intuitively there was a sense of, “Okay, we aren’t being supported.” And then, when I went to college, it was the big shock for me was getting to college and meeting everyone else, and immediately feeling this gap of abundance. I was lucky. I scored really well, even though I’m bad at test-taking, I don’t like taking tests, I tested well. I was able to go to a good college, a really good university.
+
+And it was just the first three days, four days, I was just in shock. I was like, “Oh, these people are from a different planet.” The resources they had, the archetypes they clearly had in their lives, the way they’ve learned to learn, to speak, to move through the world, what they — I was just like, “This doesn’t compute for me at all.” And it was immediately, I bounced off of it so fast. I was just like, “I can’t be here, I shouldn’t be here. There’s something fundamentally missing, broken, lacking inside my chest.”
+
+Tim Ferriss: I get it.
+
+Craig Mod: And that’s what drove me to just go, “Okay, I should live abroad. I need to leave this country,” in part to rebuild that on my own.
+
+Tim Ferriss: Got it, okay. So, when did you move to Japan? At what year, what age?
+
+Craig Mod: I was 19. 19, and it was 2000.
+
+Tim Ferriss: 2000, okay.
+
+Craig Mod: Which is insane. I can’t believe it’s been 25 years now. It’s a long time —
+
+Tim Ferriss: Okay, got it. Just to paint a picture for folks. So you moved to Japan when you were 19, and then you bounced around after that. You didn’t stay in Japan the entire time. Am I right? Of course, because we met after that.
+
+Craig Mod: Yeah, sort of. So, to give you the macro timeline, I go when I’m 19, I stay for a year. I go to university there, I love it. While I’m there, the Silicon Valley bubble, the first bubble pops, so there really isn’t a Silicon Valley to go to. My plan was to go to Japan, I applied on a whim to university there and I applied independently so I wouldn’t have to — normally when you do study abroad, you keep paying your American university fees, and it’s international. And I looked at the fees for Japanese universities, and for a year with homestay it was like $8,000, $5,000? It was like an absurdly affordable amount of money, and there were scholarships available. It was like, why wouldn’t I just go do this? Of course I’m going to do this. But my plan was to drop out and move to Silicon Valley, and just build stuff.
+
+Tim Ferriss: Okay, so Japan for a year or two, and then go back to Silicon Valley? Something like that?
+
+Craig Mod: Yeah, Japan for a year. And then in the middle of it, everything collapsed and then I was like, “Okay, well maybe I should graduate university.” So I applied in the middle of it as a transfer student to a university I thought I would like better than the one I was at before, and I got in. So, I ended up going to UPenn. And so for me, I was the first person in my family to go to university, certainly big university. My mom went to community college, and she worked her butt off to become an elementary school teacher. But I was the first person to go to university-university. My father didn’t go anywhere, my grandparents were both working at the airplane engine factory. So it was this big deal, and should I have gone to Penn or not? I mean, honestly it was just the Ivy. So this incredible sense of I have to create or generate on my own a sense of self-worth, and the draw of an Ivy was just too big.
+
+So anyway, I ended up getting in, much to my shock. And so, after that first year in Japan I went back, went to UPenn. I did that for two years. In the summer between I came back to Japan, did an internship at a magazine. And then, as soon as I graduated UPenn, I was back to Japan, going back to Waseda, doing another year of intensive language studies in a grad program. And then I basically just stayed since then.
+
+Tim Ferriss: All right. So we’re going to take yet another side quest because it’s not really a footnote. I know quite a few people who’ve moved to Japan, you are the only non-Japanese person as an adult I know who speaks exceptional Japanese. As you’re aware, there are a lot of foreigners who stay in the expat bubble, which is fine. People do that in the US too when they move here, for instance. Plenty of examples of that. How did you learn your Japanese? If there are people listening who think to themselves, “Man, I would really love to learn Japanese,” any thoughts based on your own experience?
+
+Craig Mod: Well, I think, in general, language learning is easier if you have a musical background. And I grew up all through my teens obsessively playing drums, just drumming, drumming, drumming, playing jazz, playing classical, playing in big band orchestras, playing everything. So, I think listening, being a good listener obviously is paramount. But when I got to Tokyo, I did a homestay. They couldn’t speak one word of English, and I immediately just joined the music circle at university, which was only Japanese people. I wasn’t trying to avoid the international crowd. In fact, the international group I was with were amazing. It was actually, I got to the school, I got to Waseda, and the international program was what I had always dreamed and hoped university would be.
+
+It was super international, super mixed kids from all over the world. They were all extremely serious about their studies, they were all way better Japanese speakers than me. I had had one year of university Japanese before I came. To give you an example, there are 13 levels —
+
+Tim Ferriss: Which is not a lot, yeah.
+
+Craig Mod: Which is not a lot, it’s nothing. I mean, basically I could barely say hello. And even that was probably not correct. So, there are 13 levels of Japanese class at the university, I was in two. There were kids who came from SOAS in London who had done one year at SOAS. They came, they were in —
+
+Tim Ferriss: Sorry, you said SOAS and I thought about the muscle that causes me so many problems. What the hell is SOAS?
+
+Craig Mod: SOAS is the School of Oriental and African Studies in London.
+
+Tim Ferriss: Oh, wow. Unfortunately for me, but yes.
+
+Craig Mod: They have the most total badass language program. Honestly, if you want to learn Japanese go to SOAS. Just go to SOAS.
+
+Tim Ferriss: I see, all right. I got it.
+
+Craig Mod: Those kids, they had done one year at SOAS. They arrived in Tokyo, they were in level 10, level 11 after —
+
+Tim Ferriss: Holy shit, good for them.
+
+Craig Mod: Yeah, it was insane.
+
+Tim Ferriss: Must be a brutal boot camp.
+
+Craig Mod: So they were amazing. Yeah, it is. Like 70 percent of kids drop out of it or something like that. So, being around people who were —
+
+Tim Ferriss: Babysitting mutants.
+
+Craig Mod: Basically. So, the kids who were there were amazing speakers. And so, when we’d hang out, it’s great to hang out with people who are a few levels above where you speak because then you’re able to pick it up —
+
+Tim Ferriss: For sure.
+
+Craig Mod: — and be like, “Oh, what’s that little grammatical thing you’re doing? What’s that word you’re using?” And then I just hung out with Japanese people constantly and played music. And music was really this lingua franca thing where I could just hang with all these incredible musicians, and I’d been playing drums for so long, I was in the studio all the time, and you just start to pick up slang and casual Japanese —
+
+Tim Ferriss: It also gives you a context through which you can develop Japanese friendships without having a lot of Japanese, which was judo for me, because I came from wrestling. And they didn’t care if I sounded like a caveman with traumatic brain injury. They didn’t care as long as I could actually help the team do something, they were like, “Great, we’ll support the savage.” And that worked. And I’m curious to know, did you end up, at least in my case way back in the day, this was probably in, I think it was in Shinjuku maybe where I found Kinokuniya, and I went there to the Japanese language learning section and found English language judo textbooks. So it also became a way for me, in terms of motivation, to learn how to read. Because once I made it through those textbooks, I was like, “Well, all that’s left are judo textbooks in Japanese, which means I’m going to need to learn to read Japanese,” which is its own thing.
+
+I’m very envious that you had the students who were a few levels above you, because that just seems like the perfect recipe.
+
+Craig Mod: Huge.
+
+Tim Ferriss: Because to teach, if you’re at a homestay like I was when I was 15, I had three different host families, not because I was a delinquent, but that’s how it was set up. You would rotate through different families over the course of a year. And the first, let’s just say first family, pretty much a wash because I couldn’t communicate at all, nor could I ask them questions in Japanese to clarify what they were saying. And then, the second family probably took me a month before I found my legs and could finally start communicating with them. Wow.
+
+Craig Mod: My host family was very lovely, but completely bonkers. Let me paint this picture for you. So they ran an udon noodle shop. So every meal was udon, so the house —
+
+Tim Ferriss: So udon, you should explain, it’s these very thick noodles, right?
+
+Craig Mod: Yeah. So, it’s like soba. Soba is weird because it’s both the fast food in Japan in the sense there’s Tachigui soba in front of stations that you can go to at 7:00 in the morning and just slurp something up before you go to work, and it costs two bucks —
+
+Tim Ferriss: Which means standing and eating literally, right?
+
+Craig Mod: Right, Tachigui.
+
+Tim Ferriss: You’re at a countertop, standing.
+
+Craig Mod: But at the same time soba can also be incredibly refined where you spend $30 on a bowl, and it’s like two slurps and you’re done. And so, anyway, soba’s got that weird gamut, but udon is firmly just working class food. It doesn’t really get fancy. And so there’s some places that try to make it fancy, but it’s really not that fancy. So anyway, this is a working class family so it was ironic. I left my working class town to go across the world, and I get plopped down basically in a way, a place that felt really — I was like, “Oh, okay. I know these people, I know this part of town.” It was a very working class part of Tokyo. And there was homeless people out walking around that I’d say hi to all the time. And I’d go to the arcade and there’d always be these weird middle-aged people that just clearly didn’t have jobs, playing Street Fighter all the time so we’d just play together.
+
+I was like, “Oh,” I was like, “I get this. These are totally my people.” But so, they had an udon shop and there was an 11-year-old son, and unfortunately for me, he slept in his parents’ bed so he didn’t have any privacy. And he had discovered his penis soon after I arrived, and he decided that he was going to release frequently around the house in different places.
+
+Tim Ferriss: Oh, my God.
+
+Craig Mod: So I’d be trying to send an email at the kotatsu. So it’s November, it’s kind of chilly. I’m sitting under the kotatsu. The house was so cold, the house got —
+
+Tim Ferriss: Explain what’s a kotatsu?
+
+Craig Mod: Kotatsu is a low table with a heater underneath it. So it’s basically you put your legs under it, there’s a big heavy blanket that — everything that’s under the table is kind of a mystery. You don’t know what’s lurking under the table.
+
+Tim Ferriss: Oh, no.
+
+Craig Mod: And this house was so cold. This house got, I swear to God, probably three minutes of sunlight a year. I don’t even know how they architected it to have so little sunlight, it was just so freezing, no insulation. One of the people I met at the arcade, I was complaining about how cold it was and they bought me a full body snow suit to wear to bed. So, I would like —
+
+Tim Ferriss: You were like Kenny from South Park when you went to bed.
+
+Craig Mod: Yeah. I was like, “What am I supposed to do? This is literally the coldest I’ve ever been in my life.” Anyway, so we’re sitting under the kotatsu, I’m doing emails, the little 11-year-old’s, like, reading manga. And then suddenly I realized he’s doing a little more than reading. So he’s just jerking off everywhere. This kid, he’s just masturbating all over the house, and I don’t know how to say, “Don’t masturbate.” So I came home from school the next day and we were alone. And I was like, I’m like, I’ve got to tell him to not jerk off everywhere. And so I was like, I mimed it. I had to mime, “Don’t masturbate under the table.” His brain, I’m sure if Japan had therapy, which no one goes to therapy in Japan, we could talk about that too, which I think is a great travesty of Japan. But if Japan had therapy, this kid definitely, I probably caused him some therapy. He hasn’t masturbated in 24 years —
+
+Tim Ferriss: I mean, it sounds like one way or another he was going to need some therapy or an equivalent, but, yeah. Oh, wow.
+
+Craig Mod: So, that was insane. And then —
+
+Tim Ferriss: Now in your mind are you like, “These people are insane?” You’re like, “Wow, this is Japan.”
+
+Craig Mod: No, no. I was like, “Oh, my God. I pulled the short straw on my homestay.” Other kids’ homestay families, they were like, “Oh, I live on the 34th floor of this beautiful tower apartment block, and my family’s taking me skiing next weekend.” My family, they’re like, “Oh, we’re going to go to our summer home. You want to come?” I was like, “Yeah, great. Summer home.” They take me to their summer home, it’s like a shack by the river with cockroaches. I was like, “Who are these people?” They were very sweet. But I was like, “I don’t know if these people should have homestay students. I kind of don’t think they…” I told —
+
+Tim Ferriss: Well, my guess is they got paid by Waseda or whoever, so it’s a gig. It’s a gig.
+
+Craig Mod: And they had so many gigs. So, they had another gig was they were hosting a Korean kid who was just working, I guess as a laborer at the udon restaurant, but he slept in the closet. So he slept in the closet —
+
+Tim Ferriss: So they’re getting a two-for-one. They get free labor.
+
+Craig Mod: So, I’ve got the 11-year-old son jerking off all over the place, and then there’s this Korean guy who’s like maybe 25, and he sleeps in the closet. And he was super Christian, because it’s like Christianity, it’s a huge thing in Korea —
+
+Tim Ferriss: It’s a national sport there, yeah.
+
+Craig Mod: And so he would come into my bedroom every night, and he would kneel in the entryway of my bedroom and go, “[Japanese] will you please come with me to church?” Every night he would ask me to come to church. And I’m trying to figure out who I am, I’m trying to recreate this personal identity. There’s ejaculate flying everywhere, there’s cockroaches shooting across the room. I’m going to sleep in a snow suit, this Korean kid is asking me to go to church with him. All I’m eating is udon. It was a weird landing.
+
+Tim Ferriss: Oh, God. All right. So, you can see why I like to explore the footnotes, because we could have skipped that whole story. We could have skipped all that.
+
+I want to point out a few things to folks who have not spent a lot of time in Japan, or maybe they just went to Japan and stayed in some fancy hotels. There are a lot of cockroaches in Japan.
+
+Craig Mod: Oh, yeah.
+
+Tim Ferriss: A ton. A ton. In my second host family, who I’m still very close to, I’m actually going back to see them next month, I’m very excited. This is, God, I mean, this is more than 30 years later and I’m still close to my host parents and my brothers. It’s just an amazing blessing in my life. Talk about inflection points were real moments that at the time seemed special, but you don’t realize quite the significance. Like the computer.
+
+Craig Mod: Way to rub it in, Tim. Yeah, just rub it in. I’m glad you had a good homestay —
+
+Tim Ferriss: Well, hold on, hold on, hold on. I had a good homestay, but the house was full of cockroaches. And this is in Tokyo, it’s very common. And these cockroaches, people weren’t probably betting on getting a lot of cockroach talk in this conversation, but the cockroaches also in Japan are very fond of flying. They will not just scurry, but they’ll take off and just fly right into your face. And so, my host mom, when she went into the laundry room, the dog’s name, this little, tiny miniature Shiba was called Icha. And she would walk in there and then a bunch of cockroaches would fly out of the laundry into her face, and she’d go, she’d be like, “Icha, Icha [Japanese]”. She’d be like, “Cockroach, cockroach.”
+
+And this little miniature Shiba would storm in and porpoise nose these cockroaches to death. And —
+
+Craig Mod: Oh, my God.
+
+Tim Ferriss: — this was a daily, at least multiple times a week kind of thing. But yeah, that homestay sounds pretty formative. Okay, so you —
+
+Craig Mod: Yeah, it’s funny now but it was pretty stressful. I mean, it speaks to how much I was enjoying everything else. And it was so clearly a business for them too, because I was like, for spring break I hitchhiked across the country. And I told them, I said, “Hey, I’m going to go hitchhike to Fukuoka now.” And they’re like, “Oh, yeah, good luck. Bye.” It wasn’t like, “Hey, do you need some supplies? Do you want us to drive you somewhere?” It was like, “Oh, yeah, all right. We’ll see you in a month.”
+
+Tim Ferriss: I have to just tell you one story, which we’ve never talked about. We’ve talked a lot, but we haven’t covered this. So my very first host family, I got the distinct impression they didn’t really want me there. They were also being paid. And they were reasonably polite, but there’s a difference, you learn this, I think, pretty quickly in Japan, there is a difference between polite and nice.
+
+There is [Japanese], the stranger formality, where you’re like, oh, so polite. Yes, very polite, but they didn’t really want me there. And my host mom really begrudged having to make me lunch, the school lunch, so basically I got these like mayonnaise sandwiches on white bread every day for lunch. And after a week or two of this, I was like, “I just can’t do this.” So I would go to lunch in my uniform. I was the only American student for most of my time there, and it was very easy to find Where’s Waldo? in my school uniform. And there were other kids, though, who had been given the same, like, curry rice by their mom every day, and they were pretty sick of it, so I started trading my breakfasts. And when this was discovered by my host brother, he actually started a fist fight with me.
+
+Craig Mod: Oh, my God.
+
+Tim Ferriss: He was so offended that I’d dishonored his mother by trading her mayonnaise sandwiches.
+
+Craig Mod: Oh, my God.
+
+Tim Ferriss: A lot of folks who have never been to Japan, or if they’ve just been in the hotels, they have a certain image of the Japanese.
+
+Craig Mod: Here, here’s my advice. Okay, you’re listening to this, you’re a teenager, whatever, you think you want to go to Japan, go to Japan, don’t do a homestay. That’s my advice. I think all my friends who were in the dormitories, I was so jealous of them, because it was just sane and controlled and like you had heaters and stuff like that.
+
+Tim Ferriss: Now, I’ll push back though. If you were in a dormitory, depending on how it was configured, especially in this day and age with smartphones and so on, you might not learn as much Japanese. I mean, there’s a chance. I don’t know. I would do a homestay again. Even though I took some bruises, not as many moments of ejaculate flying as you experienced, but nonetheless. Also, I mean, this is going to be, this is such, like, inside baseball, but holy shit are houses in Japan cold a lot of the time.
+
+Craig Mod: Yeah, they’re —
+
+Tim Ferriss: I mean, it’s like —
+
+Craig Mod: Yeah, yeah.
+
+Tim Ferriss: And I just remember getting up to go to the bathroom, and if you think, like my parents were very cheap with electricity growing up on Long Island, and it was cold, but if you think that’s cold, go to Japan and experience the lack of insulation in the middle of the winter and get up, and it is freezing, freezing cold.
+
+All right. All right, so we’ve covered a bunch of that. That was, now tell me when you left Japan to go back to UPenn. I guess we can kind of peg it in your macro timeline. You get back, what happens after UPenn?
+
+Craig Mod: Yeah. Well, the summer between junior and senior year, I did an internship in Tokyo at a magazine, and the editor-in-chief there was like, “Hey, I want to start a publishing company. Do you want to be the art director?” And I was like, “Yes.” Just because I knew, when I was 19, one of the summers in Silicon Valley, I did an internship with a startup, like a small design agency, and it was great. And then the second summer, I got a job with a bigger company, and I got a taste of being in a company and what does that mean and being part of the system. And I was just, being like, “Okay, I can’t do this,” so I had no intention. I just couldn’t do it. I was like, “Okay, this isn’t for me.”
+
+Tim Ferriss: The system is broken, whatever this is. I can feel it in my chest.
+
+Craig Mod: “This isn’t correct. I can’t do this.” And I remember walking around San Francisco that summer that I was working at the big company, and I was just like talking with my friend Rob. And I was just like, “Yeah, and they offered me, they’re like, ‘Hey, we’ll pay for college. Stay with us.'” I was like, whatever. I was kind of talented at doing web crap back then, not many people were. And I was like, “No, I can’t do this,” and I was like, “I’m running away to Japan.”
+
+And so I’d always had this fierce independence, and it’s connected with where I come from, because where I came from, I saw, look, there was no healthcare, people were fairly struggling. A lot of my friends, their sisters were pregnant as teenagers. It was kind of endemic. People just weren’t really being supported. So from a very young age, I was like, I have to be independent, I have to control my destiny, I have to be sort of pathological about making sure I’m secure to whatever, until I get to this next stage. And so being independent was really important to me.
+
+So anyway, so my buddy, you know, the editor-in-chief’s like, “Hey, let’s start a publishing company.” I was like, “Great, let’s do that. I’ll move back to Tokyo as a student. I want to go do grad school stuff anyway. We can start getting the publishing company up and running.”
+
+And when I was at UPenn, I had a couple of amazing professors. So the reason why I picked UPenn was because it had a computer science and fine arts program. It was called the DMD, Digital Media Design.
+
+Tim Ferriss: That’s cool. I didn’t realize that.
+
+Craig Mod: It was one of the only undergrad —
+
+Tim Ferriss: That’s early, early, early.
+
+Craig Mod: It was super early, super early, because you had MIT Media lab, but that was only grad school. And I loved John Maeda’s stuff, Ben Fry’s stuff, Casey Reas’ stuff. That was all coming out of MIT Media Lab, and I was so into all that. But I was too young to go to MIT as a grad student, and I was like, okay, where can I do this? And it was like NYU kind of had a program that was technology, I think, and maybe, or CMU had technology in theater. And UPenn had fine arts and computer science, so I was like, great, let me do that. And the fine arts component was incredible. And I had two professors that kind of changed my life. One was Joshua Mosley, who, he was a claymation animator guy. He runs the department now. He was just this incredible archetype of the artist, doing these bizarre claymation things.
+
+Tim Ferriss: So wait, wait a second. So even at that time, he’s doing claymation stop-motion stuff in this digital media lab?
+
+Craig Mod: Yeah. Yes, yes, and teaching us how to use, like, the latest 3D programs. It was this totally interesting kind of analog digital thing happening. I had some amazing photography professors — my focus was photography — but I also had a design professor, Sharka Hyland, who was like this Eastern European, I don’t really know what her background was, but it was like she was the meanest, unless she liked your work, in which case she loved you. It was like one of these teachers that she would not pull any punches. And so like everyone has their designs, like I remember we had to design a book cover, and I had, what was it, The Sun Also Rises or something, I think was a Hemingway cover. And everyone’s got their stuff up on the wall, and kids are crying because she’s like, “This is garbage. I hate this. This sucks. This is terrible. This is bad,” but being very specific, more specific than I’m being.
+
+Tim Ferriss: Yeah, “Let me tell you the ways I hate this.”
+
+Craig Mod: Yes.
+
+Tim Ferriss: “So many. Where do I start?”
+
+Craig Mod: Yeah, she was amazing, she was so great. She blew open my mind about design and about book design, and it got me obsessed with wanting to make books. I’d always loved books, I’d always loved technology, but nothing really ever, all the tech stuff, the blogging stuff, the online writing, whatever, the news groups, all this, it was interesting, but nothing really captured my attention like physical books. And around the same time, McSweeney’s, the publisher out of San Francisco, Dave Eggers —
+
+Tim Ferriss: Sure. Pirate Shop.
+
+Craig Mod: He’s got his A Heartbreaking Work of Staggering Genius comes out. That’s an incredible book. In the moment, that was like, what is happening? This book is so meta, this is like, you know, it’s was so much fun. He’s funny, it’s a moving story, and he founded McSweeney’s. And McSweeney’s was doing so many interesting things with the book as a forum in design. And basically, this editor-in-chief and I were like,” Hey, let’s do like mini McSweeney’s that’s kind of connected with Japan.” That was kind of the thesis.
+
+Tim Ferriss: Well, let me pause for a second here. So Sharka, was that the name? What a fucking name. And I think I’m getting that roughly right?
+
+Craig Mod: Sharka Hyland. Yeah.
+
+Tim Ferriss: Sharka Hyland. That is —
+
+Craig Mod: Yeah, amazing.
+
+Tim Ferriss: It’s straight out of a comic book. So Sharka Hyland, what was it that she taught you or showed you or imbued into you that got you excited about book covers or that type of design, and it could be a feeling, it could be her enthusiasm? What was it that clicked for you?
+
+Craig Mod: So I think I had spent a lot of my teenage years in this autodidactic way of trying to understand design. I didn’t know any of the grades. And I remember the first summer I was out in San Francisco, I remember going to Razorfish.
+
+Tim Ferriss: Back in the day.
+
+Craig Mod: And I printed out a portfolio at Kinko’s, this really terrible design portfolio, and I went to Razorfish. And I went in there, I was like, “Hey, I’d like to talk to someone about maybe interning here or working here.” And they brought over this manager, and he was this really nasty guy. And he was like, “Who are your favorite designers? Who do you like?” And I was like, “Uh, uh…” I hadn’t gone to design school at this point. I was like 18 years old, I was 19 years old. I came from this place that, like, literally no one had picked up a John Updike book, let alone looked at the cover, let alone thought about who designed it. And I was really into internet design, so I was like, “K10k,” and, you know, I was naming all these handles of like ANSI artists and stuff. And he’s like, “Who’s that?” And so I was just like —
+
+Tim Ferriss: “What a prick!”
+
+Craig Mod: Yeah, he was totally, he was terrible, he was terrible. But this is the thing I think that’s difficult for people to understand. If you come from a place where you aren’t surrounded by a sense of culture or a sense of archetypes or whatever, and then you leave and you go into the bigger world, you realize people aren’t operating with the same deficit you might have in those ways, that your sense of self-worth, to ratchet that up, is a really difficult, long process, and that’s basically what I spent all of my 20s doing.
+
+And I think Sharka saw in me that I had a certain intuitive eye for design. And she was able, even though she was so critical, and she was critical of some of the things. I remember she asked me, she’s like, “Why did you make that red?” And I was like, “I don’t know. I kind of like red.” She’s like, “Look at this idiot. He doesn’t even know why he made it red.” And I was like, “Oh, man, I should be thinking,” but really the reason was I’m color blind and I don’t really see that many colors. And so I was like, “Oh, red is a color that is easy for me to use.” But she —
+
+Tim Ferriss: Well, hold on a second. So let me just double-click on that, and I know this is my habit, but when I think of color blind, usually I think of red as one of the most commonly missing colors.
+
+Craig Mod: Yeah, red, green.
+
+Tim Ferriss: Because you don’t have the cones, right, red, green.
+
+Craig Mod: Yeah, red, green, but like a strong, vibrant red I can see really well, and so that’s what I was drawn to.
+
+Tim Ferriss: Fascinating.
+
+Craig Mod: If you look a lot of my early design/all of my design, it’s like red plays a pretty, it’s basically black, white, and red.
+
+Tim Ferriss: Right.
+
+Craig Mod: That’s what I’ve been riffing off of for 25 years.
+
+Tim Ferriss: The Sin City color palette, yeah.
+
+Craig Mod: But Sharka, I would say, saw enough of potential/intuitive sense of design that she elevated it. And I did some branding work. I did branding work for the publishing company that I started with this guy, the editor-in-chief, and she kind of reviewed it, and she gave me all this amazing feedback. So she really, she made me feel like I could do it, which was incredible.
+
+Tim Ferriss: I had one teacher in elementary school kind of like that, like a brutal woman, but if she decided she really loved you, then she paid attention. And I don’t know if this is true with Sharka, but was it your intuitive sense, or was there part of you, did you reflect on what you did in the class in some way pointing to you caring more than other students? I’m just curious about that. Because I remember the moment when this teacher went from realizing me to actually deciding, okay, now I’m going to give you a little extra attention, and it’s because I spent like 10 times more time than I needed to on this class project where I illustrated all of these different components of it. And she was like, “Oh, okay. All right, fine.”
+
+Craig Mod: I’d like to say that I was caring more, but I’m not sure I knew how to work yet. When I think back to who I was back then, I don’t think I understood what really, truly committing to a creative project felt like. Like, I wish I could go back in time. Going to university, I think, when you’re 18, 19, 20, is such a waste, but you just don’t know what you’re doing. I certainly didn’t. And there’s a part of me that’s like, I would really love to go back to school, you know?
+
+Tim Ferriss: Yeah.
+
+Craig Mod: As a footnote, I just dropped my stepdaughter off at boarding school, a big backstory to all of this, but I dropped her off, she’s going to school in New Zealand. We wanted her to find an interesting place. This is my ex’s kid. So it’s like this, we can talk about this and adoption and what blood means for family or whatever, but I consider her, she’s my daughter, even though, whatever, it’s a complicated situation. Anyway, in to New Zealand, and I brought her there in January, the two of us. I took her down to school, I went to the parent initiation and all that stuff. She’s 15. And I was so excited for her, I mean, it was a little bit embarrassing, I was probably too excited, but I was like, “Oh, my God. I would have literally cut off a finger to have had this opportunity when I was 15, to be able to come to a place like this.”
+
+It’s not that fancy, it’s like, you know, whatever. I didn’t want her surrounded by a bunch of pricks, so it’s very sane. It’s like a sane boarding school, it’s not fancy, but there’s resources, and there’s like a great music program, and she can take piano lessons and guitar lessons, and there’s like a great sports program and all this stuff. And I was just like, “Oh, my God, you are so,” I’m like, “You don’t understand.” I’m like shaking her. She’s like, “Please, stop. You’re embarrassing me. Go. Leave, please. Dad, get out of here.” But I was like, “This is so, so incredible that you could do this,” so and just as this sense of now I know how I could use those resources. In a way, I think even when I was at UPenn, I didn’t quite understand, but I did, I worked hard. I was committing to these things. I was working hard.
+
+Tim Ferriss: I think we’re going to weave in and out of Japan, so I feel like we can pause on that for a minute. I ultimately want to get an idea of what it is, what are the things in Japan that attract you so much to it, that keep you there, maybe things that people miss? But I want to ask you as maybe a segue into some of your huge walks and trips in general, tell me if this makes any sense, because I have not read the full context on this because I didn’t know this story, but I wanted to ask you about it, 2009, hike to Nepal, is that enough of a cue?
+
+Craig Mod: Oh, yeah, yeah.
+
+Tim Ferriss: Okay, can you tell this story?
+
+Craig Mod: Oh, that’s a, yeah, that’s an inflection point. I just got like goosebumps, actually. Yeah. So that was sort of when I decided that I was going to — so I really struggled with alcohol in my 20s. In my teenage years, I didn’t touch anything. I was militantly straight-edge-ish. And basically looking back now, I realize I had such a strong impulse to make sure I could get to whatever the next place was, anything I saw that could hold me back, which included falling in love or doing drugs or anything like that, that was like a retarding agent, as a teenager, just immediately I was like, okay, I don’t need this. And I got to Japan, and it was like, oh, this is a place to reinvent myself, and I started drinking because, as you do, because people drink so much here.
+
+Tim Ferriss: Sure.
+
+Craig Mod: And it turns out that I can drink a lot. I can have 15, 20 drinks, not throw up. I black out, sure, but there’s something in my genes that allows me to just drink, and then after two or three drinks, something activates where it’s just all we live for is more drink. And I think for most of my 20s, because I had such a low sense of self-worth, because of where I came from, because I felt this abundance of people around me that I didn’t feel I had, and I didn’t know how to ratchet that up. And I had this desire to produce culture or to produce art, to produce literature at a level that I didn’t know how to, and I didn’t know how to bridge that gap. And what I ended up doing was, because I didn’t have mentors, because I didn’t have archetypes near me, I just drank like a fish. And I played a lot of music, because that was one thing I did have kind of like a mastery over, and I played a lot of music and I played a lot of that blacked out.
+
+I’m really lucky I didn’t die. I mean, it would be one of these things where, many, many mornings of my life I’ve woken up, and it’s just been checking, is my face okay, did I break my skull open, or something like that. And I was madly in love. I fell madly, madly in love. I was 26, 27 years old, and I had the most incredible love connection I’d ever felt, this otherworldly sense of being in love with this person. And we connected so intensely and immediately went on a 40-day trip, like a week after meeting, a 40-day trip through Tibet. We went to Tibet, I was possessed by a spirit, I spoke in tongues.
+
+Tim Ferriss: Wait, hold on, hold on.
+
+Craig Mod: We hiked up to a glacier.
+
+Tim Ferriss: I mean, we can’t really, you skipped over getting possessed by spirits.
+
+Craig Mod: I mean, it was —
+
+Tim Ferriss: What?
+
+Craig Mod: Yeah. So we stayed at this one little hotel in Lhasa that had not always been a hotel, it was this old structure, and woke up the next morning and my girlfriend was being very strange, she was being very weird. And I was like, “What’s going on?” She’s like, “I’ll tell you when we get outside.” I was like, “What? You’ll tell me when we get outside? What’s this about?” And we go outside and she goes, “Okay, last night, we have to get out of there, because last night I woke up in the middle of the night, you were on your side of the bed cradling something that was not there, and you were speaking in Tibetan, and I couldn’t get you to wake up. And I was trying to speak to you in English, trying to speak to you in Japanese, you wouldn’t respond, and I finally crawled over on your side of the bed, and I kind of took the air that you were holding, and I turned you on your side and you were able to calm down and go to sleep.
+
+And I was like, “Oh, my God,” because I had this vision/dream of this woman in white standing in the doorway and at the foot of the bed the night before, and I don’t know what was happening. And, like, even now I’m full-body goosebumps right now.
+
+Tim Ferriss: God, it’s like straight out of Paranormal Activity or something. I’m just like, oh, God.
+
+Craig Mod: It was so bizarre. And you have to imagine, I don’t know if you’ve ever been in love to this degree where it just feels like everything in the world is fated, like everything is a sign that you need to be together, that this is magic?
+
+Tim Ferriss: Sure.
+
+Craig Mod: Like only these things can possibly happen because you’re connected, you’re together. We both bought, I remember we pulled out our books on the first day of the trip, we had both brought The Stranger by Camus. It was like, “Oh, my God, we’re fated.” And I went back to the hotel, and I went to the manager. And I was like, “Hey, I don’t think we can stay here tonight.” He’s like, “Oh, what’s wrong?” And I was like, “Well, I was kind of possessed, saw this,” and he’s like, “Did you see the woman?” And I was like, “Yeah.” He’s like, “Oh. Oh, yeah, yeah, we know what’s going on with that. Here, we’ll take you to the dream reader.” And so I was like, “What? You’ll take me to the dream…” So I ended up, I’ll try to truncate this, because it can kind of get a little bit long, but —
+
+Tim Ferriss: I mean, I’m not sure anybody listening wants you to truncate this particular story, so go wherever you want.
+
+Craig Mod: One of the workers there is like, you know, the manager’s like, “Okay, take him to the dream reader.” And I’m thinking, okay, this is a scam. I’m getting scammed. Something weird is going on. And he takes us, and we go to the outskirts of Lhasa, we go to this like really kind of weird apartment block that was just made of concrete, it was maybe like two or three stories tall, and he takes us to this room on the third floor. And there’s a line of people, a line of Tibetans waiting at this door, and they were all waiting to have their dreams read. So it was like, okay, this is bizarre. So we wait, we stand in line, we go inside, we sit down inside. The most beautiful, I don’t know how old she was, she was anywhere between 15 and a thousand years old. She was just this creature of just the most bizarre light walks out. It was like being in The Matrix. You know the scene in The Matrix where they’re, like, with the spoon and the bending?
+
+Tim Ferriss: Yeah.
+
+Craig Mod: And you’re in this random apartment and the TV’s on, you know? It was like that situation. She comes over, brings some yak buttermilk tea, some cookies, because someone’s in the dream reader room, and we’re waiting for them to get out, and then our turn comes up, I go in there. You go into this room, it’s all candles, Dalai Lama photos, like all this stuff, and it’s like you feel like you’re in this really holy space. And the guy from the hotel interprets for us. And I tell her the dream, I tell her what happened, and she gives me this blessing, puts a white wreath around my neck, gives me this little satchel of seeds and tells me to put them under my pillow when I sleep, and then writes me a prayer. And she says, “Okay, here’s these three pieces of paper, you have to take them to these three temples, and they will burn them for you tonight. They’ll know what to do, just tell them the dream reader sent you, and you’ll be okay. You’ll be fine. Everything will be good.”
+
+And I was like, no one’s asking me for money, you know? And the hotel guy’s like, “Oh, you can leave a tip if you want,” or whatever. It was like $2 or something, I put $2 in a little thingy. And then we go to the temples, and it ended up becoming this incredible adventure. And I think this is the story, this connects with a lot of my walking as well, having experiences like this, I think informed the sense of just give yourself up to what the day could potentially give to you. And so I ended up going to all these temples I would’ve never gone to. I went to the dream reader’s apartment, which was the most bizarre, beautiful place I went to in all of Tibet, in that entire trip.
+
+We went to these temples, met these monks, “Hey, can you burn this for me?” “Oh, yes, of course, absolutely,” give them like $1, 50 cents, or whatever. The whole thing costs nothing, it was clearly not a scam, it was clearly this thing that a lot of locals were participating in, and it was magic, it was just pure magic. So anyway, things like that were happening with this woman, and I screwed it up because of my drinking. I ruined the relationship. She punched me in the face at one point, very, very, very rightfully so, and she was like, “Hey, I can’t be with someone like you.”
+
+Tim Ferriss: This happened on that trip?
+
+Craig Mod: Not on that trip. That happened a couple months later. So we ended up staying together for about three months, and basically it was about 10 years’ worth of lifetime.
+
+Tim Ferriss: The candle that burns twice as bright.
+
+Craig Mod: Yes. But losing her was probably the biggest psychic damage I’d ever encountered in my life as an adult. And I remember just lying in my tiny apartment in Tokyo, my six-mat tatami room apartment in Tokyo, it was 3:00 in the morning, I wanted to die. It was rock, rock, rock bottom. And this isn’t like a Rich Roll story, I didn’t get up and run 40 miles or anything like that, but I was like, all right, I’m going to start running. And I went out and I ran like 5k at 3:00 in the morning through the streets of Tokyo, and I was like that felt good. And I was like, okay, I need to stop drinking, and to stop drinking, I’m going to run this marathon in November — I think it was July when this happened — and I just started preparing for that.
+
+And these were actually the first steps for me to deliberately address this lack of self-worth that I’d been carrying around for all of my adult life, and that had, I think, driven me to drink the way I drank, to give into whatever those genetic impulses were, and to start to go, okay, we’re going to run, we’re going to be someone who runs. A lot of this is also very Atomic Habits-style stuff. It’s like, who are you going to be and how are you going to set yourself up to be successful? I’m going to be a person who runs, I’m going to be a person who doesn’t drink, I’m going to be a person who charges a lot.
+
+So I was, at this time with the publishing company thing, we were producing these books that were winning awards and making absolutely no money. And so I was consulting, doing web design consulting and stuff like that. And I was like, okay, I’m going to start charging absurd amounts of money for my time, and I’m going to see if people, the worst that can happen is people reject, and they started accepting it. And I was like, “Oh!” Little by little, all these stupid little steps, from the time I was basically 27 to 30, these were the most important years of tiny little steps of, okay, my time is more valuable, I’m going to be a person who runs, I’m going to be a person who can take care of himself. I still drank, even though I tried to not drink, but I started lowering it. It took me about four full years to completely get off the sauce in a really dangerous way.
+
+And part of it culminated in going to Nepal and climbing up to Annapurna Base Camp. And that was after we had broken up, and I felt like all the magic of my life was done. I felt like there was no way for me to experience magic again. I felt like she, and again, it’s this totally irrational sense of scarcity. The amount of scarcity I felt as an adult in my 20s is just shocking. It was this fathomless sense of scarcity, like the money’s not going to be there, the love isn’t going to be there, the support isn’t going to be there. And then when I lost her, I was like, I’m never going to have anyone who will ever love me like this person loved me, and I’m never going to be able to create like I created with this person. And I had to start proving to myself that that wasn’t true. And I climbed up, I was like, okay, I’m just going to go to Nepal, and I’m going to climb up Annapurna, go to base camp. It was a pretty random —
+
+Tim Ferriss: What’s the elevation on something like that, roughly, do you have any idea?
+
+Craig Mod: It’s headache elevation. That’s the elevation.
+
+Tim Ferriss: Headache elevation, yeah.
+
+Craig Mod: You’re definitely not comfortable. You’re definitely at altitude sickness levels. It’s like —
+
+Tim Ferriss: Yeah. That’s, yeah, 13,550 feet. That’s high. Yep.
+
+Craig Mod: Yeah, yeah.
+
+Tim Ferriss: It’s going to be enough for altitude sickness for sure.
+
+Craig Mod: Yeah. So I fly out there, I go to Pokhara, which is the town that kind of everyone starts the track from, I wasn’t going to hire a guide. At the last second, I thought, okay, maybe I shouldn’t do this alone. And I went to, like, the random guide shop, and I said, “Hey, do you have a guide that, like, I just want him to be there to make sure I don’t die. I need to be alone, this needs to be kind of like a solo thing,” I’m being a weirdo. And the guy’s like, “Yeah, no problem, no problem. Yeah.”
+
+He gives me this young guy, he must’ve been like 18, and he was the sweetest, most compassionate, incredible human. We bonded as brothers, but you know, he was calling me older brother, I was calling him younger brother, Dai and Bhai. And I got to base camp on my 29th birthday, and it was a full moon. And I put this thermos of coffee or hot water in my jacket, and I walked out to the edge of the moraine, looking out over, essentially, you’re on the moon up there. I mean, it really is incredible.
+
+Tim Ferriss: The edge of the — what did you say, moraine?
+
+Craig Mod: A moraine. There’s kind of like this moraine, there’s like this glacial —
+
+Tim Ferriss: What is a moraine?
+
+Craig Mod: A moraine is sort of like, it’s like when a glacier pulls back and it leaves this kind of valley, essentially.
+
+Tim Ferriss: I see. Got it.
+
+Craig Mod: And you’re kind of at this lip, and it is a huge fall down, but you’re also in this, not caldera, but you’re in this cradle. You’re surrounded by Annapurna and Machapuchare and all these other mega peaks. It’s just amazing. The base camp is in this cradle of just beauty and lifelessness. It’s like you’re on the moon.
+
+And I sat up there, and it was just a really important moment to sit there and not have a smartphone and not to be like taking photos and, like, trying to tweet or whatever. And that trip was so powerful to me.
+
+I came back and I was like, I have to write about this, and I have to write about the camera that I was using, and I have to create something from this. I have to wrest something from this experience, give it form. And I wrote this ridiculous camera review. That was kind of one of the first, I don’t want to say it was the first field review, you know how everyone does the field review of iPhone cameras and stuff now?
+
+Tim Ferriss: Yeah.
+
+Craig Mod: But this was early, I mean very early, this is 2009, and it was the Panasonic GF1. It was this tiny little camera that was actually made, I think it was made to market to women because it was meant to be this really tiny, cute camera, but it was also this amazing camera. And it was Micro Four Thirds, this new technology, this new sensor, and I was like, this is really kind of exciting, really cool. And I wrote about that, and the article went bananas.
+
+Tim Ferriss: What happened as a result of that article going bananas? What dominoes did that tip over?
+
+Craig Mod: That article was the first, I think, long form-ish, it was mixing design, it was mixing the web.
+
+Tim Ferriss: And when you say mixing design, that means you had multimedia components or a mixture of photographs and texts? What do you mean by that?
+
+Craig Mod: There was a lot of designers on the web like Zeldman, Jason Santa Maria, Liz Danzico, working in the early, mid 2000s, late 2000s, refining the CSS spec and showing CSS Zen Garden, showing what you can do with design and stuff like that. But it was always, there was blogs and stuff, but there weren’t really articles that were long-form designed in the same way you do for a magazine. There was a guy in Tokyo, who I was sharing a studio with, Oliver Reichenstein, who was writing this thing called Information Architects, and he was doing it. And again, this is like the power of archetypes. I’d sit next to Oliver and watch him work on these mega articles about typography or whatever and design these beautiful pages. And I was like, oh, that’s how the work is done, this is how long it takes, this is how much you have to refine.
+
+So I took that archetype of Oliver, who was generous enough to give me studio space in his studio, and I applied it to this walk and to this camera review. And this guide, too, there was this love that I wanted to give this thing, because we came down from the mountain, and the guide, his name’s Hom, H-O-M, and we come down, and we’re both saying goodbye, and it’s such an emotional goodbye, we don’t want to say goodbye. And he goes, “Dai,” you know, older brother, he goes, “A month before we met, my older brother died in a motorcycle accident, and I have not had any happiness since then. And meeting you, it was like meeting him coming back.” And we’re both just sobbing, like, “Oh, my God, I love you.” And so I came out of that Nepal experience believing in magic and believing in that kind of love and being able to generate it on my own, not having to have that person, and so, again, ratcheting up the sense of self-value and like I can produce these kinds of experiences on my own.
+
+And I wanted to give that to the article, and so I just worked on it for weeks and weeks and weeks, which is like, it was a long time. It wasn’t that big of an article.
+
+Tim Ferriss: Yeah, that’s a long time.
+
+Craig Mod: I was refining. I remember, hilariously, I was in New York for part of this, I was in New York City, and a friend was like, “Hey, do you want some Adderall?” I was like, “I’m working on this thing,” and they’re like, “Do you want some Adderall?” And I’m like, “Yeah, sure, I’ll try some. Give me some Adderall.” So I remember it’s I’m in Harlem, I’m at my friend’s apartment in Harlem, and it’s like 11:00 at night, I had never taken Adderall before. I was like, okay, I’ll try it, and I take a —
+
+Tim Ferriss: You take it at 11:00?
+
+Craig Mod: I think it was at 11:00, and I’m just up, I’m writing this camera review, I’m eating carrots and stuff, they had a bag of carrots. I’m like eating carrots like a rabbit, writing this camera review. I remember we were in Harlem, and it was like a sub, it was like a minus, it was almost like a basement apartment. I’m looking out, there’s people’s feet walking outside the window, and I’m like, I’ve got to write this review, I’ve got to write this review.
+
+Tim Ferriss: It was like Stephen King back in the cocaine sprint days. Yeah.
+
+Craig Mod: So I committed to this thing, and it came out, and it just got picked up everywhere. And it turns out there’s a reason why there was all these camera review sites, because I was smart enough to put affiliate links on it. And basically, in a month, it generated like, I don’t know, $20,000 in revenue. It was insane.
+
+Tim Ferriss: Holy shit, in affiliate fees?
+
+Craig Mod: For me, back in 2009 —
+
+Tim Ferriss: Which means, yeah, that’s wild.
+
+Craig Mod: We were selling like millions of dollars of these cameras. And I had always lived, because of the sense of scarcity, I had always lived pathologically below my means, and I had never spent — so my cost of living, one of the reasons I stayed in Tokyo throughout my 20s was my cost of living was so low, I could live in the center of this incredible city, and I needed to make $1,000 a month that would cover my rent, all my food and entertainment. It was just —
+
+Tim Ferriss: It’s so unexpected for a lot of people listening, because when we were growing up, it was like, “Tokyo’s the most expensive city in the world,” as a kid growing up on Long Island, that was what we heard.
+
+Craig Mod: Yeah. For sure. If you wanted to buy a hundred square meter apartment in Ginza, yeah, it was a lot of money.
+
+Tim Ferriss: Sure.
+
+Craig Mod: That is the interesting thing about Tokyo, is that there are options. You don’t have to live far in the outskirts. In every neighborhood, still to this day, there are affordable options. Yes, it’s small or whatever. Sometimes they don’t have baths, you have to use the public bath, things like that, but there are options, which is what is so powerful about this city. Again, we can talk about what I felt here that kept me here subconsciously about just being supported by society, and having those options to live in this place and to get the benefits of being in a big city and only needing to make $1,000 a month.
+
+Anyway, getting $20,000 was like, “Oh, great, there’s two years of rent, two years of living.” I got that in a month doing this thing, and it taught me there’s a financial sustainability to this. If I commit to these things and I try to transmute these experiences, these personally transcendent experiences into something that I give to other people, there’s a response to that, it resonates. That was exciting. Again, you could just hear this creaking, this ratcheting up of this meter, this weird old meter of self-worth like, “Oh, I have value. Oh, I don’t have to operate on such a scarcity mindset.” I did that.
+
+Then a month after that, the iPad came out, and I had been doing all of this book design. I’d been winning awards as a book designer. When I was 24, I was asked to be a judge in the Art Directors Club in New York City. I thought it was a joke email. It was one of the Winterhouse people. Again, talk about these people picking you out.
+
+Tim Ferriss: Remind me, Winterhouse, this is —
+
+Craig Mod: Winterhouse was this — just an incredible late ’90s, 2000s design studio, and one of the directors there was one of the people, board of directors for the Art Directors Club, and he had just been watching my work online. I was doing these experiments, we were putting out these books, and he’s like, “Oh, this kid is doing interesting stuff. He should come and be a judge.” I had these things that were happening that were signals that were hard for me to believe in. Always this is a fluke, this is a fluke. I’m not valuable. This happened accidentally. Then I’d go to the Art Directors Club and I’d meet all the people there, and I’d be like, “Oh, my God, I’m not supposed to be here.” It’s just this incredible infinite imposter syndrome.
+
+Anyway, but there’s this slow ratcheting up. The iPad comes out. Then I was like, “Okay, I’ve been doing these books. I’ve been doing a lot of digital work.” I’m like, “I can write about the future of books on the iPad.” Again, committed to this article, and I wrote this thing called “Books in the Age of the iPad.” I hit publish here in Japan at night. I went to bed, and I woke up. The New York Times had written about it. I had hundreds of emails in my inbox. It really changed my life. It was just suddenly I went from being this invisible person to being this voice about books and digital media and where things were going. I went to South by Southwest a month later, and it was just insane. Everyone I wanted to meet, all of these heroes, these design heroes, these design thinkers —
+
+Tim Ferriss: It’s good timing.
+
+Craig Mod: — everyone wanted to meet.
+
+Tim Ferriss: A week later, I mean, that’s incredible timing to go to —
+
+Craig Mod: It was a month later, but it was just the energy.
+
+Tim Ferriss: But the half-life of that article was still alive and well. Question, how much time did you put into that particular piece?
+
+Well, I remember writing and rewriting the intro like 50 times.
+
+Tim Ferriss: The reason I’m asking is that it strikes me, and this is a hugely leading question/commentary going into a question, but the fact that your camera review and your experience climbing Annapurna was rewarded after so much effort along the lines of, I guess it was Oliver, who put so much work into a creative project. You said earlier with the shortcut, you didn’t really know how to work yet. The fact that you were rewarded after putting so much into it is such a blessing, in a sense, because when I think of the work that you do, it’s like quality, quality, quality. There is a Jiro Dreams of Sushi aspect to it, but it could have cut a different way. I mean, you could have done something that was done fast and cheap and dirty and holy shit, your life would be very different potentially.
+
+Craig Mod: Yeah. I mean, part of what I was doing, I listened to the Brandon Sanderson interview. I mean, that’s an incredible interview, just talk about tenacity, infinite tenacity, what? Writing six, seven books before you go to the market to even try to sell them?
+
+Tim Ferriss: Oh, my God.
+
+Craig Mod: It’s crazy.
+
+Tim Ferriss: Yeah. Didn’t even try.
+
+Craig Mod: It’s crazy. It’s totally crazy.
+
+Tim Ferriss: Because he heard that your first five books are garbage, he’s like, “Okay, I just won’t even try to sell them.”
+
+Craig Mod: It’s totally bananas.
+
+Tim Ferriss: Oh, my God.
+
+Craig Mod: My tenacity was plowed into creating a lifestyle where I could always say no to things that I didn’t want to do, and I knew there would always be another creative or fine art project that I could commit myself to and could do so uncompromisingly. I essentially walked through my 20s —
+
+Tim Ferriss: When did you decide that? Was that after raising your prices and you’re like, “Oh, okay, wait a second.” When did you —
+
+Craig Mod: When I was 13.
+
+Tim Ferriss: Oh, really? Okay.
+
+Craig Mod: Well, because I grew up in an environment where we didn’t have an abundance, it’s not like I was like, we were going on these crazy vacations and had a yacht and it was like we had six houses and 15 cars, and I was driving around it. It was I wasn’t coming from this place of incredible abundance and then having to sacrifice. All through my life, I’d been trained ascetically.
+
+Tim Ferriss: You were like an accidental monk in training, like you said, pathologically living below your means.
+
+Craig Mod: Then as soon as I felt I had that one summer where I entered at the bigger company that paid me really well, and I was like, “Okay, this doesn’t work for me. This totally does not jive with my soul.” When I got to Tokyo and I realized, “Oh, wow, rent is this cheap? Cost of living is this cheap?” It just felt like it was a wormhole in reality where I could live in the biggest, most incredible city in the world, and I could pay so little and I could focus uncompromisingly, again, uncompromisingly on creative work. It was like I was doing programming experiments. I was working on those books that paid decently well, but not — I was literally making $15,000 a year, 23, 24, 25. I would supplement that by doing some CSS for A6 or something. But the point was always to be able to do the bookwork, to be able to do the experiments on the web digitally to do that stuff.
+
+And so, all of my 20s, I had cultivated that asceticism, and I knew that I’d done plenty of things that didn’t explode like those articles did. I was like, “Oh, I was just going to keep doing it.” I don’t know. I was just going to keep doing those things because there was so much inherent value to me doing them. I felt so drawn to it, and the process of learning to do them better, watching Oliver. Then learning from other people, meeting folks like Rob Giampietro, who’s an incredible designer and design thinker, Frank Chimero, who’s an incredible designer and design thinker, Liz Danzico, who I mentioned earlier, who’s an incredible designer and just amazing human. Meeting these people and watching them work and getting close to them and then just realizing how much value there was in feeling that, and just being happy with the ride. The fact that these articles did well and took off, it was bonus. It was dessert. Yeah.
+
+Tim Ferriss: Okay. We’re going to bounce around chronologically for a second. What are your main creative focuses now, or just in the last handful of years?
+
+Craig Mod: Making books. That’s it. Writing books.
+
+Tim Ferriss: Okay. Why? Because a lot of people listening, they’ll say, “Wait, books? I thought books are dead.” You just talked about the iPad. What books are we talking about? So why books?
+
+Craig Mod: Look, books have always been the focus since I was eight, nine years old. It’s like I’ve just always been drawn to them as objects. It’s always been there. Everything else has been a side quest in support of the books, in support of building up self-worth, in support of building up a financial foundation, in support of becoming independent, all of that. I mean, there’s a reason why I left college and I didn’t go back to Silicon Valley. I didn’t go to Silicon Valley, and I immediately helped start this independent publisher, because I felt so drawn to the power of these objects and the immutability of them. Even in the face of the rise of the internet, still to me felt like there was so much value there, and that value wasn’t going to disappear.
+
+Tim Ferriss: Got it. Just for clarity, because you’re implying it, but these are physical books, these are physical, beautiful artifacts, right? That people can interact with.
+
+Craig Mod: The whole thesis of that iPad piece too was like, “Look, don’t make throwaway books. Make incredible physical books. Make beautiful physical books that lean into all of the qualities that make physical things amazing.” The books that I’m producing, the books that I make, it’s like cloth bound. How do you do cloth bound with silk screen? Beautiful papers that open full bleed. Just every page, every spread is a lay flat spread. It’s like, how do you lean into this stuff, these qualities that can’t be replicated elsewhere?
+
+I’ve just been lucky in the sense that they’re still valuable and people are still really into books. We didn’t entirely throw them away. The digital stuff ended up being a red herring, and it never really went where we thought it would go, in part because of monopolies, in part because of Amazon overcontrolling the market, in part because there just isn’t that much money to be made in digital books, and so the investment side of things just really isn’t there. You almost need a Rockefeller who’d just be obsessed with digital books and they would fund it to great personal loss. They always say, “How do you make a good fortune? Start with a great fortune and found a publishing company.”
+
+Tim Ferriss: Or a restaurant.
+
+Craig Mod: Yeah. It’s like these aren’t profitable things, so all the money in tech goes to other places. Anyway, the digital book thing puttered out anyway.
+
+Tim Ferriss: Just as a quick side note, you must have, I imagine, enjoyed the Brandon Sanderson segment when he talked about the leather-bound books and the beautiful collectors edition, because who in publishing would’ve spotted it, I should say? In fairness, the larger publishers, say, in New York, they wouldn’t have. They’re not incentivized. They haven’t done it. Then he creates these collectors editions with tons of artwork, I have one on my shelf right back there, sells them for 200 bucks a pop, and lo and behold, boom, immediately sold out.
+
+Craig Mod: Not only sold out, but sold a lot of them.
+
+Tim Ferriss: A lot.
+
+Craig Mod: Tens of thousands. Yeah, just bananas. No, I mean, that story is interesting. All of my life I’ve been, all of my adult life certainly, books have been a huge part of it, and I’ve been making them. I’ve been working with printers, obsessing about paper and inks and design margins and all this stuff. Reading Robert Bringhurst’s Elements of Typographic Style over and over and over and over. It’s so dog-eared, my copy of it. This is not a new thing. It wasn’t like a couple of years ago, I was like, “Oh, books, yes, let me do that.” It’s just always been there.
+
+Tim Ferriss: It’s always been there.
+
+Craig Mod: It was really in about 2013, 2014 when I started doing the big walks, and the big walks gave me purpose to being in Japan because I was flailing. I was like, “Why am here? What am I doing?” Then the big walks were so, for me, transformative, exciting, fun, that I thought, “Okay, I need to start giving these things form,” much the same way, doing Annapurna, coming back, writing that article, giving that shape, digitally, giving it. But those containers, they’re still up on my website, though. Those articles are still up there from 16, 17 years ago. The design, the container was always really important. I was like, “Okay, these walks are becoming more and more profound for me personally. How can I give them shape?”
+
+Tim Ferriss: We’re going to double-click on the walks. I hate to interrupt, but I’m going to do it, because I don’t want to gloss over something you said, which is I guess around, if I’m remembering what you said 15 seconds ago, 2013 or so, you were flailing a bit in Japan, wondering why you were there. Was that always somewhere in the back of your mind or your thinking, “Why am I here in Japan?” If not, how did that surface? Why did that become an element?
+
+Craig Mod: As an adopted person, I think my entire life is defined by that flailing. You just don’t feel like you belong anywhere.
+
+Tim Ferriss: Got it. It could have just as easily been in, fill-in-the-blank, city in the US. It was just, “What am I doing here?”
+
+Craig Mod: It could have been anywhere, but obviously, Asia, living in a country where you are obviously the minority and where you can never become accepted as a true citizen, where you’re forever going to be an immigrant, you’re never ever going to be fully integrated is a weird choice. Again, it just comes from all this scarcity, trauma, self-worth, all this stuff. For me, I think being adopted, the narrative I concocted in my head was that I was thrown away. I had very few facts about who my birth mother was. I knew she was 13. I just assumed it had been terrible circumstances. I was born from a certain violence in the adoption paper that we had. It said the father had been — there’d been a car accident, and then he got in a fight at it and was murdered at the scene of the car accident.
+
+I was like, “Okay, there’s just violence everywhere,” so I’m thrown away. My self-genesis story that I concocted was one of just pain and like, “You don’t belong here.” I think part of what was great about Japan was that as soon as I landed, I felt a few things. One was society was taking care of people. I was walking past so many people every day in the street who were so much better taken care of than where I came from. I immediately felt that, and I was like, “Okay, this is interesting.” Across all socioeconomic strata, it wasn’t like, “Oh, everyone here is super rich.” It was like, “No, I get these people, but everyone is being taken care of in a way that I felt subconsciously, and because I will never be able to integrate fully, they can never throw me away.” I think as an adopted person, that — and this is —
+
+Tim Ferriss: There’s a safety in it.
+
+Craig Mod: There’s a huge safety of being in a place that can never throw you away because you’re never going to be part of the thing. I mean, it’s a really sad way of framing it, but that is 100 percent, I think, what for me made me feel comfortable here. I think for a lot of people —
+
+Tim Ferriss: I think that will actually resonate with a lot of people, because there are plenty of people who have their hearts broken or they feel like they’ve been hurt in some particular way, so they push falling in love away. You never fall in love. It’s hard to have your heart-broken, so therefore —
+
+Craig Mod: It’s all connected. It’s all connected. It’s all the same thing. The entire time I’ve been here, the plan wasn’t like, “Oh, I’m going to stay here forever.” It was always, “Oh, there’s an interesting opportunity. I’m doing this publishing thing. It’s going, well, I’m having fun. Cost of living is so low, I can be uncompromising about what I’m doing.”
+
+Excuse me. I was very lucky. I was going to New York quite a bit because of the publishing stuff, and so I didn’t feel trapped here. I think a lot of expats or a lot of immigrants to Japan in particular develop this anger or frustration connected with it, because you can never be fully integrated, you can never be part of this place, and yet a lot of people are just here as English teachers or headhunters, and their, I think, options for personal growth are severely limited, but then they get to a certain age where they can no longer go back home and they can no longer reintegrate back from where they came from or they don’t have the skill set, or they’re too old to go back and they develop this anger and this frustration.
+
+I was very lucky in that I was always engaging on an international level with people, and I was able to go to these publishing conferences because of the publishing company that I was part of, and I was able to do Art Directors Club stuff, and I was able to give little talks at universities about the books I was designing. I always felt like I had tethered to the greater world, and I was able to use Japan as this incredible tool to uncompromisingly work on the work I wanted to do and to build up this asceticism, this sense of asceticism. But I went to Silicon Valley because at the end of my 20s, as I developed this sense of self-worth, I ran out of people that I wanted to collaborate with here, and I just wanted to work on a bigger scale with people that were thinking bigger.
+
+Japan and Tokyo, for all of its megalopolis-ness, is a very provincial place. It does not think internationally. If you want to work on projects that are bigger and be around archetypes of people that are just thinking bigger, you have to leave. That was why I went to Silicon Valley, and it was dovetailing with all those articles, and I developed this little bit of online celebrity and mystique, and that allowed me to join Flipboard as employee number, like, eight or nine super early and just learn. Mike McHugh is this incredible guy.
+
+Tim Ferriss: What was Flipboard? For people who don’t know.
+
+Craig Mod: Yeah, I know. It’s so long ago now. Flipboard was like — the iPad came out, Flipboard came out six months later, and it was the most beautifully designed social media magazine.
+
+Tim Ferriss: It was a very big deal at the time. It was very, very buzz-heavy. This was something people were talking about.
+
+Craig Mod: It was the first app that needed a waiting list, because the servers couldn’t handle people. It was the first waiting list app. It was like you’d give it your Twitter feed and it would create a magazine out of all the articles, and it was just pages flipped. Marcos Weskamp designed it. It was just gorgeous. It was just beautiful. It epitomized. There was the Berg Group in London doing future studies about what books could be. There was a push pop press people, Mike Mattis doing experiments around digital design on the iPad, all these beautiful design experiments. Flipboard was part of that milieu of folks that were experimenting. It was like, great. Yeah, this is totally my wheelhouse of digital publishing, book design, beautiful design. I get to hang out with people who are the top, top of their class, just incredible pulsing humans, generous and brilliant.
+
+I mean, I moved out there, and I moved out to a house two blocks from Steve Jobs, old Palo Alto. I had two roommates, these two guys, Stanford d.school grads who just graduated. They were 24. I was 30. I just turned 30 when I moved out there.
+
+Tim Ferriss: d.school is the design school.
+
+Craig Mod: Design school at Stanford. These guys were such incredible people. I moved out there and I had gone from — I hadn’t realized what a dearth of hugs I had had in my life up to that point.
+
+Tim Ferriss: Sorry, you mean in Japan?
+
+Craig Mod: I had had no hugs.
+
+Tim Ferriss: Hug withdrawal, yeah.
+
+Craig Mod: I got to this house in Palo Alto, and it was just these two guys, we had no furniture. Our refrigerator just had hummus and kombucha in it. No one knew how to cook anything. I was sleeping on a yoga mat for the first two months, and then it’s a tatami mat, and he was in a little back room.
+
+Tim Ferriss: Jeez, a yoga mat.
+
+Craig Mod: Yeah, dude, man, hey.
+
+Tim Ferriss: What a youthful back you have, it’s resilient.
+
+Craig Mod: Just pure asceticism the whole way. Living in that house within Enrique Allen and Ben Henretig, these two guys and feeling their love, and these were two people who came from incredible families full of love and brilliance, that was life-changing to me. I met up with Liz Danziger a couple months after I moved in there. We went to have pizza in New Haven at Sally’s, I think, Pizza. Liz, after dinner, she took my shoulders and she just said, “Craig, you are a different human,” because we had known each other since I was about 26 and I was 30, and I moved into this house. It was like a sponge. I was so ready to accept this love of people and to work with these incredible people and just, I don’t know, again, believe in that self-worth ratcheting up. But the entire time I was at Flipboard, every weekend, I was getting paid $30,000 a month, $25,000.
+
+Tim Ferriss: Nice. Two years of Japan.
+
+Craig Mod: No, again, the rent in Palo Alto was 1,000 bucks a month for me, for my share of the house. I didn’t have a car. I just walked to the office. I was spending no money. I was like, “This is great. I’m just going to bank all of this. This is pure future freedom.” That’s all I saw it as. I told Mike McHugh, the CEO, I was like, “Mike, look, I’m not out here to work at this company forever. I’m so hungry to do X, Y, and Z, all these things I want to work on, all these things I want to do.”
+
+Being out there and being close to everyone,every weekend I would book a hotel in San Francisco and I’d go up there and I’d lock myself in the hotel room from Friday night. I’d do a late checkout on Sunday. Every weekend I would go up there and I would just write new essays about digital books and publishing. I couldn’t compromise. That part of me felt so — that writing part of me, the literary part of me, I could not compromise. That paycheck. What are the three most addictive substances, carbohydrates, sugar, or heroin and paychecks, right? That’s what they say.
+
+You feel it. Getting $30,000 a month, you feel that changing, the programming changing your chemistry. I had spent all of my 20s building up this asceticism and building up this ability to be uncompromising, and I didn’t want that to be broken. I forced myself to just keep writing militantly.
+
+I spent 15 months at Flipboard, and towards the end of it, Liz was like, “Hey, you should apply for a writing fellowship,” because all the writing was connecting me to amazing people. I connected to Kevin Kelly, because I was writing these essays and I was giving a talk in New York City and —
+
+Tim Ferriss: Kevin Kelly is going to be a callback for later. He’ll return.
+
+Craig Mod: He’s going to call back. I was on stage giving a talk with the New York Times people about the New York Times app, and I was talking about digital publishing, and I got this email when I got off stage and it was from this guy, Kevin Kelly, I’d never heard of. I was like, “Who’s this guy, Kevin?” Again, I just didn’t have — no one was teaching me about these things. I did not have a background. Silicon Valley as much as I admired it and wanted to be out there, I didn’t know the history of it. I showed it to someone. I was like, “Do you know this guy?” The person was like, “You don’t know Kevin Kelly?” He was like, “Yeah, you should meet with Kevin Kelly.” I met up with Kevin and he was like, “I like the way you think about publishing. Tell me about some tools.” I was like, “Who is this guy?”
+
+Tim Ferriss: It’s a good Kevin impersonation. Do you want to give just two lines on Kevin, just for people who have not heard my multiple interviews with him?
+
+Craig Mod: Yeah. I mean, he’s like the sage of the valley. He’s just —
+
+Tim Ferriss: Yeah, he’s got a big white Amish beard, built his —
+
+Craig Mod: Amish beard.
+
+Tim Ferriss: — own house.
+
+Craig Mod: Tiny guy.
+
+Tim Ferriss: Tiny guy.
+
+Craig Mod: Co-founder of Wired.
+
+Tim Ferriss: Exactly. It goes on and on and on. He, along with Stewart Brand are like the Forrest Gumps of Silicon Valley who have just been there for everything.
+
+Craig Mod: Yeah. I’m following my nose. I’m out here, I’m in the mix, I’m with these incredible people. I’m holding my own for the most part, but I keep writing. The thing I notice is the more I do the writing, the more it opens doors, the more it connects me to even more people who are the kinds of archetypes I wanted to be in my life. Meeting Kevin was just a clear example of that. I met Kevin probably eight months after I joined, and he’s like, “Come up to my house. Let’s do a walk in Pacifica and just talk.” I was just like, “Oh, my God.” I went up there, I did that walk with him, and I was like, “This is what writing does.” Everything that’s happening in my life that is blowing my mind, that’s connecting to me, to people who I wish I had known when I was a teenager, who I wish I had in my life when I was a kid, it’s all happening because of writing.
+
+I applied for this writing fellowship at MacDowell. Liz is like — I was like, “Where should I apply this?” And she’s like. “MacDowell.” I was like, “Okay, great. I’ve never heard of MacDowell.” This is the oldest writing residency in America, one of the oldest in the world of these formal writing residency places. It’s the hardest to get into. I didn’t know any of this when I applied. I applied on a whim. I get in, which I’m still not sure how I got in. It was pure luck that I got in, and I used that as my —
+
+Tim Ferriss: Maybe, maybe. Continue, though.
+
+Craig Mod: It feels like luck. I used that as my way of being able to get out of the company.
+
+Tim Ferriss: I didn’t know that was the way out. Okay, here we go.
+
+Craig Mod: Because these things become, like, family and you feel terrible leaving them. It upset a lot of people. I was one of the first people to leave, and I was like, “Liz, it’s not you, it’s me. I need to do these other things.”
+
+Tim Ferriss: Liz was upset after recommending it to you?
+
+Craig Mod: No, no, no. Liz wasn’t. Everyone at the company was. Liz wasn’t at the company.
+
+Tim Ferriss: I was like, “Wait a second, Liz. That seems unfair.”
+
+Craig Mod: No.
+
+Tim Ferriss: Okay, got it.
+
+Craig Mod: Liz was in New York. Liz was founding the Interaction Design Program at the School for Visual Arts.
+
+Tim Ferriss: I see. Okay. I was trying to put it together, because she said, “New Haven Pizza.” I was like, “Is New Haven a neighborhood outside of where I think it is?” Okay, got it.
+
+Craig Mod: No, no. But the Flipboard people were super upset. That’s one of the difficult things, is, these aren’t easy conversations to have to leave these things. I remember being like, “Okay, this is a great excuse. This is the most prestigious writing residency in America, and I need to go do this, and I’m going to use it as a break,” but it’s like a forever break. I did that and I went out there, and again, connecting me to these archetypes, I’m out there. I get to this place and I’m just surrounded by Booker Award winners.
+
+Tim Ferriss: Where is the writing residency, MacDowell?
+
+Craig Mod: New Hampshire.
+
+Tim Ferriss: New Hampshire. Okay.
+
+Craig Mod: Up in New Hampshire. You basically get a cabin, you’re out there from anywhere from a month to two months. They cook all of your meals, they deliver you lunch in a picnic basket to your cabin. A lot of the cabins have grand pianos and fireplaces, and it’s just this ideal scenario. You’re surrounded by the best composers and poets, artists, novelists, nonfiction writers. I went out there and I met a few people, one of whom was this woman, Lynne Tillman. From day one, it was just being so hungry and so ready and so accepting of being able to be around these people. I was just soaking it in. One of the first books Lynne recommended to me was Denis Johnson, Train Dreams. I’ve since gone on to read that book. It’s a novella. I’ve read that book probably 15, 20 times. I’ve mapped it out. There’s very few books I’ve actually sketched out.
+
+Tim Ferriss: Why so impactful? Why so interesting?
+
+Craig Mod: The language, the poetry of it, the story, the conciseness of it, the economy of the language. I mean, Denis Johnson’s first and foremost a poet, and then he does novels as well. There’s a lot of people that fall into this category that I love. Denis Johnson’s a big one. Ocean Vuong is a more contemporary one. Ocean Vuong.
+
+Tim Ferriss: Oh, yeah, Ocean Vuong is amazing.
+
+Craig Mod: Mega poet who then catapulted into novel The Autofiction Land. Michael Ondaatje, he’s first and foremost a poet. You read things like Coming Through Slaughter, and this is a book of poetry in a form of novel/historical fiction. I mean, it’s just incredible. These are the things that spoke to me.
+
+Tim Ferriss: I have to just selfishly hijack for a second here to recommend a book that I always hesitate to recommend, because it fails for nine out of 10 people, maybe 99 out of 100 people. I failed reading it three times before I finally crossed the Rubicon, which is this scene in the book where there’s a talking fish. That’s all I’ll say. You’ve got to get to the talking fish. But John Crowley, also a poet, Little, Big is the name of the book. It checks the boxes that you’re talking about.
+
+Just a recommendation, Little, Big by John Crowley. He takes a lot of time. There’s a lot of foreplay before you get the momentum needed, but I will recommend that one as well. You’re there, Train Dreams, you’re getting your picnic baskets. I want to bookmark that to just ask, the hotel rooms, booking the hotel rooms in San Francisco from, what was it, Friday to Sunday, was that something you came up with on your own? Was that a recommendation from someone else? I’m very curious, because I’ve done this before only a few times. I was inspired by Maya Angelou who used to do this all the time for writing. Even though she had space at her house to write, she would go to a hotel and she would do this. How did that come about, and why did you need to do that? I suppose maybe better than a yoga mat in a crowded apartment, but it’s just the back story.
+
+Craig Mod: It’s a classic trope, right? I mean, the writer locked in the hotel room by the editor until he finishes the manuscript. It’s just the classic trope. I was living in Palo Alto and I was like, “I want to explore the city a little more.” I’d write all day and then I’d go walk around at night, which maybe in San Francisco isn’t the smartest thing to do, but that was my strategy. It just, again, felt intuitive like, “Okay, it removes me from the scene.” All my friends in California were in the Bay, and so I could go to San Francisco. I didn’t know anyone. I could just be up there and there was a mystery to it. I’d stay at the Four Seasons, and there’d be this — because I was making all this insane money, I was like, “Okay, I can spend 300, $400 on a hotel room. Sure, this will be my treat.” It’d be these opulent, bizarre, very, not ascetic spaces, but the city would be out there and I’d just be working. Then I’d go walking downtown, walking North Beach at night.
+
+Tim Ferriss: Jesus.
+
+Craig Mod: Going into —
+
+Tim Ferriss: I Am Legend.
+
+Craig Mod: Going into weird little bars. I would still have a whiskey every now and then, and it would just like to be able to go out and be in the mix and be mysterious and be on — I don’t know. It all fed into being able to do the work well.
+
+Tim Ferriss: Dig it. Okay. Then flash forward, this is one hell of a Memento-like montage that I’m painting here. Now, fireplace, New Hampshire picnic baskets, what does that do for you? What does that fellow — by the way, they’re going to hate me for this, but every time you say MacDowell, I think of McDowell’s from Coming to America. “They’ve got the golden arches, we’ve got the golden M,” but what does that do for you, being a part of that?
+
+Craig Mod: I mean, the biggest part was being around people who were doing “serious art” and feeling like you had been selected to hang with them. The structure of it, it’s really great, because basically you don’t talk to anyone from the moment you wake up until dinner. Then dinner, you’re forced to eat with everyone, which is great, because at the end of the day, there’s a tether to reality out there outside of your book or your composition or whatever. We would have dinner and then we’d have very fierce ping pong competitions, which would get, sometimes, almost like, violent. There definitely were some friendships that were broken up because of ping pong.
+
+Tim Ferriss: All that pent-up creative angst. Nowhere to go but ping pong.
+
+Craig Mod: There’s very little sexual activity as far as I could ascertain, but there was a lot of ping pong repression coming out. Anyway, with any of these things, it’s like being in a room with people doing great work, committing to great work, and hearing them talk about it, hearing talk about what they had worked on that day, what they were struggling through, again, it just set these archetypes. I mean, just that deficit I felt when I left and I got to school was just a deficit of archetypes, the deficit of templates of how to live and how to be in the world. Each of these things from when I was aged, basically 29, 30, 31, connecting with Kevin Kelly, being asked to give these talks, going in the Art Directors Club as this weird little coda when I was 24, going to MacDowell, hanging out with these people who are winning these incredible awards, and working on great, really, truly great — they were giving readings at night and I was just like, “Oh, my God, I can’t believe I’m here with these people reading this level of work.” It just feeds into that sense of, “Oh, maybe there’s value here and maybe I have something to bring to the table.” That was the biggest takeaway.
+
+Tim Ferriss: So I’ve got a couple of thoughts I’ll throw out for you, Craig. Number one is I suggest we just do two recordings. We’re not going to cram everything into this conversation. There’s no fucking way.
+
+Craig Mod: Okay.
+
+Tim Ferriss: And I don’t think we should try. I think we should just do two episodes so we can put them out very close together, maybe back to back. That’s my suggestion, because we have so much to talk about and there’s no reason to rush it. There’s just zero reason. If you’re open to it.
+
+Craig Mod: Sure, yeah, yeah, yeah.
+
+Tim Ferriss: So that would be the first recommendation. I mean, the huge walks are such a huge chapter and such an important chapter, and I think people will benefit from that so much. I think we get there. We will talk about the new book before we wrap, but we’re already at one hour, 45 minutes. So if you’re cool with it, I’d just say we do two. And maybe we record tomorrow. Maybe we record the day after and just —
+
+Craig Mod: Perfect. Let’s do that.
+
+Tim Ferriss: Great. I think that’s what we do.
+
+Craig Mod: Love it. Love it.
+
+Tim Ferriss: Because people are going to want more. Trust me, folks, if you’re listening, you want the round two and you want to continue listening.
+
+But I want to ask you for the, and I don’t know what label to apply here, for the creatives or aspiring creatives listening. On some level maybe I will put aside, and this is not to denigrate anyone who self-identifies this way, but content creators because I think that can turn into a shrimp farming exercise where volume is the game. I want to maybe just put that aside for a moment. But for people who are drawn to some art form, some medium, could be photography, it could be writing, could be fill in the blank, you didn’t have an archetype, let’s say you’re teaching a class, now you’re the archetype, you’re up in front, you’re the Sharka, maybe you’re not as brutal, but you are up there. What are the types of things that you would teach or focus on or assign as exercises or readings or anything else? What might be some of the ingredients in that class?
+
+Craig Mod: I mean, I would say all of the work that I’m most proud of and the work I’d say that is the first real work of mine that I feel like is truly me finding my groove, hitting my stride has all happened in the last six years. And it’s all connected with walking. So if I was running a class, we’d be doing a lot of walks. I’d say all of this meeting these archetypes, going to MacDowell, working in Silicon Valley, getting all these hugs from Enrique and Ben, all of this was leading up to allow me to lean into the walking in the way that I did. It was in the walk that I found how to truly commit to the work. I know this sounds very woo woo and weird and circuitous, but —
+
+Tim Ferriss: No, it’s not because I actually know more of the story, so people will get it when they get it.
+
+Craig Mod: Yeah, yeah.
+
+Tim Ferriss: All right, lots of walking.
+
+Craig Mod: Lots of walking. I mean, honestly, a big part of, I think, for most young people today, is just getting offline. Just block the internet using apps like Freedom. Turn your smartphone off. Don’t sleep with your smartphone in your bedroom. I mean, these are very easy things, but most people don’t do them. I haven’t slept with a phone in my room ever in my life. I’ve never had the phone in my room. Sometimes I lived in such small apartments, I just put it in the kitchen on the stove because that was the only other unit of my house that was not my bedroom. It blows my mind that so many people have the smartphone in the room, just having it on the table.
+
+When I am in serious writing mode, on my deadline, I need to get stuff done, I have the phone in such a place that I will not look at it or touch it or engage with it until at least after lunch. That is the soonest I’ll touch it. I feel palpably the chemicals in my mind shift as soon as I look at it, as soon as I touch it, as soon as I acknowledge it as an option. I feel that those chemicals that get activated, the dopamine, whatever, casino, those chemicals are 100 percent destructive of the creative impulse that allows people like Denis Johnson to produce Train Dreams or to do that kind of deep poetic work. They’re at odds.
+
+I think the thing you’re talking about with content creators, there’s a certain kind of ephemerality there. The work that I’m trying to do and I think the work that speaks to me is not ephemeral. It’s immutable. It’s sort of out there. It’s the thing you keep coming back to. There’s nothing I like more than rereading books. I mean, it’s bad, I reread so many books, and I just keep coming back to them over and over and over again. That to me is kind of the greatest gift of art, is to be able to rewatch things, to reread things. When’s the last time you rewatched a YouTube short or something like that? You’re like, “Oh, yeah, let’s go back.” Whatever. There’s goofy things that you’ll rewatch, but this relationship over decades you can have with an object, with a story, I think is really powerful. And to me, that’s always been the thing.
+
+Tim Ferriss: Besides Train Dreams, what books have you reread a lot?
+
+Craig Mod: Annie Dillard’s Pilgrim at Tinker Creek. I mean, just pure — man, if —
+
+Tim Ferriss: Pilgrim at Tinker Creek?
+
+Craig Mod: Creek, yes.
+
+Tim Ferriss: Okay.
+
+Craig Mod: And it’s really frustrating because this is I think the first book she published. She was in her 20s when she wrote this. She went to live in this cabin —
+
+Tim Ferriss: I think I see where this is going.
+
+Craig Mod: She went to live in this cabin near Tinker Creek, and she just wrote the most beautiful poetic diary, narrative nonfiction description of what it was like being out there. I don’t believe in mental blocks or writer’s block or anything like that. If I wake up in the morning, make a nice cup of coffee, my phone is out of sight, I’m not thinking about any of that crap, I’m not looking at notifications, make this nice cup of coffee, I’m smelling these beautiful Ethiopian beans, I sit down, if I’m like, “Oh, I don’t really feel like writing” or “I don’t feel like the juice is…” I pick up Annie Dillard, I literally flip to any page, I read two paragraphs. I can’t stop myself from running over and starting writing. It activates something in my brain so strongly, so immediately. I love it.
+
+I’ve never met her. I would love to buy her a beautiful steak dinner if that’s the sort of thing she’s — I don’t eat steak, but maybe she does. I feel like that’s the thing you’re supposed to buy people. I’d love to buy her an amazing dinner. Her book, her writing, her voice, her way of looking at the world, her way of showing me what’s possible in terms of creativity of prose, of looking at the most mundane thing and making it so beautiful and quirky and weird. The opening scene of a cat with blood on its paws walking over the blanket and her waking up to find that, it’s like little pet flower petals. It’s like just all of it, finding that beauty, that is so infused how I try to engage with the world when I’m out on my big walks. I love it.
+
+My thing now is I try to find first editions of these books and then I go through and I try to mark them up again. There’s nothing I love greater than marking up a first edition because I think that’s the greatest honor you can give to a book. This idea of being precious with it, what am I going to do? Hold onto this stupid thing for 30 years and sell it and give my stepdaughter 200 bucks that I got for this first edition so she can buy a bowl of ramen or something, which is probably going to cost 200 bucks in 30 years? It’s like, no, mark up the books. If you buy my books, please write in them, dog ear them, use them. That is the greatest part of them as objects is putting your imprint on it and then coming back to it year after year, decade after decade, coming back to these things.
+
+So anyway, Annie Dillard, Pilgrim at Tinker Creek, so moving. Lynne Tillman, one of the people I met at MacDowell, any of her stuff. She has a great book that just came out called Thrilled to Death, which, if you’re going to start anywhere with Lynne, she’s so funny, she’s so no bullshit. I love her. I love her so much just as a human. I love her voice. You can look up how old she is on Wikipedia. She’s in her 70s. She’s been in the same East Village apartment for 40 years. She is this institution of the New York literary community and you just feel her pulsing with that New York voice and it’s so funny and incredible. This Thrilled to Death is a collection of her short stories over her entire career, and it’s amazing.
+
+Tim Ferriss: Amazing.
+
+Craig Mod: Stuff like that. Other contemporary writers, Sam Anderson, who writes for the New York Times Magazine, Sam Anderson is amazing. Also, his favorite book is Pilgrim at Tinker Creek. He has the most generous, hilarious voice. He just wrote this incredible narrative nonfiction piece for the magazine about the legend of Leatherman, who is this guy who roamed — he walked this circle in Connecticut in the 1800s and he wore a suit of leather and he became folklore of all these towns. People would give him bread and give him coffee. He got so sick he couldn’t chew things and he would dip everything in coffee and he’d eat cakes by dipping them in coffee.
+
+I’ve known Sam for six or seven years. Again, we connected because of writing. Again, literally everyone in my life that I love, that I want to hug, that I’ll die for, that I want to protect with all of my life force, it’s all connected to writing, all of it, every single thing. It’s shocking. So it’s easy. You asked early, “Why books?” an hour ago you asked me why am I doing books, and it’s like it is just undeniable that a fullness of life that I find is found through the writing and who that connects me with and the adventures it brings me on.
+
+Tim Ferriss: Well, let’s talk about your own writing, and specifically let’s talk briefly about Things Become Other Things. And then we will not try to cram too much into this. I mean, we’ve covered a hell of a lot of ground, we’re already at two hours. So let’s talk —
+
+Craig Mod: Sorry.
+
+Tim Ferriss: You don’t have to be sorry. I mean, this is what I want. When you’re like, “I’ll truncate this,” I’m like, “Don’t truncate it.” This is not TikTok, this is long form. I want to encourage my listeners to engage with long form because if you’re playing the short game, even as a consumer, you are training yourself — you are being trained, maybe, is a better way to put it to become something that I’m not sure you want to become. So Things Become Other Things, tell me and tell us about Things Become Other Things.
+
+Craig Mod: It’s my forthcoming book, coming out with Random House. This is a huge leap for me. I’ve always been fiercely independent. I produce my own books that are kind of fine art editions that sell for 100 bucks a copy, that are printed and bound in Japan, like I showed earlier, silk screen, foil stamps, stuff like that. But I was working on this story for this book, and this book is about a walk I did during COVID on the Kii Peninsula of Japan, which I’ve been to many, many, many times. And this is the peninsula south of Kyoto. So if you look at Honshu, I describe it in the book as the dangling penis of Japan, this peninsula. If you look at —
+
+Tim Ferriss: Honshu, for people who don’t know, yeah, do you want to just lay out the main islands of Japan so people know where we are?
+
+Craig Mod: You have Hokkaido up at the top, then you have Honshu, which is the big banana with the little dangly penis, which is the peninsula. You’ve got next to the penis, you’ve got Shikoku, which is where the 88 Temples Pilgrimage is. And then next to that you’ve got Kyushu, which is the bottom of Japan.
+
+Tim Ferriss: Down south.
+
+Craig Mod: And then far away you’ve got Okinawa. But the Kii Peninsula is south of Kyoto, south of Osaka. It’s Mie and Wakayama in southern part of Nara Prefectures. I’ve been going there for about 12 years, 13 years. I’d say that most of my walks have taken place there. I’ve walked thousands of kilometers of the peninsula and probably my most profound walk happened during COVID, the height of COVID. It was 2021, Japan was still locked down. We still didn’t know where this was going. Vaccines, I think, had not even arrived here yet. May of 2021, we didn’t have vaccines in Japan yet. They came in July/August. I was like, “Well, I’m going to go on a big walk.” It’s like, “I’m being careful. I’m tested. I’m not going to spread anything.”
+
+I went on this walk. It was about 600 kilometers, it took about a month. I was writing. And we can talk about my walking and writing practice. I have this whole ascetic practice connected with how I walk and how I write. But this walk in particular, I was writing every day two, three, 4,000 words, photographing every day. I was thinking about life, and one of the things I started to reflect on, partially because in this COVID moment where I think for a lot of folks it was this moment of reflection, everything slowed down, everything stopped, and it was the first time as an adult I went back to my childhood. I thought back to this childhood friendship I had. As I was walking the peninsula, I’d see little kids every now and there. Aren’t that many kids left in Japan, certainly not on the peninsula. I’d see little kids every now and then coming back from school at the end of the day.
+
+It started me thinking about this friendship I had with this kid, Bryan, when I was in elementary school, he was my best friend. He was the closest thing to a brother I had. We grew up side by side in elementary school. I happened to test a little bit better than he did, and it put me on this different track. We still had a gifted program back then. I was lucky I was able to go into the gifted program because I tested a little better. That exposed me to computers. They had one Commodore 64 or something and I used LogoWriter and that got me thinking about Bryan. It’s like you see how these things kind of compound, these small chances, these small lucks, these small opportunities. I got them and Bryan didn’t get them.
+
+By the end of high school, we were so separated. My high school was called out during the first Trump administration by Betsy DeVos. I think that was the Secretary of Education. She called out my high school as one of the worst high schools in America on a national speech. My friend Bryan was going to the high school that bad kids went to that couldn’t hang in my high school. So it’s like you can imagine where Bryan was. We graduated high school and just a few weeks after he graduated, he was murdered. That murder, that loss — we basically stopped talking after middle school just because of you get separated and then your friend groups change.
+
+Tim Ferriss: Yeah, you drift.
+
+Craig Mod: You don’t know how to bridge that gap. You don’t have the emotional intelligence as a kid to think about that gap. I always thought at some point we would be able to reconnect. Half of my childhood lived in his brain, and his death was like losing half of my childhood. It was losing this brother. Being adopted, again, what does blood mean? How does family get created? He was absolutely as much of a brother as anyone.
+
+I tried to engage with our friendship, our brotherhood, in short stories. Actually, the first short story I ever had published was published when I was 18 at university in this national writing competition, and it was a short story about me and Bryan and some of our antics. And so there was an impulse in me to write about him, but I didn’t know how to. I tried a couple more times in my early 20s, it never worked. And then on this walk, I started thinking back about him and it was the right time.
+
+And so I basically ended up doing this walk. I wrote about this walk, and Bryan snuck into the narrative in a way that I did not expect. And so this book, it is this walk, but it’s also about our friendship, our childhood. It’s about being failed by the systems. Why were we cleaved apart? We’re side by side in first grade. How should two kids side by side end up in a position where I feel like I have to run away halfway around the world and he gets murdered? It’s like him getting murdered — the crazy thing is that wasn’t a big shock when you saw what was — there were gangs. We had security guards in my high school, whatever. We didn’t have metal detectors, we weren’t quite at Baltimore, The Wire level of intensity, but it was serious. You couldn’t wear certain colors because they were gang-related. The head of security, it turns out, the FBI busted in one day and tackled him, arrested him. It turns out that he was a bank robber. It was just insane.
+
+The book just meditates on the fact that Mie and Wakayama are both working class and industry prefectures that have lost the industry, have lost the workers, have lost the jobs, and yet there is a foundational social support network in place where the people aren’t falling as far as I saw people fall. And certainly people aren’t getting murdered. And certainly people aren’t joining gangs or whatever. And certainly people aren’t dealing with opioid crises and things like that. It’s a joyous memory of this friendship I had with Bryan, and it’s also this elevation of all these wonderful characters I meet on the peninsula. I love everyone I meet. I’m talking to fishermen. I’m talking to old farmers. I’m talking to women who are running old cafes, kissaten, in the countryside, who are super surly and chain-smoking. And I’m like the first person who’s come in in days and they’re just like, “Sure, come on in. I ain’t got no toast, but I got a lot of cigarettes and coffee for you, kid.” That sort of thing.
+
+I just love all these people. It’s a book about elevating who they are, elevating this peninsula. The paths I’m walking are these thousand-year-old, 2,000-year-old pilgrimage routes. And the history, I’m walking past stone markers that are 2,000 years old, I’m walking past pilgrim graves. I’m going to the holiest shrines, these foundational myth shrines of Japan. You say Jingu, I’m walking down past Kumano, I’m walking past the most Holy Rock, the foundational rock where the Sun Goddess was born from. So this history of the country comes from this peninsula. It’s so atavistic in so many ways. And so it’s a book about celebrating that, celebrating the people who live there, celebrating the industry, and celebrating this beautiful friendship I had with this kid Bryan because no one is going to be able to remember him like I can. I feel like I had a duty to remember this guy.
+
+Tim Ferriss: When does the book come out?
+
+Craig Mod: It comes out May 6th. The reason why it’s coming out with Random House is I just felt like this story deserved a bigger platform than I could give on my own. And so I went around and I was able to connect with an amazing editor who really got the book. She helped me elevate it to a place that I couldn’t have gotten it to on my own. I hope through Random House they’re going to make a lot more books than I could make. It’s going to cost a lot less than my books cost. My goal is to really expand the ideas of my walking practice, I write about my walking practice in this, but also just exposing this part of Japan. You are not going to be able to go and engage with this part of Japan on your own unless you’ve lived here for a long time and can speak the language and can understand the dialects and get the history. You’re not going to be able to show up and go to this place and kind of dig in it in the way that I’ve been able to in this book for you. And so, whatever, William Gibson blurbed it for me and —
+
+Tim Ferriss: Wow.
+
+Craig Mod: — that was like the hand of God coming down and saying, “Yes, I approve of your work.” It’s about illuminating this part of Japan that you’re not going to have access to. I’m proud of the book. I’m proud of where we got it, and I’m excited, so excited, for people to read it and I want to engage with people about it.
+
+Tim Ferriss: Amazing. For people who don’t know William Gibson, who is William Gibson briefly? I mean he has a quote that people see in Silicon Valley quite a lot, which is pulled from Neuromancer, I believe, which is, “The future is already here, it’s just unevenly distributed,” something along those lines. It might be from that book, but legendary writer.
+
+Craig Mod: Basically, whatever, the progenitor of cyberpunk to a certain degree, but also he’s a guy who has seen, I think, the coolness of Japan before most of the world saw the coolness of Japan. He’s written great books that involved Japan. Pattern Recognition is an incredible book. I read it once every couple of years. It’s beautiful. There’s a lot of poetry in it. It’s a cool story, and it captures this quirky early 2000s Japan, which is really cool. So anyway, so William Gibson, he’s a big deal. And the fact that —
+
+Tim Ferriss: Yeah, he’s big deal.
+
+Craig Mod: — he blurbed it was pretty cool.
+
+Tim Ferriss: That’s so fun. And for people who are listening, I checked on this, so Things Become Other Things, beautiful cover. I’m sure the writing is beautiful. I encourage people to read everything they can of yours. It is available for pre-order, so go pre-order the book. You will not regret having this book. I can say that with very, very high degree of confidence and I very rarely maybe ever say something like that. But having a number of your books behind me, maybe about a bookshelf behind the wall that is behind me, and having spent time with you, having watched you write — you glossed over something that we’ll talk about in part two, but two to three to 4,000 words a day, what the fucking hell?
+
+Craig Mod: Yeah, after walking 30 kilometers.
+
+Tim Ferriss: Yeah, that is a lot of words. You and Brandon Sanderson, what am I going to do with you guys? So we’ll talk about that. Where else can people find you if they want to dip their toe into Modland and get a taste?
+
+Craig Mod: Craigmod.com. Craigmod.com.
+
+Tim Ferriss: Thank you.
+
+Craig Mod: In service for 23 years now, I think, that domain.
+
+Tim Ferriss: In service.
+
+Craig Mod: The big thing I do that’s enabled a lot, and again, to maintain this fierce independence, we can talk about the Random House deal in part two as well because there’s some interesting things about it that actually dovetails with what —
+
+Tim Ferriss: Would love to.
+
+Craig Mod: — Brandon was talking about as well. I have a membership program called Special Projects that have been running now for six years, since 2019, and that, combined with the walking — and actually, that gave me the permission to start committing to these big walks. So it’s like everything builds on everything else slowly, slowly, slowly, slowly, and then you realize you’ve created this pretty big ladder of stuff. And so the membership program, if you join that, not to shill, but the membership program gives you —
+
+Tim Ferriss: You’re on a podcast, you may as well.
+
+Craig Mod: It gives you access to all of the archives of all the writing I’ve done on my walks and 120 hours of videos where I run board meetings every six months and I talk about what I’ve done, the projects I’ve worked on, how they’ve gone, what we’re going to do in the next six months, and I filled Q&As from the members. I’m so lucky, my members are smart. They ask great questions. They’re creative. They’re wonderful people. So you get access to this huge archive.
+
+The whole reason I make everything I do in the membership program is me speaking to myself when I was 20 and desperate and hungry and drinking myself into the pavement and wishing I had an archetype, wishing I had some kind of flashlight to show me how to do the work I wanted to do. This is me wishing I could give this to myself back then. And so it’s free for students. If you’re a student, you just email me and say, “I’m a student,” you get it for free. I’m very loose about what constitutes a student. If you think you’re a student, you’re probably a student. Just email me and say, “Hey, I’m a student.” I believe you.
+
+I’ve had people send me photos of their student IDs. Don’t send me a photo of your student ID. It’s free. I’m happy to give you those memberships, to give access to that stuff. But what the membership allows me to do by keeping some of this stuff behind a curtain is I can be a little more vulnerable than when I’m out in front of my big newsletters where I send out to 50,000 people or 60,000 people or whatever. When it’s a smaller group, I’m able to be more vulnerable, more honest, and the Q&As and stuff like that feel a little more intimate. I create a little bit of artificial scarcity, artificial friction to enable us to have a deeper conversation I hope.
+
+Tim Ferriss: And people can find that at Craigmod.com as well?
+
+Craig Mod: Craigmod.com/membership.
+
+Tim Ferriss: That’s where people can find it all. So we were going to discuss so many things and we are going to discuss those things in round two. One of them is the membership community because you have very clear rules that also make it vibrant and prevent it from becoming a monster you need to feed, that consumes rather than enables your creative life.
+
+Craig Mod: Exactly.
+
+Tim Ferriss: So you’ve figured it out over time, and we are going to talk about that. There are so many things we’re going to talk about. It was just foolish of me to think that we would be able to cover all of it in two hours. Fucking ridiculous, there’s no way. So anyway —
+
+Craig Mod: You were like, “Hey, let’s start with eight years old.” And so —
+
+Tim Ferriss: I knew there was, I don’t want to say a risk. I knew there was a distinct possibility that that would take us afield, but we never would’ve gotten to being possessed by demons or spirits, I don’t want to smack talk —
+
+Craig Mod: They were probably [inaudible].
+
+Tim Ferriss: — whatever happened to end up in you when you were cradling some invisible object asleep overseas. But this is the fun of long form for me.
+
+Craig Mod: Yeah, yeah, yeah, I love it.
+
+Tim Ferriss: Because I don’t want to know exactly where it’s going. So much of my life is regimented. So much of it is planned. There are so many times when I execute to spec. Part of what I’m trying to inject more in my life, whether it’s playing with fiction and just starting with a few characters and a scenario and letting it rip, or having conversations like this, especially with someone I’ve spent time with, is ending up in unexpected corners. I mean, there’s so much to that, and it’s similar in a sense, I mean this is perhaps not the best comparison, but when you say all of the best things or so many of the beautiful relationships have all come from your writing, part of that is not overplanning, right? You focus on the work, you create beauty and quality, and then you release it into the wild and you see what happens, right?
+
+Craig Mod: It becomes theological. It really is.
+
+Tim Ferriss: Yeah. Yeah.
+
+Craig Mod: It’s totally faith-based. I mean —
+
+Tim Ferriss: Oh, man, yeah.
+
+Craig Mod: — what creative practice isn’t? What great creative practice isn’t? I mean, my favorite moment of a documentary about photographers is the Sally Mann documentary. Sally Mann did all these incredible —
+
+Tim Ferriss: How do you spell that, Sally Mann?
+
+Craig Mod: S-A-L-L-Y, Sally, and then —
+
+Tim Ferriss: M-A-N?
+
+Craig Mod: A woman. M-A-N-N I think is her last name.
+
+Tim Ferriss: I see.
+
+Craig Mod: Yes, if I say it fast it sounds Salliman. No, Sally Mann. She has all these gorgeous, ethereal, black and white photos of her family that she took. She gained so much notoriety. And anyway, there’s this documentary about her, and in the middle of it, she’s working on a new set of works and she’s getting rejected by a gallery. She has this total breakdown and you just go, “Oh, my God, someone like Sally Mann at the peak of her career can still have a breakdown.” It really is so theological, this belief. You just have to believe and keep pushing and keep pushing, and she pushes through it and she creates some great work and, whatever, has a great show and blah, blah, blah. But you have to cultivate that belief. Having your cost of living be 1,000 bucks a month for everything all in is an easy way to help cultivate that belief. It’s like you could be uncompromising about it.
+
+Tim Ferriss: Mm-hmm. All right, Craig, we are going to very quickly record and release round two. Everybody who’s listening to this should tune in for that for sure. My God, I mean, honestly, in part because — I’ll just give people a quick teaser, right? With the exploratory bullets, and I ask all guests to send ideas for exploratory bullets, we literally didn’t get to effectively any of them, right? I mean, the huge walks, walking as a tool for focus, reclaiming attention, your rules for walking, the art of slowness, your wild, strange celebrity in Japan around midsize cities, didn’t get to that. The Kevin Kelly saga continues. We did not get to that. The very wild, incredible stories related to adoption, adult chapters, and all of that and more we’re going to cover tons and tons. I promise everybody, I won’t start at eight years old. We’ll stick to the script a little bit more.
+
+Craig, at least for this conversation, anything else you would like to say, any comments or anywhere you’d like to point the people listening?
+
+Craig Mod: It’s difficult because it’s like the people who probably need to hear these things won’t be listening to this podcast or maybe don’t even know this podcast exists. So that’s often sometimes the difficulty in getting information to folks. But I think the artist residencies are one of the coolest things that we have. Most people overlook them or think that the bar to entry is so insurmountable that like, “Why should I even try to go out?” Got out, and there are huge lists, and once you start to crack the code, once you start applying, and you should aim to get rejected by a billion of them, but once you get into one or two of them, you start to understand the code a little more. And my God, they’re so much fun and so interesting, and they are such a way to level up your practice, whatever your practice might be, to be surrounded by people who are also committing themselves to it, working hard, and providing unexpected archetypes.
+
+I’ve had so many great friendships come out of — I’ve done MacDowell, VCCA, Tin House, Ragdale as a few of them. And all of them I’ve come out with just amazing friendships and I’ve got a lot of great work done too. So please go investigate. And if you’re a rich mother-effer listening to this thing, donate, donate to support these things. I mean, these are incredible, incredible institutions that don’t require a lot of money to have a huge impact. And so being able to provide more scholarships and things like that, it’s pretty powerful, pretty powerful stuff.
+
+Tim Ferriss: Love it. All right, everybody, the end.
+
+Craig Mod: The end.
+
+Tim Ferriss: Craig Mod, craigmod.com, you can find all things there. So nice to see you, bud.
+
+Craig Mod: You too.
+
+Tim Ferriss: It’s been a minute and we will —
+
+Craig Mod: See you tomorrow.
+
+Tim Ferriss: Yes, see you tomorrow. And for people listening, of course, we’ll link to everything we discussed in this episode at tim.blog/podcast. There will not be another person with the last name Mod, so you can search for Craig Mod and he will pop right up of course. And until next time, which will be pretty soon, round two with Craig, be just a bit kinder than is necessary to others and to yourself. We’ll talk more about cultivating a rational belief and faith in oneself in round two. So until then —
+
+Craig Mod: Sounds good.
+
+Tim Ferriss: — thanks for tuning in.
+

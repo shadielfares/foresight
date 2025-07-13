@@ -1,0 +1,594 @@
+Please enjoy this transcript of my interview with Derren Brown (@derrenbrown), a psychological illusionist who can predict, suggest, and even control human behavior. Starting his TV career with shows such as Mind Control and Trick or Treat for Channel 4 (the UK’s equivalent of PBS), Derren has combined spectacular illusions with insights into how we see the world and those around us, or expect to see them. Rather than guard the mystery behind his illusions and manipulations, he lays bare his techniques and demonstrates how the human mind works.
+
+A prolific creator and performer, Derren has appeared in blockbuster stage and television shows alike, including the sold-out Broadway run of his one-man show Secret, his Olivier Award-winning tour of Svengali, and his Netflix specials The Push, Miracle, and the harrowing Sacrifice, in which he tries to manipulate an ordinary person into taking a bullet for a stranger.
+
+Derren is the author of multiple books, including Happy: Why More or Less Everything Is Absolutely Fine and A Book of Secrets: Finding Comfort in a Complex World. Derren’s new tour, Only Human, materializes on stages across the UK beginning April of 2025.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch the interview on YouTube here.
+
+Tim Ferriss: I’m looking at your website right now, Derrenbrown.co.uk, for people who would like to check it out, and I’m just going to mention two quotes, which are in the “Now streaming on Netflix” section here. And the first is under Sacrifice, and the quote is, “Sacrifice is an utterly bizarre, ethically questionable, totally gripping must-see.” That’s from Paste. And then under The Push, the quote is, “The most nightmarish and provocative piece of pop culture in TV history.” And that’s from the New Zealand Herald. Could you please explain, just in brief, these two specials and the premise of each?
+
+Derren Brown: I started off doing sort of mind reading TV shows back in 2000, and then as, I guess I kind of in the world of being a magician mind reader sort of mentalist, and then over the years as I grew up, I guess, and wanted to do something I found more interesting with it, the shows became largely about people being put unwittingly through these kind of social experiments and slightly Truman Show kind of way, generally to come to a better place in themselves, or generally that was a good reason for them. And you do kind of have license in a way that you couldn’t in a clinical setting to say things that are quite sort of dark.
+
+So in the two you mentioned, so Sacrifice was the last one I did, and the idea was to see whether a guy who was very anti-immigration and a big Trump supporter at the time that was all sort of kicking off, and probably to a lot of people’s ears had kind of fairly racist views, whether he could be brought to a point where he would lay down his life for an illegal, undocumented Mexican immigrant. So the whole show, and this is kind of a format that I’ve used in different ways, is about layering in — sometimes they don’t know, they’re part of a TV show at all. He thought he was part of a documentary. He thought we’d implanted a microchip in the back of his neck and were following — I’ve thought about this for a long time, and we were following his progress with that.
+
+It was actually, that microchip thing was a big placebo and it was a way of getting a sort of, not a hypnotic response from him, but a kind of allowing suggestion to work well with him and getting him to the point where I could layer in these triggers and then set them off at a moment that we staged using lots of actors that you didn’t realize were actors, whereby he would be given this sort of moral choice. And would he do it, would he lay down his life?
+
+Tim Ferriss: Lay down his life, meaning?
+
+Derren Brown: Jump in front of a gun, yeah, take a bullet, take a bullet. And so, that’s Sacrifice. And then The Push, that was another kind of life and death thing. It was to see whether, could you make — I say these out loud and realize how ludicrous they are. Could you have somebody, could you make somebody push someone off a building and kill them purely through social compliance? So it was a show about compliance.
+
+So again, you’ve got someone going through it that doesn’t realize they’re part of a TV show at all. This is completely hidden in terms of the filming, and a whole load of actors, and this really anxiety-ridden, hilarious kind of evening that they go through when they’re a guest at what they think is a big, high-stakes auction party. And one of the guests — I won’t spoil the story in case anybody sees it, but —
+
+Tim Ferriss: I recommend people watch it. I’ve seen it.
+
+Derren Brown: Thank you. Thank you. Yeah, these things have always interested me, and generally it’s been about, as I said, kind of taking someone that, by all reports, needs to kind of step it up a little bit somewhere in their life and getting them to that point. The biggest one I did was called Apocalypse and it involved ending the world.
+
+A lot of these ideas come from frustrated writing sessions, and we’re going around in circles and then one of us goes, “Oh, can’t we just…” And Apocalypse is, “Can’t we just end the world, and then somebody wakes up and it’s all zombies and they’ve got to find their way home?” So we did that, and part of the process of making the show is trying to stick to these original ideas and stick to the scale. So we had a meteor strike, we had to convince this guy that a meteor was going to land. And so we hacked into his news feeds, his television, his family was in on it, his house is full of hidden cameras, doesn’t know we’re filming in his house for months.
+
+Tim Ferriss: It’s like The Game with Michael Douglas.
+
+Derren Brown: Exactly, exactly. No, that’s a big reference point for us. Yeah, it’s exactly that. So yeah, that’s been fun. It’s been a few years since I’ve done TV, because I was out. I do stage shows as well every year, and I was out doing a shot on Broadway, and then there was COVID, and then I had a lot of theater projects going on, so I’ve taken a bit of a rest. So if I come back it’ll be something different, I think. But yeah, those, that’s the general picture.
+
+Tim Ferriss: You’re good at different. And just to add a little bit of additional connective tissue for The Push, and now, I have not seen The Push in a long time, but am I right that you make reference to, and I’m probably getting the pronunciation wrong here, but Sirhan Sirhan at the beginning of that? Am I inventing that or is that a proper memory?
+
+Derren Brown: No, that’s a different show. That’s a different show which was, another was Assassinations, to whether you could take — so, Sirhan Sirhan, who shot Bobby Kennedy, it was to see whether his claim, how he was set up by the CIA, could actually work, whether you could do those things and set up those triggers. So we just followed basically his story and did it with somebody. We had them assassinated. It was Stephen Fry again who was in on it.
+
+Tim Ferriss: Stephen Fry, just for those, we won’t get into his bio, but The Hitchhiker’s Guide to the Galaxy audiobook, if you want to get a real taste of the brilliance of Stephen Fry, at least as a voice actor. Highly, highly recommended.
+
+Derren Brown: He’s a great man.
+
+Tim Ferriss: Amazing. We’ll come back to some of the ethical questions around these social experiments.
+
+Derren Brown: There are none, there are no ethical questions.
+
+Tim Ferriss: There are none. Well, we will come back to that, but I wanted to rewind. So you mentioned, I guess around 2000 or so, if I’m getting the chronology right, and I believe this is referring to Mind Control, is that the right peg? How did that happen? And is it fair to say that that was the first kind of catalyzing event that set the stage for a lot of what came later? I’m wondering what ingredients went into that happening, whether serendipitous, engineered, or otherwise?
+
+Derren Brown: I studied law and German in Bristol in England, and I lived there for many years afterwards, and I had seen a hypnotist in my first year at university and just was so besotted with it.
+
+So I learned how to do that, and by the time I graduated I was the hypnotist guy at university, and I also started doing close up magic as well. And then I kind of made a living doing those things, and after sort of mid-’90s, I wrote a book for magicians and then that got me, which is kind of, there’s a whole niche world of publishing there. And then, so I got known to that community.
+
+So when a TV company here, who I guess we’re looking for a British answer to Blaine, David Blaine, whose sort of shows were particularly hot and new at the time, they spent a couple of years looking for somebody that could do mind reading, because there really wasn’t very much of it around. And that had become my thing. So I got a phone call and I went to London and met the two guys that ran the production company, one of whom has since become my manager, and the other one is now my — well, we’re all co-producers in our own company, and I showed them a few things and they really liked it, and we put together this first show.
+
+It was a one-hour special in 2000, and I think it was, the repeat of the show actually did well, so Channel Four in the UK commissioned another one, and then it just sort of built from there. And then there’s been a couple of things I did. Three years into it, I did this Russian roulette on TV, like a live thing, and that got a lot of publicity. So it just kind of kept going.
+
+And then along the way, as I’ve sort of grown up, I’ve tried to take it in new directions, but essentially it was a mixture of a lot of background work. I was just doing it a lot. I just loved it. I just loved spending my days dreaming up tricks and going out and performing in the evening. And, as I said, writing the book and just getting known to that world, and then being offered the show.
+
+Tim Ferriss: What was it that grabbed you in the beginning? I don’t know if it was Martin Taylor originally or someone else. But number one, why did you even see hypnotism on campus or while you’re at university? And then secondly, what about it attracted your attention enough? You’re a smart guy, you could do a lot of things. You already do a lot of things. What was it that pulled you in after or during that performance?
+
+Derren Brown: Yeah, so Martin Taylor was the hypnotist that I saw, and I think it’s probably, I don’t know what it’s like in the States, but it’s a fairly popular student staple in terms of entertainment. And it was a really good show. I think sometimes they can be spoiled by people being made to look like idiots, and this wasn’t like that. It was really fascinating. And it was in my first week.
+
+And I was a great kind of attention seeker and just quite insecure, and I didn’t realize it consciously, but I think the idea of hypnotizing people particularly — I mean, often the sort of people that respond to hypnosis as well are the kind of very extrovert kind of jock types, and suddenly you’ve kind of got control over that, which is exactly the people that would have intimidated me so much, and had done through school. And I think something in that just made it so appealing.
+
+And I walked back, I was walking back with a friend of mine from that show and I said, “I’m going to learn. This is what I’m going to do, and I’m going to learn how to do this and do it.” And I remember he said, “Oh, yeah, me too.” And I knew that he didn’t mean it in the same way I did. And it was a real thing, just —
+
+Tim Ferriss: You mean he was going to be more of a tourist and you were like, “No, no, no, I’m going to medical school for hypnotism.”
+
+Derren Brown: Yeah, exactly. It was real, it really clicked into place. And of course that was, there were no YouTube videos or anything, so I bought and stole books and anything I could find, and I kind of learned it the long way ’round. I think there are probably shortcuts for learning hypnosis, but it helps you to learn it the long way ’round, because you’re going to run into strange situations with this sometimes, which happens, and still does.
+
+Tim Ferriss: What do you mean by strange situations, or run into strange situations?
+
+Derren Brown: Well, actually, the stage shows that I do, don’t really have much overt hypnosis, and I’m using suggestions and subtle stuff with the audience all the time. So I’ve taught every year for 20 years or so, apart from COVID, and it’s a strange feature, I think, of the last show I did, Showman, which will be on Channel Four. So this is post-COVID, and maybe it’s also the first show that the kind of younger, or that kind of Gen Z world was sort of — there’s sort of an age limit, a bottom age limit on the shows. So it was the first time it really started to be populated, maybe as well, by that sort of generation. I don’t know. But there was a little bit of hypnosis in the show, and it was serving, I don’t really do hypnosis overtly, but it was to serve a bigger end.
+
+And yeah, for the first time, I’ve had these really odd reactions, much, much stronger than before. I’m used to sometimes having to go out and speak to someone in the interval or after the show. There was a woman who, I got a message in the interval that there was a woman with her head stuck to the table in the bar, in the theater, which sounded odd, because it’s not like, nothing that I’d said or done to the audience I could think would have made that happen, but nonetheless, people — sometimes you get highly suggestible people, maybe. Maybe she’d pick something up.
+
+Anyway, so I went out and spoke to her, because she looked drunk. She’d sort of largely been ignored, and the rest of the audience had found their way back into the theater by this point, so I could go up and talk to her on her own. And she was sort of furious and angry and —
+
+Tim Ferriss: And her head’s stuck to the table.
+
+Derren Brown: With her head stuck to the table. And it was a very odd situation, which has ever happened in 20 years. There were lots of sort of things arose like this, where I’m trying to — because your natural instinct is to then, kind of like you, you find rapport with the person and you bring them to where you want them to be. It’s kind of straightforward stuff.
+
+But she was absolutely not having any of it, didn’t want me to help her, was angry, and in the end I had to say, because it was time to carry on with the show. Like, “Look, I’ve got to go carry on with the show.” And she’s like, “Yeah, yeah, you do that.” I’m like, “Great, well, I’ll see you afterwards.” “Yeah, yeah.” And it got slightly argumentative, and then I went back to do the rest of the half of the show, doing this show knowing there’s a woman with her head stuck to the table upstairs, thinking, why did I get slightly chippy with her?
+
+And she was fine at the end, but it was an odd thing in the air that — and I think a lot of the strange reactions that, and certainly it’s taken me 20 years to learn this, that when people do act oddly or seem to get, in quotes, “caught,” stuck in hypnosis, or it’s generally people having panic attacks, that they’ve sort of, hypnotist has said, “Okay, open your eyes,” to a big audience of people and you haven’t been able to open your eyes in the moment, and then you get into a recurring —
+
+Tim Ferriss: Spiral.
+
+Derren Brown: Yeah, exactly. And once I started saying, “Don’t do this if you are prone to panic attacks, just sit this bit out, or go outside of the theater, go outside of the auditorium for a bit,” it stopped. But yeah, it’s really interesting. Have you had much to do with it? You must have skirted around it, even if you haven’t done it.
+
+Tim Ferriss: I have. Yeah, I have. I’ve had at least one or two people on the show who have practiced hypnosis. I had a clinical hypnotist from Stanford on the show as well, and have a deep interest but very little personal experience.
+
+Would you mind defining mentalism, cold reading, and then describing how you made the hop, if it is a hop, from hypnosis to those things, or how you incorporated them? But what are they?
+
+Derren Brown: Hypnosis, I think, is very difficult to define. There are definitions of it of course, but in terms of what’s actually happening and what’s going on has always been, because there are some people that have always said it’s a special state, and there are others that say no, it’s really just sort of behavior being motivated in a particular way.
+
+So for example, you see somebody on stage being given an onion to eat, and they’re told it’s a delicious apple, and you see them eating an onion and it seems like, well, they must be in some special state to be able to comfortably eat an onion and not find it disgusting. And I was talking about this with my co-creator one year, we were talking about doing these sorts of things as part of the show and he said, “I bet you can just eat an onion anyway.” And he went to my fridge, took out an onion, took out a big bite of it, and he said, “Yeah, look, that’s fine. I can eat the onion. It’s fine.” Because his motivation was such that he was wanting to prove a point. And then lo and behold, it’s actually all right if you’re motivated in the right way. Whereas if you’re eating an onion going, “Oh, this is disgusting,” then it’s going to be very different.
+
+So I veer more towards that sort of, it’s just something in motivation and behavior, rather than a special state. But there are things that we’ve done, like putting people in an ice bath under hypnosis, having them not feel the pain, that you’d find, where they’re not just faking it, because you couldn’t just fake that. It’s not the same as that. There’s something else, some sort of some middle ground going on. So yeah, that’s a tricky one, but also a great source of fascination for me.
+
+Mentalism is, well, it’s a sort of type of performance that, it always has been a little niche, and I suppose you could think of a lot of — a magician that is obviously a magician doing a trick with a sort of mind-reading theme, that’s kind of mentalism. If somebody makes that their living, then they’re a mentalist. But also, you could probably think of a stage medium or a psychic as also being a sort of mentalist. So it kind of covers the performing world of psychological or supernatural-y, just that world, as opposed to the more obvious fodder of conjuring, card tricks and sawing people in half and so on.
+
+And it sort of had its heyday, I think, back in, really, the turn of the 20th century, and a lot of the things I’ve drawn on and really have come from that. It’s more popular nowadays, and the same way that when Blaine was very popular, a lot of magicians — well, Copperfield, David Copperfield, brought in a wave of magicians doing that style of magic. And Blaine did a similar thing with that style of magic. I think I’m probably responsible for the wave of mentalism. There’s more of that around now than there was before.
+
+And it’s sort of going to be defined by whatever people choose to do that, I guess, that call themselves mentalists. Because I started in hypnosis, my skill base is a mix of, sometimes it’s real stuff that looks like tricks, and sometimes it’s tricks that looks like real stuff, and it’s suggestion, and it’s magicians’ techniques as well. So it’s kind of a mix of all of those things.
+
+And then cold reading, which is the other one you mentioned, is — well, distinguished from hot reading, it’s the techniques used by generally fake psychics, but also the sort of thing you’d read in astrology columns in magazines and so on, where you make it sound like you have some clever insight into somebody, and you’re saying things that sound very specific to that person, but actually are things you’re just throwing out, and you know that the person will pick up on the stuff that hits and matches their experience, or sort of ignore all the other stuff that doesn’t. And there are any number of clever ways that people in that world use to make it seem like it really sounds like they’ve said something more specific than they have.
+
+So if you go and see a medium on stage, classically, they’ll say, “I’m getting a name. Jean.” And then you’ve got hands will go up. Now, that, it could be that somebody in the audience is called Jean. It could be, “Well, my sister died and she was called Jean,” or it could be, “I know a Jean.” So that could be anything. But as soon as someone says, “Oh, I know a Jean,” oh, well this is for them. “Wow, how did he know I had a friend called Jean?” Well, he didn’t. You provided that information. And so on. So you are generally saying stuff when it’s a conversation like that, and people provide you some little thing back, which you then take credit for, and this sort of conversation winds its way along. And if you’re not skeptical, it can seem convincing on a good day.
+
+Hot reading is when you’re using information that you’ve gleaned from a person. So very specific information that you’re just feeding, you’re feeding straight back.
+
+A friend of mine was at a recording of a very famous TV medium in the States, a good few years back, and it was when this sort of thing was starting to become popular. He was, I think, probably the first big name doing that sort of thing. And he had a studio audience set up, and this friend of mine was sat in the audience, skeptical like I would be, but just there out of curiosity.
+
+So the guy comes out before they start filming, and he says —
+
+Tim Ferriss: This is the TV personality, who’s the medium?
+
+Derren Brown: This is the medium. This is the, yeah, the medium comes out to talk to the audience before they start filming and says — and obviously, the audience is full of believers, apart from people like my friend. And says, “Is there anybody here hoping that someone’s going to come through for them?” So lots of hands go up and he just goes around and talks to people and says, “Who have you lost?” “Oh, I’ve lost, I lost a son.” “Okay, and what happened?” “Well, this happened. He drowned.” And, “Okay, can you tell me his name? Do you remember what he was wearing on the day? Just so that if he comes through, I’ll know that it’s him.”
+
+So he gets all this information and then the cameras start rolling, and he just goes out and feeds that straight back to the people. “I’m getting a, this is a guy, and this is a young boy, he was seven, he drowned, he’s wearing a red sweater. Does anybody take this?” And of course the woman in the audience is in tears, because she — so often with this thing, the reason why people don’t want to believe it’s fake is that the lie is so ugly, that anybody would actually do that just to make themselves look good, that it’s easier to believe it must be real. Or at least maybe they believe it themselves, or they’re trying to do good, or that actually it’s just so often just kind of ugly.
+
+So that’s hot reading, whereas cold reading is you have no information, but you’re good at making it sound like you do. Those are my definitions.
+
+Tim Ferriss: If you were to do an online course training people to be more skeptical –
+
+Derren Brown: Yeah –
+
+Tim Ferriss: How might you think about that? Would you have assigned reading of any type? Would you have them watch certain things? I’ve seen more and more, I think in a foreboding burgeoning nihilism with a lot of worries around climate change and so on, people want something to grab onto. The Judeo-Christian religions in many places have faded away, no longer have the hold that they did, therefore not offering the guidance they once perhaps did. At least in Austin, my pet theory is that people are looking for some sense of wonder at work and possibility, and then they start grasping onto QAnon. They start grasping onto whatever the latest and greatest kind of magical thinking might be. How might you train someone in the opposite direction?
+
+Derren Brown: Well, first of all, that’s a very noble human urge. We all want to find meaning in our lives, and so much of happiness and good stuff comes as a byproduct from that. You find meaning in your life by finding something bigger than you and then throwing yourself into that thing. It’s not — that’s okay. The human urge to transcend is important and worth honoring. But yes, of course it can misfire, but also misfires when we attribute it to money and success and fame, if we think those things are going to make our lives transcendent or us happier, and again, they don’t. There’s lots of ways in which it misfires. But yet, we can also attach it to these sorts of structures provided by conspiracy theories and so on.
+
+I have over my years read through quite a lot of books on skepticism, So perhaps I’ve just developed a way of thinking. But to me, the things that have landed and stayed with me, at first, that humane idea of strong claims demand strong evidence. So if somebody is making a positive claim about something that is unusual, that this thing exists, whether it’s something supernatural, but they’re saying — it’s up to them to come up with evidence for it’s, it’s not up to you to try and disprove it because that’s always going to be a losing battle. When people say, “Oh, this is true is what I believe,” and you can’t disbelieve it, well no, you can’t and that’s fine. You don’t have to rise to it. I think a lot of the problem is, once you start rising to it and it gets into a sort of heated thing, you’re arguing about stuff you don’t need to be arguing about.
+
+I’ve had a million people over the years say to me, as someone that’s often doing stuff that appears psychic and saying, “Look, this isn’t psychic,” say, “Well, how’d you explain this? This psychic said this thing to me.” Or a ghost that they saw or these experiences that people have, and particularly when it’s ghosts of loved ones and so on, or these experiences, they’re really meaningful to people. I think there’s probably all sorts of other things going on. I lived in a house for a few years that was damp. And damp’s a funny thing, it creates a real feeling of — when it’s just not quite enough that you can identify it as damp, but it’s enough that it just does something in the air. It took a long time for us to work out it was damp, but it felt just like death. There was just something wrong, that feeling of a room being wrong.
+
+There was vents that air would come in and the dogs would do that thing of barking at nothing, barking midair, turned out it was smells coming up through vents. A friend of mine who works a lot in the parapsychology world, Richard Wiseman, I don’t know if you’ve come across him, but he —
+
+Tim Ferriss: He’s been on the podcast.
+
+Derren Brown: I’m sure. Yeah, he is a brilliant, hilarious man. But he was talking about that windows open at just the right amount or extractor fans and things. You’ll have air passing into a room at a particular frequency where — and we all know about brown noise and white noise and things that can make parts of us vibrate and it makes us feel a bit sick, or there’s a particular frequency that will just make our eyeballs vibrate a bit. What that means is, we’ll see shapes and we’ll see dark patches in the periphery of our vision. Now you never know that, that’s not somebody being stupid or gullible if they’re seeing things like that. There’s all sorts of stuff that goes on.
+
+But ultimately, for whatever is causing these things, these are powerful experiences for people. I don’t think it’s — there’s something wrong with leaping on them and saying, “That’s wrong, that’s stupid.” Because they really can mean a lot to people, particularly sad if you’ve lost somebody and then feel that you’re having some connection with them afterwards. I think not rising to it and understanding these things as stories and experiences and what meaning that can have for a person. I guess I’m talking more about the supernatural side of things rather than conspiracies as such.
+
+But even I suppose with conspiracy theories, these are things that mean — they’re giving this person something. I think there’s a bit of space around that that could be sat with rather than immediately leaping on them. Otherwise, it’s about the obvious things, check your sources. Is this government that on the one hand you’re saying is totally ineffectual, are they all so clever enough to have created this enormously elaborate thing that you’re saying that they’ve done? It’s always going to be with us. It points to that feeling of wonder and storytelling and how we latch onto a nice, neat story of cause and effect. That’s exactly what I do for a living, I see value in all that stuff, but yeah, it can misfire.
+
+Tim Ferriss: It’s something I think about a lot. I fund a lot of early stage science, and I’ll just give people a couple of recommendations. Actually, this is, I’m pretty sure it’s a fellow Brit, Ben Goldacre wrote a book called Bad Science, which I think is worth — should be required reading for every school child on some level, at least parts of it.
+
+Derren Brown: Michael Shermer’s written a lot in the area.
+
+Tim Ferriss: All right. I’ll check him out.
+
+Derren Brown: There’s also, the best book I’ve seen on cold reading, and it might be very hard to get now, it’s a book written for magicians. I have a load of old pamphlets and strange old books on these things, but there’s one relatively modern, for me at least, written in the last 20 years, called The Full Facts Book of Cold Reading.
+
+Tim Ferriss: That’s a great title.
+
+Derren Brown: He may have written other books with The Full Facts Book of… but this is The Full Facts Book of Cold Reading by Ian Rowland, R-O-W-L-A-N-D. I remember when I was learning all this stuff, that was definitely a kind of — that was a really useful up to date — it was certainly up-to-date at the time compared to the very strange old antique things. Because such an old profession, it’s probably the second-oldest profession around. It goes right back to the Oracle of Delphi, giving people information that you seemingly couldn’t know. It’s a very old literature too.
+
+Tim Ferriss: I’m enjoying this conversation on a few levels, including a meta level, which is this conversation is going to be published directly before or directly after a musician who is devoutly religious, so we’re going to have a contrast of styles as it were. Is it true that you were Christian until reading The God Delusion? Is that an accurate statement?
+
+Derren Brown: Not quite, no. I was very much a Christian when I grew up, didn’t really have any Christian friends apart from one or two, but I didn’t have a Christian family or a Christian group, so it was relatively easy to sort of grow out of it really as I got to —
+
+Tim Ferriss: How did you end up an island of Christianity in the beginning? Meaning you didn’t have Christian friends, you didn’t grow up in a Christian Family —
+
+Derren Brown: Oh, I see.
+
+Tim Ferriss: — but you yourself were Christian. How did that happen?
+
+Derren Brown: There was a teacher at my primary school, elementary school, who invited me to join her Bible class when I was five.
+
+I just didn’t know any different, so I was inculcated quite young. By the time I realized, “Oh, it’s not everybody that believes this,” it was too late. Then I came out of it partly because I was doing magic and hypnosis and stuff at university and getting such a strong, angry reaction from fellow Christians that I started to say, “Oh, okay, that’s just sort of fear of something that’s misunderstood.” I had them literally exorcising demons from me during the show at the back of the room, it was extraordinary and it kind of —
+
+Tim Ferriss: Added a little bit of extra flourish to the show.
+
+Derren Brown: It added to the drama. Then soon after that I had a good friend who was a psychic healer and did tarot readings and so on. I was just looking at her, what to me struck me as a pretty circular belief system around it and thinking, “I’m sure I’m doing the same.” I must be just doing the same with Christianity, but it’s just a bit more — well, it’s less of a fringe thing, so it’s a little harder just to laugh at. I’ve tried to find some sort of intellectual, well, just some base for it other than just what could just be a circular belief system, and never did. Magic gives you a very — it really drives a wedge into that thing of belief and skepticism. Always has been, it’s always been the magicians that are exposing the psychics and the frauds and the strange persons —
+
+Tim Ferriss: Well, it gives you sort of the implicit, “How could you explain this otherwise?” frame, I would have to imagine. Very similar to good scientists in the sense that you’re as a magician deconstructing phenomena to ask “How did they do it? How could they do it? How might they have done it? How might you explain this?” Which I imagine lay people just don’t do as often, but you’re getting a lot of repetitions.
+
+Derren Brown: There’s a terrific magician with a great name of Tommy Wonder, I don’t think it’s his real name, no longer with us. But he had this nice idea that the story of your trick gives you the highlights of the trick. In between the highlights there will be the shadows, and the shadows is where you put your method. What that means is that, what you learn as a magician, and it’s a very hard thing to decode this if you’re not another magician, is you’re not hiding your methods in secret moves and so on. A lot of what you’re doing, you’re doing very openly in plain sight, but you’re doing it in those little moments of relaxation that are out of the story that people are going to follow later.
+
+It’s a very hard thing, because that’s such a human thing to sort of follow those cues. That doesn’t matter if you’re a scientist or what you are, you’re still going to do that. You need the kind of familiarity with that, you need to instinctively watch and have the kind of emotional distance that allows you not to fall for the same rhythm. It took me a long time to realize this. We were doing a show on Broadway, I think, and it was the first show I’d done that was a compilation of the best bits from previous shows. It meant that when we wrote it, it didn’t have the same heart and through line as the other shows had, because they were always written with that first.
+
+Tim Ferriss: Didn’t have an arc in the same way.
+
+Derren Brown: Yeah, exactly. But it needed one. I was sort of trying to work out what that was in real time doing the show. It struck me, especially because magic is such a childish thing really. It’s the quickest, most fraudulent route to impressing people, isn’t it? It struck me that —
+
+Tim Ferriss: There are a lot of those.
+
+Derren Brown: What happens with a magic trick is that you are seeing something happen that is showing you that your understanding of reality isn’t right, that there’s something you’ve missed. That your story, as you’ve put those highlighted moments together and formed a narrative of what’s happened, cannot be the full picture. Something else has gone on.
+
+It really stayed with me because, in amongst that childish sort of really quite infantile world of magic, there was this thing that’s like, “Well, that’s a really useful thing in life. That’s the nature of storytelling.” We sit around these — when you tell a story, it’s like the image of sitting over a campfire, not over a campfire, it’d be uncomfortable, but across from a campfire from somebody. You’re in a forest and it’s dark and you are lit by this little fire and you’re telling a cozy story. That’s what stories are, they are cozy. Then outside of that is the darkness and the forest, and that’s where all the monsters are and all the things that are being excluded, and this is what Jung would call the shadow.
+
+It’s all the stuff you’re not including in your narrative. All the stuff you push out of your personality, they’re talking about coming out late, the stuff you want to bury or that you might — it works at a societal level as well, the parts of society you don’t want to include in the narrative of who you are. These things will always come back and bite you because they gain a certain power in the shadows. The old fairy tale idea of the godmother, the evil godmother banished from the christening who turns up, she gate crashes the christening and lays a curse on the infant. These ideas resonate because they mean something to us psychologically, the things we banish, or it’ll be the hero that’s banished from the city and comes back at the end of the story with an army and defeats the bad king, these things will come back.
+
+The point being that in amongst all of its nonsense, there was something about magic that does show us that the stories we’re telling we’re not including things that are important and gain a certain power if we don’t include them. It’s meant that over the years, particularly with my, well first of all the TV, but also with the stage shows, I think now in particular as I do more those, that I like to make it about that or something. I like that that’s something that’s important, because how you do tricks isn’t important particularly, and it’s entertaining and it’s a lovely vehicle, but there’s just something in it that I think tickles at a deeper experience.
+
+Tim Ferriss: Let’s talk about, not necessarily a shadow, but something you seemingly pushed away or excised for — compartmentalized, at least for a period of time, you already mentioned it twice, coming out in your 30s. Could you describe if there was, the moment, the conversation, the day, the realization that led you to then come out? Because there was not coming out, not coming out, then you came out, but presumably there was some type of catalyst for that. What happened?
+
+Derren Brown: Well, I think the lingering Christian thing didn’t help. The one Christian friend that I had, had got involved with that sort of gay conversion thing, which doesn’t work terribly well. Although I didn’t get very involved in that, it was in the air because he was experiencing it. I think it just kind of lingered. Although I wasn’t a believer anymore, it just — I don’t know what it’s like now for people, I’m sure it’s very different, but you can sort of think it’s going to pass. There’s a lot of that or you don’t really own it. It just got to the point I thought, “This is just silly,” and I just got into a relationship. I was known in the UK and I thought, “I don’t want this to feel like it’s some secretive thing unnecessarily.” So I just sort of did.
+
+Of course what you realize, whatever you come out about, whatever your thing is, that how little people care. I expected the final scene of Dead Poets Society. I thought that — I walked out of my building the next day thinking I was going to get a round of applause from people on the street, and of course, no one cares, no interest to anybody. I think the reason why it could be so liberating is not because you get to swing around with shopping bags in the street and live this flamboyant life, I think you just realize that these things aren’t important. If that isn’t important, if the big thing you’ve carried around for so long that felt so much shame about isn’t important, then all the other stuff certainly isn’t. I think that’s why it’s always good, when the time is right, to do those things. I told my mum, actually, I came out to my mum and I think the next day she had a stalker of mine, a woman turn up on her doorstep saying that I was her abusive husband, so it was a very confusing week for my mum. It was a lot.
+
+Tim Ferriss: It was a rough week for mom. You mentioned quite a while back finding something bigger than yourself, and there’s a Guardian piece I read, this is just before you turned 50, that, “In the second half of life it’s important to find things that are bigger than yourself,” and finding meaning through losing yourself in those things. I’d like to ask about this because I know a number of, I won’t mention them by name, some would be recognizable, but let’s just call them sort of ultra skeptics. It’s hard to say this is causal, but they aren’t necessarily the happiest people who seem to be the most fulfilled. There are exceptions of course. Now you might say that came first and then they found the skepticism. Who knows? So I’m not saying one causes the other. In any case, without religion, without that type of mooring, not saying it’s necessary, but how have you found meaning? How have you found things bigger than yourself? What does that journey look like for you?
+
+Derren Brown: What a good question. Well, I think I’ve done the thing of looking for other structures. I kind of drifted out of Christianity around university time. I was doing magic and hypnosis, but not really. I didn’t feel very full time. I was kind of a little bit drifting, but I was earning enough to just sort of tick by. I remember thinking, “I don’t have any ambition here. I’m just enjoying this rhythm of life.” I remember quite consciously thinking, “I want to be able to take a cross section of my life at any point and is everything, in this moment, roughly in the right place? Am I doing the things? Am I getting up when I want to and not having to do things I don’t want to?” And the things that felt important to me at 21. And if they’re not, that’d be kind of easy to change.
+
+That became a bit of a guiding principle. I’ve genuinely never had any ambition, didn’t try and get a TV show or anything like that. I’ve always just had that feeling of how are things feeling now. This is long before talk of mindfulness or anything like that. That’s been sort of a guiding principle. Years later though, I wrote this book Happy, which was largely about Stoicism. I realized as I was reading the Stoics, that they were giving language to — or Seneca, I suppose I was reading first. It was giving language to a big part of that experience. Although Stoicism, as you know, it’s not really just about that, but that feeling that I had really resonated. In the way we often find things inspiring because articulating something clearly that we half feel but haven’t really found language for, so I kind of found myself latching onto that.
+
+I wrote Happy. I wrote Happy over three years because I was touring and I like to write while I’m touring, so it split up over three years. Of course it meant at the end of the three years I had a different take on it and then my feelings about Stoicism have changed over the years. But I think often, we look for another structure, don’t we? So I’d left behind the Christian world as a structure and I think it was appealing in the hypnosis, NLP, all of those things, they give a certain kind of structure to experience as well. I think that’s probably a part of it.
+
+As I’ve grown up and got older, I think what I was trying to articulate there was that the first half of life is very much about having this sort of dialogue with the world in terms of, the world is telling you what you need in order to move forward or have a reputation or be liked or whatever. This axis of dialogue is very much with the world. I think there’s a natural shift in the second half that actually is about having that dialogue more internally. I’m 53 now and I think I’m sort of aware of that happening and my feelings of Stoicism have shifted along with that too. But yes, I suppose that’s it. Like we all do, we find a thing because the experience of something bigger than yourself is how we find meaning.
+
+Tim Ferriss: What have you historically struggled with? Is there any particular — anything that pops to mind?
+
+Derren Brown: My mind immediately goes to the horror of dinner parties and high status people. Which of course I come across a lot because I’m known a bit here and sometimes I get invited to things. I’m not very good at that, I guess I’m quite introverted. So unless somebody is really warm, I very quickly get into a thing of really not knowing what to say. I found myself at the Clintons for Thanksgiving one year.
+
+Tim Ferriss: As one does.
+
+Derren Brown: It was incredibly high status. They were wonderful and everything, but that sort of thing I find very difficult. I generally don’t hang around other famous people here. I like the experience of people sometimes being on a bit of a pedestal. It’s different if you then meet them and they’re not, perhaps they’re a bit disappointing. It’s hard to go back to their work and appreciate it in the same way.
+
+Tim Ferriss: A hero with clay feet situation.
+
+Derren Brown: Yeah, totally. I think that when you say where do I struggle, I think that’s what immediately comes to mind is sort of awkward, difficult things with people of high status.
+
+Tim Ferriss: Maybe this is a dead end, but I’ll probe a little bit more. I’m curious also psychologically for yourself, when you are by yourself, does anything come to mind? Maybe this is me misreading, and if so, I’d love to know the origin. That’s one piece, for yourself psychologically, is there anything that you struggle with or have struggled with? Then the follow-up to that would be, why write these books? Happy: Why More or Less Everything is Absolutely Fine, A Book of Secrets: Finding Comfort in a Complex World, or doing the Audible original Boot Camp for Emotion, these types of things. Are those reflective of things that you have found challenging in the past, or is that not the case?
+
+Derren Brown: I think since writing Happy, that book, I have found the world of what it is to flourish really interesting. But I’ve never felt it in the way, in that very, forgive me, with that American optimistic goal setting mode at all. I’m very much not about that. That’s meant that it’s less simple and it’s more interesting to sort of navigate. Because I enjoy writing so much, probably more than anything. I’ve naturally then, that’s been the sort of stuff that I’ve taken into my stage shows and very much wanted to write about as I go along.
+
+So yes, I guess I am a kind of reflective type and I — life’s difficult. Life has this centripetal quality. It brings us to this difficult central point. And when we’re there — it was interesting, the last show I did, Showman was about this. We wrote the show, I don’t want to spoil it for anybody that might see it, but it was certainly, it was pre-COVID and I wanted to write the show with this thing that, at the heart of it, that life brings us to these difficult centers. When we’re there, it feels lonely. We feel like we failed, which is the big problem with the American optimistic goal setting model. That when things don’t go well, you’re supposed to, I guess you have to blame yourself because you didn’t set your goals well enough or believe in yourself well enough or whatever that strange Protestant work ethic apply to life tells us we should feel.
+
+But the reality is, that lonely, difficult, central point is exactly the human experience. We are all brought to those points. It’s what we all share. The thing that makes us feel most isolated is the one thing that actually connects us the most. Interestingly, we have written this show and then lockdown happened and it just played out. The very thing that was physically isolating us, was the one thing we were all sharing. That I think is eternally valuable to me. It’s the thing that — I know is also that the answer to finding dinner parties with high status people difficult, is that they’re the same. They’re probably hating as much of it as I am, that we’re all having these awkward experiences most of the time and you shouldn’t compare your insides to other people’s outsides because they’re very different things.
+
+I find that a helpful thought. One of the issues with Stoicism for me, I suppose, is that it’s another way of life being a bit of a fight. I find it — the thing I love most about it, actually reading Marcus Aurelius, he talks so much about retreating. I love that. I love, there’s this very sort of introverted aspect to reading Marcus that you don’t get so much from the teachers, from Seneca and Epictetus that are very much telling you what to do. All of it. I do love it all, but there is a bit of a constant fight at the heart of it, the images, the metaphors, they’re either military or they are, “You’re a rock with waves lashing against you and you’ve got to be solid in the face of all this, and you are setting yourself up for a world that’s not going to live up your standards.” And I don’t know. I don’t know. Is that the way to live?
+
+There’s a sociologist called Hartmut Rosa who’s got a terrific book. It’s not an easy read, it’s a beast of a thing, called Resonance. Have you come across this? Have you come across Resonance?
+
+Tim Ferriss: I’ve heard the title. I haven’t read it.
+
+Derren Brown: Yeah. It’s a very different look at what might make a successful life and rather than being about virtue and so on, it’s about a mode of relating to the world where it’s a level — I suppose, a type of engagement. It’s not an emotional state. It’s not about feeling anything in particular, but it is just about — he talks about, well, what it isn’t, and how most of us live is we treat the world as a resource. Right?
+
+So, imagine you’ve two artists, and it’s an art competition, they’re told to go out and paint the best picture they can, and one of them goes home and does the best he can do and provides his picture. And the other one thinks, “Okay, all right, well, I want to do the best picture, so I better get a — well, first of all, I need a really good studio space.”
+
+So he finds a great studio space, “And now I need the best possible easel and, okay, a proper good linen canvas.” And he sources that, and now he’s going to go get the best paints and the best brushes, the finest brushes, and so on and so on, and then time’s up.
+
+And this is what we’re doing, generally, we’re treating the world as a resource. But what’s happened is that the resources that are a means to an end, right? So we’re trying to be richer and more attractive and more this and more that, those are only means to an end. They got a bit confused with the goals somewhere along the lines. And he’s suggesting a rather more — he talks about a tuning fork, like you put one tuning fork next to another one and the other one starts to vibrate, and it’s just a different relationship of resonance with the world, as opposed to treating it as a resource. And a number of other things that we do.
+
+And I rather like that, and I don’t think it’s incompatible with Stoicism at all. And the part of Stoicism I like the most, and I think that initially drew me to it, is that life is difficult, and you’ve got — here’s your X-axis and your Y-axis, and on the one axis you’ve got all the things you want to achieve, your aims and your plans, and then the other axis is stuff that life is throwing back at you, what they used to call fortune, and we don’t really talk about that anymore, which is a shame.
+
+And we’re told, if you set your goals and believe in yourself correctly, that you can crank this line of life up, so it’s in line with this X-axis, in line with your goals and your aims. But the reality is we live an X equals Y diagonal, it’s sort of a meandering line and sometimes we’re on top, and sometimes we’re not. We’ll have a great day and then life will throw something horrible our way, and it’s that, so how do you make your peace with this?
+
+And that image of that X equals Y line is something that resonates throughout history. Schopenhauer spoke about it. Freud, he wasn’t trying to make — that first talking therapy was never about making people happy. His goal was to — how did he put it? Restore a natural unhappiness. So your life is basically going to be unhappy a lot of the time, and you don’t want to be overly unhappy, but it’s just how you make your peace with the fact that life’s always going to be a bit dissatisfying. You’re always going to get caught between these poles.
+
+Mihaly Csikszentmihalyi, I’m sure you know, who wrote Flow —
+
+Tim Ferriss: Sure.
+
+Derren Brown: — again, you’re caught between anxiety and boredom, and the flow state between whether your skills or your challenges are going to win out. The same idea is so helpful, and that’s the stuff I love, because I think that’s, A, it’s a real antidote to the fetishizing of optimism, and so on. I worked a lot with, I’ve been around faith healers a lot, and the thing that really struck me, and by faith healers I mean the Christian evangelical type that are getting people up out of wheelchairs and so on, and I’ve done it. I’ve done this.
+
+Tim Ferriss: I recommend everybody watch Miracle, by the way.
+
+Derren Brown: My stage show, thank you. Yes.
+
+Tim Ferriss: Your stage show.
+
+Derren Brown: That was a fascinating show to do.
+
+Tim Ferriss: I really enjoyed that.
+
+Derren Brown: Thank you. Thank you. It was amazing to do every night just — so, I was doing it, but for a room of non-believers, it quite — didn’t know if it was going to work at all. But watching the people out there doing it, a recurring idea is that you throw your pills away, you don’t need your medicine, and if the disease comes back it’s because you didn’t have enough faith, which is this perfect formula for absolving yourself of any responsibility as the person —
+
+Tim Ferriss: As the healer.
+
+Derren Brown: — as the healer, and putting all the blame on the person going through it. And there’s any number of horror stories, of course, of people that get caught up in that.
+
+And it’s exactly the same, you read something like The Secret, I suppose, but she’s — is it Rhoda Byrne? Rhonda Byrne is telling us quite specifically you send your wishes out into the universe, and if it doesn’t provide it’s because you didn’t commit to it enough. You didn’t commit enough to that belief. It’s not the fault of the system. It’s your fault for not committing to it, and I think it trickles down into goal setting and all the rest of it.
+
+So, I like this idea of life’s difficult and we all share that experience no matter where we are and what we’re doing, in our own way. And actually how do you sit comfortably and hopefully resonantly with a life that isn’t always going to give you what you want?
+
+Tim Ferriss: All right. So, I would like to come back to this word ambition. If somebody looks at your website, if I look at your Wikipedia page, I may describe you, or be inclined to say, “This is an ambitious man,” given the corpus of work. You have six or seven books, you have the Broadway shows, the theater, the one man shows, the television, the collaborations. It goes on and on and on.
+
+So what I would love to know is how you define ambition? Because maybe we’re — I don’t want to end up arguing about God where we have different definitions of God, for instance. So maybe it’s just in the way that you define or think about ambition, but it strikes me that you are very active. And you mentioned painting a moment ago, people should go to your website just to see your painting, as well. We may come back to that if we have time.
+
+How do you explain your productivity? Because if you were just sitting in your room trying to be receptive to the universe delivering you signals, you may just end up sitting in your room. So there is some proactivity involved, it would seem, in what you’re doing. How do you explain the level of productivity? What contributes to that, if not ambition?
+
+Derren Brown: Certainly isn’t ambition. And by ambition, I mean I’ve never sought out something ahead in the timeline that I think would be good for me, or productive, or expand my reach, or those things really send shivers through me. But I have a manager, and I have co-producers and grown-ups, essentially, who do think about those things.
+
+And as time’s gone on, what I choose to do has become up to me, which is nice, and I won’t be blind to the — if something — like, yes, it’s a good thing to do a show in New York, of course, but really I’m thinking it would be very lovely to live out there for a bit and what an amazing experience that would be. But I wasn’t seeing it as a step to anything else, it just felt like, well, that would be an enjoyable thing to do.
+
+And the projects all take a long time. And so there is a lot that’s come out of it, but they’re all kind of — I’m not running around frantically from one thing to another. They’re things that just take a chunk of time, and then normally I’m just obliged one way or another to get onto the next one, because a year before I said I’d do it, and somewhere people have been making arrangements and teams have been assembled, and I can’t at the last minute go, “I just want to sit at home.”
+
+But I have had a time of sitting at home the last year or so, because I got a bit burnt out with it. And I’m very aware that I am really not my best if I’m not creatively engaged with something. So painting is very helpful for me because I can just do that. That’s like a week or two of just in a studio painting and that’s lovely.
+
+Tim Ferriss: Is that how long it takes you to do one of your pieces, a week or two?
+
+Derren Brown: Yeah, well, sometimes a bit longer, because I don’t get to give it the time I want.
+
+Tim Ferriss: That strikes me as very fast. People need to go to your website. Everybody go to the website. We’ll —
+
+Derren Brown: Go to the website.
+
+Tim Ferriss: — put some links in the show notes as well. But derrenbrown.co.uk. When you look at the artwork you would — this could be another career for you, it is that —
+
+Derren Brown: Oh, thank you. Well, it’s —
+
+Tim Ferriss: — developed. Very, very, very impressed.
+
+Derren Brown: Thank you.
+
+Tim Ferriss: And I grew up in a family of artists and wanted to be a comic book penciler for 15 years myself, so I paid —
+
+Derren Brown: Oh wow.
+
+Tim Ferriss: — for some of my college expenses being an illustrator. And I cannot even come close to doing 10 percent of what you do with the portraits that you do, there’s no way.
+
+Derren Brown: Oh, very kind. Well, I really, really, I very much enjoy it and it’s a nice way of, yeah, shutting yourself away and just throwing yourself into something for a big chunk of time, which I find helpful. So, I think that’s probably part of it. But I really feel it’s mainly due to the other people I have around me who are more savvy with it.
+
+Tim Ferriss: So what it sounds like, which is I’ve never discussed with someone, is that it’s not that you live in a life devoid of ambition, but you have freed yourself from the need to be ambitious yourself, which is part and parcel of maybe side effects that come with it, by having team members who are ambitious on your behalf, in the sense of thinking about how certain options will create, or open other doors, and so on. Is that a fair description?
+
+Derren Brown: I think that is a fair description. I think if there’s a recipe for success it’s talent plus energy. So, you develop your talent, because if you’ve got no talent — and your energy is how you get it out into the world. And if you’ve got all the energy and self-promotion, but no talent to back it up, it’s not going to be very helpful. And if you’ve got all the talent in the world, but no energy of getting it out there for people to see, that’s also not great.
+
+I’ve certainly never had any energy with it at all. So having a manager and people like that to do that side of it, and very early on I realized I needed that. So, yeah, I’m genuinely not saying it with any overweening, false modesty or anything, just my principle, and even more so now that I’m older, is what would be enjoyable in and of itself.
+
+I forget his name, but there’s a philosopher who talks about the importance of this in life, these atelic activities, things that just bring pleasure in and of themselves and aren’t constantly about the payoff at some point in the future. I think as we get older those things are more important. But I’ve always had that, and maybe I’ve just never really had a proper job and it’s sort of easier to —
+
+Tim Ferriss: It seems to be working out for you all right.
+
+Derren Brown: I’m touring next year in 2025 with a new show, and like all these things — and we’ve got a title, it’s called Only Human. Tickets are on sale, people are buying, and I have no idea what the show is yet. We haven’t written a word of it.
+
+Tim Ferriss: I love that.
+
+Derren Brown: I’ve kind of got used to this over the years. So, we’re starting to think about that now.
+
+Tim Ferriss: So let me ask this.
+
+Derren Brown: Go on.
+
+Tim Ferriss: If you don’t know what the content is, how did you choose the name?
+
+Derren Brown: Yeah. How do you choose a title, and a poster, and everything? I know. We’ve sort of got used to it now, because this is the 11th show that I’ve done, and as soon as we say, “Okay, let’s do a show next year.” My manager’s saying, “Right, well, the theater brochures, programs will need an image and a title.”
+
+Tim Ferriss: Descriptions.
+
+Derren Brown: Yeah. Exactly.
+
+Tim Ferriss: Or not even a description. They need an image and a name at the very least.
+
+Derren Brown: But it’s a great example of how you give yourself a structure and then think within that. So all the show titles have kind of been a bit generic, and then we found ways of making them work well enough.
+
+Tim Ferriss: “A show of mystery and suspense,” right, you have a lot of room, wiggle room with —
+
+Derren Brown: It is a bit like that.
+
+Tim Ferriss: And is it typically this way, that you book it, and then with the positive constraints you figure it out?
+
+Derren Brown: Yeah.
+
+Tim Ferriss: But how did you choose, in this particular case, Only Human? And this was going to be related to my next question is how do you pick the next project? But let’s get specific on the Only Human. How did you pick this? It sounds like you’ve done this more than once, knowing that you will have to figure it out later.
+
+Derren Brown: It’s absolute necessity. In the same way that you’ve booked the theaters, you have to come up with a show. And likewise, if you need a title for the brochures, we have to come up with a title. So Andrew and I just had an email exchange back and forth going, “Okay.” And we send a bunch of things and, “Well, it’s got to be something about being human, and because I just know that’ll be the heart of it somewhere.” And within a few email back and forth, no one found Only Human offensive, or too this, or too that.
+
+Tim Ferriss: You don’t seem to mind offensive. Are you steering away from controversial and offensive now?
+
+Derren Brown: Oh, true. No. Well, yeah. But it’s also about not being too specific, that’s the trouble with an offensive, bold title is that you’re then going to be —
+
+Tim Ferriss: Gets too specific, that’s the issue, right?
+
+Derren Brown: That’s the issue. And then yeah, in terms of choosing the project, well, really it’s what I would like to do. And —
+
+Tim Ferriss: Yeah, I want to know how you know that though, right? Because I, for instance, I’ll buy a little time. So my friend Kevin Kelly, he’s founding editor of Wired magazine, he tries to give away all of his ideas, and then if one idea keeps coming back to him and no one will do it, and he can’t seem to get rid of it and it’s floating around its head, then that’s how he chooses a lot of his projects. At least the new, exploratory projects.
+
+In my case, nonfiction books, let’s just say it’s a book I can’t find myself, I want to learn about it, I immerse myself, so it’s sort of a graduate degree for myself. And there’s a bit more that goes into it. I test it with my audience using blog posts and podcasts and things.
+
+But you were saying you want to do, and this might sound like such a silly question, but how do you know that? Because there’s some people who describe a feeling, or maybe they’re kept up at night, but it’s an excitement, it’s not an anxiety. The tenor, the emotional tenor is different. How do you feel your way into it? How do you know that you want to do it?
+
+Because my experience with people who have a lot of options, as you would, you also have a lot of inbound, you have, I’m sure a wide menu, is that it’s not sorting good from bad ideas. You’re going to have lots of good ideas, and then you have to choose the better idea, or the great idea, or the good-for-you idea amongst many good ideas, that you would actually like to do. So, how do you pick?
+
+Derren Brown: I think it really depends on what sort of project it is. For TV and stage, I’m always writing with other people, and I don’t give it any thought until the three of us are on Zoom, or in a room talking. And then we’ve got a whole backlog of experience. There’s templates that are in place that we can dispose of, or use again, or we’ve kind of got a shorthand and it’s —
+
+Tim Ferriss: For the format, you mean, the template?
+
+Derren Brown: Yes. Yeah, exactly. There’s a lot of pre-existing ways we found that work, which — except we can often very consciously dispose with, but there’s something in place so you don’t feel completely at sea. I suppose it’s most difficult with — so, book writing, like at the moment I’m trying to get my head around writing another book, and that’s just me and that is more difficult. And that simple question of how do you know what you want? What do I really want? It is difficult. And often — so, the last book I wrote was a slightly off-grid book for magicians called Notes from a Fellow Traveler.
+
+And I wrote it on the road while I was touring, because two reasons. Firstly, I felt that a book about touring and how to put a show together and the experience nightly of doing a show for large audiences, and dealing with all the stuff that goes wrong, and blah, blah blah, would be of use to magicians that are just maybe starting out with putting a show together, and all the really important stuff about performing, which just isn’t really written about too much in the magic world.
+
+So, that was one reason. But also, it would be really fun — I need to write during the days on tour, otherwise you’re just kicking around somewhere that there may be nothing to do, and what are you going to do for a week? So, writing’s really important. And that was a big part of it. And sometimes it’s that sort of thing, isn’t it? It’s sometimes — I’ve always been, if I’m driven by anything, it’s thinking I should be doing better than whatever I’m doing. I always think if I can do something and I find it sort of easy, I just presume it’s a bit stupid, and I’m always trying to do the next thing. And I particularly feel that with writing, and I make it more difficult for myself probably than I need to. So, the magic book was actually a really enjoyable, easy, I didn’t need to do loads of research and bring a suitcase of books around with me. It was actually a kind of — it’s a really lovely thing.
+
+So now I’m trying to listen to that, and I’m trying to let something settle into — something that when you’ve got it just feels obvious. Oh, well, of course. Because those tend to be the best things, but there is no easy route. And with the TV shows, as I said, often the idea of, “Oh, can you make someone push someone off a building? Everyone at the party is an actor apart from one person, could you…” Those come sometimes from just a frustration of you just trying too hard, and going down rabbit holes and round in circles trying to find something that is clever, but then just you go, “Blah, can’t we just do this?” And it feels obvious and a bit silly, and I go, “Oh, that’s it. That’s it. That’s exactly what it should be.”
+
+And so I think maybe recognizing that is that you know when you’ve got it, when it — because then it tingles. You know it’s right because it resonates, to use that word, and it has this little buzz of excitement to it, but it’s really hard to force it directly. But if it was, you wouldn’t be doing such good stuff if it was easy to find, I suppose.
+
+Tim Ferriss: I will ask you, because I have a prompt in front of me, using forms of suggestion as self-defense. So, I do want to hear a story about that. But before we get to it, since you mentioned The Push, and I promised at the very beginning I would touch on the ethics piece, so for people who have watched some of these, or do a little homework, one might think as a viewer, knowing that you’re putting people through this process where unbeknownst to them ultimately they’re being groomed and conditioned and set up to do something very extreme, that people would end up with all sorts of complex PTSD, and that the show itself could produce all sorts of capital-T trauma for people involved. How do you respond to people?
+
+Derren Brown: And?
+
+Tim Ferriss: How do you respond to people with this concern?
+
+Derren Brown: What’s your point? Yeah, well, so look, if you take, for example, take Sacrifice then, which was the last one. Well, so that show somebody’s going through a really roller coaster series of things to get to a life and death situation, where they think they’re going to be shot at the end of it, and so on.
+
+So, the first thing is when we write the show, and I’m writing these shows with — we are writing the show with a lot of experience of making similar things. I’ve got very used to making sure this person is going to be just held in a place that they’re okay, and they’re going to be safe in themselves. That’s like the first lay in the actual writing of the show. And at any point, bear in mind, if it’s a big hidden camera thing, I could just step in. If anything bad happened, I could simply step in.
+
+And also everything gets passed by, this is important, an independent psychological team. So we’ll have a psychologist on board who knows the show, knows exactly what’s going to happen, all the things that might potentially be triggering. So if someone’s lost someone dear to them in a car crash, we’re not going to want them witnessing a car crash, for example. But that might not be obvious, might not know that. So everybody that applies, or gets shortlisted, will have this session with a psychologist that they’ll think everybody gets, but it may only be three or four people that get it by this point, but if we don’t want them to know they’ve been shortlisted, then they don’t.
+
+We’re also preserving this fiction for them as to what’s going on, but we’ll have that too. And then during the show itself, again, we’ve got that psychologist. We have other independent people that are with us in the truck watching it play out, any number of measures where if anything is going a bit off track, or they see genuinely some line is being crossed, we can step in.
+
+And if I get the chance, it depends on what the show is, but if I’ve been able to interact with the people before then I can layer in language and triggers which I can give to the actors, particularly if I’m talking to them through earpieces, to use, which I know will have an effect on the person that’s going through it, to calm them or give them some resources. So, I’m kind of using the hypnosis in a way that’s for that benefit, to come back at a later point, rather than me making them do stuff.
+
+So, that’s all things like that are in place. Next, they go through the experience and they’ve always, and I’ve done this so much, always loved it and taken a huge amount from it. No one’s ever actually had a bad time or come out of it however it looks or feels like to the crew making the show. The other actors actually have often a far worse time, because they’re feeling terrible putting somebody through something, whereas the guy or the girl that’s been through it has always loved it.
+
+And then, so going back to Sacrifice, Phil does this whole thing, comes out the other end of the show, but there’s — actually the trickier part then is, well, how do you now deal with this person who’s been through a hopefully life-changing, or at least pivotal big thing in their lives, and it’s now going to be a TV show that’s out there. That’s weird, and that’s a sensitive thing.
+
+So I flew Phil over and he came and he watched the show in my house. We watched it three times. Once because he needs to see it first as a show, with music, underscoring, close-ups, bits that were taken out that didn’t make it to the final cut that might’ve meant a huge amount to him, and now he’s got to get his head, “Okay, that’s not part of the story.” Because that didn’t really serve a purpose at the end of the day.
+
+There’s a bit in the show where he doesn’t do something. There’s a bit that — and it’s a bit like, “Ah, he’s not doing it. Is this going to work?” And he had to then get his head round he’d let us down, or that he’d failed, and that’s a difficult thing. That’s a real thing for him.
+
+We watched it a second time with the other people that had done similar shows that I’d made. So the guy from the Apocalypse one with the zombies and the guy from The Push, and they came. So now he felt like he had a little group of people that had been through a similar thing, and shows, because he was a fan of the show, so these are people that he knew. So that was a really helpful thing for him.
+
+And finally, bizarrely, we watched it — do you know Martin Freeman, the actor, have you come across him?
+
+Tim Ferriss: The name rings a bell, but I can’t conjure a face.
+
+Derren Brown: Okay, famously Watson to Benedict Cumberbatch’s Sherlock and all sorts of things. He’s certainly a big name here, and Phil was a big fan of him, and also big star in the Fargo series.
+
+Tim Ferriss: Oh yeah, of course.
+
+Derren Brown: Anyway.
+
+Tim Ferriss: Of course, I just pulled up his photo. I know who Martin Freeman is.
+
+Derren Brown: You got it. You got him. So we watched the show with Martin, that was the third time, so Phil could hopefully feel proud of it, and by this time, after three viewings, had got used to it as a TV show. But then you’ve got, what about when the show airs? And it’s a controversial subject, so he might have a lot of backlash from people.
+
+And I remember the first show we did that was at all like this, and when this was a bit of a learning curve for us, this guy that’s been through this extraordinary journey that meant so much to be so excited the show’s going out, and this is back in the day when it’s just broadcast and everyone’s going to watch it at the same time, so he’s got Twitter open on his phone, and he’s just reading the nastiest things about himself.
+
+His girlfriend’s too pretty for him. He should get his eyebrows sorted out. Just awful, awful stuff, and it was really miserable for him. So we got somebody out there to be with Phil in the States so they could be around during that time, which would be sensitive and weird that it suddenly goes out in the public domain.
+
+So it’s a long answer, but basically there’s a huge amount that we do that doesn’t really form part of the drama of the show you’re watching, because it’s a whole different story —
+
+Tim Ferriss: In the background.
+
+Derren Brown: — that has to preserve the fiction. What you’re seeing is absolutely the guy’s experience, but all this other stuff has to happen to make sure that it’s safe and does the job it’s supposed to do. It’s there for one reason, which is to give him a real, proper, hopefully important pivotal moment.
+
+Tim Ferriss: You have a hell of a job, sir. All right, as promised, suggestion as self-defense?
+
+Derren Brown: Oh, that’s right. That came up, yeah.
+
+Tim Ferriss: What does this mean? Yeah.
+
+Derren Brown: So, I had a —
+
+Tim Ferriss: Do you have a story? You must have a story.
+
+Derren Brown: Well, it was an experience of — it’s worth knowing this actually. I think we should all have this ready in our head. So I had spoken, after doing hypnosis shows, I would sometimes do a Q and A afterwards and people would ask about whether you can hypnotize people without them knowing it, and so on. And it had always occurred to me that if you want to keep the seat next to you free on a train, don’t put your bag there because that’s what everybody does, and it’s just annoying, and then you want to ask the person to move their bag. Instead, pat the seat and nod and smile at people. No one’s going to sit next to you. Right?
+
+So I’d spoken about this kind of stuff and then I found myself in a real life situation, and I was walking from one magic convention to another, this was before the TV or anything. I was mid-20s. I was in a velvet three-piece, purple suit with a fob watch chain and long hair. And if anyone was going to get brutally murdered that night, it was me. And this very drunk, angry guy and his girlfriend are walking towards me, this guy’s just looking for a fight.
+
+And because I’d spoken about these slightly off-kilter ways of dealing with these sorts of situations, the trick is to act in a way that it makes complete sense, but it’s utterly out of context, so the other person thinks they’ve missed something. Because if somebody comes up to you in the street and says, “It’s not 20 minutes past five.” Your reaction wouldn’t be to go, “Yeah, I know it’s whatever.” You’re going to, “What? I’m sorry.” Like you’ve missed something. So, he comes up to me, “What the fuck are you looking at? Do you want to fight?” Or whatever it was he was saying.
+
+And I said to him, “The wall outside my house isn’t four foot high.” And what you get, and I guess there’s a similar thing in martial arts of that adrenaline dump, he asked me to repeat, first of all, what I’d said. So I said, “It’s not four foot high. I lived in Spain for a bit, the walls were much higher, but if you look at them here they’re tiny, they’re nothing.” And he sort of did this, he just essentially, he kind of not exactly collapsed, but he just sat. He went “Ughhh” and he sat down on the pavement. His girlfriend walked off. In my mind what I was going to do was —
+
+Tim Ferriss: The girlfriend made the right choice. She’s like, “I don’t want to deal with either of these people.”
+
+Derren Brown: My plan was, which I didn’t get to, my plan was you give the person relief from the confusion, and this is where the hypnotic element comes in. I was going to say to him, “It’s okay, it doesn’t matter whether your left or your right foot is released first, but you’ll find within a couple of minutes you can walk and you can move and everything, and it’s fine. It doesn’t matter if it takes a couple of minutes.”
+
+So that was the plan to leave him stuck to the table.
+
+Tim Ferriss: The pavement.
+
+Derren Brown: But I didn’t get to go that far. He collapsed, and I ended up weirdly sitting down with him and saying, “So what happened? What happened tonight?” And his girlfriend she’d got in a fight and she’d bottled somebody, I think, it was something like that.
+
+Tim Ferriss: Jesus. Birds of a feather, yeah.
+
+Derren Brown: Yeah. So, he went off. I then walked off to this other magic convention, told everybody, I was so excited. No one believed me, because they thought it was just me making stuff up. But if there’s a takeaway there, have a song lyric or just something to — it came out of a conversation with a friend who used to walk home from his art studio late at night, and there was always just intimidating gangs standing around. So he’d always cross over and sometimes they’d shout things, and it was just horrible.
+
+So I said, “Why don’t you cross over to their side and say, ‘Good evening’ as you walk past?” And he did, and he never had any trouble because they just thought he was strange.
+
+So I think I have something like that. If someone’s running at you with a knife, it’s not going to help, but if you are in that situation where people are being intimidating it’s a very, I think, a powerful route. It has to make sense, but just be out of context, and just commit to it.
+
+Tim Ferriss: Could you elaborate on the making sense, right? Because you could be like, “A boogadee boo. Dinosaurs times two.”
+
+Derren Brown: They need to feel they’ve missed something.
+
+Tim Ferriss: Missed something.
+
+Derren Brown: So I had that phrase in my head that the wall outside my house isn’t four foot high, because I’d spoken about this sort of thing with audiences after the show, so I had sort of, without meaning to, kind of rehearsed it. And so it just kind of came out. So I think having something like that, for some reason the negative in it, it really helps. Because it’s like they’ve said something that you’re responding to but they haven’t said, it adds something to it.
+
+Tim Ferriss: I’m just imagining dating you and wondering, “What is he up to? Are you doing that thing?”
+
+Derren Brown: It’s exhausting, isn’t it?
+
+Tim Ferriss: What are some benevolent applications of the techniques that you have acquired? What are some offstage applications? This would be an example. This would be a problem-solving example. Where else can you apply these things?
+
+Derren Brown: I really weirdly don’t use it in real life. That stoic lesson of not trying to control things that are out of your control. It’s so the opposite of what this strange job is that I have. So I actually very much don’t. I mean I think the thing I’m most aware of, which is not a new thing for anybody to hear, but in my mind ties into the same sort of world, is just the importance of being heard and how that, so your partner, spouse, girlfriend, boyfriend comes home and has had a frustrating day and just wants to offload. And particularly, for some reason, if you’re a guy, let alone if you’re sort of vaguely stoically drawn, but our natural thing is of course, to offer solutions and so on.
+
+And you’re just doing the thing again of not letting the person be heard. And it’s so obvious. And I think I really don’t walk around in that Derren Brown mode, but I catch myself consciously just trying to be present and hear and listen and know that it’s, because you know the moment you start offering solutions, they’re dismissed. There’s a million reasons why that isn’t appropriate. So you very quickly get told if you do get it wrong.
+
+But I think that’s a big, and it goes back to this thing of people’s stories of ghosts and psychics that told them amazing things. Just to be present with those things and not feel that it’s your job to step in and kind of morally correct them or in some way put them on a different path or even offer a solution to a puzzle, that sometimes we just need to sit in these things and be heard because what we’re actually saying is something deeper than the specific problem or the thing that’s niggling us.
+
+So I don’t really carry a lot of it around. When I’m in work mode, I’m full of that stuff. I mean it’s the power of presupposition is, you’re doing it, I used to use it all the time in card tricks. You say you’ve got a deck of cards at the beginning, they’re in a special order, so you can’t have the person shuffle them, but maybe there’s a point halfway through the trick where they can shuffle the cards. So at that point, I’d give them the cards to shuffle, that I’d say, “Oh, shuffle them again, but this time do it under the table.” So now they’re taking the cards under the table and somehow in doing that, they’ve accepted the word again and they’re shuffling.
+
+And later, when they describe the trick and they want the trick to sound as amazing as possible because they’ve been fooled by it and don’t want to look stupid, the amount of times they would say, “Well, I shuffled the deck at the beginning,” and they didn’t. And then the trick really is impossible because they couldn’t have shuffled it at the start.
+
+So the power of presupposition is very important and I guess you can apply that to yourself, I guess in your inner language as much as trying to influence others. But I just somehow don’t sit in that world in real life. I think it’s enough in life to try and find a way of gathering yourself afresh and then going out in the world and taking some responsibility amidst your mess. I think that’s enough. I don’t think self-esteem is that important and I certainly don’t think influencing others is that important. I think we’ve got enough to be getting on with.
+
+So it weirdly leaves me, when I first started, I loved all that stuff and now it leaves me a little bit cold. I don’t think it’s about that. I think just how you make peace with life that’s not always going to go your way. That’s the project. That’s a successful life.
+
+Tim Ferriss: So you read a lot, you’ve written a lot. Are there any books in particular, and you can name at least two, so one could be of your own, but are there any books that you have gifted or recommended frequently to other people that come to mind?
+
+Derren Brown: I’m a big fan of Jonathan Haidt, who if you haven’t had on this podcast, you should do. He’s a —
+
+Tim Ferriss: I have. He’s outstanding.
+
+Derren Brown: Yeah. Wonderful, brilliant, brilliant, brilliant guy. So I found myself, I’ve just finished his book, The Anxious Generation, his last one. I often find myself giving those to people. I like James Hollis as well a lot. I don’t know if you’ve had him on? He’s a Jungian psychotherapist or psychoanalyst I suppose, who writes a lot in that mode. Irvin Yalom. He’s a wonderful writer. And does that thing that Oliver Sacks, I think, started of writing little accounts of interesting cases. But he is a beautiful writer. Of course the moment we finish this, I’ll think of any number of —
+
+Tim Ferriss: Do you read fiction?
+
+Derren Brown: No, I don’t. And it’s missing. I think I should, and there’s probably a lot more truth to be found in reading fiction than in just the nonfiction that I do. But I’m always drawn to it and because there’s always a book project somewhere in my mind, I always feel like I should be, as I become more aware of that thought, I sort of feel like I can now work against it. And —
+
+Tim Ferriss: If you were to read fiction, what type of fiction might you start with? Are there any parameters or characteristics?
+
+Derren Brown: Driven by that thing of I should always be doing the thing that isn’t easy, I think it would be the only fiction I read more of that. So Dostoevsky and so on, it would be that it would be the big, heavy classics because that’s where I feel that’s where you should start. I’ve occasionally been given a novel by a friend and I always find them very sort of forgetful. So I like, I think, probably the big European works because that I just feel I was —
+
+Tim Ferriss: You want to learn how to ski, so get dropped out of a helicopter at the top of K2, that type of approach?
+
+Derren Brown: I loved the Thomas Harris, the Hannibal Lecter series of books. I remember absolutely devouring those and I was a big fan of Stephen King, I don’t know what any of this says about me, when I was younger. So I’ve definitely had that. And if he brought out another one in the Hannibal series, I would certainly read that.
+
+Tim Ferriss: You might go for it. All right, since you like difficult, I’ll just make one recommendation for a book that for nine out of 10 people, it’s a miss because it’s hard, it’s dense, it’s called Little, Big. The alternate title is The Fairies’ Parliament by John Crowley, who is also a poet. And this book, Little, Big, when it works, at least for me and for the one out of 10 that it might work for, has the most profound effect on time perception and time dilation. It feels like you go on a one- to two-week psychedelic experience on the lower end of the mystical scale.
+
+But it is such a mind-altering book in the way that it is written as almost a fever dream with multiple intertwining timelines and magical surrealism. If you’re looking for something hard that is also incredibly beautiful. And it’s this book, I’ve never had an experience like this, you have to charge through the first 150 pages. If you put it down after 20 and pick it up a week later, it won’t make any sense.
+
+But if you get through it, you’ll be like, that was an incredible book, hopefully, I want to recommend it to friends. And then two weeks later, if someone asks you what it was, you will not be able to describe what the book was about. It’s bizarre. So that will be just my recommendation. Little, Big by John Crowley.
+
+Derren Brown: Thank you. I’ve made a note. I recently read a book I really enjoyed called Picnic Comma Lightning, three words, Picnic Comma Lightning by Laurence Scott. And I loved it and I could not tell you what it was about at all. It’s nonfiction, but I just adore it.
+
+Tim Ferriss: Maybe that’s the sign of a good book on some level — being lost in it to the extent that you can’t piece it back together in retrospect.
+
+If you had to give, and I know you’ve given a great TED Talk and I recommend people check it out, great bow tie also, but I recommend people check that out. If you had to give another TED Talk, but it had to be on something you are not known for. So it can’t be the magic, anything tangential to magic. Also, I’m going to take art off the table, sadly, I’m going to take art off the table. What might you give a TED Talk on?
+
+Derren Brown: I think this idea that we’re all joined up by how lonely it feels and things go wrong. This thing I said of life pulling us towards difficult places. I think that’s, I don’t say that because I’ve had a particularly difficult life, but I just think it is just part of life and it’s part of someone’s life that’s going well. It’s still a common thread. And I think that is not the mode that we’re encouraged to live in.
+
+It was very strange. But I did that TED Talk and I really enjoyed it. But I don’t say this with any disrespect to the TED people at all. They were wonderful. But it was in Vancouver and you step out of that TED building into some of the worst homelessness in the world.
+
+Tim Ferriss: In North America.
+
+Derren Brown: And it is like Disney have staged the apocalypse. I mean there was a bride covered in blood pushing a trolley through fire. There were just things on fire. I mean it was extraordinary. Not quite on its doorstep, but a 10, 15-minutes walk. And it was very odd going out and finding a coffee in the middle of all that. And then going back to the sort of TED Talk topics, it was a strange thing. So maybe partly for that reason. But I think the difficulty of life and how we sit well with that, I think that’s the perennial subject for me.
+
+Tim Ferriss: Maybe we should make that happen. Yeah, Vancouver, I presented a TED any number of years ago, I can’t remember. And some of the worst opiate and opioid addiction in North America, for sure, in terms of density. Gabor Maté has done a lot of work there.
+
+All right. Shifting topics a little bit, completely. It’s going to make a hard left turn. In the last handful of years, five years, I mean somewhat of arbitrary time frame, but what new belief or behavior or habit would you say, it doesn’t have to be the most, has improved your life the most, but are there any new beliefs, behaviors, habits that have meaningfully improved your life? Ways of looking at the world, could be anything?
+
+Derren Brown: I think being confident to go with my instincts on particularly work-related things. Historically, so these are big projects. I have these other people around me that are putting things together behind the scenes in terms of productions and meetings and pitching ideas and so on. And I get caught up with that. And as I said, that productivity that you see isn’t driven by any sort of workaholic tendencies on my part. It’s just what I find myself swept up in. So of late, and it’s an odd thing to be saying, “No, I don’t want to do this.” Or being offered some private gig out somewhere, gosh, I’m not going to enjoy that. That’s quite —
+
+Tim Ferriss: Unless it’s the Clintons, then you can’t say no.
+
+Derren Brown: Unless it’s the Clintons. So that’s good. I’ve been in my current relationship for sort of 10 years and probably the last five years of that, it’s settled better with me in terms of, we’re very different. So I think I’m naturally disposed of quite a stoic, placid thing. He’s very fiery and I’m quite enjoying the learning from that because it makes me a bit less of a people pleaser, I suppose.
+
+We’ve had lots of work done in the house for a long time and he’s very happy to start arguments with people that are doing that. And I’m just trying to keep everybody happy and making them coffee and trying to iron over any tension. And actually, sometimes a bit of conflict is important because it isn’t really about conflict, is it? It’s about being able to have some faith in what you actually are and want to say and stand for. It’s not about conflict. You think it’s about conflict, so you don’t do it, but it’s not, it’s just about having some faith in yourself.
+
+What caused that settling? Was it relating to it differently, that dynamic that you just described? So you have 10 years, in the last five, you’ve settled into it in a different way. What has contributed to that?
+
+Derren Brown: I think just time. I think it’s just slowly —
+
+Tim Ferriss: Fatigue.
+
+Derren Brown: Slow process of raking down, giving up, slow surrender. But my natural predisposition is kind of mental space, I’ve always sort of saw myself as probably being on my own with a dog and even getting a second dog as a couple, having now a second dog. It felt, oh no, no, it’s wrong. I remember saying, “Oh, let’s not get a second one. I like that it’s just me and my dog.” And my partner said, “What do you mean you, it’s us and our, what do you mean, what you talking about?” And I realized that was my, my image of myself was still kind of a bit single. So that’s definitely a new mode for me.
+
+I am trying to work a little less, but I’m also become very aware when I wrote the Happy book, afterwards, I was going out and giving talks on happiness to promote the book a little bit and because I had all this knowledge that I found really interesting and I wanted to do something with it and not just end it because finished writing the book. And I was really unhappy. I was going out thinking I’m actually feeling a bit miserable and I don’t know why and I feel a bit of a hypocrite. And I realized it was because I’d finished writing the book and I didn’t have that engagement, as I said, in a big creative project.
+
+So those are important to me. And I think realizing that as well. I think just best we can hope for is become more conscious of the things that really we do find meaning, the things that we do need and having more of those.
+
+Tim Ferriss: If you could put a message, quote, image, anything non-commercial on a billboard, meaning make it present for millions or billions of people.
+
+Derren Brown: There’s a line in, or a verse of Rilke, the German romantic poet, which is something like, “Experience everything. The beauty and the terror. No feeling is final. Just keep going.” I always thought that was great.
+
+Tim Ferriss: Maria Rilke. Yeah.
+
+Derren Brown: Love a drop of Rilke. So yeah, maybe that. Or just if you want something snappy, I think, “Gather yourself afresh.” I think first of all, just to find ways of being able to do that, what we need in our life, just to kind of get ourselves back together and step back out into the world. I think having that and knowing what you need. That’s a big tick, isn’t it?
+
+Tim Ferriss: Mm-hm. Well, Derren, I can keep going, but I want to be respectful of your time and this has been a great wide-ranging conversation.
+
+Derren Brown: Also, my AirPods are starting to run out. You keep dipping out.
+
+Tim Ferriss: So people can find you on social at Derren Brown. We’ll link to everything on Instagram and on X, Derren Brown. D-E-R-R-E-N Brown.co.uk. Is there anything else you’d like to say before we wind to a close, requests of my audience, things you’d like to point them to? Anything at all?
+
+Derren Brown: Just to recommend our hairdresser that we both share.
+
+Tim Ferriss: Yes, we do share the —
+
+Derren Brown: Give him a shout-out.
+
+Tim Ferriss: — the same stylist and beard trimmer. It’s a good look. It looks good on you.
+
+Derren Brown: Thank you. You too. It was very good to finally make contact. Thank you so much. Thank you for having me.
+
+Tim Ferriss: Oh, my pleasure, my pleasure. And for everybody listening, we’ll link to everything in the show notes, tim.blog/podcast. Until next time, be just a little kinder than is necessary to others and also to yourself. Thanks for tuning in.
+

@@ -1,0 +1,822 @@
+Please enjoy this transcript of episode #782, in which Kevin Kelly joins me for a conversation with Danny Hillis. Danny is an inventor, scientist, author, and engineer. While completing his doctorate at MIT, he pioneered the parallel computers that are the basis for the processors used for AI and most high-performance computer chips. He has more than 400 issued patents, covering parallel computers; disk arrays; cancer diagnostics and treatment; various electronic, optical, and mechanical devices; and the pinch-to-zoom display interface. He is a co-founder of The Long Now Foundation and the designer of its 10,000-year mechanical clock.
+
+Danny has founded multiple companies, but his only regular job was as the first Disney Fellow at Disney Imagineering. He has published scientific papers in Science, Nature, Modern Biology, and International Journal of Theoretical Physics and written extensively on technology for Newsweek, Wired, and Scientific American. He is the author of The Pattern on the Stone: The Simple Ideas That Make Computers Work and Connection Machine. He is now a founding partner with Applied Invention, working on new ideas in cybersecurity, medicine, and agriculture.
+
+Kevin Kelly (@kevin2kelly) is the founding executive editor of WIRED magazine, the former editor and publisher of the Whole Earth Review, and a bestselling author of books on technology and culture, including Excellent Advice for Living; The Inevitable; What Technology Wants; and Vanishing Asia, his three-volume photo-book set that captures West, Central, and East Asia. Kevin is the author of the popular essay “1000 True Fans.” Subscribe to Kevin’s newsletter, Recomendo, at recomendo.com. Every edition features 6 brief personal recommendations of cool stuff.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch the interview on YouTube.
+
+Tim Ferriss: Gentlemen, Kevin, Danny, thank you for making the time for the three amigos to gather. I know, Danny, it’s a little presumptuous for me to call us amigos just yet, but hopefully by the end of the chat. And Kevin, I must say your headline that I crafted for our podcast long ago, which was the real-life “Most Interesting Man in the World?” I think you might have some competition for that particular headline in Danny, and we’ll certainly explore a lot of facets of that. But maybe we’ll start with how the two of you met or connected in the first place. Do you want to take a stab at that, Kevin?
+
+Kevin Kelly: Yeah, I was wondering, I think my recollection is that our mutual friend, Stewart Brand, went to MIT mini lab to write a book, and I think Danny was one of the people that was embedded in that circle of the mini lab and MIT at one point, Stewart dragged him back to Sausalito, where I was editing The Holworth Review at the time. And we met and I was impressed, but that was it. And then, later on, when I was running WIRED, Danny had a dream of a clock that would tick for 10,000 years as a way to think about the future. And he wrote a proposal, which I ran in WIRED, and I thought that was very interesting and a great way to frame the future. And that was it. But our mutual friend, Stewart Brand, decided that he would try to help Danny actually build the clock and made a little nonprofit called — well, we didn’t have a name. It was called the Clock Library Foundation, and I was part of the original group. And then, for the past almost 30 years it seems like, we’ve been working together on The Long Now’s mission to encourage long-term thinking. And I’ve seen Danny in action in all those years. So I think that’s my recollection.
+
+Danny, does that meet with yours?
+
+Danny Hillis: Sounds right to me.
+
+Kevin Kelly: Okay.
+
+Tim Ferriss: I’m going to throw a bit of a wild card into things because I can’t resist not doing it. So Danny, there are a million places to start with you. We could try to do something chronological. We could start with homeschooling, we could talk about AI. We could talk about dark sky weather apps. There are so many points of entry. I thought though I might be the first to begin with a Mogen clamp, if that’s the right term to use. So this device, this terrifying-looking device, and a silver briefcase full of devices. How does this fit into your story?
+
+Kevin Kelly: You might need to explain it because I have no idea what this is.
+
+Danny Hillis: Okay. Well, at some point, I realized that I really wasn’t going to figure out what I was going to do when I grew up, and that I always enjoyed new problems that I didn’t know about. So I started a company called Applied Invention with Bran Ferren that worked on everything. And so how do you recruit people for a company like that?
+
+So one of the things that we did, we had this box of just weird stuff, like a space shuttle tile or a piece of synthetic diamond or that weird clamp cutter thing that you just mentioned. And what we’d do as part of the interview processes is would sit people down and we’d just open up the box, and immediately you could tell was this person a likely fit for the company because a lot of people would wait for instructions, but most of the people that we hired would look at it and say, “Whoa, is that a Mogen clamp? Is that a laser gyro? What is this?” And they would start picking up the pieces and talking about them and asking about them. Those were the kind of people that we wanted to hire.
+
+It wasn’t a test so much of knowledge, it was more a test of curiosity and engagement and ability to learn. Although it was amazing how many of them people recognized. That was a particularly weird one that a lot of people did not get because, as you probably know by now, it’s basically the device that is used for circumcision to make sure you don’t cut off too much.
+
+Tim Ferriss: Oh, God, it’s horrifying, but also beautiful and how sterile it looks. And I appreciated the German on it that says “rostfrei,” which means “rust-free,” which is really what you want.
+
+Danny Hillis: Yeah, yeah. I would imagine rust-free has a limited opening, you notice. Really, it’s hard to overdo it.
+
+Tim Ferriss: Oh, God, I’m squirming in my ergonomic chair just thinking about this.
+
+Danny Hillis: The funniest person who ever opened that box was Robin Williams. And you can imagine where he went with space alien sex toys and things like that. He knew what everything was and gave us an elaborate description of it.
+
+Tim Ferriss: All right, I can’t resist taking the bait. There are a lot of things I’m not going to be able to resist in this conversation. Why on Earth is Robin Williams looking through this suitcase or this briefcase?
+
+Danny Hillis: Bran and I had met Robin at the Walt Disney Company. And so it was actually the only job I ever had. I worked for a while as something called Disney Fellow and Vice President of Imagineering. It was a job in the sense that I got a paycheck, which was actually a novel experience for me because I usually pay the paychecks. So when I saw benefits, I suddenly realized what benefits meant because always previously, benefits was something I had to pay. So that was a second education for me after my MIT education and completely different kinds of things, but part of it, how big companies were part of it.
+
+Kevin Kelly: So I’d like to hear, Danny, a little bit about that progression where you got your degree in, I know math or computer science, and then you started a company, as you said yourself before that. That progression to work for Disney is not an obvious step for anybody. What were you thinking and what was your plan? I mean, you’re over-educated for the role in some ways?
+
+Danny Hillis: Well, I’ve never really had a plan. I will admit it would be nice. Some people know where they’re going in life and maybe I’ll figure that out someday, but opportunities present themselves. And that was a moment in my life. When I went to MIT, I knew I wanted to work for Marvin Minsky, which is a whole other story. And I studied AI under Marvin Minsky in the early days of AI. But I realized that AI was not going to happen without big, fast parallel computers, which didn’t exist at the time. So I started to build one, which I had to build from designing the chips, the operating system, everything from scratch, and it rapidly became too big a project for a graduate student to do at a university. Even though DARPA was giving me the money, the university didn’t like a graduate student having this many employees.
+
+And so I did what was, at the time, a very unusual thing, which just started a company as a graduate student. In fact, MIT told me I couldn’t do it. And I said, “Well, I don’t see how you can say that because I’m paying you money. You’re not paying me money.” So they forbade me from doing it, and I just did it anyway. In fact, I started hiring a bunch of faculty members.
+
+Tim Ferriss: Salt in the wound.
+
+Danny Hillis: When I hired the ex-president of the university, which was Jerry Wiesner, they stopped bothering me.
+
+Tim Ferriss: Brought in the power lobbyists.
+
+Danny Hillis: Right. And that was a huge success from a technical standpoint. But honestly, me and the other people that started the company had no idea about how to make a company work. I made a lot of mistakes in how I set up the business because I was really mostly wanting to just build this computer. I wasn’t trying to build a company. And so we successfully built what was in — it was the first big parallel computer. It was something that people, all the experts said was impossible for various reasons. And it became the fastest computer in the world for many years. We built the fastest computers in the world, but we never made a great business out of it.
+
+Actually, interesting enough, as somebody who worked for one of our chip suppliers, had a much better idea of how to make a business out of it, and he took very similar chips to what we were making, and he made them for video games. That company actually took 30 years, but it finally managed to do what we set out to do, and that was NVIDIA.
+
+Tim Ferriss: I’ve heard of it.
+
+Kevin Kelly: One of those chips is probably the power of one of your machines, right?
+
+Danny Hillis: Oh, yeah. I mean, Moore’s Law really worked and got to watch it play out. I mean, that was 30 years ago. So think of how many times Moore’s Law has doubled since then.
+
+Kevin Kelly: So you were describing this as how you wound up at Disney?
+
+Danny Hillis: Oh, yeah. Well, when the company didn’t work out, I worked it. I got all the hardware people that were working on it. He had hired Sun Microsystems and exchanged their options and thinking machines for options in Sun Microsystems, which, this was just before the web took off, and that worked out well for them, but I decided that I’d had enough of the computer business and I just wanted to do something different. And I had twin babies and a daughter that was born on the day the company closed down. So I just wanted a job for a little while, and I had always had this childhood dream of being an Imagineer. And then I was like, “Well, just let me be an Imagineer.” And they’re like, “Well, I think we have to give you more of a title than that.” And so I said, “I made up Disney…” I didn’t want to title anybody knew what I was supposed to do.
+
+So I asked for Disney Fellow, which it turns out Salvador Dalí had been the only previous Disney fellow. So I thought I was on pretty safe ground there, but also, they made me a vice president just so that — it turns out that’s very important at a big company for some people. So they talked me into that, but it was a good thing because nobody takes you seriously unless you have some title that they understand. But it really was true that nobody knew what I was supposed to do.
+
+And actually, the guy that had approved my hiring was Frank Wells, and he unfortunately died in a helicopter crash before I showed up. So really, nobody knew what I was supposed to do, but that turned out to just be a fantastic way to get an education because I could say I want to be in the meeting where we decide what we’re going to build in Florida that became Animal Kingdom or what we’re going to build in Paris. So I would insist on being in a meeting and everybody would be a little bit worried that maybe I had some authority and nobody would say no to me.
+
+So I learned a huge amount about storytelling and the, I would say, the artistic way of looking at things rather than the engineering way of looking at things.
+
+Kevin Kelly: What would be an example of that, Danny, of something that you learned in terms of being able to tell a story?
+
+Danny Hillis: Well, I mean, some of them have shocked me as bad because in some sense, I mean, show business is about basically making stuff up, which is a nice way of saying lying about things. And it’s not really tethered to reality. In science, you have an argument, somebody’s right, but in show business, that’s not really true, just somebody wins the argument and you never really know who was right. So there’s a completely different way people relate to each other.
+
+So basically, you make a movie and either it’s a flop or it’s a great hit, and if it’s a great hit, everybody who is in the room at the time that it’s decide to make the movie gets promoted, but nobody really knows why it was a hit or who was responsible or so on. Very different from engineering where there’s a ground truth.
+
+Well, here’s an example. One of my first days, early on, they knew they needed to get an online spaces and they said, “We need to make some kind of online service.” And Disney Online, they didn’t know what it was, but they knew online was a big thing. This was the Siliwood period when Hollywood and Silicon Valley were dancing with each other. And so they sat down and said, “Okay, everybody just write down on a piece of paper, just some sketches of what you think this thing’s going to look like.” So I draw the block diagram of the servers and the services, and you’ve got to have ways for people to log into it in a database that has a typical engineering block diagram.
+
+Then everybody else at the table, we go around the table and everybody else holds up a picture of a magic castle. It’s all images of things that you would look at — nothing about how anything would work. And I hold up mine. Everybody’s like, “You think it should be a bunch of boxes with lines?” They didn’t — it was just a complete disconnect. But they knew something and they focused on different things than I did. And after a while, I came to appreciate that things they were focusing on were extremely important, and in fact, probably the most important things to making things successful or not successful in show business. So it was a second education for me.
+
+Tim Ferriss: Say a little bit more about the artistic way of seeing things versus the engineering way of seeing things or looking at things. And we may end up coming back at some point to Richard Feynman. I own a number of placemats that he used to use for drawing practice in his somewhat mature friendships with one painter in particular, but I remember their debates about seeing through the eyes of science versus seeing through the eyes of an artist. And I’m wondering if that artistic way of looking at the world has translated to things after Disney for you.
+
+Danny Hillis: Oh, well, it definitely has, and I’ll focus on the part of it that influenced me the most. I mean, it was really interesting to be around people who knew how to draw, and I took drawing classes and things like that. But the thing that really stuck was learning what they meant by storytelling.
+
+When Disney designs a theme park, they don’t think of it so much as a piece of architecture or a map. They think of it as a story. And by a story, it means a sequence and a narrative of going into it and experiencing it. So it makes sense to the people that are going through it, and they know where they are. They know what to expect. They know when it’s over and the ride is like that. But actually the whole theme park is like that. And that way of thinking of things as an understandable emotional experience that connects with someone is very different than looking at the mechanics of how the rides were, which is also very interesting. And it’s very subjective, and yet it can be done well, and it can be done badly. And we’ve all been moved by watching a film or listening to a piece of music or something like that. We all know that it does affect us. It does connect with us.
+
+So for example, and the most obvious way that’s influenced it was that’s how I started to think about designing the 10,000-Year Clock. When I first thought about it, I was thinking about, well, mechanical problem, how do I keep it round? What materials do I use? But after a while, I came to realize that really, the most important thing about this clock and the thing that will really determine how long it lasts is what do people think about it? How do they experience it? How do they relate to it?
+
+Kevin Kelly: What’s the story? What is it about?
+
+Danny Hillis: What is the story? So for example, I’ll give you a simple example. In the beginning when I designed it, just like an ordinary clock, it would always show you what time it was, but then I realized, if it’s ticking away in a mountain someplace and it doesn’t care if you exist, then why should you care if it exists? So instead, I thought much more about the story of somebody going to visit the clock and what did they see? What’s the sequence of things? Where did they get confused? Where did they get frightened of “I’m in the wrong place?”
+
+And then, when they get to the clock, instead of showing what time it is, it actually shows the time the last person was there. It shows the time and the date that the last person was there. Then, when they wind the clock, it catches up to the current time. Then, of course, this is an idea that’s obvious for anybody that’s been at Disney, but people want to take home a souvenir. So what it does is it has a place on the date where you can take a rubbing, and so you can go home with a rubbing of the date that you were there. And things like that, I don’t think I really would’ve thought about without that education at Disney. Whereas with that education, it’s obvious that those things in some sense are much more important than how you solve the technical problems.
+
+Tim Ferriss: And by rubbing, do you mean almost like taking paper, putting it on a wood carving and rubbing on top of it to create an imprint?
+
+Danny Hillis: Exactly. That’s right. So if you did it like a —
+
+Kevin Kelly: Analog.
+
+Danny Hillis: Yeah. Yeah. So a piece of tracing paper and any paper and take a crayon or a piece of charcoal and you rub it across. And that’s nice because it’s something that is you because it’s like your hand marks, but it’s also a unique thing of the date that you were there. So it’s something that could only exist because of you and because of your visit there.
+
+Kevin Kelly: You run an invention company right now. And is that something that you also apply to your clients as well as when they come in? Are you trying to tell them or help them make a story out of the inventions that you are working on? Do other people really care about as much as you do?
+
+Danny Hillis: People care about it, but I don’t necessarily talk to the clients about that because depending on their perspective, the thing they may care about is financial sales or the reliability of the machine or the rate of production, or they have something that they think they care about. But very often, behind it, there has to be some story for it to make sense that the people who are operating the machine or buying the product. And so I’m thinking about it that way. I’m not necessarily explaining it to the client that way. But yeah, I would say pretty much everything I do is influenced by that way of looking at things. And it causes you to look at the experience of it rather than the engineering of it.
+
+And actually, it’s interesting. I mean, I was really lucky I got to work with Steve Jobs when he was first making the Macintosh. And it was during that period he had been kicked out of the campus of Apple and was in an apartment with a few pirates making the Macintosh. And at the time, this was before I had been to Disney, and before I had learned this, it drove me crazy because I got called in because I knew how to make chips, and Steve wanted to make a custom chip for the Macintosh initially, and it wasn’t going to happen. And I was the one that had to look at it and tell him it wasn’t going to happen in the timescale he wanted, which is not a fun thing to do with Steve. And so I was like, “Well, this is just reality. No matter how much you yell at me, it’s not going to change, but you’ve got this simulator that Andy is making all his software work on. So why don’t you just sell the simulator?” And he basically blew up at me, and I was missing the point of everything.
+
+What I realized looking back at it is Steve was really wrong about a lot of technical things, but what he was really right about was the story of how people would relate to the machine. He had a vision about that that other people didn’t have. In some sense, it didn’t matter that he was wrong about a bunch of technical things because the story was so correct, and the way that you related was so correct that all the technical things were fixable. But if you’d been wrong about the story, that no amount of technical excellence would’ve fixed it. And I think I only understood that in retrospect after I saw people relating to the Mac.
+
+Kevin Kelly: So Danny, you have been doing AI for a very long time. You made the first computers that were in parallel. You called it Thinking Machines.
+
+Danny Hillis: Our slogan was, “We want to make a machine that will be proud of us.”
+
+Kevin Kelly: Right, exactly. So what is the story on AI that we’re not getting right now? There’s a lot of focus on all these LLMs and neuronets, which are very old, actually. What do you think the story is? What’s the story that we’re not hearing?
+
+Danny Hillis: Okay. Well, I’ll tell you a story I told a long time ago about AI, which I called “The Songs of Eden,” which is in some sense, it was a story about where human intelligence came from. And it was a story about a bunch of monkeys that grunted and repeated each other’s grunts for — they sung along with each other, didn’t really mean anything, but they started noticing the mood of the other monkeys by the grunts they were making, and their brains began to develop to keenly notice the moods of the other monkeys because they’re social animals.
+
+And so they started evolving the ability to distinguish sounds, but at the same time, there was another thing that was evolving, which there was no name for it then, but we call it memes now, which is things that got repeated and that were very catchy tunes and things like that. And so there was this co-evolution of these two things. One of them with the monkeys got better and better at distinguishing between the grunts, and the ideas got better and better at helping the monkeys because that’s how they got repeated. And so we’re a symbiosis of those two things, of the monkeys and the songs. So the songs in some sense evolved into human culture and human ideas, and we evolved into the monkeys that were able to hold those ideas and transfer those ideas.
+
+And so I told the story that was the way that human intelligence evolved and predicted that that might be the way that artificial intelligence evolved, that we would build machines that were powerful enough, but then we infect them with human culture. Now, the internet didn’t exist then, but I wasn’t quite sure where you were going to get the human culture or how you were going to do that, but I think that’s what’s happened, is what we’ve got is not so much artificial intelligence, but we’ve got a substrate on which human intelligence can live that’s not human. And the human intelligence is all of the things that was learned from all the data that we train on in some sense.
+
+And this is the early stages, so you might say it’s just imitating right now, but it’s got so many examples. It’s really good at imitating. When you get good — and that’s always the first part of intelligence is imitation. I mean, child begins with imitation, then they understand more and more. So I think we’re in that imitation stage right now where we’ve built machines that are able to do a pretty good job of imitating, and they’ll go beyond, they’re just beginning to peak beyond the imitation stage reason, things like that. But in the end, it’s not really an artificial intelligence. It’s human intelligence on an artificial substrate.
+
+Tim Ferriss: That’s a new phrasing and lens that I’ve not heard before. And we will probably come back to AI, but I want to maybe ask a —
+
+Danny Hillis: Yeah, and that’s not the only possible form of AI, but that’s what we —
+
+Tim Ferriss: Oh, for sure. So we will almost certainly come back to that, but I want to zoom out for a second. You said earlier at some point, “I never really had a plan,” but there are people who don’t have a plan and have no direction and end up, I think as Marc Andreessen put it once, as a rabbit pivoting every 10 seconds, going a different direction in the maze and not making any progress. Clearly, you are not that rabbit. So it seems that there is some underlying scent trail or way in which you choose projects or what you will do next. How do you do that?
+
+What is your guiding sense of how you choose where to direct your attention? And you said at some point that you wanted to do anything other than the computer stuff, so you shifted to the Imagineering, right? And there were other lifestyle factors, but I’m just wondering, broadly speaking, how do you choose what you’re going to do next? And then, once you decide on that, and I’m borrowing from something that I’m stealing from Kevin here, but how do you proceed once you decide that you want to get into a new field?
+
+Danny Hillis: First of all, since I love the process of invention, I have to say that I think it’s a misunderstood process because what the inventor does is actually a very small piece of it. What society does is it creates these preconditions for invention. And once those preconditions are in place, then it’s just a matter of putting together the puzzle pieces and making it work. So I always love to see those moments where all the pieces are around and somebody just needs to — and usually, they’re not recognized because they’re looked at by different people. They’re in different disciplines and things like that.
+
+Kevin Kelly: Could you give an example?
+
+Danny Hillis: A perfect example was parallel computers. Parallel computers, it sort of now seems totally obvious, like how could anybody have not built parallel computers? But at the time, there were some pieces that weren’t quite there yet until you got the ability to put multiple processors on a piece of silicon that required a certain level of complexity of the silicon production technology. So nobody had done that. I made the first multicore chips. There were proofs that computers became less and less efficient the more processors that you added to them. There was something called Amdahl’s law that was how IBM basically poo-pooed parallel computers, or people like Cray said you didn’t need them, and so on.
+
+Tim Ferriss: Danny, just for people listening, could you define what parallel computing is?
+
+Danny Hillis: Yeah, parallel computing, it’s what you do in the cloud when you have lots and lots of computers that you put onto a problem, or you do it on a single chip now that is a multicore chip that has multiple processors on it. It’s so obvious now it doesn’t seem like an idea, but —
+
+Kevin Kelly: Right, but just to be clear, the traditional way was you have a sequence and you would just do one thing at a time; that was the standard way. And this is you’re going to do things multiple at the same time, which is very complex because you have to do all kinds of things to coordinate, to converge. So the complexity is incredibly more difficult when you’re doing things in parallel.
+
+Danny Hillis: Yeah, and also, there were all these kinds of reasons why people thought it was impossible. It’s hard to believe, and it took a while to understand why they were wrong, and so it hadn’t been done. But I knew it was possible because I knew the human brain worked. The human brain has these very slow components, much slower than transistors. So I was like, “Well, maybe they won’t be general purpose computers, but if you’re going to make AI, certainly that’s the way to do it.” So I had some confidence that doing the thing in the unexpected way was going to work, and the preconditions were there that I could design CMOS chips, make those work, build them; compiler technology was at the right place; television were starting to produce digital things so that you could have eyes, digital eyes on machines. So all the preconditions of converting audio to bits were there, so all the pieces were kind of coming together.
+
+And the only reason it wasn’t being done was this prejudice that it was impossible, which was sort of created for commercial reasons, I think, and so it was out there to be done, and I had a reason to believe that it would work. So that’s a kind of example of seeing the preconditions are all there. Now, that would require an incredible amount of work on tens of thousands of great engineers to get it to that point. So in some sense, all I had to do was take advantage of each of those pieces that were already there and put them together.
+
+Right now it’s very formal what we decide to work on because our partners at Applied Invention, we put three tests on things. One of them is that one of the senior partners has to be really excited about it, which is usually because it has some big impact on the world, or sometimes it’s because it’s just really cool technology, but usually it’s because they see it has potential for big impact. And then the partners that are not the one that’s the most excited about it — and often I’m the one that’s excited about it. So the other partners get to look at it and say, “Does this make any financial sense?” And it can make financial sense because we’re guaranteed not to lose too much money on it, or it could make financial sense because it’s a small chance of making a lot of money on it. You have to have a portfolio of those things, but that sort of has to be evaluated by different people than the one that’s most excited about it.
+
+Tim Ferriss: Yeah, good idea.
+
+Danny Hillis: So there’s a kind of practical aspect to it that I probably didn’t do in the early days. I tended to do the things way too early, before they made any financial sense. So now we have that bit of discipline added to it.
+
+But then the third thing that we do, and this is the hardest thing to do, and we call it the non-redundancy criterion, which is — because by then, you’ve got a project somebody’s excited about and you know it’s going to make money. Why would you say no? Well, the answer is you would say no if it’s going to happen anyway. In other words, if somebody else is going to do it, why should you do it? You’re wasting your time. There’s some reason nobody’s doing it. And in the case of the parallel computing thing, it was this crazy thing called Amdahl’s law, which seemed to prove that it was impossible. So you have to say, “There’s a unique reason why we’re going to do this. We’re doing something that won’t get done otherwise or won’t get done for a long time or won’t get done right.” So we only take projects like that. That one’s a tough self-discipline to enforce, but we do do it.
+
+Tim Ferriss: Quick question on the parallel computing example. So you mentioned, if I’m getting the pronunciation right, Amdahl’s law, which indicated it was impossible. You mentioned as a perhaps counter-example, obviously in a different substrate, that the human brain does it. But were there other pieces of evidence that led you to believe, given the constraints of the technology at the time, that it was possible?
+
+Danny Hillis: No, I think that was the one that really made me have faith in it, that there’s something wrong with Amdahl’s law. Because actually, at the time, I couldn’t tell you what the flaw was in the proof of Amdahl’s law. It was pretty convincing. And now I can go back and tell you that the flaw was it assumed that you just kept doing the same size problem. But of course, if you have a bigger, faster computer, you do a bigger problem. You don’t just use the same problem. And that’s the reason cloud computing works and these giant parallel machines work is because you use gigantic problems on them. And if you try to use the little problem that you’re running on a single computer, they wouldn’t be very efficient. But anyway, I didn’t see that flaw at the time.
+
+But I’ll give you an example of something we’re doing now that sort of fits that: cybersecurity. Everybody agrees cybersecurity is a mess. Ransoms are going up. Nobody knows even how big it is because everybody hides the break-ins and so on. But everybody agrees it’s getting worse rapidly, and the defense is losing against offense. If you step back and really look at it, the reason that it’s bad is because the internet was built on a sort of flawed foundation. The basic idea of IP, internet protocol, was that you’d look at a packet, and if it wanted to go someplace, you’d move it in that direction. And it was explicitly stated in the design principles that security was not the problem of the networks, because security was the problem of the thing that got the packet. So you have this thing where — and the packet can kind of claim to be from anywhere. So you get this flood of packets being delivered to you, you have no idea really where they came from, and you have to kind of guess which are the good ones and which are the bad ones.
+
+Tim Ferriss: Right. Unmarked packages from everywhere.
+
+Danny Hillis: Exactly. You can come up with very clever ways of guessing, but then as soon as you do that, somebody can come up with a very clever way of getting around your heuristic of guessing. Ultimately, the attackers have the advantage if the packets are anonymous. So clearly the right thing is to have the network have a policy of what it delivers. And in some sense, we do that a little bit with firewalls, of you trying to see, “Oh, this is a bad packet. I’ll cut it off,” or something, but again, you sort of have to guess where it came from or what it’s doing to do that.
+
+So I got together a bunch of people that had been involved in the early days of the internet and had built all kinds of things on top of it and had used it for very high-security applications and things like that and said, “How would we have designed internet protocol if we knew what we knew today, if we actually understood what cybersecurity was like, how people were really using computers,” things like that. And that’s a non-starter for any normal commercial company to ask that question, because obviously you’re not going to replace internet protocol. But it was a great hypothetical that captured a bunch of very smart people’s imagination, and we got together and invented something called zero-trust packet routing, where every packet carries a kind of passport and a visa that proves it has permission to go where it’s going. So the network itself kind of has a policy. It doesn’t try to deliver everything to everything. It delivers things that are allowed to go to where they’re allowed to go.
+
+And then it turned out after we built that that actually, we looked at and said, “We could build this as kind of an overlay to start on the current internet.” So people are starting to do that now. Oracle just announced a product that their cloud is going to start using this protocol. So I think that that’s going to cause a big shift in the internet eventually because it gets at the foundational problem that no sane company would’ve looked at as a business opportunity. And it probably isn’t a business opportunity because it probably has to be open and a standard or something like that. But I think it’s going to actually help the good guys and actually make the world a better place.
+
+Tim Ferriss: What do you think, Danny, and I’m going to keep this pretty broad, but the future of cybersecurity potentially looks like? And you can choose the timeframe, five years, ten years, three years, whatever you want to paint. But there could be the dystopian, sort of Cormac McCarthy version of what cybersecurity looks like. Then there’s the utopian, kind of Island, Aldous Huxley version. Then there’s probably something in between. But what do you think —
+
+Danny Hillis: So I think you will actually shift to this, and there’s sort of two completely different layers of cybersecurity that have nothing to do with each other. You’ll have the kind of layer that we have right now that we depend on, which is the endpoints kind of protect themselves. They force you to log in and identify yourself or whatever, the exchange certificates. That will all still exist. But completely independently of that will be something like — it’ll be zero-trust packet routing or something like that, where the network itself is kind of aware of who’s sending the messages, what permissions they have, and it’s actually aware of the identity, the sort of strongly authenticated identity of it. And it’s a completely different system than we have now. So I think that two-layer system, actually the defender has the advantage instead of right now, the attacker has the advantage.
+
+Kevin Kelly: That’s cool. So, Dan, I would love your idea of the three criteria for deciding whether your company does things. I assume maybe that’s also your personal one, too, where it’s, “Am I excited? Is there some viable means to keep it going?” and then thirdly, “Would that happen without me?” That last one supposes a certain amount that you know something or you have some ability that other people don’t have to do it. Going back to you with the chips, you’re a young graduate student, “Oh, I’m just going to design a chip. I’ll go make chips,” that requires either a lot of knowledge about chip-making — it’s not every graduate student who says, “I can make a chip.” How am I going to make — so how do you enter into this area of chip design that you don’t have, but you’re confident that you can make a chip? Tell me about how you get there —
+
+Danny Hillis: Maybe it just requires a lot of overconfidence. Of course it always turns out to be harder than you’d think. But I guess I am gravitated toward learning new things. I’ve also developed the ability to search out the people who really know the thing and hang out with them. So find the people that really understand it, hang out with it, learn it. It’s not that I know things other people don’t, but maybe I know a different combination of things that other people do know and I’m kind of willing to learn the things I don’t know and have a technique of doing it by just hanging out with people who are smarter than I am.
+
+Tim Ferriss: Yeah, so let me open that up a bit. So I feel like there are many different species of hanging out with people. I could have as many group dinners with wine and banter with experts in AI as humanly possible, and who knows? Maybe I’d have a hangover and a few great ideas I thought were great, at least, jotted down in a notebook. Could you give a few examples of how you interact with people? Maybe because the name was invoked earlier, you could start with Marvin Minsky and maybe your first meeting, because maybe that’ll lead us somewhere interesting.
+
+Danny Hillis: So Marvin Minsky is the person who named artificial intelligence. He and John McCarthy kind of founded the field. When I went to MIT, I kind of knew that I wanted to do artificial intelligence, and I had read about Marvin Minsky, so I knew I wanted to work for Marvin Minsky, and I had to figure out how to do it. The AI lab was sort of locked up in Technology Square; it was hard to even physically get into it. You couldn’t get into it unless you had a key, and you couldn’t get a key unless you had a job there. So I decided, “Okay, first thing, I’ve got to get into the building.”
+
+Tim Ferriss: It’s Ocean’s Eleven.
+
+Danny Hillis: Well, I did slip in a few times, but that wasn’t going to work. It was pretty high-security. DARPA was paying for all of the lab, and I got their proposals and the proposals to NSF. So I read their proposals to see what it is I could possibly offer here. I read their proposals.
+
+Tim Ferriss: And you read those proposals because those were publicly available in some format because they were government-funded.
+
+Danny Hillis: Well, they were actually in the library that was in the lobby of the building, which you could get to.
+
+Tim Ferriss: Okay. Here we go.
+
+Danny Hillis: Okay. So I’m in the lobby, so I can read the proposal —
+
+Tim Ferriss: With a Groucho Marx nose and mustache, cup of coffee. “Don’t mind me.” Yeah.
+
+Danny Hillis: Right. So I read them, and they came across — there was one thing where they said, “We think it’s actually important that young kids program computers, and we think even kids that can’t read and write should program them. We don’t know how to do that yet, but we think it’s important.” I was like, “Aw, they don’t know how to do it yet, so I will invent a way for kids who can’t read and write to program computers.” So I went off and I invented this sort of picture way where you manipulated blocks, and then that proposal was enough to get me an interview with Seymour Papert.
+
+Tim Ferriss: Who is Seymour?
+
+Danny Hillis: He was the first one that did sort of educational computing.
+
+Tim Ferriss: And he had the gates to the kingdom in terms of getting you into that building.
+
+Danny Hillis: He had the gates, right. He was inside the kingdom.
+
+Tim Ferriss: So what did you say to this person? Were you like, “I was perusing in the library. I came across this. It seems important to your funding that you develop X…”
+
+Danny Hillis: No, no, I didn’t give him all that backstory. I just said, “Hey, here’s a really cool way I’ve come up with for kids that don’t know how to read and write to program computers.” He’s like, “Oh, I’ve been looking for that.”
+
+Tim Ferriss: Oh, okay, got it. So it wasn’t like a million things that were in these proposals. He would recognize —
+
+Danny Hillis: Yeah, he immediately recognized —
+
+Tim Ferriss: — the candidate.
+
+Danny Hillis: That was something he wanted. I knew who to go to.
+
+Tim Ferriss: What a coincidence.
+
+Danny Hillis: Right.
+
+Kevin Kelly: This sounds a lot like Logo.
+
+Danny Hillis: It was. He invented Logo. He’s the guy that invented Logo.
+
+Kevin Kelly: Okay. What did you invent?
+
+Danny Hillis: Well, so I invented something called the Slot Machine, which is a way of programming Logo with pictures, so you can arrange pictures. And actually the Squeak language is kind of the electronic version of what I invented. But I invented physical things that you put together to make a Logo program.
+
+Tim Ferriss: What is a Logo program?
+
+Danny Hillis: It was an early computer program, language for kids.
+
+Tim Ferriss: I got it. I got it. So a programming language.
+
+Kevin Kelly: You would say, “Move the square around in a circle,” or something. Very, very simple thinking.
+
+Danny Hillis: Of course, people thought this was very impractical because we had to convince to people, “Some day, every school will have a computer.” That was considered very implausible at the time. That was our stretch idea there, that someday every school would have a computer. So I had a physical way that you could kind of program it by putting these, and so I got hired, and I got a key to the building. Okay, so now I’m in the building —
+
+Tim Ferriss: Phase one complete.
+
+Danny Hillis: — I’m building it. I go up to Marvin Minsky’s office; Marvin’s never there. But after a while, I make friends, and like, “Where’s Marvin?” and it’s like, “Oh, he comes in at night and he’s working downstairs in the basement. He’s building something which is a personal computer.” And I was like, “Okay, that’s great.” But I had the key. You couldn’t get into the basement without the key either, but I had the key.
+
+So sure enough, I go down there at night, and there’s Marvin Minsky with his graduate students around him. In those days, they were wire-wrapping machines and there were the diagrams lying around all over the place of the computer. And of course, I’m too shy to talk to Marvin, and I don’t really have anything useful to say to Marvin. So I just sort of look around, and I look around at the diagrams of the computers, and I notice a mistake on one of them. I go up to Marvin Minsky and I say, “I think there’s an error here,” and Marvin looks at it and says, “Oh, yeah, yeah, that seems wrong. Fix it.” It’s like, “Well, do you mean fix it on the diagram?” He’s like, “No, fix it on the diagram. Fix it on the machine. Just fix it.” I go, “Okay.” So then I look around and I find something else; I go to Marvin with them. Marvin says, “Don’t ask me every time. Just fix the problem.”
+
+So after a while, I just started working there, and I think Marvin just sort of assumed I worked for him. And then eventually everybody, after I’m there for a few weeks, and everybody else would get tired and go home in the morning, and then Marvin, at some point, he was like, “Where are you going? You need a ride someplace?” I’m like, “Ah, I need to go back [inaudible].” He’s like, “Ah, why don’t you just crash in my basement?” So I kind of moved into Marvin’s basement. Eventually I mentioned to Marvin that I didn’t actually have a job, and he gave me one. But I still had my job at Logo working for Seymour. So that was how I got into the AI lab and started working for Marvin Minsky.
+
+Tim Ferriss: Hanging out with people. Yeah. So there was one other example that you were going to give Danny, outside of Marvin.
+
+Kevin Kelly: Learning by hanging around people.
+
+Tim Ferriss: Yeah, learning by hanging around people, or the Hillis method of hanging around with smart people —
+
+Danny Hillis: Well, I was give the Feynman example as the other —
+
+Tim Ferriss: Oh, great. Yeah, let’s do that.
+
+Danny Hillis: That was a fun one, too, because I had met Richard Feynman at a conference, and we had really hit it off.
+
+Tim Ferriss: And for people listening, if they don’t have any context, just a brief overview of Richard?
+
+Danny Hillis: So Richard Feynman was the Nobel Prize-winning physicist that invented Feynman diagrams and quantum electrodynamics and a lot of other basic techniques that everybody uses in physics, and one of the youngest people that was on the Manhattan Project. So totally brilliant, but also just a lot of fun. And we really hit it off, and I liked him a lot and thought he was super smart. So when I was starting Thinking Machines, I wanted him involved somehow.
+
+So I went to visit him at Caltech, and he invited me to stay at his house again. I explained to him building this parallel computer, and I said, “Do you think you have any students that we could hire or hire as interns or something like that that might be interested in working on this,” and Feynman said, “No.” He said, “None of my students are crazy enough to work on something like that. That’s nuts. It’s just a kooky idea.” That’s what he said, “That’s a kooky idea.” And he says, “Actually, maybe there’s this one guy I know that would work on it. You might hire him for a summer job. He doesn’t really know much about computers, but he’s a really hard worker, and I think he’s pretty smart.” And I was like, “Okay, well, that’s good enough recommendation for me. What’s his name?” He said, “Richard Feynman.”
+
+So he actually showed up on the first day, was in the middle of summer, and he shows up. And of course, starting a company, you’ve got to worry about closing financing and things like that, and I wasn’t really thinking of, what’s everybody going to actually do when we get all this set up on the first day? And he shows up the first day, he salutes, he says, “Richard Feynman reporting for duty, sir. What would you like me to do?” And I’m like, “Oh, I hadn’t really thought about this.”
+
+So I think for a second, and I said, “How would you do quantum electrodynamics on a parallel computer?” He’s like, “That’s what you want on the first day?” It’s like, “Is that really what you need doing,” and I was like, “Well, actually, the truth of the matter is we don’t have any pencils or paper. Nobody’s gotten any supplies.” He’s like, “Great, I’ll be quartermaster.” And so he goes out and he gets the supplies. That was his first job. But every summer he would come to Thinking Machines. And of course, we got more serious tasks. And he actually started the first quantum computing project at Thinking Machines. So we were, again, a bit ahead of our time on that. Probably way too ahead of our time.
+
+Kevin Kelly: Danny, what I find interesting in your approach of hanging out with people is when you’re going into a new field, you’re not reading the papers. You’re going to talk to someone. Do you learn best by conversation and listening, or do you learn by reading some fundamental papers?
+
+Danny Hillis: I read enough papers that I have questions, because you’re wasting the time of a Marvin Minsky or a Richard Feynman if you don’t ask them something that makes them think. So I would say most of my learning was from the people, not the papers. But I always do homework beforehand to see where the interesting questions are, and in some sense, that’s easier to do when you’re coming into a field from the outside because the people inside the field have already kind of settled on a set of questions as the important question. But if you don’t know much, it’s sort of easier for you to see the big holes that are missing. And sometimes your questions are dumb, and they explain to you why they’re dumb questions, but sometimes they’re like, “Yeah, that’s actually a pretty interesting fundamental question.” If you can hit on one of those, that gets you into a conversation. But ultimately, I learned much more from the people than from the papers.
+
+Tim Ferriss: How did you, Danny, get into biotechnology or just the biological sciences?
+
+Danny Hillis: Well, the biotechnology was — once I set up these invention companies, people would start to come to me with problems kind of as a last resort. If you knew that —
+
+Tim Ferriss: The engineer of last resort.
+
+Danny Hillis: They wanted to solve a problem, and nobody else could solve it. So that was the way that I got into biology is a doctor named David Agus, who was an oncologist. He was really frustrated with his abilities to diagnose and treat cancer. Came to me and said, “We’ve got a problem here. People call cancers all these different things, and the paradigm we have for treating things just isn’t working for it.” And I started talking with him about it, and that led to a big collaboration.
+
+One of the things that we realized was in some sense, cancering isn’t something you have, like a disease. It’s something that you do, your body does, and your body’s constantly doing it. Your body is probably cancering right now in three or four different ways. But usually it deals with it and stops it, and occasionally it gets out of control. So if you start thinking of it more like a verb, and then where’s the action happening, well, the action is happening at the levels of proteins being expressed and proteins interacting. So even if I knew all your genes, I don’t know what your proteins are doing. I know maybe what possible proteins are, but proteins, after they get produced by the genes, they modify each other and they also come in by food and the bacteria gut and everything like that. So what you really want to see is the proteins, what’s happening in the proteins. And nobody had a way of looking at the proteins. So we started developing a way that you could take a drop of blood or eventually a cell and look at all — just measure all the proteins in it and see how that changed with time. And we started doing it with mice and studying as they got cancer, we could see how the proteins changed and the cascades. And then you could look at ways of interfering with this process, which is different in every form of cancer. So once you start looking at it as kind of a runtime thing rather than something that you have —
+
+Tim Ferriss: What do you mean by runtime?
+
+Danny Hillis: Oh, in other words, there’s two ways of looking at what’s going on in a computer. I mean, I could stare at the code for a long time, but if a better way of debugging the program is to try to run the program than look at what’s actually happening.
+
+Tim Ferriss: Yeah.
+
+Danny Hillis: And in some sense, if you look at genetics, you’re looking at the program. But if you had a way of looking at all the proteins, that’s the equivalent of the debugger to see what’s actually happening. And so it kind of became a different way of looking at cancer. And the National Cancer Institute got interested in it and gave us the money to actually make some real progress and so on. So that’s how I got into that one.
+
+Kevin Kelly: So going back to that, as you got into working with this doctor, is your idea, well, you probably say, “I don’t know that much about proteins, so I’ll start to hire people who will be the experts in this. My job will be to find the people who know the most and then start to work with them.” Or are you trying to bring yourself up so that you’re now an expert on proteins as well?
+
+Danny Hillis: So first of all, he was one of the world’s experts. So first step was just learn from him. But then he knew people that were other interesting people to talk to and introduced me to them. And it was the same thing with Marvin. Marvin introduced me to other people, or the same thing with Feynman. Feynman introduced me to his arch enemy, Murray Gell-Mann.
+
+Kevin Kelly: “Keep him close, Danny, keep him close.”
+
+Danny Hillis: So in that case, it was really — David Agus was the doctor that brought me into it was my mentor in — helping me, and I think with all these people, they like explaining it to somebody who doesn’t understand it because they get to sort of go back to the fundamentals and then that’s a process. If you’ve ever taught somebody something, you know how much you learn teaching somebody something. So that was, in some sense, what I had to bring to the party was I was the blank slate that didn’t know anything that was asking the dumb questions.
+
+Tim Ferriss: How did the doctor find you, Danny, at that point? How did he end up calling you and emailing you?
+
+Danny Hillis: It was funny. He kept calling me because you get a lot of incoming calls.
+
+Tim Ferriss: Yeah, unknown calling. No, thanks.
+
+Danny Hillis: Mostly I don’t respond to them. And then finally he was resourceful enough one day he got, I think it was John Doerr, Al Gore, and Bill Berkman or something. He got three different important people to call me up and say, “Talk to this guy.” So I did. It was so far afield from things I knew about.
+
+Tim Ferriss: Did he explain why he hunted you down in that way? I’m just imagining within the, let’s just say, I think it’s fair to describe medicine sometimes as a silo, just as there are many different silos, to reach that far afield to investigate some of the questions or to try to unpack some of these issues. At least I know a lot of doctors, MD, PhDs, researchers, not a lot of them do that necessarily.
+
+Danny Hillis: No, he’s a very unusual kind of a doctor to do that. Just like Dick Feynman was a very unusual kind of physicist. And Marvin Minsky was a very unusual kind of computer scientist that they all — first of all, they all share a kind of playfulness and curiosity. And they all share a kind of skepticism about the experts in their field of they appreciate that they know a lot of things, but they also appreciate that they’re missing a lot of things. And I think that that’s probably rare in a field because really the best strategy for becoming important in a field is kind of go with the flow, work on the accepted important questions, don’t question the things that nobody’s paying attention to, and don’t listen to people on the outside of the field and things like that. So yeah, these are all very unusual people to do that. And so I do have to find an unusual person that sort of is willing to put up with a dummy like me.
+
+Kevin Kelly: So going back into your three criteria of you have to be excited by it, you’ve got to have some kind of financial basis and no one else is doing it. I bet that there are still three or four things that come a month that come into you that would fit those definitions. I would think that your opportunities are even within that space, you still have to make some choices about what you spend your limited time on. So in addition to that, do you have a fourth criteria that you’re using?
+
+Danny Hillis: I’m kind of realizing, and I’ve never articulated this before, but there’s always something that you kind of want to learn about. And so in that case it was clear that there was a lot happening in biology that I didn’t know much about.
+
+Kevin Kelly: Okay.
+
+Danny Hillis: And so it was an excuse to learn about it.
+
+Kevin Kelly: But how about today? How about this month? I’m sure you’ve got three opportunities, something interesting, maybe can make money, no one else is doing it. How did you decide what new thing to do in the last month?
+
+Danny Hillis: Yeah, I should say that the make money thing isn’t exactly like you put it that way because I’ve never really done things to optimize to make the great billion-dollar company or something like that. But you sort of have to have some financial model of how you’re going to pay for all of this. It has to have some sustainable way of paying for itself. It doesn’t have to make you rich.
+
+Kevin Kelly: Disney’s formulation of that, which is: “We don’t make movies to make money. We make money to make movies.”
+
+Danny Hillis: Yes, I think that’s a much better way of doing it. So you definitely have to have something that’s sustainable, otherwise you’re going around begging all the time.
+
+Kevin Kelly: So your fourth one is “I’m going to also learn something. This is a way that we can learn.”
+
+Danny Hillis: Well, I’ll tell you right now, I’ve gotten very interested in agriculture, which part of it I got interested in it because during COVID, I moved out to a farm in New Hampshire and I started realizing, I mean, we just grew food in our own greenhouse. And I started realizing how much better this food was than what I could get shopping at Whole Foods and started thinking about the whole supply chain and why was it food was so bad and expensive. And the more you looked at it, the way we do food today relies on finding someplace where you can pay somebody an unfairly low wage to do something and bringing the food from there. And that’s not really a sustainable future. And the land in which you can do that and just the social justice of doing that is not going to hold up.
+
+And people want more protein. People want better food, and it’s incredibly energy inefficient for — I mean, you’re better off in California, but here you go to a grocery store, most of the vegetables that you find in the grocery store are many weeks old. They’ve been shipped across thousands of miles in refrigerator trucks, great cost in energy. They’re just about to spoil by the time they put them on the supermarket shelves. They’ve had all the flavor and everything bred out of them so that they can optimize their ability to withstand shipping long distances. The rest of the world couldn’t repeat this inefficient system that we’ve done, and yet the rest of the world wants to eat much better food, wants to eat more protein. Climate is changing.
+
+Tim Ferriss: So Danny, when you’re looking at a space like this, you have the seed of an interest that is prompted by this time spent in New Hampshire where I’ve also spent a bunch of time, and then you start asking questions and the peripheral vision widens to include all of these different facets that you just mentioned. So someone could get lost in that, in just the sheer volume and complexity of all these different problems and challenges. How do you brainstorm questions and then choose which questions to pursue?
+
+Danny Hillis: Well, I guess what I am interested in, and maybe it’s because of the technique I’ve developed of learning things, is: are there ways to change the system rather than solving individual point problems within the system?
+
+Kevin Kelly: You say you have a very systems view of the world.
+
+Danny Hillis: Yeah.
+
+Kevin Kelly: Okay.
+
+Danny Hillis: Yeah. So agriculture is the oldest technology, so it’s amazing all of the solutions people have come up with, like the point problem of how do you pull out a weed or pick a tomato or any one problem that’s been looked at in a lot of ways and lots of inventions around it and so on. But it’s surprising how few people think in terms of what’s all the things that have to happen for food to get grown and it end up on the table. And a lot of it is stuff that you don’t imagine, like predicting the weather, mining fertilizer, shipping things in refrigerator trucks. And it’s not things that you would think of first when you’re thinking of agriculture, but that’s actually what a lot of the activity is. And so people have point optimized out most of the specific solutions, done a pretty good job of that. But very few, if anybody, people have kind of tried to look at it as a system and how could you rearrange the system.
+
+Tim Ferriss: Now by system you don’t mean, I assume, which is always a dangerous habit, but you’re not talking about say some people might think of permaculture as a system, but you’re extending the system to include many other aspects of food production, transport, supply chain?
+
+Danny Hillis: Permaculture would be like a natural system. And so nature does think in terms of — or builds things in terms of systems — ecologies or systems. But typically we engineer things in terms of point solutions that get put together into systems.
+
+Tim Ferriss: Kind of cobbled together.
+
+Danny Hillis: Yeah, cobbled together. And that’s because that’s the commercial opportunities. If you make a better point solution to something, you’ve got a market and you can build up expertise and a competitive advantage and so on. So there’s a reason why people do that. And the system things are more complicated and more likely to fail. And a lot of times I do look at it and decide, this is too complicated, I can’t do anything. But are there sometimes you’ll look at it and say, wow, a lot of the easy things haven’t been done if you change this and you change that at the same time.
+
+Tim Ferriss: Did you find that in agriculture, there was low-hanging fruit?
+
+Danny Hillis: Yeah, agriculture. Very, very much.
+
+Tim Ferriss: Pun intended.
+
+Danny Hillis: And a lot more things if you could do it right. Okay. Well, so clearly, for instance, things should be grown much closer to where they’re eaten. I mean, they don’t have to be grown in vertical farms in the city, but they could be grown a few hours away out in the suburbs and they’d be a whole lot better.
+
+But here I am in Boston, you can’t hire an agricultural worker in Boston. Nobody knows how. First of all, there are very few people who know how to do it, and they would demand to be paid much more than you could afford to sell the tomato for. So you have to have a better way of using labor. You have to have a better way of building greenhouses so that they work in colder climates. You have to actually have different breeds of plants, different fruits and vegetables that are not optimized to be shipped 2,000 miles. So there are a lot of things you have to change, but if you change all of those things up at once, there’s another equilibrium point, a nice equilibrium where there’s another sweet spot of things working together in which things, which many, many crops are grown much closer to where they’re consumed. But you have to change a lot of things from the architecture of the greenhouses to the jobs of the workers, to the microbiome of the soil. So you have to be willing to take on all that, which means learning a lot of new things.
+
+Tim Ferriss: Are you currently in the exploratory learning phase? Or once you have this grab bag of different issues that need resolving to produce the outcome of having multiple foods or maybe all of your food grown or harvested and sourced near Boston, let’s just say, do you rank-order those and then tackle one? Do you have teams or contractors and you try to parallel process at the risk of using that completely incorrectly?
+
+Danny Hillis: So one thing is you need to find kind of a visionary source of funding.
+
+Tim Ferriss: The patron, right? You need your Medici.
+
+Danny Hillis: Yeah, well, Medici or somebody who already has this idea and is trying to make it work and hasn’t figured out how to make it work, which is what happened in this case. And actually the doctor that I mentioned before was already working with a company that was starting to do this but didn’t really know how to make it work. And so they came to us for help and we probably gave them more than they ever imagined that they wanted. And together we made it into a much bigger project. And I think we’re really going to make a real system.
+
+And if you solve a real problem, then that comes with actually an economic opportunity, which they’ll be able to exploit. But it requires visionary funders who are willing to take risks and kind of like DARPA was for ALI initially or later, other people were for ALI. I mean, I never would’ve been able to do the clock without Jeff Bezos kind of seeing the vision and saying, “Yeah, I’m willing to step forward and do this.” Those are rare people. So I guess I’ve been lucky that I’ve run into a bunch of those rare visionary people that are kind of willing to take a bet on me.
+
+Kevin Kelly: So you have many talents, Danny, so many talents. I’m wondering which one do you feel is your superpower?
+
+Danny Hillis: I don’t know. Maybe it’s not being afraid to learn new stuff. In some sense, maybe it’s a superpower we’re all born with. So maybe I’ve kept a superpower that kids have. So kids don’t — they’re not afraid to go in and see something new and strange and start playing with it. And then after a while, there’s a lot of things in the world that that gets sort of beat out of you. You learn not to do that and you get told not to do that in lots of different ways. And I guess I was lucky enough to be around people that didn’t beat it out of me.
+
+Kevin Kelly: Wow. Here’s what one of your kids told me that they said your superpower was “a mindshifter, someone who can easily shift into different mindsets and view things from multiple perspectives.” And I think I agree with that. I think that’s your lateral thinking is to me one of your superpowers.
+
+Danny Hillis: That may have come from my childhood because my childhood was my father was an epidemiologist, so we lived pretty much any place that was a hepatitis epidemic, which often came with a war and a famine too. So I lived in a lot of strange places around strange cultures. So you sort of had to mind shift into what are things like in the middle of the Congo or what are things like in Calcutta maybe that’s how I sort of got that habit of being willing to shift my mind a bit.
+
+Tim Ferriss: So maybe an angle into this, Danny, my understanding is that you homeschooled your three kids. Why did you do it and how did you approach it and how did that turn out?
+
+Danny Hillis: Well, first of all, I can’t take personal credit for homeschool. I mean, my wife did a lot and also we hired a bunch of tutors and we worked with a bunch of other homeschoolers.
+
+Tim Ferriss: So you guys jointly decided.
+
+Danny Hillis: And I taught them some things, but it definitely takes a village. When I was a kid, I did bounce around all these schools and I remember sitting, being miserable in school and thinking because I had some great teachers and I had some really bad teachers too. And I remember sitting at school and thinking, I will never do this to my kids. And so I didn’t. But when you had a great teacher, they would kind of listen to where you were and help you stretch you a bit.
+
+One of my favorite teachers was actually a woman named Mrs. Wilner. She was a librarian, and I was really interested in collecting rocks wherever I went. So I would always go in and ask for books on rocks. And she said, “Okay, well, here’s some books on rocks, but here’s a book on electricity too.”
+
+And I was like, “Whoa, this…” I never would’ve asked for a book on electricity, but she kind of led me there. “And here’s a science fiction book.” It was like, “What’s science fiction?” It was like a juvenile science fiction book called The Wonderful [Flight] to the Mushroom Planet, but that brought me into this whole other world. But so great teachers are like that. They kind of see where you are and they stretch you to someplace you can get to. And that was wonderful. And you just have a lot more opportunity to do that in homeschooling then you’re do in a classroom.
+
+Tim Ferriss: Were there any aspects of cognitive development, curiosity or otherwise, that you cultivated through the homeschooling, understanding that it wasn’t just you as a lone operator doing it, but were there things that you wouldn’t really emphasize or touch in traditional schooling that you guys included?
+
+Danny Hillis: We did, but it was interesting for me. Sometimes I would sit down to teach something that I thought was really simple. And then as I started teaching it, I realized, well, actually this isn’t so simple. There’s like this other thing underneath it, another thing underneath. So I was actually not such a great teacher, necessarily.
+
+Tim Ferriss: “Wait, wait, wait. I know two plus two equals four, but let’s back up a minute.”
+
+Danny Hillis: Yeah, exactly, you could back up. It sort of reminded me, I saw this happen in college was I had had a math professor named Gian-Carlo Rota. He was at the blackboard once and he’s writing along and he says, “So you can see that it’s obvious that this is true.” And he stops and he sits there for a long time. It felt like 10 minutes or something. We’re all just waiting. He’s like, “Yes, it’s obvious.” He goes on.
+
+But I think that’s the one thing that you realize about teaching is how much you don’t know or what that depends on and that was a wonderful thing. I think Dick Feynman was really inspirational in that of he really admitted when he didn’t understand something and you’d like, “Well, wait a minute. What’s a one and a zero?” Right? I don’t get — and you’d sort of have to back up and sort of explain that — and you’d never really thought about it before. But digital computers need to disambiguate. So they force everything to be the one or zero. If it’s in between, they force it one way or the other. That’s what digital means. You don’t put up with any in-betweens. You push it into a category of one or zero and then you build it up from there. But you start thinking about that. Nobody ever really asked me that before when I was teaching him computers.
+
+And so Dick was always saying that he doesn’t understand something unless he can derive it from first principles. And so watching him do that in the fields, I realized, well, I don’t really understand an awful lot of the things I do either. And when you teach, you sort of realize the things you don’t understand.
+
+Kevin Kelly: So Danny, I was just wondering what are you trying to optimize in your life these days?
+
+Danny Hillis: Well, I wish I had a lot more time ahead of me.
+
+Danny Hillis: So right now time seems like the most precious thing to me, and you start realizing how much of it you squandered.
+
+Kevin Kelly: It doesn’t seem like you squandered very much time. I’m not seeing that. Where were you squandering? When did you squander anything? Come on.
+
+Tim Ferriss: Based on your bio, “Objection, your honor.”
+
+Danny Hillis: Yeah, I did a lot of things that didn’t work out.
+
+Kevin Kelly: Okay, let’s talk about some failures. What were some of the failures?
+
+Danny Hillis: Well, I think that Thinking Machines was my first big failure because if I had asked that financial sustainability question, really treated that as this problem of serious thought, like I was thinking about the machines, I would’ve done a much better job. That company didn’t have to fail. It was awful when it did. It had like 500 people, almost none of whom had had another job. It was like I was hiring people straight out of MIT. We were building the fastest computer and everything was going great and we just did a bunch of dumb things in how we set up the business that we got — we didn’t pay enough attention to laws that were getting passed by our competitors in Congress that were making it illegal to export our products or making it hard for people to acquire our products. We were just blindsided by that. We did stupid stuff.
+
+We were growing up, up, up and so it didn’t occur to us that something might cause a downturn and we might not have enough cash in the bank. Going back, we just managed it badly. It’s sad because it’s something that… it was a terrible moment for me. I felt like I had let down all of these people and I had let them down.
+
+Tim Ferriss: So Danny, you look back on this life review and lessons learned and flash forward to today, you said focusing on — when you look back and realize how much time you’ve squandered, what rules do you have for yourself or how do you think about not squandering the time you have left? Have you changed anything?
+
+Danny Hillis: Well, the non-redundancy is a piece of it.
+
+Tim Ferriss: Right. If someone else can do it.
+
+Danny Hillis: Don’t work on things that are going to happen anyway. I still think hanging out with extraordinary people is the right thing. But there’s an interesting problem with that, which I’ve realized, which is I tended to hang out with a lot of people that were older than I was because of that, because they’d established themselves as extraordinary and of course, that has been very sad to see so many of my friends die and so on. So I’m actually very curious. I’m sure that there’s a whole generation of younger extraordinary people that I haven’t met yet. So that’s something I’d love to do is meet some of those unusual people that are thinking about things differently and learn from them. So that’s part of my agenda these days.
+
+Kevin Kelly: To find the young. So what do you think would most surprise your 20-year-old self about your life today?
+
+Danny Hillis: I guess one thing that surprised me is that it sort of has all worked out.
+
+Kevin Kelly: You were not really expecting that?
+
+Danny Hillis: No, I think I was always kind of on the edge of failing in some sense, and many times I did, but it still worked out and so I think I probably worried more than I needed to because it always seemed like, “Oh, this is pretty dangerous,” or “I’m going to be penniless.” There were times when I was penniless. I couldn’t pay my mortgage. I think I worried way too much. I worry less now.
+
+Tim Ferriss: So Danny, this is going to be a fast left turn, but I’ve been staring at this the whole time we’ve been chatting and I don’t know why. I can’t use the term OCD because I haven’t been diagnosed with it, although I think it’s actually a superpower in a bunch of respects. I’ve been staring at this prompt, “What is the Entanglement with a capital E?” Fucking hour and a half here, and just waiting for the right segue about it. I don’t know if I’m going to find the right segue. So what is the Entanglement?
+
+Danny Hillis: So one of the things that I’ve noticed about the world is it used to be that nature and technology were very different things. Technology was something that we designed and we understood and we controlled. Nature was this mysterious complicated thing that we didn’t understand at all and pretty much had to take and work around and kind of riff with. But I think those two things are becoming entangled in sort of both directions. So things that used to be natural, like the atmosphere or our genes or our minds or my knee joint are now technological artifacts and the things that used to be technological and controlled and designed are actually kind of evolved. Like the internet, nobody can draw you a wiring diagram of the internet. Nobody can really tell you how ChatGPT came to that conclusion. I mean, they could sort of make up a story about it, but they don’t really understand it in the way that you used to understand a computer when it produced an answer because it wasn’t really designed.
+
+It was kind of a combination of designed and evolved and learned. And so what’s happening is that a lot of people’s use of computers is now, they kind of know the magic incantations that cause this library to do that, but they don’t really know all the things that are going on underneath that that make it work. And so it’s becoming more like nature. Nature, we used to kind of know, “Well, here’s the magic incantations we use for making beer. We don’t know really why this makes good beer, this makes bad beer, or this makes champagne, but we know when we do this, it does that,” and that’s kind of becoming our relationship with computers. So I think that what’s happening is the distinction between the natural and the artificial is becoming entangled. That idea, it may just kind of go away because there sort of almost is no pure nature and there almost is no pure technology that we fully understand, at least not in the technology that we’re using to have this conversation. For example, there is nobody who understands every piece of it.
+
+Kevin Kelly: I want to put in a plug for my very first book, Out of Control, which was about that Entanglement.
+
+Danny Hillis: Yeah, I think you’re one of the people that really got me thinking about that Entanglement. That book was probably a lot of what got me thinking about this, ideas, and artificial life got me thinking about it.
+
+Kevin Kelly: The way I would say is there’s one thing with two different faces and those — basically we had two different faces to the single thing and we’re recognizing that there’s only one class which has kind of two different perspectives on the same thing.
+
+Tim Ferriss: You’re saying natural and synthetic or nature or engineered.
+
+Kevin Kelly: Yeah. They are basically different faces of the same thing going on in the long arc of the universe. Danny might say they’re being entangled. I would say that they’ve always been entangled, but we had two separate views of them and now we have a better view of it.
+
+Danny Hillis: Well, I think there’s also something very special about this instant in time and by this instant in time, I mean plus or minus this century.
+
+Kevin Kelly: The Long Now.
+
+Danny Hillis: But I think when people look back at history, even really our lifetimes. I mean over my lifetime, the population has more than doubled, the climate has changed, the computers have come out. Everything is really very, very different in a way that’s never happened before. Things have not changed — population hasn’t doubled in a single lifetime before and I don’t think it will again. So I think we are at a special moment where our sort of technological powers have gotten enough to make these things that are more complicated than we can understand. And that’s kind of a qualitative change. We weren’t building stuff that was more complicated than we understood before.
+
+Tim Ferriss: We’re producing outputs that were completely unexpected. Danny, so a question about the Entanglement, and this actually relates to a name you mentioned earlier, Jeff Bezos. So he’s described AI — I don’t think it was specific to LLMs, it was broader than that, as a discovery and not an invention, something akin to electricity or fire. How do you think about AI?
+
+Danny Hillis: I’m going to make a distinction between AI and what’s called AI right now.
+
+Tim Ferriss: Great, please.
+
+Danny Hillis: So intelligence is a very complicated multifactored thing like life. It’s not just one thing. At the beginnings of AI, we thought the things that were hard for us to do were the intelligence. So we thought playing chess would be intelligent or solving calculus tests would be intelligence.
+
+Kevin Kelly: Or translating languages.
+
+Danny Hillis: Well, that came later, but the things that were hard for us, we thought that’s intelligence. And that was the stuff that early AI concentrated on. And actually it turns out that was really the easy part. The hard part was the stuff that we were so good at, we didn’t even notice, like recognizing a face, jumping to a conclusion, having an intuition about something. Those things were way, way harder. So we thought producing speech would be hard. We didn’t think listening would be hard because we just did that without apparent effort. But listening to speech turned out to be way harder than producing speech.
+
+In the early days, there was always a box called — sometimes — what was the neural network, the pattern recognizer that was sort of looked at, was going to guess the obvious thing that was going to happen next and recognize the pattern. And we thought that was going to be the easy part because it was just going to be some neural networks that got trained. Now it turns out that those neural networks had to be much, much bigger than we were guessing, way bigger than we were guessing. And you had to train them — at least so far we only know how to train them with way more data than we were imagining training them with and so on. But sure enough, that box has now gotten built. That’s what we call AI right now, is that little box of intelligence and it is actually really good at kind of imitating human intelligence and imitating is kind of a good first step.
+
+That’s what my granddaughters do first. I have a granddaughter that can sit and talk to an electrician as if she knows what electricity is, just by using the right words and saying phrases that she’s heard before and so on. And she can kind of fake it pretty well, but she has no idea what she’s talking about. And that’s mostly where AI is right at this moment. I mean, it’ll be at a different place a year from now when people understand that and putting it in different places. But it is just one little part of intelligence. It’s a good start, but it’s not going to do all of the things that we do that we consider intelligence until people come up with some other ideas. But people will come up with other ideas. The other big change is we’ve got a lot more smart people working on it than we ever had before. So those are the people that are going to come up with all those other ideas to make it work. So I do think AI’s going to happen pretty fast just because we have so many smart people working on it.
+
+Tim Ferriss: Is there anything you think people are, broadly speaking, overestimating and underestimating with respect to the development of AI? AI not in quotation marks.
+
+Danny Hillis: Yeah, I think they’re overestimating the capabilities of what we have now, but underestimating what we’ll be able to accomplish over the long run. And it’s interesting. I think that people get mixed up on timescales a lot. In general, I’m a short-term pessimist and a long-term optimist. I think that probably applies to AI as much as anything.
+
+Kevin Kelly: I’ll make an observation. I’ve been reading the early history of the discovery of electricity, way before Tesla and Edison. I mean like Faraday and Davy and these guys. And what was remarkable was how the smartest people at the time like Newton and others were just so wrong, I mean just so far off, the strangest ideas about what electricity was. And they really had no clue. And it was just many, many years of going through and they would — and actually before they had the scientific journals, they had scientific demonstrations every week where they were demoing the latest discoveries in electricity for paying tickets. And each time — a week would go along, they’d have another discovery. And what they were discovering was far more complex, far more unintuitive than what they thought. And I think that’s exactly where we are with intelligence. We have no theory of intelligence, we have no idea what it is. We’re just discovering some of the earliest primitives of what it might be. But I think we’re as far from knowing what intelligence is as they were from understanding what electricity was in the 1700s.
+
+Danny Hillis: I think that’s fair, except maybe it is actually quite possible we’ll never understand what intelligence is and that was sort of part of the prediction of the “Songs of Eden” papers. It may be easier to actually make intelligence than to understand intelligence.
+
+Tim Ferriss: Yeah.
+
+Kevin Kelly: We used plants for thousands and thousands of years without understanding how they work. We use the natural world without understanding how actually they’re made and are governed. So we can use things that we don’t understand. So what’s first is us being able to make things that we can use and don’t understand.
+
+Tim Ferriss: So a quick question on intelligence though. Is it a useful term if we can’t understand it? Or is it just so broad a label applied to so many things that it’s kind of useless and should just be replaced by thin slicing and using more precise labels or concepts?
+
+Kevin Kelly: I’m going to answer first because I think we’re going to start to unbundle the concepts as we discover more things. I mean, my hypothesis is that we’ll discover more about how our mind works through AI than a hundred years of neurobiology has. And we will come to understand that intelligence is not a single dimension — I think it’s a very high-dimensional space in which there’s lots of different primitives or elements. And part of what we’re doing right now is we’ll begin to discover of those elements and that intelligence is basically compounds. We have a compounded intelligence that’s made up of lots of different kinds of cognition and stuff. And so I think we’re on that path to not replace it as much as to unbundle it.
+
+Tim Ferriss: Danny, what are your thoughts?
+
+Danny Hillis: I would absolutely agree with what Kevin said, but I’d take it one step further, which is even if we unbundled human intelligence and did all of those things, there’s still more to intelligence than that. But there’s other kinds of intelligence that we can’t even imagine. And actually those are the ones I’m most interested in because like I said, I’m always hanging out with people who are much smarter than I am. I would love hanging out with machines that are much smarter than people, but smart in different ways.
+
+Tim Ferriss: Or play million-color Connect Four with a mantis shrimp.
+
+Kevin Kelly: Yeah, exactly. The way I see is that the space of all possible minds is huge, and that human intelligence, we’re going to find out is on the edge, like we’re at the edge of the galaxy. We’re not at the center. We’re going to be an edge species of intelligence in the map of all possible minds. And the reason why we want AI is to arrive at these other places in the high-dimensional space of thinking that we can’t even imagine. That’s the main thing. It’s not to replace human thinking. That’s boring. Nine months, we can have another human mind, but you want to have other kinds of thinking. That’s the whole point.
+
+Danny Hillis: This is related to the transition thing, but I think humans, as we know them today, are kind of halfway between monkeys and what we’re going to become. You know, we’ve still got a lot of monkey in us.
+
+Tim Ferriss: We’re not the far right in that diagram of the monkeys stepping —
+
+Danny Hillis: No, no, no. Definitely. We’re in this transitional phase. We’ve still got a lot of monkey in us, and I’m really excited by that thing that we’re going to become.
+
+Tim Ferriss: So Danny, I have a question for you related to the short-term pessimist, long-term optimist. So I am sad to report that there are lots of people, my vintage, younger, and just people close to my — I’m 47, so close to my age, or even quite a bit younger, mid-30s, who are on the fence with respect to having kids or have decided not to have kids because they look at climate change, they look at what they might fairly consider some of the unpredictability around AI and the fear around Skynet. And we could go down this list of concerns they have that they cite as compelling evidence that they do not want to bring a life into this world because the future to them looks so bleak. How do you think about the long-term future? I mean, there is a value in optimism. There’s utilitarian function to optimism. But if we’re able to put that aside and maybe we can’t, how do you think about a hundred years from now, 200 years from now?
+
+Danny Hillis: So I understand that, but I also understand that when I was a kid, we were taught to hide under our desk for when the atomic bomb was going to get dropped. And thinking even as a kid, “This isn’t going to work.” And I knew people who died of smallpox. That disease doesn’t exist anymore. When I was a kid, most other kids were hungry and were malnourished, were likely to die of childhood diseases. That’s not true anymore. So when I was a kid, I had friends I now understand were gay friends and only understood it later and understood what they were going through, but they couldn’t say that to anybody. So there were so many things to be frightened about, and yet there were so many ways in which the world just got so much better. And even in my lifetime it did. And it is true that we created a lot of problems in that process, but we’ve always created a lot of problems.
+
+Tim Ferriss: Sure.
+
+Danny Hillis: I guess if I just look at the sweep of history, there isn’t any time when you’d say, “Oh, I would do better going back a hundred years,” at least not in history. You would not want to be alive a hundred years ago compared to being alive now.
+
+Kevin Kelly: Especially if you’re going to be born at a random place and sex.
+
+Danny Hillis: I wouldn’t want to be a king a hundred hundred years ago. Much better to be a peasant today than to be a king a couple of centuries ago in terms of your health, food that you ate, how you spend your time, so on. Your comfort, everything. So I think that there is a general trend. It is possible that there’s some catastrophic setback that could happen. But even if that happens, I kind of believe that humans are adaptable enough or nature is adaptable enough that it’ll pick up and start up again. I suppose there’s a scenario where it’s without humans and something else, but certainly optimistic the Earth is going to be fine.
+
+Tim Ferriss: Yeah, sure.
+
+Danny Hillis: And I actually do believe that there are people that are going to see that 10,000-Year Clock, decide what to do with it when it comes to the end of its 10,000 years, but it won’t be steady progress. It never has been. And so there’s a bunch of things to worry about. I see why people are worried, but the bigger the picture you look at, the more you realize you do — I guess progress isn’t a steady upwards thing. It’s kind of two steps forward, one step back.
+
+Tim Ferriss: So let me ask you just a question about rank-ordering existential concerns, because I am very fortunate to, effectively as a job, talk to the smartest, most interesting people I could find. And behind closed doors, generally not on the podcast, sometimes on the podcast, I have brilliant, brilliant friends, some of the smartest people I know who are very preoccupied about climate change and basically view us as the frog in the heating pot of water. It’s going to eventually reach a boil, and it’s not too late, but everyone needs to act now. And there just don’t seem to be the incentives in place for that to really happen frankly, political will or competency as one piece of it.
+
+Then you have folks, equally brilliant, in some cases, you might even argue more brilliant, who say the preoccupation with climate change is completely ridiculous. It’s just patently absurd that people would consider not having kids citing that as a reason. And these are not people who are coming at it from a political perspective. They’re just saying, “If we actually look at trying to weigh the severity of certain risks, this isn’t even top five.” Where do you fall on that?
+
+Danny Hillis: So I don’t think that people underestimate the problem. It’s like a really big problem and it’s going to cause a lot of difficulties, but people do underestimate our ability to deal with problems. And so yeah, it’s going to be bad and it’s already starting to be bad for people, but people have dealt with a lot of bad stuff and come out of it and come out of it better and come out of it with improvement. So I don’t minimize the difficulties of climate change and the challenges. It’s going to be a mess. But I also know that there’s a lot of super smart people that are working on all kinds of things that are going to help with it in ways that are hard to imagine. And some of those are likely to work. It’s easier to imagine catastrophes than it is to imagine magic solutions.
+
+Tim Ferriss: Yep, right.
+
+Danny Hillis: So it was easier for people to imagine that the population explosion was going to doom us. That was a really easy idea. But actually Kevin was the first person to point out to me, I think, that actually our big problem in a century now is going to be the population implosion. And people are starting to realize that already. But that was much harder — it was just hard for people to see. So we’re kind of hardwired to pay attention to danger. And also there is an effect, which is that bad things happen fast and good things happen slow.
+
+Tim Ferriss: Can you say more about that?
+
+Danny Hillis: So yeah, if you read the newspaper, it’s like —
+
+Tim Ferriss: The bad things that happen closest to you are furthest away today.
+
+Danny Hillis: It’s full of bad things. The plane crashed, the war started. There was no newspaper headline that said, “Gee, majority of the kids aren’t hungry anymore,” because that happened very slowly and it’s continuing to happen. And so I think that the world has actually been getting steadily better, but there was almost no headlines about the things that did that. They weren’t the attention getters.
+
+Kevin Kelly: Also, some of the better things are things that didn’t happen. Most of the good things are things that didn’t happen. Your kid did not die, you did not get robbed on the way to work, all those things. And so there’s no headline at all about the things that didn’t happen.
+
+Danny Hillis: No.
+
+Kevin Kelly: But Danny, if you had to rank your worries, what would you put at the top?
+
+Danny Hillis: Well, I don’t deny that AI is an existential risk for humans as we know them. Maybe what’s good about humans could go on in AIs. I think that’s a possibility, but I actually think it’s more likely that AIs will help get out of this mess.
+
+Tim Ferriss: What is this mess?
+
+Danny Hillis: Well, for example, help us deal with climate change, help us deal with the next epidemic, help us avoid the nuclear war —
+
+Kevin Kelly: Or even we’re just talking about population. I think it would be kind of an amazing coincidence that at the very moment where we’re headed towards a population implosion, that we have robots and AIs.
+
+Danny Hillis: Yeah, that’s —
+
+Kevin Kelly: That’s another possibility.
+
+Danny Hillis: In some sense, it’s much harder to imagine solutions to problems than it is to imagine problems. This is kind of a trivial example, but when the technology for cell phones was being developed by Motorola, and I kind of knew about it I went around and I told all my friends, “You’re going to have a phone in your pocket someday. It’ll be just like Star Trek.” And every single one of them without exception said, “Oh, I would never want that.” And they gave all kind of reasonable reasons. They solved the problems. They were like, “Well, if people were on the bus, everybody would be talking on the phone. In a restaurant, people would be getting phone calls. People would interrupt me in the middle of the night with the wrong number.” They could see all of the problems very vividly, but they sort of couldn’t see how much it would enable them. And so they all predicted that they wouldn’t work.
+
+Kevin Kelly: And there was also another part of that I was involved with. We were bringing the internet to everybody and there was, the common response, almost invariably every time I talked about it, was people were worried about the haves and the have-nots. What about all the people who don’t have this technology? What are you doing about that? And my response was, “I’m not doing anything because the benefits of this are so good that it’s going to happen anyway. The thing you want to be worried about is what happens when everybody has it.” There’s going to be a lot more problems when everybody has a cell phone in their pocket. That’s going to be the problem. It’s not because the people don’t have it. So there is a sense in which there’s an asymmetry, where the things that break are easy to see and the things that work are hard. They’re not equivalent. It takes a lot more energy to imagine something working than it is to imagine how it breaks.
+
+Danny Hillis: I’ll give you a very specific example today. If you ask most people, “Would you like a chip inside your brain that augmented your brain and helped?” Pretty much everybody you talk to is going to say, “No, wouldn’t want that,” And they’ll give you lots of very good reasons why they don’t want it. And a lot of them are valid. But boy, I’m pretty sure that when that becomes possible, everybody’s going to want one. I think it’ll be just like the cell phones. It’ll just do so much for you that yeah, you’ll put up with the problems. You’ll work around what the problems will be.
+
+Kevin Kelly: “You first,” is all I can say.
+
+Danny Hillis: Yeah.
+
+Tim Ferriss: Yeah. So we can all watch Danny glitching on video six months from now, beta tester. So I want to come back to something and I’m going to steal some CliffsNotes from Kevin here. But you mentioned talking in restaurants on cell phones. And I’m very, very sensitive to sounds, and I see something in notes that Kevin and I were sharing. I don’t know anything about this, but the name is descriptive enough that I feel like I kind of get the idea. Babble, the Cone of Silence?
+
+Kevin Kelly: Yeah. I wanted it. What happened to it?
+
+Tim Ferriss: What is this? Is it like a Jetsons helmet that you plop on loud kids?
+
+Danny Hillis: It was actually a cool thing that somebody should do, but it was originally the problem of open offices and people overhearing each other’s conversations. And so it turns out that the best thing to mask a conversation is somebody talking in exactly the same voice saying something different. And so this was a little machine that people could put on their desk. And we tested it. It worked, which is that it sort of listened to you talking for a while and then it started talking kind of in your voice, but saying, just making up babble. But in your voice and kind of your intonation and so on, and sort of talked over you out to the people around you.
+
+So the phenomenon was that the room got a little bit louder, but mostly people didn’t notice that. Mostly there was just kind of a little buzz. But if you actually try to listen in on the conversation of the person in the desk next to you, you actually, it seemed like you could hear it, but you couldn’t actually understand it.
+
+Tim Ferriss: Get two violins playing. Yeah.
+
+Danny Hillis: And then what happened with that was Herman Miller bought that technology for use in offices. And then it was actually a very sad thing. They set up a company to start it. Much of my surprise, the restaurants got very interested in it, which sort of bugs me. I hate all of the noise in restaurants, things like the line at the pharmacy was interesting and so on. But it was very sad because the CEO had a heart attack and nobody had the heart to keep going. So we’ll never know if the technology would’ve worked.
+
+Tim Ferriss: Kevin, what would you like to see Danny work on? If Danny was like, “I’m out of — My idea bag is empty.” He showed up and he said, “Boss Kelly reporting for duty. What do you want me to do?”
+
+Kevin Kelly: Another way to think about that is Danny is the inventor and he has a company that invents things. What would I like to invent?
+
+Tim Ferriss: Yeah, exactly.
+
+Kevin Kelly: If I had to make a commission, I had a billion dollars — oh, my gosh.
+
+Tim Ferriss: Robot beard-trimmer.
+
+Kevin Kelly: Yeah, exactly. Something that would meet all his criteria.
+
+Tim Ferriss: Well, no, no, no. Just for you. This doesn’t have to meet his criteria.
+
+Kevin Kelly: No, no, but I mean, something he’d accept.
+
+Tim Ferriss: Well, he’s got no ideas in this hypothetical situation. So beggars can’t be choosers.
+
+Danny Hillis: How about you, Tim? What would you like?
+
+Kevin Kelly: You’d have an idea, right?
+
+Tim Ferriss: I would. Well, it’s very front of mind for me, no pun intended in this case. But I have neurodegenerative disease on both sides of my family. Alzheimer’s, Parkinson’s, and more. It’s quite the collection. And I’ve been interested and followed neuroscience. I was originally a neuroscience major way, way back in the day. And would love for you to take your blank canvas, no question is dumb, and apply it to neurodegenerative diseases. I think that’s one that immediately leaps to mind.
+
+Danny Hillis: I know how to go about that and somebody should do it. Which is the same thing with cancer, with the cancer thing. What we really need is we need a way to read out the proteins in your body dynamically like we can read out your genes. And if we could really monitor that and read it out, you could find the processes that create disease before disease happens. So right now when we treat disease, it’s like the cat’s out of the bag. Your body does a great job of compensating for everything for a long time until it just can’t handle it. But things have already gone a long way before you show any symptoms.
+
+Tim Ferriss: Yeah, right. That’s why so many Alzheimer’s interventions fail. It’s just too late stage.
+
+Danny Hillis: So your body is great at masking things going wrong. If you could look at the proteins in the body, then you could see things are starting to go wrong before you’re showing any symptoms. And you could see what was going wrong, and you could start treating it before the damage starts happening. Right now, we start treating things after there’s already lots of damage, enough damage that your body can’t hide it. And so in some sense, we need to pre-treat. We need to head off diseases rather than treating diseases. We need to treat you when you’re on the way to getting a disease, not when you have a disease. And the only way to do that is to have this debugger to understand what’s going inside. And the only way to do that is to look at the proteins.
+
+And it’s a technical problem. It’s a very solvable problem. We got a long way to solving it, actually. And unfortunately it was kind of all screwed up by the Theranos thing, which sort of gave a bad name to all that field and made it impossible to fund. So that was the tragedy of that, is that sort of one fraudulent thing kind of gave a whole field a bad name. But it will come back, and it may come back soon enough to actually help you and members of your family, and there are people that are doing that. So look for people who are doing that. I’d love to meet people who are doing that, but I think that’s the path.
+
+Tim Ferriss: And procedurally, in terms of looking at the proteins, would that take the form of, and I’m grasping for straws here, but something like a grail test currently? So for cancer screening, looking at DNA fragments —
+
+Danny Hillis: The first version of it would be a blood test that you’d probably take. It might be a finger prick that you would do regularly and just monitor it. But right now it’s just again, so we have so few because of the way the medical system is set up. We have lots of blood samples, but we don’t have the blood samples very well correlated with the medical records and so on. So it needs some big population studies where you get a lot of regular blood samples, that you get good proteomic inventories, which is a technology that is not quite there yet. Because there’s no commercial opportunity for it yet, or limited commercial opportunities for it yet. But as soon as you start doing that and you start correlating what’s happening with people with what was happening with their proteins before they got sick, as soon as you get that database, then I think we’ll be able to head off a lot of diseases before they happen. Systemic diseases. Not infectious diseases.
+
+Kevin Kelly: So Danny, I thought of two inventions I’d like to have from you. One is sort of profound. The other ones is sort of trivial. So the profound one was, I recently had an MRI, which is an amazing piece of technology. But man, what a pain, what an unpleasant experience. And I just imagine, well, in a hundred years from now, there has to be some way that they’re going to have a machine that does this in a much more comfortable, easy, quick way.
+
+Danny Hillis: I’ve got one I’m working on on that.
+
+Kevin Kelly: Okay, there you go. All right.
+
+Tim Ferriss: So I just had two MRIs today, so I sympathize.
+
+Danny Hillis: My sympathies.
+
+Kevin Kelly: There has to be a better way, right?
+
+Tim Ferriss: I’ve had so many of these things and every time I’m like, “Wow, this is a terrible experience.”
+
+Kevin Kelly: Yeah.
+
+Danny Hillis: I am working on something. It won’t do everything an MRI can do, but I think it’ll be more useful. Based on an ultrasound.
+
+Kevin Kelly: Okay.
+
+Danny Hillis: And here’s the funny thing. The great thing about an MRI is it produces this 3-D image and it can go to the doctor, the radiologist, and they can interpret it, or an AI can interpret it. Because you’ve got an output that is disconnected from the process of measuring it. Ultrasound these days is not like that. Ultrasound really, the person that’s doing the ultrasound has a lot more information than is captured in a picture or video because they know how they’re moving it around. They know that they’re pushing it past what, they’re shoving in this direction. They’re using this muscle to be a lens to magnify the thing behind it. They have the intent of where they’re moving it, why they’re moving it, and so they can perceive a whole lot more.
+
+And then they have to take what they perceive and write it into a report with maybe a few numbers measured or something like that. But it’s not nearly as satisfying. What gets to the physician is not as useful as an X-ray or an MRI or a CAT scan or something like that. Well, there’s no reason that ultrasound has to be like that. If you had either a sensor on it or a robot moving it around, or you had the information of the pressures and the motion. And you knew you had a model of tissue deformation and speed of sound through tissue and things like that, you could produce a three-dimensional image like from an MRI with ultrasound that would actually have information that you don’t get from MOI. And that just hasn’t been done yet. I’d love to meet people who are doing that. If they don’t do it, I might have to work on it myself.
+
+Kevin Kelly: So the second trivial invention, Danny, that I’m going to assign to you is we all, I love a little microwave, which will instantly heat something up. I want the reverse. I want to put it in the machine to have it instantly ice-cold.
+
+Danny Hillis: There’s a way of doing that, is laser cooling. You can do it atom by atom.
+
+Tim Ferriss: It’d take a while to get that half-chicken done, Kevin.
+
+Danny Hillis: That’d be a fun one.
+
+Tim Ferriss: Yeah, that would be.
+
+Danny Hillis: No, I don’t know how to do that one.
+
+Kevin Kelly: That would be a billion dollars for sure.
+
+Danny Hillis: I don’t know how to do that.
+
+Tim Ferriss: So Danny, if the Divine Treasurer of the Universe just bestowed upon you 20 billion, so one of your criteria can vanish, in terms of the sustainability you’re covered for the foreseeable future and beyond. And let’s say then it came down to only what gets you the most excited. So it could be focused on that, and you were allowed to indulge for every one or two serious projects that would have an impact, you had to do one trivial — not trivial, not trivial. I feel like underestimating how important something seemingly trivial could become later.
+
+Danny Hillis: Well, I’ll tell you one that’s already happened, but it was like that for me.
+
+Tim Ferriss: Great.
+
+Danny Hillis: Traveling all over the world, I, of course, was super interested in maps and looking at maps of where I was and so on. And I always wanted to take a map and expand it and just go into it. I had that dream since I was a kid.
+
+Tim Ferriss: Got it. So like an infinite zoom.
+
+Danny Hillis: Like a pinch-to-zoom.
+
+Tim Ferriss: Yeah, here we go. Okay.
+
+Danny Hillis: But there was no such thing, right, at that time. But I really wanted that. I knew I wanted pinch-to-zoom. And so as I started building it — and actually I had worked with Steve Jobs, and I got kind of a prototype of it working and I invited him over to look at it and he said, “Ah, people won’t want fingerprint smudges all over their screen.”
+
+Tim Ferriss: You wouldn’t like my screens very much.
+
+Danny Hillis: But I kept on working on it and eventually I made this touch table thing, and it was very expensive. It actually went into the situation room of the White House. So during the Obama administration, Obama would show people he had this map that he could pinch-to-zoom. And then of course Apple came out with the iPhone. Other people were working on it. And fortunately when I did the table thing, I filed a patent. And then when the iPhone came out, of course, it did a very beautiful job of pinch-to-zoom and very refined version of it. And people started using it. And then the other phone companies started doing it and Apple sued them. Apple filed a patent on pinch-to-zoom and sued them and actually I think won a billion dollars from Samsung.
+
+But I had filed this patent and Samsung went back and sued, went to the patent office and said, “Wait a minute, Danny’s patent predates all of this.” So the patent office says, “Oh, yeah, it does.” And it invalidated Apple’s patent. So everybody who had Androids or Samsung or whatever, they could use pinch-to-zoom, too. So I think that’s the invention that I’m kind of proudest of because even though I never got paid a dime for it, I see little kids who had that same instinct that I had. I see them going to a magazine and just trying to zoom out the picture. And I know that nobody will ever remember that as ever having been invented. Because it’s like kids are born with it. It’s become so much of a part. So when you innately want something like that and you know want it.
+
+Kevin Kelly: So Danny, how about some practical advice for people who are listening who may be inventor types, about patents? I know you have a complicated relationship with patents. Here’s a case where patents may have done some good. I know other times you’re not so sure about the worth of patents. What would you suggest to people who are inventive? For instance, at WIRED, we were involved with inventing the web. And WIRED invented the click-through ad banner, right? I mean, Brian Behlendorf was the guy who coded that. And not one of us ever thought about patenting it. It just seemed obvious. It seemed like a really good thing. It was entirely patentable, but it just never even was in our vocabulary. And I’m not sure how much it would’ve been worth if we had. But Danny, what do you think about patents and people who are inventing? What would you suggest?
+
+Danny Hillis: So, first of all, I think patents might be good for inventors, but I don’t think they’re very good for society. So if I had a choice, I would eliminate the patent system. Now, there might be particular things like pharmaceuticals and things like that where you could make the trade-off the other way. But I think in general around computers, and I’m happy software patents are kind of getting rejected much more and so on. So I’ve always felt a sense of, I guess, ambivalence about patents.
+
+Kevin Kelly: So why are you patenting if you don’t believe?
+
+Danny Hillis: I patent because — remember, I’m often solving problems for other people. And so, I mean, they have paid for something to happen, and so they want to own something at the end. But I think for inventors, and I know inventors that have made lots of money on patents. But you have to sort of sue people and you have to. And so they end up wasting an awful lot of their life in courtrooms. I hate it. I occasionally get dragged into court for something that I’ve patented that somebody else owns. And you have to get deposed, and it’s a big waste of time. It’s a big waste of society’s resources.
+
+And the whole idea of the patent system was initially to help society. It was to get inventors to disclose their patents. But I think that things that are sort of self-disclosing, like pinch-to-zoom, once somebody sees it, you don’t need to do any more disclosure about it. Or maybe you do about how you made it work or something, but they could take it apart and see how you made it work. So I would say that we ought to definitely narrow down the things that we allow to patent. And I think that to inventors, I typically say maybe file patents is trading fodder in this ridiculous game that’s going to have to happen, but don’t go off and sue people for violating your patent. And yeah, you might get rich that way, but it’s not worth your time. It’s not the way to spend your life.
+
+Tim Ferriss: Are there any inventors, could be past or present, who really inspire you? If an intrepid inventor looked at you and they said, “Danny, who are some people I should pay attention to or study?” In the world of inventing, broadly speaking, anybody stand out to you?
+
+Danny Hillis: So the ones that I admire the most, and some of them have been my mentors, are people like Claude Shannon, who kind of look at something really complicated and messy and get a take on it that makes it simple and understandable in a way that gives everybody else power to do something with it.
+
+Tim Ferriss: Who is Claude?
+
+Danny Hillis: Claude Shannon invented the bit. Actually, another one of my mentors named it the bit, but he invented it. So he invented information theory. So he invented a way of measuring information and coding information.
+
+Kevin Kelly: Worked for Bell Telephone, and they were interested in what was the theoretical limit to the amount of information you could put down a wire?
+
+Danny Hillis: No, but even before that, his master’s thesis was the application of Boolean logic to switching circuits. He just had this way of thinking about things that was so powerful that it gave everybody else a way of thinking about things and everybody else. A way of solving problems that we just take for granted when we measure things in megabytes and stuff like that. Somebody I lived to know, somebody that was on my thesis committee invented the bit, right? Or discovered it or whatever. But those are the kind of people that I imagine, that I admire the most because they give everybody else the power to imagine new things and do new things. Newton did that in physics. Feynman did that in physics with Feynman diagrams. So those are the real “wows” of history.
+
+Kevin Kelly: So speaking of people that you admire, I have a favorite question. What is a heresy that you have? And I define the heresy as something that you believe that the people that you most admire don’t believe.
+
+Danny Hillis: This is a little strange one. You’re not going to like it.
+
+Kevin Kelly: Well, because that’s no point.
+
+Danny Hillis: I don’t believe in cause and effect.
+
+Kevin Kelly: Oh, wow. Oh, wow. Okay. Explain what that is for people who don’t know.
+
+Danny Hillis: Well, okay, so we look at an equation like F equals MA, and we say, “Oh, force causes mass to accelerate when you push on it.” Okay? That seems to be what F equal MA says, just going back to Newton. But I think that’s just a story. I think that we like to tell stories in which there are agents that cause change, because we’re social creatures and we like to personify nature. I could rewrite F equal MA to be A equals F over M and say mass is caused by force acting on acceleration. That creates mass just as easily as I could say that the force causes the acceleration. It’s just a way we tell the story and some stories are intuitive to us and make sense and fit with our intuitions. Some stories don’t.
+
+When we can tell a story about something that’s explanatory and helps us guess at what’s going to happen next or things like that, it’s a useful story. Then we believe it’s true in some fundamental sense. It’s the way our brain works. We’re wired to look for causes and effects and that’s like why we’re wired to believe in God. If you have a chain of causes and effects then it has to be a first cause at the beginning, causing all the rest of it. I think that’s just the way our brain works and the way we tell stories about reality. I don’t think reality actually has causes and effects.
+
+Tim Ferriss: Let me poke on that a little bit. So is it that cause and effect doesn’t exist or is it that we simply over apply cause and effect? I was thinking back to the proteomics discussion and identifying changes in proteins over a sufficient data set, such that you could have some predictive ability or ability to intervene earlier to hopefully mitigate or prevent disease states like Alzheimer’s disease or otherwise. Does that mesh with what you are saying or does it not?
+
+Danny Hillis: I’m not saying that thinking in terms of causing and effects isn’t a useful way of thinking. Just like I’m all for storytelling. I believe in storytelling as a useful voice. When we tell a story about a protein pathway causing something, we’re making up a story. When we really look at what’s happening in the physics, all those things work in the other direction, too, and the story isn’t really what the physics is doing. It’s a simplified thread of things that we can understand and what’s doing. It is useful to abstract out these threads that we can tell stories about, because that gives us a handle on it and helps us manipulate it. I’m not saying that’s not a helpful trick of thinking, but it’s a trick. It’s not really how the universe works. We shouldn’t fool ourselves into that and we shouldn’t get too enamored. In fact, maybe when we get new kinds of AI, maybe they’ll be able to think without using that trick. Right now we can pretty much only think using that trick.
+
+That’s what digital is. Computers are all about playing out this fantasy of cause and effect. By forcing everything to either be a zero or one and nothing in between and making everything digital, we can make things that almost work perfectly as if this and this caused that to happen. In some sense, the computer is the ultimate fantasy of putting together causes and effects, on piling causes and effects, and engineering them into long chains that we write with programs and control them. They come so close to doing exactly what our fantasy is that it’s hard to believe it’s not true.
+
+Tim Ferriss: How does, and this is way outside of my areas of expertise, so who knows if I’m painting us into a corner here, but how does quantum computing affect that presentation of computing and the forcing into one binary option or another?
+
+Danny Hillis: That’s exactly the right question to ask. If you really look at true quantum computers, it’s much harder to explain it in terms of causes and effects like we do a digital computer. You operate on it and it causes this state to turn into that state is a cause thing. Actually, the cause also involves observation of the states and just looking at it changes it. What we’ll do first with quantum computers is we’ll do little bits of quantum that fit in with our quantum. For instance, one of the early things, we’ll be quantum key generation where we’ll have a module and say, if we do this, we get a cryptographic key that has the right properties. Now how that magic happens, I don’t think anybody — very few people will have any intuition of how that happened. The people who do have really deep intuition, will realize that it’s actually not causes and effects in the way that we’re used to thinking about it.
+
+Kevin Kelly: I have a half-baked amateur hunch and prediction about quantum computing, which is I think in a hundred years from now that we will realize that quantum does not want to do computation. It’s actually not going to be used a lot for computation, but there’ll be something else that we’ll discover that is really incredibly useful for other than computation, because I think computation does want to be much more cause and effect.
+
+Danny Hillis: Sometime in the ’90s, I wrote a little book about how computers work.
+
+Kevin Kelly: The Pattern on the Stone.
+
+Danny Hillis: Pattern on the Stone, that’s right. Just a high school student that was interested in computers, couldn’t understand. It turns out mostly who likes reading the book are people who already understand everything in the book, but they like seeing it all explained. It had a chapter on quantum computing, and this was written in the early ’90s. I got this funny call from the publisher and said, “There’s this weird thing, your book is the only computer book we have from the last century that’s continuing to sell.”
+
+Tim Ferriss: That should be on the cover, I feel like.
+
+Danny Hillis: I don’t know, it made me feel pretty weird. Fortunately they didn’t say the last millennium, right? They said, “Would you like to revise it?” I went back, there are a lot of things that’s happened since then.
+
+Tim Ferriss: That’s an understatement.
+
+Danny Hillis: It was interesting, because most of the stuff I had in the book didn’t change at all. In fact, some of it I would’ve talked about certain things more and certain things less and so on. One of the things I talked about was quantum computing. Really even in quantum computing, there wasn’t much I would change. What I said about it is, if you want to look for where something could be a real game changer, it’s quantum computing. It’s got all this potential and all these hints that it could work. There’s good theoretical reason to believe that it would be revolutionary, but nobody’s actually gotten it to be useful yet. That’s pretty much still the state that it’s in. I was surprised that, in the end, I decided it was more interesting as an historical document of how computing looked in the 90s and I didn’t change it, but most of it wouldn’t have changed anyway.
+
+Tim Ferriss: So let me, at the risk of this going sideways, introduce a really slippery term, but we were discussing earlier the possibility, if my memory serves me, that AI and developing different types of AIs could help us get a better understanding of intelligence writ large, different types of intelligence. We might, as Kevin mentioned, discover we’re on the edge of the galaxy or universe.
+
+Kevin Kelly: Possibility space.
+
+Tim Ferriss: Yeah, exactly. Possibility space, not in the center. Is it possible that through AI or quantum computing or other aspects of studying quantum phenomena that we will get a better grasp of what consciousness is? Recognizing, again, that that is a term that begs definition. There are a lot of people who take different stabs at it, but what it is to be aware that we’re aware, perhaps would be one possible way of offering that. Also, how that emerges from simpler constituent pieces that maybe at some requisite level of complexity suddenly have this emergent phenomenon, which is consciousness.
+
+Danny Hillis: Certainly, that’s possible. This is really just a guess, is that consciousness is going to turn out to be way less important than we think, in the sense that it’s going to be a very small piece of intelligence. It might just be a hack. For example, I have a complicated idea in my mind and I turn it into a series of grunts and grunt at you and whistle and grunt. Somehow you listen to those grunts and you construct an idea in your mind and so we went through this translation process. We have a lot of our brain is devoted to that compression process of turning the idea into grunts and turning the grunts into an idea. Given you’ve got all the hardware lying around, you’ve probably had the experience of misunderstanding somebody, but what you misunderstood is actually more interesting than what they said.
+
+Tim Ferriss: Right. Sure.
+
+Danny Hillis: Or vice versa, right? Because that — your brain took the thing that they said and expanded into a sensible idea, and maybe it was more sensible than the one that they had in the first place. Well, so you could do that within your own brain just by talking to yourself. Probably, given you’ve got all this hardware lying around for compressing and decompressing ideas, a good thing to do with the idea is to compress it, tell it to yourself, and see if you misunderstand it in an interesting way. Maybe consciousness is just some hack like that.
+
+Kevin Kelly: Yeah. I’ve often thought that one of the main benefits of language was not so much that it enabled collaboration with other people, but that it gave us access to our own thoughts. Can you imagine trying to think without language? It just almost doesn’t seem possible. Language, I think, was a dual-purpose invention that mostly gave us the power of communicating with ourselves basically, which is what —
+
+Danny Hillis: I think consciousness may be that. I think consciousness may be our access to our own thoughts, and that may be useful, but it may not be the most critical thing in intelligence. Maybe you could not have it and still be very smart and maybe I wouldn’t even be able to tell the difference.
+
+Kevin Kelly: I think in that space of possible minds, we could think things that are really, really intelligent, that have very little consciousness, things that have a lot of consciousness that can’t communicate, things that communicate — I think consciousness is another elemental, primitive in that where you make compounds.
+
+Danny Hillis: Yeah. I think you could have multiple entities that have access to each other’s thoughts. and that might be even richer, a super consciousness that might be better. I think this might be another case of us looking at what’s apparent to us when we think of our thinking. We’re very impressed with the things that are very visible to us, like we’re very impressed with our ability to play chess. Ultimately, it might not be so important.
+
+Tim Ferriss: Right. The proverbial drunk guy looking for his keys under the street light at night. They’re like, “Wait, I thought you left that in the bar.” He is like, “Yeah, this is where the light is.” I could keep going for another three hours. We’re coming up on three hours now, which has gone by very, very quickly. Kevin, do you have any closing as we start to land the plane? Questions for Danny? Comments or questions, complaints, old feuds you’d like to revive?
+
+Kevin Kelly: I might want to go back to the question of what are you trying to optimize in your life? You were saying you were trying to optimize your time. Are there any other things, the general trajectory of your life, maybe in particularly recent years where you feel this is what you are trying to optimize, maximize? Another way of saying is, again, when you’re deciding what to do, how to spend your time, the little time that we have, what’s something that you are trying to make more of?
+
+Danny Hillis: I try to ask the question, “Will this make a difference over how much time and so how long will that difference matter?” If it makes a lot of difference after I’m dead, I’d rather do that.
+
+I think a lot of people think, I want to make a difference, but I think they weight it much too much to the near term. For instance, I really admire Bill Gates as a philanthropist. He works really hard and he’s super smart about it. One thing that bothers me about some of the things that they do is because they try to measure everything, they try to do things that make a difference in the time that they can measure them. I think that that is maybe not the right metric to be optimizing. It doesn’t allow for the long tail of time, of impact of things. It’s like when Claude Shannon condensed the debt, the differences that that makes are just apparent now after he’s dead. That’s something that over time it makes a huge difference. If you tried to measure it during his lifetime, it would’ve been really hard to give it any credit.
+
+Tim Ferriss: The long tail of impact. All right. I’ll pick from my grab bag of favorite questions. One of them is pretty simple, it’s a metaphor. If you could put anything on a giant billboard to get a message, an image, question anything to many, many people, hundreds of millions, billions of people, let’s assume they understand the language. Could be a quote, could be a quote from someone else, could be a motto that or philosophy that you live by, could be anything at all. What might you put on that billboard?
+
+Kevin Kelly: It could be an ad for your company.
+
+Tim Ferriss: No ads. That’s the one rule.
+
+Danny Hillis: In a sense, I think I’ve answered that, because I think the most successful example of that was Stewart Brand having a picture of the whole Earth. I think he realized that when people saw that picture of the whole Earth floating in space, they would think about everything differently and they did. To me, there’s no picture like that of the future. You can’t conjure up an image. You can conjure up the image of the past of maybe the pyramids or something like that, but there is no iconic image of the future. If you could imagine something to put on a billboard that made people see the future and believe that there was that future, that’s what I’d do. The 10,000-Year Clock is the best approximation I can do to that. I think that that’s what the world needs. I think it needs that picture that puts the context of everything today in the context of the development of humanity over tens of thousands of years. I think that would make it a much more optimistic picture for everybody.
+
+Kevin Kelly: Let me just add, I don’t think we have, this clock is real. It exists right now. It’s inside a mountain in West Texas. It’s inside a vertical tunnel with a spiral staircase carved into the rock and it’s hanging almost 500 feet. It’s a mammoth, mammoth, monumental clock that is going to tick for 10,000 years. My impression of having visited it is that it feels like the clock has always been inside the mountain. It feels ancient.
+
+Tim Ferriss: Yeah. The scale, the scope, the ambition, the tooling required, like this site identification, everything is pretty beyond belief. I know we haven’t spent a lot of time on it. I’ll link to a few things for people who are listening, also. I wasn’t sure how much you could say about certain aspects of it. We spent a lot of time on other things. Danny, is there anything else that you would like to say about the 10,000-Year Clock?
+
+Danny Hillis: No, actually I think it’s good that we spent time on other things. I think it will speak for itself and it’s a story. Actually my favorite thing about the 10,000-Year Clock is I run into people regularly who’ve heard about it, but assume it’s just a myth.
+
+Tim Ferriss: Have you seen Bigfoot? No! Bigfoot, really? In West Texas?
+
+Danny Hillis: Yeah. Well, you get all kinds of versions of it. It’s in Nevada. I ran into somebody who said it was in China. That, to me, is very satisfying, because stories are actually what really lasts. Really, your question about the billboard is like that. What’s an idea you want to put in people’s head that stays there? An idea has a lot more sticking power than any physical thing you could build. And so I love it that it has become a story with the life of its own. That, to me, is as exciting in the fact that there’s this giant thing sitting in a shaft in the mountain.
+
+Tim Ferriss: Yeah. It makes me think of Indiana Jones and The Last Crusade. I can imagine the tagline, “See you in 10,000 years.”
+
+Danny Hillis: If anybody believed it.
+
+Tim Ferriss: Well, that’s part of selling the story, right? Danny, people can find Applied Invention at appliedinvention.com. Is that the best website?
+
+Danny Hillis: Yep.
+
+Tim Ferriss: Is there anything else?
+
+Danny Hillis: There’s nothing there. It’ll just say, Applied — it’ll have our address and ZIP code.
+
+Tim Ferriss: All right. For those fans of ZIP codes, you can go to appliedinvention.com.
+
+Danny Hillis: They can contact me that way.
+
+Tim Ferriss: All right. Perfect.
+
+Danny Hillis: I do want to meet smart people. I told you, what I’m seeking for is the brilliant people with different ways of looking at the world.
+
+Tim Ferriss: Have you spent any time with Derek Sivers before? Have you guys met before? Derek Sivers, do you know his name?
+
+Danny Hillis: No.
+
+Tim Ferriss: All right. Well, Kevin and I both know Derek, I feel like you guys would make for a fun meeting. Danny, Kevin, thank you for taking the time. This has been absolutely fantastic. I’ve tons and tons of notes. We didn’t even get to the giant robot dinosaurs; another time.
+
+For people listening, you will be able to find links to everything that we’ve discussed at the show notes on tim.blog/podcast as per usual. Until next time, as always, be just a bit kinder than is necessary, not only to others but to yourself. Thanks for tuning in.
+

@@ -1,0 +1,818 @@
+Please enjoy this transcript of my interview with Chris Hutchins, the creator and host of All the Hacks, a podcast that helps people upgrade their life, money, and travel. He previously founded Grove (acquired by Wealthfront) and Milk (acquired by Google), led New Product Strategy at Wealthfront, and was a Partner at Google Ventures.
+
+Most importantly, he is the person Kevin Rose and I call if we want to figure how to get a better deal on just about anything in the world or if we just want to learn about his latest hijinks doing things like getting $200 flights to Japan, running gold pseudo-arbitrage at retail, or booking dirt-cheap trips to Bora Bora. We cover all three and more in this conversation.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch the interview on YouTube.
+
+Tim Ferriss: Chris, as the caffeine is hitting my bloodstream, and we can treat this as a warm-up, who knows? It might make it into the final cut. The goal here, multifold, so shall we call it goals? Is to figure out what on Earth I should do with my Frankenstein of points, and miles and so on, that I have accumulated over my adult life since college, basically. That’s one. The other is to make sure that it doesn’t get into the conversation such rarefied air that people are just like, “Wow, this is a great conversation for the 0.001 percent.” Which I actually don’t think we’re at too great a risk of, because, and we’ll get to the total tally and so on, effectively as soon as I began starting businesses, I put everything on my cards.
+
+So advertising, monthly spend, trade shows, anything and everything that I could put on the cards, I put on the cards. And you, of course, are an nth degree black belt in the Jedi arts of points, and various types of arbitrage, and trade, and just general skulduggery. Excuse me, not skulduggery. I just had to use that because Mike Tyson likes that word. And there are levels, and then there are levels. I would like to think of myself as pretty aware of how to find shortcuts here and there, and it’s not really shortcuts that we’re looking for, but kind of clever, elegant, not just techniques, but hopefully we’ll get to some principles overall that will allow people to deal with, what I think is a very common headache. Because in my case, I’ve accumulated all this stuff. And every time I look at my points, and we’re going to get to some of your shenanigans in a second because I want to hop straight to a couple of real-life examples that seem insane.
+
+And people look at these points, I look at these points and I’m like, number one, I have no idea what to do with these. Number two, I assume they’re basically worthless. Number three, I feel like I’ve lost a sucker’s game every time I look at them. Does that make sense?
+
+That I’ve signed up for a game, that in the end it’s like wandering through a casino, the house always wins. And for all of those reasons, plus just the general brain damage of trying to figure out what to do, and do they make it difficult like an insurance claim? Whatever. I haven’t really put a lot of effort in. Every couple of years I’ll put a few hours in and I’m like too hard, too complicated, don’t want to deal with it. And then I exit the side door, and then I’m right back to where I am. Today I’m looking at this balance of points and stuff. So that’s my confessional, part one, but let’s start. There’s so many different places to start, so I’ll let you choose. And I think it’s fair to say for the record, and you’ve been very transparent about your finances and stuff. It’s not like you’re driving around in a fleet of Bugattis, a different color for every day of the week, that you have a private hangar of 17 jets. That’s not your life. You’ve done very well.
+
+And I don’t know if it was at the same time prior to or after we recorded that mega marathon on podcasting, you wanted to ask me a bunch of questions. So I was like, “Hey, let’s just record it.” But you’ve gone full time in the All the Hacks ecosphere. I guess this is all to say, I’m trying to set a reference point for people listening for you, because they might assume that you’re like Kevin, as in Kevin Rose, or that you’re a venture capitalist, or that you have tens of millions, hundreds of millions of dollars, and therefore the numbers that I’m about to give, they might discount. And I’ll just throw those out, and then you can take this tangled mess of an introduction and do with it what you will.
+
+So you bought 300k worth of gold at Costco in the past year, and I’m like, “Wait, what? You could buy gold at Costco?” First of all. And then there’s the amount. And then I was asking you about Amazon-related arbitrage. And you’re like, “Yeah. Well, that’s fair game, but it doesn’t really happen or work anymore, but I did buy $1 million of gift cards in January, 1.02 million to be precise.” And I’m like, what the hell? Okay, so that is one of the messiest on ramps I’ve ever offered a guest. But why don’t you take that? I think you understand the intention behind it, which is like, let’s give some crazy examples, and let’s also ground in reality who you are. So these numbers are able to be put into some kind of context.
+
+Chris Hutchins: Yeah. I think that the easiest way to explain both those stories and who I am in a very concise way, is that I really like the arbitrage of anything. And I grew up in the maybe upper middle class, middle class, but I went to a private school and my parents didn’t give me money. They weren’t like, “Here’s my credit card,” like many people I knew did. And so I was always like, “How do I keep up with the Joneses,” per se? But I didn’t have a credit card to take debt out on. There were no other options.
+
+So I was finding these arbitrages early when I was like, “Kids like pizza. I want pizza. I don’t have money for pizza. Let’s order pizzas to school, sell slices, and eat my profit so I get free pizza every night.” It was like I’ve always been thinking in the back of my head, “How do I do the thing that everyone else with all this money and all these resources does? How do I get to do that, even though I don’t have the resources?” So that’s been my MO for life is, I don’t want to sacrifice, but I also don’t want to go into debt, or just spend money I don’t have.
+
+So you mentioned gold, you mentioned gift cards.
+
+Chris Hutchins: The gift card thing was interesting, because as is sometimes the case with venture-backed startups, companies are willing to take investor money, and sell things at a loss, and lose money to grow. And there was this weird window late last year, early this year, where there were ways that if you were creative, you could buy gift cards, a huge discount.
+
+Tim Ferriss: Gift cards to where? What kind of gift cards?
+
+Chris Hutchins: So there was an app called Pepper.
+
+Tim Ferriss: Okay.
+
+Chris Hutchins: And they were selling gift cards for a discount in a convoluted way. They’d be like, “Well, you could get a $500 Amazon gift card for $500, and then we’re going to give you 30x points in 14 days that you can redeem for other gift cards.” But they were holding the best deals for the biggest spenders. So the average consumer wasn’t getting the best deal. And I just realized that I don’t necessarily want to take on the risk of if this company goes under, they owe me $20,000, $30,000, $40,000, $50,000 worth of points. But there were lots of people that did, and they didn’t want Amazon gift cards, so they were willing to sell them at a loss, or not at a loss. At a break even. They were like, “I’ll buy Amazon gift cards for what, at the end of the day, will be 20 percent off, and I’ll sell them for 18 percent off.”
+
+And I was like, I could do much better trying to arbitrage that than take on a lot of risk. So I literally sent an email out to my list and said, Hey, who wants to buy gift cards? And I set up an e-commerce site, and we were selling Amazon gift cards at 10 percent off. Now, who doesn’t want 10 percent off Amazon? Why not? But I could buy the Amazon gift cards for somewhere, depending on the day, between 12 percent and 15 percent off. So people were stoked getting 10 percent off Amazon. I was stoked, because I was making a little bit of a profit, but even better, I could buy all those Amazon gift cards from people with a credit card. So I spent a million dollars. I probably made two million points buying those million dollars of gift cards, and then a little bit of on top of that. And then everyone that bought them was like, “I’m saving money on Amazon.”
+
+So it was like a total win-win because there was this rare moment where gift cards were selling at ridiculous prices. And that’s still true today. Maybe not as ridiculous, but just so people don’t think, “Oh, I missed the boat. This is never possible.” Anyone that has a credit card, whether it’s Amex or Chase, there’s all these parts of the website where it’s like, here are some of the special offers you have on your card. And earlier this year, Amex had one where it was, spend $200 at Lowe’s, get $50 back. I don’t need anything at Lowe’s, but I had that offer on seven different cards. So I took my daughters, we went to Lowe’s, we bought seven $200 gift cards to Dick’s Sporting Goods, and then we just resold them for 91 cents on the dollar. But because we were getting $50 off each $200 purchase, we were buying them for 75 cents on the dollar. That kind of stuff happens all the time.
+
+Tim Ferriss: So let me hop in here for a second, because I imagine there are some people who are like, “I’m definitely going to do that,” who are listening. And then there are people who may be cut from a similar cloth to myself. And this is part of the reason why before we started recording, I said, Chris, let’s get to unraveling the mysteries of the universe. Because I realized, much like someone said to me long ago, “If you want to understand somebody, talk to them about money, and talk to them about sex.” Once you get into arbitrage, and time, and value, it opens Pandora’s box to everything, philosophically speaking, your beliefs about the world. That might sound like a grand statement, but here’s where I’m going. There is a religious war afoot. You guys may have seen it in the news. I’m not talking about the Middle East. I’m talking about personal finance, where you have ultra frugality on one end of the extremism, let’s just say, like super, reusing cotton balls, type stuff.
+
+And then you have on the far other end, maybe where I’m perhaps a little bit closer, folks who are like, just make more money. Because the upside is unlimited, uncapped in a sense, whereas you could only save so much money. But what I’m hoping for today is that we’ll explore the whole spectrum, right? Because much in the way I’m going to take a lot of positions in this conversation right now, I’m going to be your defense attorney. And the reason I say that is that for you, it’s turned into your sport.
+
+It started off as kind of a survival arbitrage mechanism to keep up with the Joneses. And then it’s become a professional sport that you play at the highest level. Much like if I go to Uzbekistan, which I did long ago, I might try to learn Uzbek, but for most people, that’s fucking ridiculous. You’d never want to learn any Uzbek. It’s a total waste of time, but that’s my sport. So with all that said, let’s talk about the gold. And then I have some maybe opening questions that we can get into.
+
+So what’s the story with the Costco gold?
+
+Chris Hutchins: So Costco sells a tremendous amount of gold. I can’t remember the stats, but it’s got to be on the order of hundreds of millions of dollars, I guess, of gold. And it’s funny, because sometimes you’ll check out at Costco, and it’ll be like, “Do you want this gold bar? It’s $3,300.” And it’s like more than anyone would normally spend on groceries at all. Now the crazy thing about Costco is that if you have a Costco executive membership, so they have two tiers, $65 and $130. At the executive level, they give you two percent cash back on everything you spend at Costco, up to $62,500 a year, which for a normal person is plenty of cash back.
+
+Tim Ferriss: Yeah. I think I see where this amount of gold is coming from.
+
+Chris Hutchins: Yeah, but when they sell gold, they don’t have a dynamic price. They say, today, gold is $3,329.99, and the gold market changes throughout the day. So there are times where when you’re at Costco, if you look up online, buying this gold bar and selling it, what would be the margin? And I would say you almost never make money. Costco is not selling gold at a price that you could flip it for a profit, but they are giving you two percent back. And very often, that two percent back makes up the loss you would take reselling it.
+
+And you can buy things at Costco with cash, you could buy things at Costco with a debit card, and you could buy things at Costco with a credit card. So if you were to buy a hundred thousand dollars of gold and you didn’t lose money, you could still keep the points you got from that transaction. But I’d actually argue that if you time it right, you can also make money on the spread, because sometimes that spread might be half a percent, and Costco is willing to give you two percent back, so that 1.5 percent can be profit.
+
+Tim Ferriss: Okay. Got it. So the $300,000 plus of gold basically was hitting the upper maximum of what you could get in terms of cash back?
+
+Chris Hutchins: Yes.
+
+Tim Ferriss: Yeah.
+
+Chris Hutchins: When I’m sitting at the checkout counter at Costco, I’m like, “Okay, gold’s this price.” I look at my phone and I say, “Okay, what could I sell this gold for? Okay, I could make a profit selling it, forgetting even points, I could just make a profit selling this gold.” Okay, ring up the Costco groceries, total’s $180. “Could you please add five” — which is the limit — “five $3,500 bars?” And they’re like, “Really? Okay.” Your total now, instead of $180, is like $15,180. And then assuming you have a card with the right limit, and your bank’s not going to decline a $15,000 transaction, tap to pay. Thank you, Apple, for the simplicity, and then I literally sell it before I’ve left the store. I’m not trying to invest in gold.
+
+Tim Ferriss: That’s my question. Okay, so the gold is not solid bars sitting in a shopping cart, because —
+
+Chris Hutchins: No, you get five bars.
+
+Tim Ferriss: — there would just be people hanging outside. You do? Okay.
+
+Chris Hutchins: Yeah, you get five. I wish I had them here. I have a rack that holds them. But as an example, this is a rack from PAMP, which is this Swiss company that just holds bars. So this rack probably holds 20 bars of gold.
+
+Tim Ferriss: Okay, wow.
+
+Chris Hutchins: One ounce bars.
+
+Tim Ferriss: Hold up. So I guess there are two questions. Do you just basically keep one hand on your concealed carry, which is probably not something you can do in California? But then you take a loop around the store with your shopping cart full of gold, and then return it to the store? When you say you’ve sold it before you leave the store, what do you mean by that?
+
+Chris Hutchins: Yeah, sorry. So what I mean is, I’ve gone in and I’ve locked in the price. So I did a whole episode, by the way. If someone wants to go really deep, the guy who runs the marketplace Pure, collectpure.com, it’s a gold marketplace for all kinds of stuff. I did an episode interviewing him just about gold, and how that works. So I go in, and it’s a buying, selling marketplace. There’s bids, and asks. And I say, “I’m going to go take one of these things,” and I’ve locked in the price, so I don’t mean I’ve shipped it off. I go to the counter, I give them my receipt, I put it in my pocket. For people who aren’t familiar, an ounce of gold is like three or four credit cards, and that’s in the packaging. It’s even smaller if it wasn’t wrapped. So it’s like six SD cards if it’s unwrapped, so I put it in my pocket.
+
+I usually try to do this earlier, so I’m not just like someone’s watching me pick up the gold, walk out the door and all that, but I haven’t had any issues. And then I go home, and I follow their shipping guidelines to drop it off at FedEx. So it’s kind of funny sometimes to go to FedEx and drop a box off, knowing there’s like $50,000 of gold in the box, but it’s insured, so I’m okay with it.
+
+Tim Ferriss: Does it cost you more than your cash back to insure it?
+
+Chris Hutchins: The marketplace insures it for you, as long as you ship it according to their requirements, like double boxed, taped in a certain way. There’s some strict requirements, because they don’t use FedEx for insurance. Obviously, FedEx would charge an insane amount of money, so they use a third-party insurance company.
+
+Tim Ferriss: Okay. All right, got it. So now this podcast is very self-serving for both of us, in a sense. So this is a way that I am able to recruit you to do a lot of heavy lifting on my points. We’ve discussed this. That’s transparent. And then it’s also a way for you to promote what you’re up to, which is fantastic, because you’ve been able to take something that can be very time-consuming, and also turned it into a business, which is great.
+
+And for people who are wondering, because you may not have Chris as a friend who’s willing to do this on your podcast, we are going to discuss how you can find low-lift approaches, or time-efficient approaches to exploring a lot of this stuff. For instance, there was a website you recommended, Chris, I know we’re hopping all over the place, but I had never even heard of it before. I put it in my newsletter and I’m blanking on the name —
+
+Chris Hutchins: AwardTool.
+
+Tim Ferriss: So could you describe what this is? Because it’s very straightforward, and it was simply off my radar of awareness. So what is this?
+
+Chris Hutchins: Yeah, so if we zoom back a while, I think we live in this world where credit card points are easier to get than they’ve ever been. If we go way, way back in history, it’s like they didn’t exist, then you could get one per dollar. And now it’s like depending on where you purchase, you could get five points per dollar, you can get a hundred thousand points when you open a card. And then we were in this weird area for a few years, where it was like, well, there’s lots of them, but it’s very difficult to use them, because to get the most value, you have to know all the Jedi mind tricks, if you will. And then a couple of companies came out and said, “Hey, we’re just going to build tools that are as simple as Google Flights, that make it really easy for you to find ways to get real value out of your points.”
+
+So there’s two sites. And I like them, there’s probably like five or six. I’ll give the three that I like, and how they’re slightly different, But there’s really two things you might want in this world, if you’re trying to use your points. One is, inspire me and give me the best deal. And one is, help me find the best way to get from A to B. So AwardTool, which is the one you talked about, I think is better for the person who’s like, “I want to go to Japan. I have a few days of availability that I could explore. I could go a couple of days earlier, a couple of days late, but ultimately I want to go to Japan.”
+
+Tim Ferriss: And that’s just awardtool.com?
+
+Chris Hutchins: awardtool.com. So you could say, “Hey, I’m going from San Francisco to Japan,” or you could even say San Francisco to Asia, “and I want to go in this window.” And it’ll come back and say, “Here are the best deals.” And you could filter them and say, “I only want nonstop.” “I only want to fly in business class,” or “I only have points with Amex, so don’t show me other options.” And you get these things where right now from San Francisco, and I just looked at Asia, but here, San Francisco to Tokyo in economy on June 5th, 37,000 points plus $11 in taxes and fees. 37,000 points, if you redeem them for Amazon gift cards might get you, I don’t know, I think it’s 0.6 cents, so $222. It is rare that you will find a flight to Japan, even in economy, for $220.
+
+Tim Ferriss: Yeah, that’s nuts. Okay, cool. That’s the equivalent I was looking for. What are the other tools?
+
+Chris Hutchins: The other one that I like is called PointsYeah. And you go to the Daydream Explorer feature, and they just give you a map of the world. And you say, “I want to go to a beach in first class from the United States. Take me there.” And it’ll be like, “Well, did you know that if you want to go to this place, it’s only this much?” So this summer I could go to Lisbon for 45,000 points, but not in coach, in business class. So you want to go to Lisbon in business class for what Amazon equivalent would’ve been like $275. Anyone listening probably knows, you’re not finding $275 business class tickets to Europe in the summer.
+
+Tim Ferriss: Yeah. And there it is.
+
+Chris Hutchins: So I like that for more of an, “Inspire me.” It’s like I don’t know where I want go. I don’t know when I want to go. At the end of the day, I would say, the more flexibility you have, the more your points will take you way, way further. If you come to me and say, “I need to be in Japan, and I need to take this one Japan Airlines flight, and I need it to be on this specific day. What can my points get for me?” It might not be more than you would get just booking the flight on the Amex, Chase, Capital One, et cetera portal.
+
+Tim Ferriss: So that’s the conversion. You mentioned a few things that underscore what makes this whole game attractive to a muggle like me, who has not had the inclination, still doesn’t really have the inclination to get really deep in the weeds, right? It’s like, a $222 flight to Japan? $270 business class flight to Europe in the summer? Yeah, of course I want to do that. I grew up being super, ultra, ultra frugal so that hardwiring is still there. So as financial savings catnip, that is very, very attractive. I hate wasting money. I still way over eat, because I’ll save leftovers and stuff, because I don’t want to waste food. I’m still that guy who will pack up everything.
+
+But this has seemed very complicated, so I’m hoping you can help us uncomplicate it. Before we get there, let me give people a snapshot. So you have, through all of your various techniques, and tricks, and this, that, and the other thing, 22.8 million points, right? Something like that. And what is my total at the moment, roughly? It’s something —
+
+Chris Hutchins: I think you’re at 15.5.
+
+Tim Ferriss: Yeah, so it’s 15.5 million. Keep in mind, guys, this is for the last 24 years. And I’ve also frittered some of it away, using Amex points to buy stuff on Amazon and so on, which would get me a heavy ruler on the back of the hand from Dr. Chris, but we’ll get to that. Just a few more factoids. I have not fact checked this, so I’m relying on Christopher, but how significant are loyalty programs to airlines?
+
+Chris Hutchins: There’s a really great video, if you want to go deep on this. I’ll give you the high level on both loyalty programs to airlines, which is kind of frequent flyer miles. And it’s the craziest thing I think I’ve ever come across when understanding business. And it’s that the market cap of the major three airlines, American, United, and Delta, meaning the total value of the company, they all have a market cap between $6 billion and $20 billion. The market cap of the loyalty point program explicitly, not the airline, but just the subsidiary of it, ranges, depending on the airline, from $22 billion to $26 billion. So the loyalty programs are worth more than the airline itself. And if you actually back out, so everything that is United that is not the loyalty program, is worth negative $12 billion.
+
+So there’s this common understanding in this kind of points, miles, airline world, that airlines really exist to be effectively banks for their miles and points. And then they just have to fly these planes all around the world so that that bank can continue to operate. Because Delta came out and said, I think it was a year ago, “At 2023, one percent of US GDP went through a Delta Amex card.” So the transaction volume on Delta Amex cards was one percent of GDP. Or I think they said just shy of one percent of GDP. They didn’t give an exact number, but so —
+
+Tim Ferriss: Yet.
+
+Chris Hutchins: So every time Amex is awarding these Delta miles, every time you’re using your Chase points to transfer to United, they’re effectively selling those points to those banks, so that they can give them to the card holders. So the business of selling those points is massive. And the profit margins of an airline, just the airline part of it, are laughably small. I think the average profit per passenger for US Airlines on average is $10. And I think American Airlines was the bottom. It was the profit per passenger per year on American is $3.40.
+
+Tim Ferriss: So if you’re wondering why they shill those credit cards so hard over the loudspeakers while you’re trying to watch your movie in peace, this is why, right?
+
+Chris Hutchins: United Airlines sold almost $4 billion worth of miles as part of their business, this is a little old data, but back in 2019. It’s probably only gone up from that. If anyone remembers during the pandemic, the airlines were hurting, nobody was traveling. So in order to survive, they had to mortgage, they had to basically raise money and they couldn’t put the airline up so all three airlines put their loyalty programs up, that was the collateral and raised, depending on the airline, $6 to $10 billion each using the loyalty program as their collateral.
+
+Tim Ferriss: This is one of the many reasons, hearing facts like this where I’m like, this is a trap. If I enter into the labyrinth, there’s a reason why these are so profitable for these companies. And it’s not because the person collecting the miles automatically wins, it can’t be, that’s the losing end of the trade for most people, I would have to imagine.
+
+Chris Hutchins: They’re hoping for breakage. They’re hoping you redeem, you get all these miles, you never use them. I think that original models where 60 percent would get used.
+
+Tim Ferriss: Or you let them expire as I did in one case where hilariously, I think I forwarded to you, I got an email from Marriott Bonvoy saying “Your points are going to expire.” And then it gave a date that was months in the past. That was my alert email. I was, well chronologically, unless you guys have figured out time travel, because I haven’t, it seems like I should have received this prior to my points expiring.
+
+Tim Ferriss: Chris, what would you suggest we do in terms of exploring what I should do with my points? We’re always going to bring this back to what people can use. I think people will pick up a lot. We can also sprinkle in some crazy point stories, but I think we’ve given enough of a taste of that that we can look at the actual nuts and bolts of, what do you do? I’m looking at this printout and I’m like, it makes my head hurt just to look at all these airlines with all the points.
+
+Chris Hutchins: So we’ll break the landscape into — there’s two obvious buckets that people are going to be familiar with. You have airline miles that are linked to a program. So you have some Alaska, some Americans, some Delta and some United, four major US carriers. You’ve got hotel points. I’m not going to tell you what to do with yours because they all expired.
+
+And then you have bank points, and I’m going to call them transferable points. The thing that I really like about transferable points, just to set the difference in people’s mind and why the street value is higher is that American Express —
+
+Tim Ferriss: Let me pause for a second just to say by bank.
+
+Chris Hutchins: American Express, Capital One, Citibank, Wells Fargo now, Chase, Amex will let you move your points to 18 different airlines. So you could move your Amex points to Delta, you can move them to Air France, you can move them to Air Canada. And so the reason why people love them is when we go back to these tools and you’re searching, “Gosh, I want to find a good deal to Europe,” well, sometimes that good deal might be a deal with Air France. Sometimes that good deal might be a deal on United, but it’s [an] even better deal if you book it through Air Canada, which is a partner of United. And so when you have the flexibility to take your points and put them anywhere — or not anywhere, but to 18 different airlines or five different hotel programs, it just increases the likelihood that you will find a good deal.
+
+I love accumulating transferable points because it just spreads out the surface area of places you can find deals. That said, the best value that anyone’s going to find from their points and miles is on this kind of aspirational travel, meaning long haul international business and first class, luxurious five-star hotels and resorts. Because airlines, while this is a shift, they haven’t fully shifted to the point that a business class ticket might cost 10 times the dollars, but it might only cost two times the points. A really nice luxury resort might be 10 times the cost of the holiday in downtown, but it might only be —
+
+Tim Ferriss: If you’re paying in dollars.
+
+Chris Hutchins: — three or four times the cost in the number of points you’d need. And so that’s where you’re going to get the most value. That doesn’t mean that if you’re someone who’s only traveling domestically, you can’t find good value because there are a lot of cases where you’re flying between small airports, you’re flying during the holidays, you’re flying last minute, and you’ll see a flight where it’s just astronomically expensive for what it should be. And it’s a great deal with points.
+
+Tim Ferriss: I am realizing, I guess a couple of things that I’ll throw out there to act as a stand-in for some listeners.
+
+Number one is that, and I want you to poke holes in this or it can just be fodder for conversation because I’m realizing that our conversation is always, meaning the last handful of weeks at least, focused on what the hell should I do with all these points? Staring at this just makes me feel like a sucker playing a sucker’s game or someone with undone homework and they expire, which is ridiculous because it’s engineered.
+
+Chris Hutchins: Some of them.
+
+Tim Ferriss: Some of them expire, but I’ve realized that there’s how to use the miles and then there’s how to accumulate them. Now I have not focused on the accumulate because by and large they seem like games I don’t want to play. I think what’s going to be in the mind of a lot of folks, certainly, why haven’t I done this to date? Time. The Amex is, let’s just say using the Amex on Amazon, it might be a bad trade on the value per point if I assume my time is worth $0, but if it takes me an hour to do something to get a bunch of stuff organized, to find a better value per point, it could be a Faustian bargain if my value of time per hour is high enough.
+
+That’s always been the crux of the challenge for me. And also I should say, just for people listening, we can assume that my hotel points are usable even though they’ve expired, if that is in any way informative to the conversation.
+
+Also, I just want to explain one of the motivations for reaching out to you was not just how do I use these points, but is there anything crazy I could do with these points? I’m not convinced there is, and there may be things that I could do that seem crazy that are just a poor use of points, but I was, okay, I realize I could use some of this for travel, but I can also afford to pay for travel, which doesn’t mean I should pay dollars instead of points if I’m just looking at the value per point. But is there something big and nutty I could do? One trip where I just blow all of these points.
+
+Chris Hutchins: Let’s start there because I think the reason why the points game is exciting in the first place is that it feels like it’s free. Now, I could poke a hole in that and say, if you just used a cash back card the entire time, instead of having 12 million points, you probably would’ve been sitting on $300,000 depending on the card you were using. If someone had done that, they would probably feel very differently about taking $300,000 they’ve saved and blowing it with no regard. Whereas if they had 12 million points that, in their mind, could not fund their kids’ education, pay their mortgage, et cetera, why not blow it on some wild vacation or something else? There’s this psychological element of I’ve earned these things, they are not dollars. Why not spend them flying Emirates first class taking a shower in the sky, eating caviar and sipping champagne? Why not do that? Because it’s not like I’m dipping into my kid’s college fund where it might feel differently if they had earned cash back the whole time.
+
+Tim Ferriss: It would feel totally differently. I wouldn’t even do it necessarily, but those points are so constrained that it’s, okay, if the only place that I can use these is in say travel, it’s, well, they either never get used or they get used, but I can’t apply them to paying off my mortgage or paying for my kid’s college tuition, so yolo.
+
+Chris Hutchins: I would say in the case of Amex, if you were, “My time’s too valuable to play this stupid game,” I would say two things you could do. One, tell yourself or whoever books your travel to just book the travel using the points instead of using the dollars. It’s not going to take any more work to go on Amex’s site and say “New York to L.A. business class flight on United,” book, check out, pay with points instead of dollars. And you’d at least get your one cent.
+
+You could open up a brokerage account at Schwab or Morgan Stanley and open up one card that’s the Morgan Stanley or the Schwab Amex. You could just transfer all your points to your brokerage account.
+
+Tim Ferriss: What does that do?
+
+Chris Hutchins: Just turns it into dollars. Depending on the card, what the rate is between 0.8 and 1.1 cents, but there is a way that’s better than Amazon to just dump them into a bank account where you don’t have to think about it and you just have the money. I will say that is an option. For people for whom that feels like the better path, I would argue that they’d probably have been better off from the start just using a cash back card and getting 2.625 percent, which I think is a good target cash back and never having thought twice about points at all.
+
+Tim Ferriss: What’s your current favorite cash back card if you had to pick one?
+
+Chris Hutchins: US Bank launched this amazing four percent card, you had to put $100,000 in a brokerage account and then they were, “Oh, wow, this isn’t profitable.” The amount of money that issuers get from swiping cards is not four percent. It’s not even four percent before you pull the margin out for everyone along the way. And so that’s gone. Robinhood has a card that’s three percent, but I’ve heard some, if you start putting too many business transactions on there, they have problems. The most scalable platform that I’m aware of for earning cash back at scale is the Bank of America. I’d say platform, if you have $100,000 with Bank of America or in a Merrill Lynch brokerage account, you effectively can earn 2.625 percent cash back on everything with their unlimited card, their travel rewards card, their premium rewards card.
+
+If you have the premium rewards elite cards, it bumps up travel and dining spend to 3.5 percent. Everything you spend on travel and dining 3.5 percent back, everything else 2.625 percent back. Obviously that assumes that you have the ability to put $100,000 in a brokerage account, you can just invest it in US treasuries. You can move over a Roth IRA, you don’t have to have some Merrill Lynch broker manage your portfolio, but I would say that is the most scalable thing. I know people with large limits can spend lots of money, don’t have cards held up and transactions not post and points disappear. That I think is a solution. If you want something even easier, Fidelity has a two percent cash back card.
+
+If you’re not earning two percent back on everything, I would say you’re missing out. I think if you want the simplest solution for everyone, you should say, “Am I at all flexible enough that I’ll be able to get good use out of these points?” By flexible that doesn’t mean I’m flexible in every vertical. You could be flexible that you could book a trip last minute, you could be flexible that you have to plan it super far in advance. You could be flexible with the destination but not the dates. You could be flexible with what route you take, whether you go nonstop or not. I’d say if you have any amount of flexibility, I think you could get a ton of value and these tools have made it so much easier.
+
+Five years ago, I’d say it’s tough. Now I’d say if you were, I want to go to Europe this summer, and we want to book it more than a month out and we’re kind of flexible where we go, you can get incredible value that will make a cash back card look like a poor return. But if every time you travel you’re like, “I want to fly on this date, I don’t want to change planes and I want to go to this city and I want to book it three months out and I don’t want to have to think about it after that.” You probably would be better off doing cash back the whole time.
+
+Tim Ferriss: Okay, so let’s talk about what I should do with this printout that I’m looking at. It’s not actually what I’ll do with the printout, but what it represents, which is these various points that are scattered across however many. Recognizing that Amex is the 800 pound gorilla that’s where the vast majority are sitting.
+
+Chris Hutchins: Yes.
+
+Tim Ferriss: After looking at my full picture, we’ll talk about a couple of things. For people wondering, we’re going to talk about what might I do with all this? What do the options look like that pass the sniff test by Chris, and then understanding my psychological profiling. And then also if it could be done again, what should I have done? Why don’t you take us into the land of what might be done with this stuff? And the easiest way to do it.
+
+Chris Hutchins: I look at all the points. I would say if we focus just on the Amex points, it’s the bulk of everything, it’s a little bit easier to tell a story. You got 12 million Amex points. The easiest thing you could spend them on Amazon, they’d be worth $85,000.
+
+You could just book flights; they’d be worth $120,000.
+
+Tim Ferriss: All right. Use them on Amazon, the 12 million —
+
+Chris Hutchins: $85,000.
+
+Tim Ferriss: 85k, all right, got it. Then?
+
+Chris Hutchins: I don’t think you should, by the way. You could book travel in the portal or transfer them to bank and brokerage accounts, it’d be around $120,000. Just book flights, no problem. If, and I think you do have an Amex Business Platinum, you could just book your flights with points in the travel portal. You’re capped at how much you can do a year, but if every year you used up to 2.85 million, which would take you about five and a half, six years, you’d get $187,000. So, more than the $120,000. And then if you transferred them and booked aspirational things with airlines on long haul international, I think you could get, reasonably, $250 to $600,000 of value. That’s the range. But what should Tim do?
+
+Tim Ferriss: Well, let’s come back to that. On the low end, we have use the Amex points on Amazon because my credit card’s already attached, it’s one click for a checkbox. It’s very easy. That’s taking 12 million plus points and converting it into $85,000 roughly of value. Now on the very high end, long haul international, we’ve got $600k.
+
+Chris Hutchins: Yeah, or more. I did some quick math just for fun, and I said, “Hey, what are some things I’ve done?” I just looked, we’ve been to the Conrad, which is a chain within Hilton, the Conrad Bora Bora, an amazing property. We’ve been twice now. We’re about to go to the new Waldorf Astoria in Costa Rica, so I looked at those two properties. They have tons of availability using Hilton points. Amex transfers from Hilton one to two so you’d actually end up with 24 million Hilton points and it would be about 200 nights.
+
+If we’re talking extreme, what you could do, you could transfer all those points over and book 200 nights at a hotel that would normally be $1,500 to $2,000 a night, just to give people’s mind — 12 million, what does that mean? It could be 200 nights at an incredibly high-end, beautiful resort. If you wanted to take international long haul flights to Japan and Europe in business and first class at redemption values, I’ve gotten multiple times, not once in a lifetime, it’d be somewhere between 130 and 150 one way flights —
+
+Tim Ferriss: To Japan.
+
+Chris Hutchins: Let’s call it 65 to 75 round trip flights in business class over an ocean.
+
+Tim Ferriss: Observation/question. Observation, I had this Shawshank Redemption fantasy of sorts to be clear towards the very end of the movie on the beach. I was thinking, well, so one reasonably absurd thing that I could do would be a 200 night writer retreat to Bora Bora. I might end up more like Tom Hanks in Cast Away, that’d be my fear, but at this crazy, crazy hotel. So that would be one option for just if I just wanted to yolo burn the whole thing. The other I would imagine, tell me if I’m running up against restrictions here, but it’s if I wanted to take, you said 150 flights, let’s just call it 150 one way flights to say Japan, something like that.
+
+Chris Hutchins: Sure, yeah.
+
+Tim Ferriss: Now I guess I’m going to run up against the monthly limits here, but would there be a way for me to do one flight to Japan with 150 people, myself included?
+
+Chris Hutchins: Let’s address the biggest challenge with getting the most out of these points is airlines do not release every seat available for use with points. When they do, sometimes they release them at tiered pricing. There might be two seats available for 80,000 points, and then the next two are 300,000 and then that’s it. As an example, this trip we’re taking to Japan next year, Japan Airlines releases two seats on every flight when they open the calendar at 360 days. Even knowing everything I know about the system, the most optimal place to put the points to get the deal, we still booked two seats from SFO to Narita and two seats from SFO to Haneda. So my wife and I are each taking one kid, and then we set some alerts so over the next year, if two seats open on either of those flights, we’ll log in and change them. The change fee might be $25 on the airline we booked, but we couldn’t even get four seats on the same flight playing the game as optimally as we wanted.
+
+Tim Ferriss: As it stands right now, it’s you and one kid and your wife and one kid on two separate flights.
+
+Chris Hutchins: Exactly.
+
+Tim Ferriss: To two different airports. Fuck.
+
+Chris Hutchins: I would say I probably have 80 percent confidence that by the time we take off, we’re all going to be in business class on one flight. I’m about 80 percent confident.
+
+Tim Ferriss: 80 percent is pretty good.
+
+Chris Hutchins: A general rule here, which I’m just going to give that’ll be probably pretty helpful to anyone trying to get the most value out of their points is the way I would say people that play the game at my level do it is even if you know these dates, no flexibility, one of the great things about points is depending on the program, you could book a flight with points and cancel it for no penalty. Maybe you pay a $12 fee, a $25, a $50 fee, depending on the airline, there are different rules. I would encourage you to just search award cancellation rules by airline and you’ll find a list.
+
+What I will often do is say, look, we really want to go to destination X and obviously we’d love nonstop long haul business class. That’s the target, but I don’t see that now. Let me use some of my points to book a long haul premium economy flight and then I will use these tools, AwardTool, PointsYeah, Seats.aero is another one if you’re a spreadsheet nerd. It’s a little bit more database than user-friendly, but it’s really powerful. I’ll set an alert and say, “If two seats open up in business class on the direct flight or four seats, send me an alert and then I’ll go book that and cancel the other one.” Maybe I have to pay the $12 fee. And so the way most people I know do this is they book something that’s good enough but not optimal. Set an alert and almost always end up with something better.
+
+To the point that we’ve been at the airport check in four hours before our flight from Paris to London, back to San Francisco, alert pops up immediately four hours before departure, cancel that flight, book another flight that’s Paris direct. Now you might not like that last minute, I don’t know exactly if I’m going to take the flight I planned on, but within two weeks of departure, all kinds of stuff happens. You can get on Lufthansa first class, you can get on direct flights. I would say book something that’s good enough, points are often refundable and make it really easy to have speculative bookings. And then you get on something. That said, you’re never going to get 150 seats on the plane. So the best version of that would be to pick a day and buy tickets for 150 friends to go somewhere, but no one’s really going to be going to the same place, so not as fun.
+
+Tim Ferriss: Asia, we’ll meet up in Tokyo, we’re all flying to Asia. Oh, Laos. Sorry pal, you’re going to have to figure it out. It seems like then for the bulk of my points that are on Amex, long haul I could go to the Amex website, see if I can use points for my already pending international travel or whatever type of travel I might want to add in to use points. Although I think I’m at this point disinclined to do that.
+
+Chris Hutchins: My sequence would be find something like AwardTool and say, “I’m going on this trip, let me search it on AwardTool. Can I use my points?” Because chances are you’re going to get two to five cents per point on a good award redemption. Nothing on AwardTool or any of the tools you end up liking? Nothing on AwardTool? Great, I’m going to go to the Amex Travel Portal and I will book it with my points because you have an Amex Business Platinum, if you’re booking it in business class or with whichever single airline you choose like Amex lets you pick one airline for your annual airline credits, whichever one you pick, you can book an economy also. You book it with points, they’ll give you 35 percent of the points you spend back as a refund. It’s a perk of the Business Platinum card and you’ll effectively get 1.54 cents per point.
+
+I would tell you, my guess is that if you’re not that flexible with your travel, that you will, one in probably somewhere between five and 10 times, find a great deal with your points and the other four out of five, nine out of 10 times, you won’t. And that over the long haul you’ll get a blended rate of your points of probably somewhere between 1.7 and two cents because that one time you might get five cents and then the other times you’ll get 1.5 cents. And over the course of the next five years, you’ll burn through all your points, you’ll get twice to three times as much value as you would of using Amazon and hopefully whoever’s helping manage your travel could just have this principle of search for points, don’t find it, use points on Amex, doesn’t work, pay cash.
+
+Tim Ferriss: Also I should point out to folks a few things. Number one, that I do have people who help with travel. I could very easily have an assistant do this and I have still do, for people wondering, virtual assistants in the Philippines and so on. But that this is going to become very different, I would say even in the next 12 months. I’ve already invested in companies that are applying AI specifically to the travel vertical. Most people will be able to use AI agents of some type for a lot of this stuff, I would have to imagine, within the next two years. It could come a lot faster. Having an idea of the process, I think, will prove very helpful. We got AwardTool, Amex. So here are my two questions.
+
+I’ve got points on Alaska, American Airlines, Delta, Emirates, TAP Portugal, et cetera, et cetera, is there an easy way for me to just use those for anything? Zero those out. What is the lowest lightest lift? I guess low makes it a harder lift, but you get the idea, lightest lift in terms of using those or is it, “You know what? Hey, look, you’re never going to use those for anything just accept that those are basically sunk costs and they’re trying to pull you into the game of accumulating points and you, Tim Ferriss, don’t need to think about it.” Or is there a tool where it’s just, “Hey, I’m never going to use these for anything. If I can just trade them in for a fucking box of chocolates and it only takes me 60 seconds, I’ll take the box of chocolates.” Is there anything to be done with these?
+
+Chris Hutchins: I would say the same principle applies. If you look at United, you have United, Delta, American, American and Alaska are both part of the Oneworld Alliance. Delta is part of the SkyTeam Alliance and United’s part of the Star Alliance. Those cover almost, I don’t know, if I had to guess, 90 percent of all long-haul flights you would ever take in your life.
+
+Tim Ferriss: Yeah.
+
+Chris Hutchins: And so whoever’s looking to book your travel, you’re like, “Oh, you want to go to Japan?” Way better than any other redemption is just, okay, well United flies nonstop to Japan, depending on what city you’re in, so does Delta and American. You’re going to get at least probably one cent of value from each of those points even if you book it in, like, unoptimally, right?
+
+Tim Ferriss: Mm-hmm.
+
+Chris Hutchins: Like United, a great deal to Japan might be 80,000 points, but you might also find it for 200,000. But if 200,000 points saves you $8,000, could you do better? Yeah, but I’d rather use that, do that five times, save 40 grand, it’s still a good deal. So the same rule applies, which is I would say when you’re booking a trip, go through that same sequence. A lot of these tools like award tool will show you United, we’ll show you Delta and America. They’re not just showing you what you can do with your Amex points. And I would say with the caveat that because there’s no good alternative, with Amex, you can always use those points to just book any flight on any airline at least one cent. So there’s no point in cashing them out for a box of chocolates. On United, you can only use them to book United and their partners’ flights.
+
+But the flip side is that there is always a price, right? Even if there [is] one last seat, they will still sell it to you with points. It might be a lot of points, but you could still use it for that flight. And so I would be blown away if over the next three years you don’t take at least one flight that is on each of those airlines or their partners.
+
+Tim Ferriss: Oh, for sure. Yeah, yeah, for sure.
+
+Chris Hutchins: And the good news is with United, if you want to book five seats in business class to Japan, it’s going to be easier to find five seats. It’s not going to be as good of a deal. But you know what? If otherwise you’re not going to use them, why not?
+
+Tim Ferriss: Yeah, also deal, there’s the micro deal and then the macro deal, right?
+
+Chris Hutchins: Sometimes it just feels good to take a free trip. Who cares if it was a good deal? You went on a trip you weren’t going to take otherwise.
+
+Tim Ferriss: If it’s a good deal because you have five people flying to the same destination and you know it’s guaranteed versus we’re going to be scattered to the wind and then have to find one another like Lord of the Rings or something, then fantastic, right? Then psychologically that’s also a good deal.
+
+Are there any options, and I think the answer is no, but outside of travel that are interesting in terms of using points? Let’s just say hypothetically I was like, “You know what? Decided I’m going to stay in the US for the next three years. And maybe I’ll stay in Austin for the next three years straight. I’m tired of traveling.” Are there any uses of these points? Even if they’re not, what are the best options of the worst options? It might be the way to word it.
+
+Chris Hutchins: Yeah, I mean, I just looked and they shut down and so I don’t know if there’s going to be an alternative, but there is a company that used to exist called Miles4Migrants that basically you hand over your miles and they help refugees relocate around the world using your miles.
+
+Tim Ferriss: Okay, that’s interesting.
+
+Chris Hutchins: But it looks like they don’t exist. It looks like they have a, “It’s with sad hearts we share this news.” So there might be some ways to use them for someone else, something like that.
+
+Tim Ferriss: Yeah, that’s interesting.
+
+Chris Hutchins: So that’s one altruist. It’s a very charitable cause. It provides no value to you. I don’t even think you get the tax write-off, but you’re helping people relocate fine with miles you don’t need.
+
+Tim Ferriss: That’s fine. But here’s the thing, I donate a lot of my stuff because if I go and I look at my — you and I both know I have no fashion sense, so it’s like if I go upstairs and I’ve got a lot of extra clothing, I’m like, “From one to 10, how much value am I driving from this shirt?” It’s kind of a very left-brained Tim, Marie Kondo version. So instead of sparking joy, I’m just like, “From 1 to 10, how much value am I getting out of the shirt?” Haven’t worn it in four months. That’s like a one or a two max. If I gave this to Goodwill, somebody would get a seven or eight or more out of it if they really need it, maybe a 10. That’s just a better use of this thing in the world, right? So for me, I could see actually doing something like that with points.
+
+Chris Hutchins: If you found a charity that you cared about and said, “Hey, I’ve got all these points, can I just help you out?” There’s a listener of our podcast and he reached out to me and we talked and he runs a few shelters around the world for women that are suffering from domestic violence and all kinds of stuff and human trafficking. And he’s like, “I use all my points just for the business.” All the points his company earns, he uses to book trips for people, for refugees, all this kind of stuff who have a lot more flexibility. So there’s a way that I’m sure someone listening that could reach out and be like, “Hey, we could help put these to use if you don’t want them but — “
+
+Tim Ferriss: I’m going to get so many fake —
+
+Chris Hutchins: Oh, for sure.
+
+Tim Ferriss: — scammers asking for points. But yes.
+
+Chris Hutchins: “Tim, give me your points.” But I would say the easier solution is just decide where you want to give with your dollars. And whenever you’re taking a trip, tell whoever’s booking your travel, and this applies to anyone listening, just go, “Look, what would it cost on United? Let’s just book it with United this time.” And it’s often great deals like we’re going to Cabo and it was a great deal to use points, especially because we weren’t sure which day we wanted to come back. So we just booked it for both days and you can cancel with no penalty. So even if it’s not a great deal, just start cranking through them.
+
+You don’t have any, but just in case anyone’s in Austin, one of the best uses of Chase points is transferring them to Hyatt because Hyatt just is one of the hotel groups that just continues to deliver great value. And there’s a Miraval wellness resort right outside of Austin —
+
+Tim Ferriss: Oh, yeah, I’ve been there.
+
+Chris Hutchins: — that’s like all-inclusive and you can use your Hyatt points there. You don’t have anything that would get you Hyatt points, so it’s not relevant to you, but there are a lot of domestic ways that you could use your points even if you’re not leaving the US.
+
+Tim Ferriss: So let’s look at a situation on my spreadsheet here, which is let’s pretend the numbers are bigger than they are. So I have points on Emirates Skywards and I have points on TAP Air Portugal, the numbers are not as big as the other airlines, but let’s pretend that these were more miles because I’m bringing these up, as you can guess, because they’re both expiring this year. What can people do if they’re like, “Oh, shit, I’ve got three to six months, maybe it’s a year, before these things expire. I do not have any need, maybe no desire to take an emergency trip to fill-in-the-blank location.” Is there anything to be done or is it just like, “Ah, you son of bitch, you got me.”
+
+Chris Hutchins: No, there’s multiple things. So most of the programs in the US now don’t expire. If you have the credit card with a company you earn points in, usually the credit card points don’t expire. But a lot of programs do. And I’d say there’s two versions of expiration. There’s a couple airlines, Japan Airlines, ANA, where it’s truly like three years and they’re gone, nothing you can do. And then there are a bunch where it’s like, I think American Airlines, if you have no activity for two years, they expire.
+
+Tim Ferriss: Loyalty rewards. Sometimes the stick is better than the carrot.
+
+Chris Hutchins: I have, in the past with American, I’ve donated a thousand miles, that’s activity, that kicks you another two years down the road. You can buy a magazine with your miles, kick the can two years down the road. Emirates, for example, lets you transfer your Emirates points to Marriott. So funny enough, it’s like you’ve got Marriott points, they need some activity or they’re going to expire. You have Emirates points, maybe you could transfer all your Emirates points to Marriott, which you’re probably more likely to find a hotel that you could use to book with Marriott points and cash out your Emirates balance. With TAP Air Portugal, you’ve got an orphaned 6,500 miles, probably not even enough to book really anything, I honestly wouldn’t feel too guilty just letting them expire.
+
+The thing that I would note in the future for someone listening is TAP Air Portugal is a part of, I believe it’s Star Alliance. Yeah, Star Alliance. Whenever you fly on TAP, you should just put in your United number, right?
+
+Tim Ferriss: Mm-hmm.
+
+Chris Hutchins: Like, try not to overcomplicate things. You’re flying on Air France, put in your Delta number. Do I think Delta points are the best ever? No. And if you want to play this game at a crazy level and have six-figure balances in 25 airlines, great. But when you’re getting started, if you have Delta, American, or Alaska and United, any foreign flights credit there and then you don’t have to worry about having these little balances all over the world in random airlines.
+
+Tim Ferriss: Yeah, that’s a good point.
+
+Chris Hutchins: But at 6,000 points, I don’t care. At Emirates, if you thought one day you’d use them, great, otherwise I’d transfer them to Marriott. I will say there’s a strange reason why I ended up with 25,000 Aegean Air miles, which is a Greek airline part of Star Alliance, and I was like, “What do I do with these miles? I’m not going to go to Greece.” But Aegean Airlines is part of Star Alliance, so I just use them to book a flight from San Francisco to Denver on United. Now 6,000’s not enough to do that. So I wouldn’t even worry about it. But if you had, and Emirates is not part of any of the major alliances, they have some partners, but because they have the escape valve of transferring them to Marriott, I would just be done. But if you had some Air France miles, you could probably use them even if you weren’t going to France to book a Delta flight or if you had British Airways, an American flight, or something like that.
+
+Tim Ferriss: Got it. Okay, that makes a whole lot of sense. All right. Where should we go from here? I mean I’m tempted to sprinkle in some crazy point stories, but we could also go somewhere else, right? Because it seems like the answer is use these for flights that are coming up, they don’t expire. There’s definitely part of me that’s like, “God, it’s not very inspiring,” but I certainly could do it. That’s the best value per point is to use AwardTool and then if that fails, Amex Travel Portal.
+
+Chris Hutchins: What if we did it this way? I said the best deals are with the ultimate flexibility. So you could say, “Hey, just blow my mind. Make me feel like I got so much value out of this.” What could we do? What could we do that’s really awesome? Block off a week and say, “This week I’m just going to blow it out of the water and I’m going to do something awesome and I don’t know what that’s going to be. I don’t know where it’s going to be.” And you go to one of these tools and you say, “Where can I go this week?” And I think you could have a good time anywhere.
+
+Tim Ferriss: I agree.
+
+Chris Hutchins: So for example, Seats.aero, one of the cool things they have is they have this tool that’s like the ANA first-class finder and the Lufthansa first-class and the JAL first-class finder. So you could say, “Lufthansa first-class.” Well, for anyone who’s interested, the San Francisco to Frankfurt flight today you could book using United miles in first-class for 165,000 points. Now one of the best things about Lufthansa first-class, and I’ve not been able to fly it, is that in Frankfurt they have their own private first-class terminal that’s separate from the other terminal. It’s known for that if you go take a bath there, they give you these rubber ducks that you could post on the internet that show people that you flew first-class on Lufthansa. But you could basically just schedule a, “I’m going to take an amazing trip, I’m going to go somewhere awesome,” and just see where that leads you.
+
+And so we’ve done this a handful of times and we ended up at this amazing resort in Majorca last year called Cap Rocat. It’s a small luxury hotel of the world, it’s built in an old fortress. If you just search for it, you’re like, “Well that looks beautiful.”
+
+If you want to go in the summer, it’s like 2 to 5,000 a night. And we’re like, “Wow. Hilton has five nights here.” We had five free Hilton night certificates. We found some points to get ourselves to Europe.
+
+I think one interesting thing for people to consider, we live in the Bay Area, we wanted to go to Majorca. If you just search for a flight from San Francisco to Majorca, it’s going to be a lot harder to find a good deal. So instead we searched for San Francisco to Europe, we ended up getting a flight to Paris and then we just bought a $79 ticket from Paris to Majorca. So consider the fact that you could buy really cheap flights at the beginning or end of your trip and your points are going to get you on these long haul routes. So we ended up having a $20,000 vacation. We didn’t even realize when we booked it that we were flying to Paris during the Olympics. So we ended up staying there for two days and going to the Olympics and we did the whole thing on points. It was like $20,000 saved, not $20,000 of value because it was actually saved over if we had paid cash. So it was amazing.
+
+Tim Ferriss: Yeah. All right. I like that idea.
+
+Chris Hutchins: I would challenge, give me a week of your time and I will come back with a, “Tim is going to this place in this amazing deal and he’s going to stay at this incredible property and just unwind for a week and explore whatever part of the world we send him to.”
+
+Tim Ferriss: Sierra Leone Four Seasons, here I come. So what was the name of that place? Sip Rocat? No, what was it?
+
+Chris Hutchins: Cap Rocat.
+
+Tim Ferriss: Cap Rocat. Sounds like a Russian prison drug. I like it.
+
+Chris Hutchins: Beautiful hotel. There’s tons of — I mean, I don’t know what Majorca is in October, but right now you can go for a week or two in October. Obviously I know summer’s probably the prime time, but I think when you start to look at shoulder seasons and last-minute stuff, you could just get crazy, crazy deals.
+
+Tim Ferriss: Shoulder seasons means right outside of the prime season like to either side of it?
+
+Chris Hutchins: Yeah, so we’re going to Costa Rica in June, which is not the height of rainy season, but it’s certainly not the most perfect time to go to Costa Rica. It’s not necessary. I think we’re going to hit Japan, obviously, cherry blossom season is flexible, but I think we’re going to hit Japan in prime time next year. And so you don’t have to wait for shoulder season, but there’s just so many better options.
+
+I think we mentioned all these tools before, but when it comes to hotels, a lot of these tools also have the same thing for hotels. So you can go switch from the flight page to the hotel page. Seats.aero has a sister site called Rooms.aero and you can literally be like, “Find me a small luxury, a hotel in the world that has five nights available June 25th. Where am I going?”
+
+Tim Ferriss: Now is the .aero like a wink, wink insider thing in the travel world, or is that just an indication of the person who made this spreadsheet-heavy website is the same person who should not be in charge of branding?
+
+Chris Hutchins: I know the guy behind it’s an engineer and I think it was like, “What would be a cool, easy name? Seats.aero.” Like easy domain, short word.
+
+Tim Ferriss: Arrow spelled like an arrow, A-R-R-O-W?
+
+Chris Hutchins: Oh, sorry, A-E-R-O. Seats.aero like an aeronautical airplane.
+
+Tim Ferriss: Oh, Jesus. See there’s the problem. There’s the problem. I got it, .aero, A-E-R-O. I am absolutely not the only person who immediately went to arrow, A-R-R-O-W.
+
+Chris Hutchins: I’m very glad we clarified that, right?
+
+Tim Ferriss: Show notes would’ve been messy. Okay, so I want to explore a couple things. Number one is points gone wrong. In other words, where you did something and you’re like, “Fucking a, that was just such a waste of life energy,” right? There must be some examples of where this didn’t work out or where you had a practice and you were like, “At the end of the day, isn’t worth it.” Now I have to bust your balls about this because it’s just so funny.
+
+I’ve heard you tell stories of comparison shopping for fruit at the grocery store. Well, you will drive from one grocery store to another to save something like, correct me if I’m getting this wrong, but two or three bucks on berries, something like that. But I’m wondering even for you if there’s been an example where there’s a practice or an attempt and you’re like, “Okay, that really didn’t work out, that was just way more headache or way more time than ended up being worth it,” right? The juice wasn’t worth the squeeze. How often do you feel that way and can you give an example?
+
+Chris Hutchins: I think, I don’t know, I’ll call it the optimizer’s curse, but that is the challenge that I have learned to get better at over the last year or two or three, which is take the berries example. I think I’m probably more likely to look online, be like, “Should I order my groceries from Amazon Fresh or Whole Foods and which one’s cheaper,” than necessarily drive store to store. But I’ll credit Ramit Sethi for these money rules where it’s like, okay, for groceries we stop caring, it doesn’t matter. Now does that mean that when I go to Costco to buy berries and I might see blueberries are twice the normal price, maybe we just buy strawberries instead and I’m not going to not buy berries if they’re expensive, but I might pick the berry that’s the better deal this week. But I’m not going to not do it and I’m not going to drive to the grocery store to get it.
+
+Tim Ferriss: Throw in $15,000 worth of gold bars with my bargain basement strawberries.
+
+Chris Hutchins: Yeah, it’s a rounding error, the transaction would be 15,000 and 12 or 15,000 and 14. But I’ve had to get a lot better at this because there are times where I could spend three hours trying to find a flight deal and figure out the most optimal way to do it, only to be like, “Oh, we’re not even going to take this trip.”
+
+Tim Ferriss: Right, yeah.
+
+Chris Hutchins: My wife sometimes asks me, I was like, “Hey, which flight should we take for this trip?” And then she’s like, “I’m okay answering that question, but why do I have a 47-row spreadsheet as the source of this information?” And so for me, part of it is sport, like we talked about, part of it is figuring out at what level do we stop caring? So it’s like when I was early to this game, it’s like if I’m going to save $20, I’ll stop caring. Maybe now that threshold’s at $100, maybe for some people it’s at $1,000 or even higher.
+
+So I’ve gotten better at, “Is this a thing I want to optimize, or is this a thing where I’m just going to buy the flight? I’ve got to go to this conference in San Diego, flights aren’t that expensive, let’s just buy it.” For anyone thinking that way, and this is also good for you, there’s this great browser extension called Points Path, which just layers on Google Flights.
+
+Tim Ferriss: Points Path.
+
+Chris Hutchins: And then they have an opinion and they’re like, “This is a good deal with points. This is a good deal with cash.” So you’re like looking on Google Flights to go to San Diego and it’s like, “Hey, actually just go transfer, go use United Points. Don’t buy this one. This is a bad deal.” So it’s even easier than these other tools because it lives where you’re already searching
+
+Now, and sometimes I’m like, “Let’s just book it, be done. I don’t want to spend my afternoon on saving $5 or $20 or even $50.” I kind of do at $50, but I should not. So I think that’s it. Sometimes this stuff goes wrong and wrong is a stretch, but I make mistakes that I talk about not making all the time. And I had this woman, Devon Gimbel, who has a podcast called Point Me To First Class on, and we talked about the point journey and you start off and it’s so great. You’re like, “I used my points at Amazon. This is amazing.” And it feels like points are amazing. And then you start to learn more and I think it’s the Dunning-Kruger effect. It’s like now that I know a little more, oh, man, now I’ve been doing it wrong the whole time, you feel terrible and then you start to learn and you’re like, “Now I’m doing great again.”
+
+But there are going to be a lot of people that listen to this conversation right now and they’re like, “Now I know more. Now I feel worse about what I’m doing.” There is another side to that like the valley of despair. We’ll get past it or listen to that conversation I had with her and that would help.
+
+Tim Ferriss: Wait, the value of despair, is that —
+
+Chris Hutchins: Valley of despair.
+
+Tim Ferriss: Oh, I like both. Yeah, that’s like the trough of sorrow in Y Combinator.
+
+Chris Hutchins: Yes. Yeah, I think there’s dozens of names of what it means to learn more and then not yet master it and all that. So I think to where you were going, I have made mistakes. I’ve booked flights that were non-cancellable and then tried to cancel them and got no refund. I’ve booked trips we never needed to take. I’ve booked backup flights and forgot to cancel them and lost points. Make tons of mistakes doing all this, that’s just how we learn. And even once you know the things, you do it wrong. But the value of everything I’ve gotten out of it has far exceeded those mistakes and I’m okay with making those mistakes. And I’ve just learned to say, “Is this the giant trip of the year where we can save $10,000,” or is this the, “I need to go to this place for a meeting and it’s not worth my time?”
+
+Tim Ferriss: Yeah, yeah, totally.
+
+Chris Hutchins: And that changes, right? Earlier in your career it might always be worth your time.
+
+Tim Ferriss: Oh, for sure. Yeah, definitely. I mean, yeah, back in the day. I mean, when I first moved to Silicon Valley — I don’t know if I ever told you this. When I very first moved, it was 2000, couldn’t find an apartment, bought a standby ticket to, I think it was I was just waiting for San Francisco or San Jose. So I wore my one suit, back when I thought I needed a suit to do job interviews in Silicon Valley and ended up staying at a kickboxing gym. This was Fairtex Gym and I lived on a bunk bed with one of the Thai guys up in basically the attic and I would wash my clothing in the sink. And so I was definitely looking for any cost savings that I could find in any capacity whatsoever. And like you said, the threshold has just changed over time and how I think about my time has changed over time.
+
+But I’ll talk about another optimizer’s curse actually, because I don’t think this gets as much air time, or at least I haven’t heard very many people talk about it. There’s the curse of over optimizing deals/frugality, but then there’s the curse of over optimizing efficiency where people come to value their time so highly that any wasted minute causes tremendous psychological anguish. Do you know what I mean? If they have to wait for something for five minutes, it bothers them to such an extent, maybe even after the fact, that just like the frugality and excess kind of becomes the opposite of what you were looking for, which is this psychological piece perhaps, or quality of life. The same thing is true with people who feel like they have more money than time, or that their time is incredibly, incredibly valuable. Like there is a point where it starts to hurt you and not help you. Does that make sense?
+
+Chris Hutchins: Yeah.
+
+Tim Ferriss: So finding that Goldilocks is something I think about a lot because if you read The 4-Hour Workweek, whatever, yes, there are guidelines for people who have perhaps not ever tried to objectively value their time for looking at annual income and cutting this and this to determine your kind of hourly rate per se, the value of an hour of time. But when you take that and apply it to everything and start to really ratchet up your perceived value of time, it can actually create a lot of anxiety, which I imagine the sort of hyper frugality side can as well, so that you share more in common than I think people might realize.
+
+Chris Hutchins: I think about this all the time. When I spend time, the fact that it is sport makes it easier for me to justify spending an hour going down a rabbit hole because not only do I kind of enjoy the process, but also I have a podcast, I can share the process with other people and then they can skirt some of the process by not making the mistakes I do. On the flip side, I often think about what is my time worth? I get requests for people to, “Oh, hey, could you consult on this thing? And I’m like, “It’s just I got other stuff to do.” And I’m like, “Well, if I said no to a consulting call for $250, then my time must be worth $250. Do I want to lay in bed and watch this movie? It’s $250 to watch a movie.” Somehow I’ve been able to just be like, “Nope.” And I just ignore it all.
+
+But I imagine there are people that think about that and can’t stop thinking about it. And my only advice is to just try to not calculate every little thing because it’s impossible and think about maybe your 9:00 to 5:00 time, think about your work hours of whether they’re most efficiently used, but in free time I try to ignore the value of time. It’s like, does it cost me $1,000 an hour to play with my kids? That’s just a ridiculous thing I’m not even going to entertain.
+
+Tim Ferriss: Where are the robots when you need them? Don’t worry, they’re coming. Soft hands, soft hands. Don’t be the first of 100 parents to test them out.
+
+So looking at what I’ve done, I also want to ask you about the future of travel. So I’ll just plant that seed. What do you think the space is going to look like in the next handful of years, or what innovations you’d like to see?
+
+What could I have done in the beginning? What would you have done differently looking at what I’ve accumulated?
+
+Chris Hutchins: So I tried to model out what you could have done and what the impact would’ve been.
+
+Tim Ferriss: Oh, boy.
+
+Chris Hutchins: And my rough answer, and I built this whole, I don’t know, this optimizer’s tool, which was like you could basically put in how much you spend and you could check off which cards you have and see other cards and see how much better it would be if you had other ones. The short answer is almost everyone is optimal with two things. A card that gives them elevated earning on the things that they spend the most on, and a card that gives them two percent or 2X points on everything else that is the optimal solution. And so in the case of the Amex Platinum Card, which I have multiple of, you’re getting one point on everything and five points on flights specifically booked with the airline. And so not a great card for anything other than flights booked with airlines, but getting five points on flights booked with airlines, excellent. But if you figure 90 percent of the spend you put on that card was not a flight booked with an airline —
+
+Tim Ferriss: It’s advertising for companies yeah.
+
+Chris Hutchins: Yeah, advertising. I would say for your specific case, it’s like, well, the Amex Business Gold Card gives you 4X points on advertising spend —
+
+Tim Ferriss: Yeah, I fucked that up.
+
+Chris Hutchins: — up to $150,000 a year, but you’d be much better off getting 4X than 1X on ad spend, right?
+
+Tim Ferriss: Yeah. It’s much more than I put on travel. I mean by 10X, 20X, 50X, yeah.
+
+Chris Hutchins: If you took a card like Capital One has the venture and the Venture X Card, and on the business side they have the Venture X Business, which is just 2X on everything. There’s no games to play. It’s not which, what do I use for this? You’d get 2X on everything. You would’ve probably been a lot better off. Because you were getting five on flights, but one on everything else. The Amex Business Platinum does one and a half on purchases over $5,000. So maybe you were getting one and a half on a lot of those things for business, but you could have just gotten two on everything, it probably would’ve simplified your life. And then you could have picked a card, whether it’s personal, I’ll focus, personal use case, which is the Chase Sapphire Reserve Card is 3X on travel and dining. The Amex Gold Card is 4X on dining and groceries.
+
+I don’t want to go down to every card under the sun, but there are cards that are targeting people who spend in categories that are pretty common, like travel and dining are two of the biggest ones where cards reward you. So I think the average person is best off with a card that earns three to four points on the categories they spend the most on, and a card that earns two on everything else. And whether that’s two points or two percent cash back, kind of is up to you.
+
+Do you want to play the game and try to get the most out of it and take all these aspirational trips, or do you want to just put cash in the bank and not worry about it? And that doesn’t mean you can’t get some of the value. If we loop back to one example I should share, the Caprocot Hotel, beautiful hotel. It was 120,000 Hilton points per night. Hilton points, when I booked the hotel, were on sale for half a cent each.
+
+So there’s this crazy arbitrage that required no playing the points game, which was a night at the hotel was like $3,000 or 120,000 points, but on the website, the same day you could just buy 120,000 points for $600. So someone who’d been playing the cash back game their whole life could just go to the Hilton website, buy 120,000 points for $600, book the $3,000 room for 120,000 points and get effectively the same elevated value that I got from playing the points game without ever playing the points game.
+
+Tim Ferriss: Yeah. That was on the same website.
+
+Chris Hutchins: I mean that was just on hilton.com. The Hilton points are notorious for going on sale all the time. I will say, Chase, you can’t buy Chase points, you can’t buy Amex points, airlines points go on sale from time to time. So there are places where you could buy points from airlines if you see an amazing deal. And I would encourage people to do that. Let’s say you have no points and you’re about to take a big international trip, go to award tool, go to points. If you see a ridiculous deal and you don’t have any points, chances are, at least one of the airlines you can book that deal from sells their points. And it might be a better deal to go buy United points or Air Canada points and book it with points.
+
+Tim Ferriss: So let me hop in here, all right. So I’d love the kind of on the same website arbitrage, because it makes me think that there’s some guy running spreadsheets doing all sorts of fine-tuning internally who’s like, this is for my boys and girls who get the game just planted like this Easter egg, wink, wink for anybody who actually happens to get the scent trail. I like that story so I’m going to stick with it. But —
+
+Chris Hutchins: The reality is most people that have a Hilton account and have Hilton points are using it to book a night at the Hilton Garden Inn for their family reunion in some city in America. They’re not trying to go to the Maldives or Bora Bora every weekend and then they’re not ready to book it on a dime. These aspirational stories are just that, they’re aspirational. And so if they’re not in your short-term future, racking up Hilton points doesn’t do you a lot.
+
+Tim Ferriss: All right, so let me just come back to my own situation. So it sounds like for what I’m doing, assuming that, because this is going to be true for, I would imagine a lot of solopreneurs or entrepreneurs with small businesses that the vast majority of their expenses are on things like advertising, media, maybe also for different service providers like email service provider, blah, blah, blah, blah, blah, those are going to be the big buckets. So it sounds like a next step for me at the very least would be to get a Gold Card to —
+
+Chris Hutchins: Business Gold, just to be clear.
+
+Tim Ferriss: Business Gold, thank you. Business Gold. Just to move those types of expenses to that immediately. It doesn’t take much for me and it will I guess 1.5 to 4X my return on that spend.
+
+Chris Hutchins: Yeah. And then if someone’s in the Chase ecosystem, there’s a Chase Ink Preferred Card, which is 3X on ad spend and travel. I think it’s also office supplies and shipping or something like that. I can’t remember all of them off the top of my head. So that’s one path. The other path is, okay, yes, you like these points, but you don’t really get a lot of tangible value in the moment from them. Until you can redeem them, there’s no value. So what some people do, and clearly one percent of GDP on Delta cards is an example. Most of the airline credit cards and Hyatt, notably because they don’t just give away their top tier of status, you can spend your way to status on most of the domestic airlines like United, American, and Delta and Hyatt their highest global status.
+
+So you could get a Delta Reserve Amex, throw a million dollars of spend a year, and you’d be Delta Diamond. I don’t know the exact number depending on the airline, it’s between 200, $400,000 a year would get you their highest tier of status.
+
+Tim Ferriss: What does it give you? Caviar and blowjobs?
+
+Chris Hutchins: Depending on the airline, it might be priority boarding, upgrades as available, not anytime, free Wi-Fi, whatever the perks are. Southwest is one of the ones where you actually get the guarantee. If you earn 125,000 points on Southwest, if you spend $125,000 on a Southwest card, you will get a companion pass. You can name any person your companion and every time you fly, as long as there are two seats on the flight, they will fly free with you. And it’s not two seats when you get there, you can reserve the seat when you’re booking. So right now, my wife is my companion on Southwest. If I buy a flight, she can come for free, taxes excluded. So you pay the $5 to $50 depending on where you’re going. That one’s one where every single flight.
+
+So if you flew Southwest a lot, which I’m guessing you don’t, spending 125,000 on a Southwest card, bring your companion for free. I know a lot of people, my sister-in-law actually and her husband, they own a handful of small businesses in Colorado and they have two kids. They put a ton of their business expenses on two different Southwest cards, they each have companion pass because of it. All the points and miles they’ve earned from Southwest, they use to buy flights for them and their kids fly free with them everywhere they go.
+
+Tim Ferriss: Yeah, makes sense.
+
+Chris Hutchins: Could they have had more Amex points or Chase points if they played the game differently? Maybe. But right now do they get to take vacations all the time with their family and never pay for any of it and their kids are always free and their flights are paid with the points they earn on the card? Yeah, pretty cool. They don’t think about the cost of travel. Now they can only go where Southwest goes if they want to go for free so trade-offs, but.
+
+Tim Ferriss: Yeah, I mean it’s all trade-offs and I actually do sometimes fly Southwest, you’d be surprised to know it’s not all the time, but Southwest and JetBlue, I actually fly with some regularity. That’s a story for another time.
+
+Chris Hutchins: But I just share that, someone who spends a lot of money for their business or their person, the optimal solution might be to get a card that matches their expenses or a 2X two percent card and just throw all the business expenses on those cards. And for that case, Bank of America similarly, has business cash back cards that if you put $100,000 in a business bank or brokerage account, you get 2.625 percent back on every business transaction. That’s the primary business card we use.
+
+Tim Ferriss: Which was that again?
+
+Chris Hutchins: The way Bank of America works, they have this program called Preferred Rewards. And depending on how many dollars you have on deposit, they multiply your earnings by up to 175.
+
+Tim Ferriss: Oh, that’s clever. Clever monkeys.
+
+Chris Hutchins: So the card is marketed as earning 1.5 or two points and then they multiply it. So it’s a little, I wouldn’t say it’s that complicated, but it’s not as straightforward in that they’re not marketing as that. But on the website they say, “Deposit $100,000 and hold it at a Bank of America account for your business 2.625 percent. If you’re a business that doesn’t want to think about this game, and you just want to get the rebate on everything, great.
+
+Tim Ferriss: All right, so the future of travel, we can come to, I know I bookmarked that, so I’ll let you choose, I’ll give you a couple of prompts. Pudding cups, US Mint, or your wedding — which would you like to go with first?
+
+Chris Hutchins: They’re pretty short stories, so I’ll just run through them in the order you gave them. So this guy Dave Phillips, back in the late ’90s, noticed that there was this promo from Healthy Choice, if anyone remembers the green brand that made all these — probably not in today’s standards — healthy foods. And it was like you get a thousand miles for every 10 barcodes you mail in. And he found that he could buy these trial-size pudding cups for 25 cents and they all had their own barcodes. And so he drove hundreds of miles around, filled up a van, bought over 12,000 pudding cups, donated all the pudding cups to local shelters with the requirement that they would need to, as they serve them, give him back all the tops that they peeled off so he could mail them in. And he ended up earning, I can’t remember how many miles it was, it was enough miles that he said he spent seven years burning through them, taking friends around the world, going on amazing trips.
+
+He got to write off the pudding as a donation. His total cost was like $2,500. And so it’s just a great example of learning to spot places where promos or credit card rewards can be pretty lucrative. And so if anyone was around in the mid-2000s, the US government kind of passed some legislation to get this $1 coin in circulation. And so they basically said, “We’ve got to get this coin in circulation.” And so they basically let you buy dollar coins from the US Mint website for $1 and you could put them on a credit card. And so you would go on and the idea was, coins last longer than bills. And so the government said, “A $1 coin would save us five billion over 30 years,” because it would last, we didn’t have to reprint all these bills. And so they sold $1 coins, shipping included, for $1.
+
+And this one guy, I don’t know his name, bought two and a half million dollars of dollar coins. They weighed like 40,000 plus pounds. And so he would just get these coins to his house and he would throw them in his car, wheelbarrow them to the bank, deposit them as US dollars, and just cycled through earning millions and millions of credit card points buying coins on his card. And so I think that’s an extreme version of points arbitrage.
+
+A lighter version is just, I spend a lot of money on Amazon. I mean let’s not use Amazon because Amazon has a credit card that gives you five percent. But let’s say you spend a lot of money at Apple and you’re at the checkout line at the grocery store and there’s an Apple gift card and you could just buy your Apple gift card at the grocery store, load it up to your Apple account, but because you have a card that earns 4X points on groceries, you get 4X on Apple instead of one because you bought the Apple gift card at the grocery where you get elevated points. And so looking at places where you can move around your spending or buy things that are easy to sell on a card, great options.
+
+Tim Ferriss: So let me throw one out for you just because you may already know this, but I think it’s a fun story even though the conclusion is a little unclear to me. Did you ever hear the story about Kyle Bass, well-known hedge fund manager and his nickel purchase? Did you ever hear about this?
+
+Chris Hutchins: No, I do not.
+
+Tim Ferriss: So I just looked it up. Now this is on some random website, so who knows, fact check everything folks, but here it is.
+
+“In 2011, hedge fund manager Kyle Bass reportedly bought $1 million worth of nickels. Why on Earth would anyone want to own 20 million nickels? Let’s work out the underlying logic of this trade.
+
+“A nickel weighs five grams, 75 percent of which is copper and the rest is nickel. At the time that Bass bought his nickels, the actual metal content of each coin was worth around 6.8 cents. So Bass was buying 6.8 cents for five cents, or $1.36 million worth of base metals for just $1 million.”
+
+And it goes on, there are a bunch of important points in the fine print here, because he’s not going to want to melt it down himself. Is it even legal for him to do that? Maybe not. So does he have exposure then to the nickel and copper markets? How does it work? But still a neat example of how some of these opportunities seemingly — and make sure you’re not too clever by half because you can shoot yourself in the foot financially — but it kind of makes for a fun story.
+
+Chris Hutchins: The last story was that, and this goes back to my earliest days of buying pizza in college. When we were getting married, we had no idea how expensive things could be at a wedding. And so, this guy was kind of a successful entrepreneur in Silicon Valley, had this amazing wedding video he shared and I was like, “Well that was really cool. I’d love a wedding video like that.”
+
+So I looked at who produced it and I emailed them and they were like, “Yeah, we’d love to do your wedding.” I was like, “Awesome, how much is it?” And the woman was, it was $13,000. And I was like, “No, sorry, I thought a wedding video would be a fun thing to have, but $13,000 was a meaningful portion of our entire wedding budget. I can’t spend this on a wedding.” And I’d been talking to this woman unfortunately for three or four calls before I knew the price and she was like, “Ah, but your wedding sounds fun. You’re a cool person, I’d love to do it.” And I was like, “Yeah, I don’t know what to tell you.” And I had been talking about our honeymoon and we were going to the Seychelles.
+
+And that was the plan for our honeymoon and she was like, “Gosh, it would be fun to do your wedding.” She’s like, “Man, I’d love to hear the story of how your honeymoon goes. I’ve always wanted to go to the Seychelles.” And I was like, really? You’ve always wanted to go to the Seychelles? The street price of two business class tickets to the Seychelles is like $20,000. But the actual cost to me in miles is like $2,000. So I offered her, I said, “Look, what if I sent you and your husband to the Seychelles in business class whenever you want to go. We’ll find a time where the flights work. I will book you there. You’ll save $20,000 if you otherwise would’ve bought the ticket, I’ll do it with points. What do you think?” And she was like, “Let’s do it.” And so she agreed to do the wedding. The only cost we had was we paid for the hotel rooms for the videographer because that was a real cost.
+
+But all the time, cost and editing costs she ate. And it turns out at the time she wanted to go, it was harder to find the Seychelles. So we sent her and her husband from Colorado to Mauritius in business class, they had an amazing trip. And so I would say the lesson here is like you can always find ways to negotiate anything. That’s one of my principles.
+
+Tim Ferriss: That might be the golden move that I could apply without inflicting much brain damage. Because I work with dozens of contractors for a million different things. And I could say, “Okay, how about instead of paying you rack rate retail for your services, which is 10k, I send on this trip, which is 15k,” if in fact they want to travel or whatever it is, since that’s going to be seemingly the highest conversion. I could probably do that a handful of times and squeeze a lot more value out of these points than I would for myself over time since I just don’t foresee traveling with a high enough frequency. It would take a long time to kind of drain the bathtub before it’s refilling, so to speak. But if I’m using it also to find opportunities to pay for folks or give them something, I wonder what the tax implications are of that. Who the fuck knows? Yeah. How does that work from a gift tax perspective? Do they get themselves into trouble? I guess that’s a problem for them and their accountants.
+
+Chris Hutchins: I don’t have an answer to that, but I would be very surprised if you bought a flight for someone and — if you asked your accountant, they might say, “It seems fine.” I’m not an accountant, I’m not going to tell you what to do. I’m sure someone listening will tell you there are tax implications.
+
+Tim Ferriss: I suppose, well, it’s different from a gift because it’s a barter, effectively. So there are probably specific elements of the tax code that deal with bartering. I have no idea what they are.
+
+Chris Hutchins: What is the value of the thing you’re giving and all that? Another option though, for anyone who’s a business owner, it’s like, “Oh, I could give all my employees a thousand dollar bonus, or I could send them all on a $5,000 vacation that cost me a thousand dollars worth of points.” That employee is going to have this incredible experience. Pick any luxury resort that’s in the Hilton portfolio. Amex transfers one to two to Hilton, 24 million Hilton points, you’re like, “Where do you want to go on vacation?”
+
+It’s like a gift to employees, to family members. One of the interesting things is you probably have less flexibility in your schedule, but maybe you have family members or friends or nieces or nephews or graduation gifts. I heard this great story, a friend of mine gave his son, for graduation, he’s like, “Right after graduation, you tell me, I’ll send you anywhere you want to go in the month after you graduate.” Well, he had all the flexibility. He didn’t start his job for a month so it didn’t matter what day, didn’t matter what time. And he and his best friend, he flew he and his best friend to Asia. So that was his graduation gift.
+
+Tim Ferriss: How hard is it to transfer points to someone else, right? I’ve got 12 million points; if I was like, “Here’s a competition — ”
+
+Chris Hutchins: You don’t need to. That’s the thing.
+
+Tim Ferriss: What do you mean I don’t need to?
+
+Chris Hutchins: So you could do two things. You could book a flight in the Amex Portal for anyone. You can transfer those Amex points only to your loyalty account, but you can book it for anyone. So you can transfer those membership rewards to Air Canada and book a flight for anyone in the world on any flight that Air Canada’s partners with. I think Air Canada has the most airline partners of any airline in the world, I think. So Air Canada is a great target for Amex points.
+
+Tim Ferriss: What would you do in my shoes right now? Because we talked about long haul international, we talked about using the different tools that you’ve already outlined for checking for flights, AwardTool, Amex Travel Portal, etc. Talked about getting a Business Gold Card for more advertising. Anything else that is easy for me to do, or have what my assistant in the Philippines help with doing? But if it chews up a few hours of my time, I will probably have an allergic reaction. So is there anything else where you’d be like, “Low hanging fruit, do or don’t do these additional things? Get rid of this card, that’s bullshit, do this, this is hurting you more than helping you.”
+
+Chris Hutchins: I know on your list you have over a million Capital One points that you’ve earned on after back and forth with you and trying to look at pictures. I still can’t figure out what card it’s earning points on, but it earns just one point on every dollar. So, at a minimum, it’s like, if you just got a two on everything or cash back, I would encourage you to maybe just switch to Bank of America Premium Rewards Card, get 2.6 percent cash back on everything, three and a half percent cash back on travel and dining, stop worrying about these points.
+
+Tim Ferriss: That requires me to have 100k in a bank account there? Or no?
+
+Chris Hutchins: The most optimal would be open up some brokerage account, throw a hundred grand in treasuries and not worry about it. The easiest would be open up a checking account that earns almost no interest, that would be some opportunity cost. But if that’s even too much for you, it’s like go open the Fidelity card that gets two percent on everything and you don’t have to move money anywhere. There are multiple cards that earn two percent. Capital One has a Spark Cash on the business side and then a Venture Card, which is just 2X points on everything on the personal side.
+
+So there are a lot of options, but for you, and everyone listening. Everyone listening should not be getting less than two points or two percent on any transaction, because you’re just giving money away. Let me caveat, unless you’re in the middle of rebuilding your credit and you’re not eligible for all these cards, caveat one. Caveat two, no amount of the 19 to 29 percent APR that most of these cards are charging is worth any of these points. So we should [rewind]: anyone that’s thinking about optimizing their credit card game, if you can’t pay your balance off in full each month, it’s not worth it. Stop, do not pass go, do not do any of these strategies. If you can’t pay your card off each month, and you have enough credit score to get a card that earns 2X or two percent, that is the floor. Anything earning less than that, it’s too easy to earn two percent or 2X points on everything to have any excuse of doing anything else.
+
+But I might have 30 cards, which is a little insane. The difference between two and 30 is very minor. The difference between one and two is pretty decent. So I would say, finding the two cards that optimize is really the gold standard.
+
+Tim Ferriss: Yeah, I mean I just have to give credit again where credit is due, but you’ve turned your obsession/sport/optimizer’s curse also into your business. So there is actually much more so than the average duck walking around doing this behind closed doors, an upside to you to experiment, which is what you like doing in the first place. So it’s a very beautiful solution that checks a lot of boxes. So congratulations again on that.
+
+Chris Hutchins: I feel lucky that I basically just started recording a day in the life of myself. It’s like, “Today, I’m going to go down the rabbit hole of every card that Citibank has and break down every little feature and why there’s a couple real ways that you could basically earn top tier Citi status, not too difficultly. Great, that’s an episode. Let’s deep dive on gold, let’s deep dive on award travel.”
+
+Tim Ferriss: Which is legitimately a day in the life.
+
+Chris Hutchins: That is what I want to do and I get to share it.
+
+Tim Ferriss: Yeah, it makes me think of, I think in the first episode I did with Chris Sacca a million years ago, investor who’s now a billionaire, crazy story. But fully embracing your weird self. There is a lot to that that we could unpack in a completely separate episode.
+
+Chris Hutchins: Funny enough, the last I saw you was in Austin at the live Diggnation and I saw Chris Sacca there who heard me talking about gold and he was like, “Can I just come with you?” There’s still a part of him that he’s like, even at his level of wealth, he’s like, “Dude, I want to do this. I want to go resell gold.” He just like, loves the arbitrage opportunities.
+
+Tim Ferriss: Oh, for sure.
+
+Chris Hutchins: So there’s something fun about knowing you kind of “got one” over the system.
+
+Tim Ferriss: Yeah. Oh, for sure. What do you think the future looks like here? Any hopes, any expectations? I mean you track, this is not to use this incantation as a catchall for everything, but certainly my frequency of using AI tools has gone up 10X in the last two months alone. And a lot is going to change and I would imagine maybe, just like high-frequency trading and so on affected the investing game and obviously prior to that, a lot of the quant stuff out of places like RenTech and whatever, are the arbitrage opportunities going to vanish with the smoothing over of robots who are attempting to do the same thing that a lot of people are doing semi-manually right now? Do you think there’s going to be a lot of amazing stuff coming? What do you see or hope for when you look into your crystal ball with travel stuff or point stuff?
+
+Chris Hutchins: There’s a couple tailwinds and a couple of headwinds. So on the tailwind side, one of the challenges with having all of these points is that these programs are always devaluing things all the time. And so there used to be amazing opportunities to do X and now it costs 20 percent more. One of the nice things is that the government kind of is doing some sort of like, “We’re going to investigate whether airlines are devaluing people’s miles,” and so there’s currently some sort of investigation going on. So I think we are unlikely to see a lot of devaluing coming in the near-ish future because there’s some scrutiny about that. So that’s positive.
+
+There is this Credit Card Competition Act that’s been tried to be passed. The idea being, we didn’t talk about this, but the way all of this is funded is that when you swipe your credit card, there’s a fee that the merchant pays to use your credit card, and that fee gets split between the payment processor like a Stripe or a Square or lots of other ones, the issuer and the network. So Visa, MasterCard is the network. The issuer is your Chase. And so those fees pay for this. In a lot of other countries, that interchange is capped. I think in the EU, it’s capped at .3 percent, and in the US, it can be as high as three percent.
+
+So the Credit Card Competition Act is like, in my personal opinion, a bad attempt at trying to make this better in that — I’m not going to go into the nuance of what it does, but the senator who created it has tried to attach it to this crypto GENIUS Act that by the time this comes out, maybe we know the fate of it anyways, but there are some people trying to create legislation to bring down the interchange rates, create more competition. If interchange was .3 percent, you would not be earning all these cash back and points on anything. That’s why cards in Europe are much less lucrative, if not completely foreign concept. So if that happens, great.
+
+The reality is it seems like merchants are not going to all of a sudden just drop their prices if their fees go down. We’ve seen multiple cases with tariffs, with other things that that’s not usually the behavior that happens. So that’s on the point side.
+
+I think it’s become a lot easier to use your points with all these tools, and I think AI will make those tools even better. You’ll just be like, “I want to go to Japan,” and it’ll be, “Boop, boop, boop, boop, boop — based on everything you have, based on everything that’s out there, here’s the optimal way to do it.” On one hand, that’s kind of a bummer for the people who understand the system now. If everyone can understand the system, then those outsized return options are less.
+
+That said, one of the ways that outsized value comes is from still doing things that are like, “I’m not going to look from SF. I might look from the West Coast. I don’t care where I’m going to stay. Find me the best deal.” So I think it’ll be a while before the average person thinks that way. I think the average person, whether an AI tool is doing the searching or not, is like, “I want to go here. How do we go to Paris in June?” Not, “What’s a great deal I could get, and I’m willing to buy a ticket to Austin and fly to Paris from Austin if that’s awesome on a separate airline and a separate ticket.”
+
+I think AI keeps blowing my mind every month. So who knows? Maybe it’ll understand all of this and help us all redeem our points in maybe better ways and maybe this scrutiny will prevent airlines from devaluing and we’ll all win, but I still think there will always be edge cases around how to do it and ways to find the optimal inventory flights that will leave some upside for those of us who spend a little bit more time being ahead of the curve. And I’m glad that it’s easier for more people to do that. It was really hard 10 years ago to get crazy value. Now it’s easier. I think it’ll get a little easier, but I still think there’ll be a lot of upside for people who pay attention to what’s going on.
+
+As for travel in general, I’m not sure what AI’s influence will be on airlines and hotels and all that. I haven’t really thought too deeply about it. It seems like it solves a lot more aspects of my life than leisure travel or even business travel.
+
+Tim Ferriss: Big question mark for me, not the slightest clue, frankly. I’m hoping it can reduce a lot of friction, but how it does that, what the form factor is, how people interact with it, no idea at this point, so TBD.
+
+Chris Hutchins: I was talking to someone and they were like, “On booking.com, this website said the room had two beds, and on all the other portals, it said it had one, and then I called the hotel and they were like, ‘We have two.'” Some story like that. The moment you have a travel scenario where AI booked the wrong thing, you’re like, “I would rather just do this myself.” Like get to the airport and the flight was wrong. It was on the wrong day. I don’t know. I’m not going to let an AI book my travel, but I might let it do some exploration.
+
+I do think when it comes to itinerary planning, if anyone is planning a trip anywhere and is not using AI to think about where to go and what to do —
+
+Tim Ferriss: Oh, my, gosh. It’s incredible, unbelievable.
+
+Chris Hutchins: That is incredible. “Plan my 10-day vacation in Japan.” The AI tools for planning trips are just out of this world. So I would use it for inspiration and, “Oh, I want a place cold.” “Oh, I’m traveling with my kids.” “Oh, that’s too much travel.” “Oh, can I take a train between these two cities?” That kind of stuff. It’s just so good.
+
+Tim Ferriss: It’s incredibly helpful. Yeah, I used it. I was in Japan, visiting my host family I stayed with when I was 15 actually, so 32 years later, still close, and used it for day planning. Woke up. It’s raining. “Oops, can’t go to or won’t go to this particular location. Build me an itinerary with this weather in this radius and then give me a walking tour starting in this location.” For the next day when it’s sunny, I’m going to use that, right? And exploring those two and just ending up with two or three follow-up prompts with an incredible itinerary, literally that would have taken me God knows how long to put together using normal search. It was just incredible. It’s really, really, really, really powerful.
+
+What have we left out, Chris? What should we talk about, any glaring omissions, any —
+
+Chris Hutchins: I’ve got a couple of things. One, there’s some people who are like, “I’m into it. I want to play this game and I want to get the most out of it,” or “I’ve been playing it and I want to level up.” And there are people who are like, “I don’t want to. There’s still got to be something I can do.” And I would say a couple of tricks that I think for people who like to travel that don’t require any amount of points arbitrage, credit card anything is — one of my favorites — is if you book your hotel directly with the hotel, which, outside of getting a deal or cashing out points, I would encourage you to book directly with the hotel because they see your profile. They see your name. They see that you have some loyalty. They want to build relationships. Email the hotel after you book and then maybe follow up three or four days before you arrive and just tell them you’re coming. Tell them you’re excited to stay with them. Ask them a question.
+
+I have seen, I don’t know what the percentage, but at least a hundred people have sent me photos of something that’s happened, whether it’s an upgrade, whether they did something really nice in the room for their kid’s birthday. Someone had their initials monogrammed in their pillow, which was kind of a weird thing to do, a bottle of champagne, free drinks at the restaurant. At the end of the day, the hotel game is still a hospitality game, and if you give people a channel by which to build the relationship, I’ve been amazed at the payoffs of doing that.
+
+So if you can’t find the email, ask ChatGPT. If they can’t find it, call the front desk and say, “Hey, is there an email for someone at the hotel?” and just say, “Hey, I’m coming. I’m excited to stay with you guys. We haven’t been to Italy ever and we’re celebrating my son’s birthday.” You don’t need to ask for anything. Just let them know you’re coming. And I would be surprised if at least every other time you do that, something doesn’t surprise you and the hotel doesn’t find a way to do something nice.
+
+Tim Ferriss: Let me add just two things to that also. When you check in, there’s no harm in asking, “Just out of curiosity, are there any upgrades available?” You can just ask because stuff happens, as you know, all the time, and it doesn’t hurt to ask. And I’ve also had some crazy, crazy upgrades. Nothing to do with my name actually, because I usually book under an alias anyway. Long story. I won’t get into it, but just for privacy and security and bullshit. And the craziest type of upgrades. It’s like if you’re just friendly and they happen to have something that opened up and it’s last minute, I remember at this one hotel, booked a decently nice room, nothing like crazy, super over the top, but it was just chatting them up, having a good time checking in. I was in a good mood, travel was easy, blah, blah, blah.
+
+And then asked if they had an upgrade and ended up getting a penthouse suite, which was the entire floor. Just because they’re like, “Well, it’s kind of like a zero. If we don’t sell it, it’s 5 p.m., and nobody is coming to use this thing.” And was able to have this incredible experience. Invited a bunch of friends over who lived in the same city and it was just outstanding. So it’s like you can also ask.
+
+One last tip. This is for restaurants, and I’ve got a whole bunch of these in The 4-Hour Chef for people who are interested, but I used to work in restaurants, right, bussing, waitering, etc., on Long Island mostly, growing up. If you just ask people if they have a two-top or a four-top, like a two-person table or a four-person table, if you use that type of language, very often, you’ll get better service and get upgrades and all sorts of stuff. So that’s another easy one.
+
+Chris Hutchins: Love that.
+
+Tim Ferriss: It happens a lot too if you sit at the pass, which I love to do anyway, and when I was working on The 4-Hour Chef, I would want to sit at the pass. The pass is where the dishes that have been prepared are often put under a heat lamp or they’re put up with their ticket so the servers can come and get them. A lot of restaurants will have a handful of seats that are effectively at the pass so that you can watch what’s happening in the kitchen. And if you specifically request that, which is not a very common request, again, very often, you get much better treatment. So just some ideas. What else do you have?
+
+Chris Hutchins: So I realize someone might be listening to this, thinking, “Okay, Tim has got millions of points. Chris has millions of points. I actually want to take these vacations. I want to go on these trips. I don’t have millions of points — “
+
+Tim Ferriss: Make a wedding video for Chris.
+
+Chris Hutchins: Yeah, yeah. You spend some money, but you don’t spend hundreds of thousands of dollars a year, so how do you even end up with this many points if you’re not running a business? I would say one thing that is one of the ways most people I know rack up points, and I’ve got so many stories from listeners who are like, “Hey, I just got into this thing and I’ve already been able to take this amazing vacation, this amazing everything.” I could go through a long list of people who are like, “I’m three months in and I just took my wife on this amazing thing that we never got to do on our honeymoon, etc.”
+
+One of the ways that people accelerate the game is whenever you open up a new card, there might be some kind of offer, oh, 100,000 points, 75,000 points. And so while I often say 2X points is a great return on your spend, I will say that if you look at the top, and this I did a couple of months ago, but if you look at the top 15 sign-up bonuses or welcome bonuses right now, earn 75,000 points for spending $5,000, that kind of thing. The average return on spend, valuing the points at just a penny, we’re not even giving the outside — it’s about 17 percent. So if you open up a new card and they offer you 100,000 points for spending $5,000, right, that’s 20X return on that spend.
+
+And so those new card offers are 10X, maybe in this case, 20X, more lucrative than your regular spending. And so when I tell people that, their first question is like, “Okay, but am I just going to ruin my credit if I open up two or three cards a year?”
+
+Tim Ferriss: Yeah, exactly. That was my next question.
+
+Chris Hutchins: And there’s this great tweet that — because I haven’t seen someone put this visually, and I will send you a link to it. I don’t know this person, Chad Janis, he’s on Twitter. He opened up this card. He’s like, “My wife and I opened up 26 cards in 2017. We earned two million points and traveled to 40 countries for free. That year of traveling changed our lives. Most people ask, ‘What happened to your credit score?’ What do you want to know?” And he showed this chart where his wife, Hannah, her credit score went from 670 to 798, and his went from 794 to 805. So I just want to dispel this myth of opening up a handful of cards totally torching my credit.
+
+So what I will say is what you don’t want to do, and I should have said this earlier, if you’ve had a card for 20 years and you just realized in this episode that it’s the worst card you’ve ever had and it earns nothing, I wouldn’t go out and cancel it because one of the components of your credit score is the average length of credit history.
+
+Tim Ferriss: Oh.
+
+Chris Hutchins: So what you don’t want to do is close the card that you’ve had for 20 years. That’s like the anchor in that average. What you could do is just leave it open.
+
+Tim Ferriss: A question for you. When you cancel — because I’m glad you said that, because I was like, oh, I’ll kill my Capital One card and hop to whatever. So if I were to close down the Capital One Card, which I’ve definitely had for probably 20 plus years, I think it might have been my first credit card because, long story, believe it or not, I wanted to work at Capital One when I was going to graduate from college. Didn’t get the job. Probably a blessing in disguise, but no offense to Capital One, but they were doing amazing stuff with direct marketing at the time, which was interesting to me.
+
+Anyway, if I were to close that, does it remove that entirely from my average, or does it just stop it so that now it’s 20-point whatever years and it’s not going to keep growing?
+
+Chris Hutchins: I believe your average age of credit is only looking at the active lines.
+
+Tim Ferriss: Oh, brutal. Okay.
+
+Chris Hutchins: So there are a lot of things that you should not do before — before you close a credit card, I think there’s three choices you can make. One, if there’s no annual fee, you just leave it open. There’s not a lot of risk. Just leave it open. In the Capital One case, you can product change it to another card more often than not. So you could call Capital One and say, “What are my options for this card?” And they might say, “Oh, you could move it over to a Venture Card and earn two points per dollar on everything. Would you rather have that card?” And you could just change it to another card that you do want.
+
+Now, the counter to that is if you wanted to get that 75,000, 100,000-point sign-up bonus on a card, you won’t get it when you change cards. So you could be better off just opening that other card up and leaving the Capital One Card there. So if it has no annual fee, you can just leave it there.
+
+My ritual, I would give you two options: one, put one recurring charge that’s small on it and set it to autopay. Put your Spotify subscription. That way, they never close it for inactivity. I have this ritual where around the holidays, I just go through all the old cards and I just make sure I put a charge on each of them. My oldest card was a United card that I got in college, and I didn’t use it for four years and they just closed it, and I was pretty bummed. I could have avoided that.
+
+Or if that charge has an annual fee, you can usually product-change it down.
+
+Let’s say you open the Chase Sapphire Preferred Card. You don’t use it anymore, but it’s your oldest card. You could downgrade it to the Freedom or the Freedom Flex Card; no annual fee, not going to cost you anything. Or if the annual fee is what’s holding you back, you can call the bank and say, “Hey, it’s a high annual fee. I’ll keep the card open, but what are you going to do for me?” And sometimes, they might say, “Nothing.” Sometimes, they might say, “Well, this year, we’ll waive the annual fee. You don’t have to pay it this year.” You’re kind of kicking the can down the road a little bit, but there have been some great retention offers, just asking if there are anything that they could do for you.
+
+Tim Ferriss: Let’s do a retrospective real quickly then on my Amex. So I signed up ages ago, 20 plus years ago for Platinum in part, and this is where AI is going to change things also because, you and I spoke about this, at the time, as I remember it at least, it gave you access to Amex Platinum Concierge, and I used the fuck out of that thing. I had them put together reports. I was like, “I’m considering getting a high-altitude simulation tent,” this was for The 4-Hour Body research, “and I want you to look at — identify the four or five best models.” This is back in the day. This is probably 2008, 2009. And they put together the most excellent, unbelievably good, 10-page Word document and sent it to me.
+
+And so I would use the Concierge service for things like that. I don’t know if it continues to perform at that level because I have other tools at my disposal now, but is the — I think it’s, what, $175 a year, something like that? It’s probably the annual charge.
+
+Chris Hutchins: The Platinum Card now I think is $695.
+
+Tim Ferriss: Oh, fuck me. Okay. So it’s $695 a year. All right. Is that worth it, or in what cases is that worth it, or should I just product down to Gold and call it?
+
+Chris Hutchins: I would say the concierges have been less lucrative in the recent past than before. And on the personal side, the Personal Platinum, the primary benefit of it is you’ll get a priority pass membership or you can go to Amex Centurion lounges. Priority Pass is like a lounge network at airport lounges. I only use my Amex Platinum Card for flights. My wife and I each have one. Obviously, we could put all our flights on one of them. So I believe that I am able to take the coupon book of perks that the Amex Platinum gives you and get more value than the annual fee.
+
+But I would say knowing you and how many hoops I don’t think you want to jump through, you probably wouldn’t.
+
+Tim Ferriss: Yeah.
+
+Chris Hutchins: And so the question would be like, “Do I spend enough on flights that holding this card to get elevated points on flights is worth it?”
+
+On the business side, I think you should absolutely keep it because redeeming your points is going to be worth 1.54 cents if you have the Business Platinum versus one cent if you don’t. Just booking flights, no hassle, no searching for availability. Just booking it with Amex Travel, using your points.
+
+On the personal side, I don’t know, I only use my Personal Platinum Card for booking flights, and so you could downgrade it to a Gold Card and not have it drop off your credit.
+
+Another important thing, most business cards don’t show up on your credit report. So if you’ve had a business card for 20 years that you don’t use and it doesn’t show up on your credit report, which, by the way, annualcreditreport.com. It’s not a scammy website. It sounds like a scammy website.
+
+Tim Ferriss: Sounds scammy.
+
+Chris Hutchins: It’s a government-sanctioned website that lets you just check your credit report every week.
+
+Tim Ferriss: Annualcreditreport.com. Is that your phishing site to steal everyone’s email addresses?
+
+Chris Hutchins: You can get a free credit report every week from annualcreditreport.com. It’s authorized by the government. You could see what cards are on there. You won’t get your credit score. Most credit cards give you a free credit score. Credit Karma gives you free credit scores. There is a difference between the FICO score, which is a private company that looks at your credit report and comes up with a score, and then the VantageScore, which is an alternative. You can go down my credit report score episode if you want to go down there. But yeah, I would say you could go look, but business cards won’t have an impact when you cancel them because they usually don’t show up on there.
+
+Tim Ferriss: So question. Credit score is something I feel like I can wrap my head around. What good is my credit report without a credit score? What are you looking for in that?
+
+Chris Hutchins: So your credit report is literally just a list of all the accounts, their status, the recent balance, all that kind of stuff on there. And so I would encourage people to freeze their credit report because it prevents other people from opening up credit in their name. I would remind you that if you’re going to apply for a credit card, you should unfreeze it while you do that or you will most certainly not get approved because they need to access your credit report. But the report is the thing.
+
+What happens is there’s a company called the Fair Isaac Corporation, which is FICO. They basically look at your credit report and then have an algorithm that creates a score that makes it easier for lenders to make decisions off of, so the lender doesn’t have to analyze this multi-page document.
+
+Tim Ferriss: Wow. I wonder what will happen to that with —
+
+Chris Hutchins: So what a person would do with their credit report is just —
+
+Tim Ferriss: — AI.
+
+Chris Hutchins: — does everything on here look good? Is there any credit I don’t recognize? Are there cards open I didn’t know were there? But practically, there’s not a lot you do with your credit report.
+
+Don’t cancel your oldest cards. Open new cards if you see an awesome bonus. For me, 75,000 plus points is a pretty lucrative bonus, so I like that. And you can product change cards. So if you have a card and you don’t really care about earning a new bonus, but you just want to have something different, you can change it around.
+
+Tim Ferriss: How important is it for long-term marriage stability for both people to be either into or not into all this type of arbitrage?
+
+Chris Hutchins: So I got some flack from someone in a podcast review because they got mad that I referred to my wife as a player, too. They’re like, “We’re not living in a simulation. This is not a video game.” In the points and miles world, the player terminology is just like standard nomenclature, but it is very common for people to have one person who’s the primary and another person who’s like, “Just tell me which card to use.”
+
+And I would say this is a fun game in that one plus one often equals more than two. So when you sign up for a card, you get a bonus. Sometimes you can refer someone; they get the bonus and then you get the bonus for referring them. So I know lots of couples who will both open a card, but one will refer them and they’ll end up with two and a half times as many points because of the referral plus the sign-up. And if there’s a great 100,000 point bonus, two people can have it. They’re completely separate on your credit report because they’re separate people. So playing the game with a partner can be fun.
+
+I will advise you something that I have learned the hard way-ish. Just keep your spouse as informed as they want to be. Sometimes, I’ve had fun conversations with my wife, and she’s like, “Is this the credit card that you opened without talking to me?” I was like, “No, no, I talked to you about it.” I would say keep them as informed as they want to be. But if you’re open, you don’t need both people to be as involved in the game.
+
+Tim Ferriss: So here’s a maybe overarching question that seems important, and that is, what have you found to contribute to enjoying travel? Because this whole thing seems to hinge on traveling, by and large, some form of travel, and it seems like you get the most bang for the buck if it’s long haul international travel, which means if you don’t enjoy those trips, there are some questions that come up about why you’re playing the game to begin with. Why are you a player?
+
+And maybe it’s for the love of the arbitrage and that’s actually the part that you enjoy more than the redeeming of points. But let’s just say that you’re using the outcome to drive the process rather than simply enjoying the process. What have you learned about enjoying travel, and are you able to enjoy travel once you’re traveling or are you also constantly looking for price arbitrage and getting the most value out of it?
+
+Chris Hutchins: I think the bulk of the trip is the cost of the lodging and the cost of the flights. And so once we’re there, I’m not thinking about it that much. I’m just trying to enjoy the place we’re at. And in some ways, we’re about to go to the new Waldorf Astoria in Costa Rica, and in some ways, I’m like, look, the rooms were free. We used six Hilton free night certificates. The flights were free. We used United and American Points. So if we’re going to spend what is probably an overpriced amount of money on food, so be it. Everything else was free. So in some ways, it helps me enjoy the trip even more.
+
+Now, I did decline — they were like, “Do you want to go on this tour of the rainforest?” You could do it by helicopter and it’s only an extra $9,000. We declined it. I wasn’t so in the moment that I was willing to spend anything.
+
+Tim Ferriss: So let me push on that a little bit. It would hurt you psychically to do it, but you could do that. Practically speaking, have you ever had an opportunity to do that before, and when do you think the next opportunity would be? Is that not something, in the interest of a life fully lived, if you can afford it, you’d have to stomach it but you could withstand the financial cost? Why not do that?
+
+Chris Hutchins: So I did an episode with Bill Perkins who wrote a book called Die with Zero, and so this comes to me very strongly. It was one of my favorite episodes. I think that if there were an experience that I thought was going to really be magical, I would be willing to spend that number of dollars. In this case, it was like, “Do you want to go on a two-hour drive or take the helicopter for $9,000?” And I’m like, “I don’t know. I haven’t been to Costa Rica in 20 years. My wife has never been to Costa Rica. I’m sure it’s also interesting from above, but sometimes driving two hours in another country is also interesting. Stop at a random restaurant on the way.” So it didn’t feel like the experience was so much better. It almost seemed more like, well, if you just don’t want to spend two hours exploring this country. So in that case, I don’t think it would have made sense, but in other cases, if that’s just what it costs to do a thing that I really want to do, I’m okay spending it.
+
+Tim Ferriss: What’s the last example of you just paying straight cash, no points, no miles, but splurging on something where you’re like, totally fucking worth it? We’ll do it again.
+
+Chris Hutchins: I was talking to someone, and he was like, “We recently went to the Four Seasons in Lanai,” and he’s like, “it was everything I ever wanted a hotel experience to be. The hotel was perfect.” And he took his kids. We have two kids. And I was like, “That sounds magical.” I was like, “We don’t have any plans for spring break.” I was like, “I want to go to the Four Seasons in Lanai.” There’s no points deal for the Four Seasons. They don’t have a loyalty program. There are ways. We have this hotel program on our site where you can get some perks. You can get a free breakfast, but there’s no way to get the price of the hotel covered, other than just cashing your points out and spending money. There’s just no trick.
+
+But something stuck with me, which is like, this is the best experience. It’s everything you ever want a hotel — I was like, I want to feel that. And so we just paid cash. We just went to the hotel. We paid cash. When we ate meals, we paid cash. Did we use a luxury hotel program to make sure we got certain — extra bonuses included? Sure. Did we get a hundred dollar property credit? Yeah. But when we went to — they have a Nobu there. Did we not order what we wanted to eat because we had to pay for it? No. We just spent all the money we wanted. We just decided that this three-night stay at this hotel, we are just going to not worry about the cost and we’re going to do what we want to do.
+
+Tim Ferriss: What did that feel like for you? I have so many questions, but just as someone who does that not incredibly frequently, what did that feel like for you guys? Was it like, “Wow, it’s so nice not to have that analytical overlay of all the other stuff?” Was it like with every bite you’re just like, “Oh, God, getting a slight punch in the testicles?”
+
+Chris Hutchins: 10 years ago it would’ve been a slight punch in the testicles.
+
+Tim Ferriss: Do you have an expense hangover? Did you have an expense hangover where it’s like you got home and you felt like you just did a bender in Vegas and you’re just like, “Oh, fuck. It seemed like a good idea at the time.” I’m just wondering how it felt.
+
+Chris Hutchins: I mean, honestly, the takeaway, my wife was like, “We should do that again. That was great.” We just didn’t think about it. And I will say one of the nicest things about that experience that makes it even better is that hotel, during the time we went they were doing some construction, so they were like, “Oh, activities are included.” And you’d be surprised at how many higher-end properties don’t nickel and dime everything. It’s like, “Oh, we include free breakfast,” and you could just eat whatever you want. It’s not the Marriott free breakfast where you get a $15 certificate off the meal. And you go to the pool and sunscreen and aloe are just free flowing, you don’t have to buy them at the gift shop. And stuff like that. Your room has bottles of water. In a way, we paid for it at the beginning and so once we got there, most of the expense was covered.
+
+And there’s this book Happy Money, and in it, one of the five scientific ways to spend money that make you happier is to prepay for things. It’s like when you paid for this hotel in advance and a lot of this stuff’s included, you don’t even really think about it. And so that was really nice. Do I want every vacation to be as expensive as that vacation? No. Don’t I want every vacation to be that great? Yes. And so it’s a balance. I know that staying at Cap Rocat was a similar experience. If anything, it was maybe even nicer. But we didn’t have the kids. It was a different vacation. And we did do that one with points. So it’s a balance. You can alternate between the two, but I think it’s given us permission to spend, which, learning the art of spending, learning how to spend money as a frugal person is hard. And we could probably have another two-hour conversation about that topic.
+
+And I think I’ve slowly learned how to spend money at levels that are probably still behind the average for someone in my situation. And I think it’s easier to do when the experience is something that I just know there’s not an alternative. It’d be really hard for me to spend $10,000 a person on a flight to Japan in business class because I just know how to get that exact flight, maybe with more constraints, but I know how to get that exact same thing.
+
+But restaurants is a good example. I have no issue going to a restaurant and spending a lot of money on a meal. There’s not a way to do it more optimally. Am I using the right card to get the most points? For sure. I’m optimizing where I can, but I’m not choosing to only go to the restaurant that I could buy a gift card on sale for. If you go all the way back to the beginning, my goal wasn’t to save money because I could just not eat the pizza. My goal was to get the pizza like everyone else and not have to pay for it, or get the best deal for it. So at the end of the day I still operate on the principle I want to do the thing I want to do. I don’t want to sacrifice the quality of life, the quality of the experience. Sometimes you can do it, sometimes you can’t.
+
+Tim Ferriss: Let’s hop back to Bill Perkins for a second. So you mentioned Die with Zero, subtitle, Getting All You Can from Your Money and Your Life. And I’ll just give a quick line on it. The question, since I’ll buy you some time, is going to be what most stuck with you or stuck out to you about your conversation with Bill? Very interesting book, I’ve read it and here’s the description. This is diewithzerobook.com: “So Die with Zero by legendary energy trader Bill Perkins details the thought-provoking framework for maximizing net fulfillment over net worth.” And I believe, this is from memory, but that I believe Bill used to work with John Arnold, who’s a fascinating character, there’s a really great interview of John Arnold on Peter Attia’s podcast actually, who was also a legendary energy trader, became America’s youngest billionaire in 2007, at the time. Super genius. But coming back to Bill Perkins, what is the basic premise of the book as you would describe it, and what stuck with you or stuck out to you about that conversation or the book?
+
+Chris Hutchins: So the biggest principle is we’re all saving money and we usually have this attitude of like, “I’m going to save it and spend it in retirement.” Most people end up not spending as much as they think they will because their bodies can’t do all the things that they once wanted to spend their money on. And lots of people end up with more money than they wanted and we should use that money and we should ideally use it at times of our lives when we can get the most out of it. And there’s a bunch of concepts in there, the concept of memory dividends where it’s like you actually benefit from doing this thing earlier because you can relive the moment, retell the story, share it with the people you went on it, look at the pictures forever. And it was a very light bulb moment for me because I had always been tracking net worth, grow net worth, have more, have more.
+
+And at the end I was like, “Oh, I left the interview,” and I was like, “Why am I doing that?” In fact, we took a trip at the end of the interview, he challenged me to do something and we literally planned a trip right after the interview. We were like, “Let’s just spend the money, let’s go on the thing.” And everything changed. And I was like, “Why save more?” Obviously if you don’t have any savings, it’s good to save, but if you do have savings, what’s the upside of having more money when you could be using that money now and not looking at the scoreboard?
+
+And so I think we started thinking if we’ve put aside enough that our savings can grow to what we will need whenever we stop working and there’s this concept of Coast FI or Coast FIRE, which is you could go search and dig into that, then we should really be spending our money —
+
+Tim Ferriss: Wait, wait, wait. Hold on —
+
+Chris Hutchins: Instead of saving it.
+
+Tim Ferriss: So Coast FIRE. Now FIRE is the Financial Independence Retire Early, right?
+
+Chris Hutchins: Yes.
+
+Tim Ferriss: What is Coast FIRE?
+
+Chris Hutchins: Coast Fire is this idea that I haven’t saved up enough that I could stop working today, but I’ve saved up enough money that I don’t need to contribute to my savings. If you’re 35 and you have $1 million in the bank and you want to work till you’re 60, if you don’t touch that million dollars, it’s probably going to be more than enough for you to retire. So you probably don’t need to keep contributing to your savings, so you can adjust your life so that you can coast into retirement.
+
+Tim Ferriss: I see.
+
+Chris Hutchins: And maybe that means stop doing the really hard job that pays a ton of money and do the easier job because you don’t need the extra money to contribute to your savings. Or maybe it means stop saving and spend more.
+
+Tim Ferriss: Is the underlying, or one of the underlying assumptions there, that that million dollars is invested in a low cost index fund with a basket like the S&P 500, something like that?
+
+Chris Hutchins: Yeah, that would be the principle. It’s like my money will grow at some reasonable rate.
+
+Tim Ferriss: What books or thinkers have you found — if you were going to give people a few books, not many, but a few books, let’s just make them books for the time being, but books that you would give someone to help them develop an aware, a conscious approach to money and also a fulfilling relationship with money, which is not automatically the same thing as the former. Any books come to mind.
+
+Chris Hutchins: I like Happy Money, which is a really short read and it’s The Science of Smarter Spending. It’s just like five ways you can spend money that actually lead to happiness based on some research. I like Sahil Bloom’s book, The 5 Types of Wealth, because it just reminds you that wealth isn’t just about money. So often we get caught up in this world of money is wealth and there’s a lot of things that go into being happy and wealthy and all this stuff that just aren’t money.
+
+Morgan Housel’s got a new book, The Art of Spending Money, which I think is going to be interesting based on his past book. Before you mentioned specific money, I was like a lot of the books that I really like thinking about are From Strength to Strength, which is an Arthur Brooks book about happiness.
+
+Tim Ferriss: Yeah, that’s fair. That’s fair. I mean it’s all tied together.
+
+Chris Hutchins: I think if you think too much about money, you just lose sight of the fact that money is a tool to help you achieve things. And if you don’t have any, it’s a really important tool, but as you have more, sometimes it just becomes a thing that you focus on way too much. And if you can learn to be happy with whatever you have, you might not need to chase. And that chasing is so toxic. It’s such a challenge for everyone when you’re in that rat race.
+
+And I don’t know, I think, this isn’t a book, but go dig into the Bureau of Labor statistics. Go look at how people actually spend their money. Because I think what you see on Instagram isn’t reality. And so if you base all your assumptions on how people spend their money on data that is not true you might think you’re not in a good place. And then if you go actually look at what does a household with my amount of wealth or income typically spend based on actual data that the US government publishes and gives you for free, you’d be like, “Oh, wow. Not everyone in my situation is spending $100,000 on a vacation and chartering jets and all this crazy stuff that I see on the internet.”
+
+Tim Ferriss: Yeah, totally. I feel like there should be a term, there’s a term called orthorexia, which can be applied to people who are basically unhealthily obsessed with physical fitness or appearance. So “ortho,” the same ortho you would find in orthopedics and then “rexia,” just like anorexia, so orthorexia. I’m wondering if there’s a term for being unhealthily obsessed with money. I was looking up in Latin, that’s “pecunia,” I think, I’m sure I’m pronouncing that incorrectly, but pecunorexia? There’s got to be a word. There’s got to be a good one. If not, I mean —
+
+Chris Hutchins: I feel like AI could answer this question fast.
+
+Tim Ferriss: AI will answer that question quickly. I’ll let people play with it. Where do you disagree with say, Bill Perkins? Was there anything that you remain philosophically, not opposed to in a judgmental way, but where you are simply using a different OS in your own mind? Is there anything that hops out?
+
+Chris Hutchins: I mean one of the biggest criticisms that he gets is he has so much money, so it’s easy to be like, “Let’s spend all my money, I have it.” And so I think if there’s one thing that it might be missing, how do you bridge the gap to the stage in your life where Die with Zero is not an option? You don’t have a plan yet to get to that point. And so there’s this book that comes out in a couple of months called The Wealth Ladder and it’s like these different stages of wealth and what life looks like at each stage and what the priority at that stage is. And I think the criticism I might give is that, The Wealth Ladder, you can’t write a book for every stage. And so someone who’s at that first stage of wealth is like they just need to get out of it. They need to have any amount of savings to cushion them from their car breaking down, from some medical emergency, and Die with Zero is not a relevant conversation.
+
+And so I think Die with Zero is a relevant conversation if you are in a financial situation to save more money than you make and you’ve built up a nest egg and now you can start to think whether the amount of money you’re saving is enough to change what your behavior, but it’s not earlier in your — it wouldn’t have been that relevant to me 25 years ago.
+
+Tim Ferriss: Yeah, I mean brilliant title too, I mean Die with Zero. It’s a very provocative position and I found a lot of it to be — I found myself nodding in agreement with a lot of what was in that book. And I think, I believe in almost any field, I’ve said this before, but it’s like the extremes inform the mean but not vice versa. So you can really glean a lot from what people might consider extreme positions. Have you ever read The Man Who Quit Money by Mark Sundeen?
+
+Chris Hutchins: No.
+
+Tim Ferriss: I highly recommend. What is described in the book I wouldn’t model exactly, but it raises a lot of really good questions. Just like after you had Bill on, you got off and you were like, “Wait a fucking second, why am I doing X? Let me step back and ask a couple of questions that didn’t even seem necessary to ask.” And this book is quite similar, so I’ll just read a little bit. Mark Sundeen, S-U-N-D-E-E-N is the author, but The Man Who Quit Money. And here’s the description. I’ve actually read this book multiple times which says something. Very fun to read, super strange. So here’s the description.
+
+“In 2000, Daniel Suelo left his life savings, all $30 of it, in a phone booth. He has lived without money and with a newfound sense of freedom and security ever since. The Man Who Quit Money is an account of how one man learned to live sanely and happily without earning, receiving, or spending a single cent. Suelo doesn’t pay taxes or accept food stamps or welfare. He lives in caves in the Utah Canyonlands, forages wild foods and gourmet discards. He no longer even carries an ID.”
+
+And it goes on and on and on. It’s so extreme, but very eye-opening because it starts to poke at these base assumptions that we have, which we do not realize our assumptions half the time because they’re so present. And it’s a fun read, raises a lot of worthwhile questions.
+
+Chris Hutchins: I think some people think the more you talk about and know about money, the more you think about it. And I’m like, “Nope.” I’m very much the passive index investor. It’s like let’s put the money in, let it grow. And we started talking about stuff like let’s focus on either making it or enjoying life and all this stuff. So I try to set most of my finances on pretty autopilot so that I don’t have to think about the money on a day-to-day basis. And that’s not to say it’s not important to know how much you’re spending and what you’re saving, all those things. But it’s not something where I’m logging into a brokerage account every day and doing all that kind of stuff.
+
+Tim Ferriss: So let’s pretend that you can’t do All the Hacks anymore. Podcasting isn’t a thing, or at least podcasting websites, you cannot play the content game in the way that you’re currently playing it. If you had to start another company or get a job, work in another company of some type, what might you do? So you’ve tried a bunch of different stuff and I appreciate how you think about things very deeply. So if you couldn’t do what you’re currently doing and you couldn’t create a clone of it, you can’t do anything that’s like a close cousin, what might you do? Would be on the shortlist?
+
+Chris Hutchins: If I couldn’t do this right now, I would probably take every little tiny idea I have and try to build the product to solve the thing with all that AI can do right now. But interestingly, when I ended up at Wealthfront as a product manager, I told people, I was like, I think I could do this job for 40 years. The idea that my job is to go talk to people, consumers, understand their perspectives in a space I care about and just build products to make their lives easier, that was awesome. The idea that we’re just going to build products that simplify something that is complicated for other people so that they can just get on with their day and focus on their life and not get caught up on it. I think if the podcast never happened, I would still happily be in that job.
+
+So I don’t have the kind of ego of “I have to work for myself; I need to go do my own thing.” I think I just like building stuff. And so I’d be building something. I don’t know what that is. And a couple of the ideas I’ve had in the recent past are all kind of tangential to what I’m doing, so they’d feel like a cop-out if I told you, “Oh, I just started a blog reviewing financial products,” it’s like, “Well, it’s kind of similar to what I’m already doing.” Or build a future travel agency. We kind of do that on the side. I don’t know what that would be. I think everyone always tells me, “Chris, you should go launch a credit card because you have all these opinions.” But I think at the end of the day, the economics to make it work and be competitive just require an immense amount of scale that I don’t know if I have it in me to go do that thing, give up 10 years of your life to go build this crazy thing. I’m not —
+
+Tim Ferriss: Sounds really unpleasant. I mean, what would be the reason to do it? It sounds very uncompelling.
+
+Chris Hutchins: Yeah, I don’t know. I feel very much like the Mexican fisherman a little bit where it’s like there was a time in my life and for anyone who doesn’t know this parable, which I’m guessing you’ve referenced in the past —
+
+Tim Ferriss: Yeah. Version of it was in The 4-Hour Workweek. Yeah.
+
+Chris Hutchins: Yeah. The idea that this guy’s a happy fisherman living his life, fishing all day, hanging out with his friends, spending time with his family.
+
+Tim Ferriss: Playing guitar with beers at night with his family and friends, yep.
+
+Chris Hutchins: Exactly. And someone’s trying to convince him to go build a bigger and bigger fish company. And then he is like, “At the end, what do I do once I’ve done that?” He’s like, “Well now you can hang out with your friends and fish and go drink beers.” And he’s like, “That’s what I’m doing already.” I don’t think I have a thing that’s compelling me to be the business person in that story right now. And until there is, I don’t like forced entrepreneurship, forcing myself to build a thing because it’s what I should do. And I would probably spend a bunch of time playing around with tools and data until I found a thing that pulled me in that direction. And until then I’d happily go find a company working on a problem space that I’m interested in as a product person and just building products in that space.
+
+Tim Ferriss: Amazing. All right, Chris, where can people find what you’re up to? What would you like to point people to?
+
+Chris Hutchins: Yeah, I mean I have a podcast. We talk about all these things. Every topic that I probably brushed on, I’ve probably gone deep on. It’s called All the Hacks. You can find it anywhere, wherever you’re listening to this. Everything I do is at chrishutchins.com or Allthehacks.com, it’s the same URL. And every week I send a newsletter on Saturday morning that’s just all the stuff I’m finding. Where are points on sale? What routes on certain airlines are going on promos right now? What’s changing? So if you don’t want to go so far down the rabbit hole, but you kind of want to stay in tune of where the deals are, you can sign up at allthehacks.com.
+
+Tim Ferriss: Well, Chris, thank you very much for the time. I have a copious amount of notes. I’m going to have to sit down and figure out what exactly my next steps are, which I think I have some inkling of. So might have to chat with you again to do post-game analysis a little bit on some of this. But thanks for taking the time, man. I really appreciate it.
+
+Chris Hutchins: Yeah, I hope people that are listening can just earn more and make good value out of it and live happier lives. Thanks for having me.
+
+Tim Ferriss: Yeah, absolutely man. And folks, we will have all links to everything in the show notes as per usual at tim.blog/podcast. Just search Chris’ name and it’ll be easy enough to find him. And as always, be just a bit kinder than is necessary to others but also to yourself. Until next time, thanks for tuning in.
+

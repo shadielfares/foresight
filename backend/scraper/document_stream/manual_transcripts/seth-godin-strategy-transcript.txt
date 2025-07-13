@@ -1,0 +1,524 @@
+Please enjoy this transcript of my interview with Seth Godin, author of 21 internationally bestselling books, translated into more than 35 languages, including Linchpin, Tribes, The Dip, and Purple Cow. His latest book, This Is Strategy, offers a fresh lens on how we can make bold decisions, embrace change, and navigate a complex, rapidly evolving world. Seth is the founder of the altMBA and The Akimbo Workshops, transformative online programs that have helped thousands of people take their work to the next level.
+
+His blog (seths.blog) is one of the most widely read in the world. Seth is also the creator of The Carbon Almanac, a global initiative focused on climate action.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch the interview on YouTube.
+
+Tim Ferriss: I suppose I want to ask the question that I always ask, what would make this time well spent for you? What would make this the home run, looking back?
+
+Seth Godin: I have to confess that I’ve never had a conversation with you that wasn’t well spent. What would make it a home run for me is if you considered it one of the best episodes of the year or maybe even longer. I want to be on the greatest hits.
+
+Tim Ferriss: All right.
+
+Seth Godin: That’s what we’re pushing for.
+
+Tim Ferriss: All right, perfect. To kick that off out of the gate, what would be a sensible place to start? Is there a particular story or a lead question that you think would help us start with a bang? Anything come to mind? There are a million places I could start, of course.
+
+Seth Godin: Well, you know best, but it seems to me that many of your listeners actually want a job without a boss. They don’t seek to build something and they need to be woken up about that. And number two, people who misunderstand your breakthrough books think they’re about tactics, and they follow the steps instead of realizing they’re about strategy, and then find a resilient way forward. And strategy, this philosophy is something you’ve been doing your entire career, but never called it that.
+
+Tim Ferriss: Well, let’s start there. So strategy, like success or God, if we want to really get out there, are words that a lot of people use, but oftentimes they’re in their minds referring to different things. So when you use the word strategy, what does that mean to you?
+
+Seth Godin: I think it’s a philosophy of becoming. I don’t think it’s a set of tactics. I don’t think it’s about winning in the short run. I think it’s about being very clear about the change we seek to make and who we seek to change, understanding the systems and the games around us, and then committing to the long-term process of getting to where we’re going. Meaning our tactics will change all the time, but our strategy does not.
+
+And most people, because we’ve been indoctrinated to have a job, want tactics instead. And I could do much better if I was peddling tactics, but I’m not. And I’m never going to write a story, a book called This is God —
+
+Tim Ferriss: The Tactic Monger Volume One.
+
+Seth Godin: Exactly. So if I’m not going to write This is God, or This is Tactics, at least I could write This is Strategy.
+
+Tim Ferriss: And what would be a real world example of good strategy? Any particular company or project come to mind?
+
+Seth Godin: So some famous strategies, an elegant strategy. Bill Gates says, “We are going to have the strategy that no one ever got fired for buying Microsoft.” He stole that strategy from IBM. So IBM had a 50-year run where their products weren’t the most cutting edge, they weren’t the best priced, but they had enough salespeople, and support, and infrastructure that if you worked for a big company, buying IBM was easy. Every time Microsoft followed that strategy, they did fine. And when they veered away from it, they had problems.
+
+A strategy, when I was at Yahoo, we had the chance to buy Google for about $10 million and we didn’t buy them. I didn’t get a vote. But Yahoo’s strategy was “The web is a dark and nasty place. Come to Yahoo and don’t leave.” And the home page had 183 links on it. At Google, their strategy was “The web has grown up. Come here and go somewhere else.” And Marissa Mayer built the most profitable marketing engine of all time by making sure, fighting for years to make it so there’s only a couple links on the home page because that was built into the strategy, which is, if you’re leaving Google, we’re doing something right. And that’s where all the ads came from. And that’s why Yahoo couldn’t buy Google, because the strategies were completely the opposite.
+
+And Starbucks had a strategy that took them a very long way for a very long time, but it’s not about frappuccinos, it’s about understanding who is this for and how can we incrementally help them get there?
+
+Tim Ferriss: What did that look like for Starbucks and what did it look like for them to stray?
+
+Seth Godin: Howard Schultz did not start Starbucks. When he got there there were two Starbuckses and neither one of them sold cups of coffee. They only sold beans. And Howard had been to Italy and he realized that there was a deep human desire A, to go from being pre-caffeinated to caffeinated. And that gets refreshed every single day. And two, to be able to do it with other people who you see yourself in, people like us do things like this.
+
+So in the Northeast there was Dunkin Donuts, but the idea of Dunkin Donuts is you’re not happy that you’re getting coffee. The coffee isn’t that delicious, let’s just get this over with. And every time Howard built more of that feeling that you could go to any Starbucks in the world and feel like you were with your people, and that for five bucks you could feel like a rich person, he could repeat it over, and over, and over again, and the tactics would take care of themselves.
+
+Tim Ferriss: If not the tactics, what are the core ingredients of enacting a strategy like that?
+
+Seth Godin: There’s all sorts of surprising ways that we can challenge ourselves once we start down this path. But to start down the path, there are four things we’re looking for. We’re looking for systems, we’re looking for time, we’re looking for games, and finally, empathy. And all four of them are really unexplored and mysterious, but once you see all four of them, strategy is much easier to take care of itself. So I’m happy to take them one by one or give examples, but those four keep interweaving over and over again. And that unfolds for us what a strategy can be.
+
+Tim Ferriss: Great. Well, let’s go through the four.
+
+Seth Godin: Okay. We’ll start with systems.
+
+Tim Ferriss: And maybe if it’s not too cumbersome, if there’s an example that’s easy to give, that’s great too.
+
+Seth Godin: Okay.
+
+Tim Ferriss: However you want to land it.
+
+Seth Godin: Systems are invisible and they hide themselves because they don’t want people to see who’s operating things. They invent culture to defend themselves. Systems, the most famous one is the Solar System. There’s this invisible gravity. The Earth doesn’t go around the sun because it wants, it goes around the sun because gravity makes that its easiest path.
+
+If you grew up in the United States to middle-class parents, you’ll be under pressure from the time you’re five years old to get good grades. Why do I need to get good grades? So you can get into a famous college, but you’re not supposed to call it a famous college. You’re supposed to call it a good college. And that system with tuition and tenure, and student debt and football teams, and cheerleaders, and college tours, and the sticker on the back of a car, and the SATs, all of it is just taken for granted as normal.
+
+And so Donella Meadows has done brilliant writing before she passed way too early about all the dynamics of systems, systems in our world, systems that we want to build. So when we see a system under stress, then we can see the system, then we can see the climate when temperatures start to rise. But before the temperature started to rise, when the climate was normal, no one paid attention to it because the system, the thing that keeps it going was sort of invisible. So if you’re going to start any enterprise, a little plumbing business, a giant internet company, if you’re going to run for office, you should be able to see and name the elements of the system. Where is there gravity? What is seen as normal? And there’s pushback if you don’t do it.
+
+And so I’ll finish the rant by asking a simple question. How much should a wedding cost?
+
+Tim Ferriss: I’m especially unqualified to answer this.
+
+Seth Godin: No, it’s super simple.
+
+Tim Ferriss: I’m working on it.
+
+Seth Godin: The answer is exactly what your best friend spent, but a little more.
+
+Tim Ferriss: Yeah.
+
+Seth Godin: And that’s why a wedding in New York City costs more than a hundred thousand dollars, not because you need monogrammed matchbooks to have a good wedding. You need them to be part of the wedding industrial complex, to show your status to the people who’ve been invited, because that’s what the thing is for. So we have to see systems and then either we work for the system or the system works for us.
+
+Tim Ferriss: And we can linger on this one for a bit because the next one is time. So I feel like we should take our time plus it’s long form. So could you give an example on a smaller scale of a, you mentioned plumbing doesn’t need to be plumbing, but a solopreneur or a very, very small startup, two to four employees, and how they might start to ask questions around systems to identify the systems that are at work. Because for instance, in my life, I’m good at identifying what is normal, like what are the unquestioned assumptions? I’m good at that, but that seems like I’m holding the tail of the elephant, like one of the blind men in the parable. I’ve got a piece of it, but it’s not the whole elephant, clearly.
+
+Seth Godin: I don’t think you’re giving yourself enough credit. The whole tango thing. I mean, you have been doing this for a very long time, really well.
+
+Tim Ferriss: Or the archery thing behind me.
+
+Seth Godin: So let’s say you’re going to build a small business that supports medium-sized businesses with their Google Workspace. So you’re a couple nerds and you’re going to be the person who helps people set up their Google Drive, and across the organization, reasonably secure for a company with a hundred employees.
+
+Because you’re in there in the factory seeing how things are made, it’s very tempting to imagine that everyone you’re serving wants what you want, and that you think your customer is the person who’s buying stuff from you, and what they need is a tech solution. None of these things are true, that the system of a company with a hundred people is, it’s probably not the CEO’s job to set this thing up. So it’s someone else’s job. There’s a system, a hierarchy of jobs. What does that person want? It’s not their money, so lowering your price to get new customers is not going to help you get new customers, that in fact, what that person wants is a story to tell their boss, a story of why did I pick these people, and even better a story of if it fails, why they are not going to be in trouble.
+
+And so when we show up at an organization to tell our story to that system, we have to do it understanding how do they buy everything else? What do they measure? What would happen to us if we’re bigger than the other people bidding or smaller than the other people bidding? All of these things go into how the system works, the same way the admissions office at the famous college doesn’t always pick the people with the highest SAT scores, because there’s this complicated mechanism at play that is historical to feed and maintain the system.
+
+And so in the case of this Google Workspace thing, let’s say you decide to close on Thanksgiving Day and you’ve just got a message on your voicemail, “We’re closed on Thanksgiving Day. Leave a message, we’ll call you back tomorrow.” That seems normal, unless what got you into the system was an unbreakable promise that you will never get in trouble because we will always answer the phone. That decision, that tactical decision has to be driven by what you seek to stand for, but that’s only going to happen if you see the system of what this company your client does, and what stories do they tell themselves, right?
+
+And Hollywood is a system and the senior prom is a system. And there are all these factors that go into all of them, subtle signals that people are sending to each other. And if you’re going to make a living taking money from people to solve their problems, it has to be to help them dance with the system that they’re part of.
+
+Tim Ferriss: All right, shall we bookmark that and come to time, games, or empathy? Which would you like to tackle next?
+
+Seth Godin: Time is really interesting. James Gleick wrote a brilliant book about the history of time travel. Now of course there are no actual time machines, but we know who invented the time machine. And it was actually H.G. Wells. Before H.G. Wells wrote his book, nobody in the world talked about time machines. The concept that you and I take for granted, like if you go back in time or if you before, no one ever said that ever.
+
+And time, we’re all very familiar with it and no one can define it. And we know what now is, and the now of a week ago isn’t now anymore. It’s back then and it feels different. So if you want to build a company with a thousand employees in it, if you want to go public, if you want to be somebody with a lot of zeros in your bank account, that is not going to happen in the next three seconds. There’s something that’s going to happen between now and then. And each one of the steps as we look through time is not today.
+
+So when we want to have a forest, we don’t get a forest, we start planting trees because 20 years from now we’ll have a forest. And when you’re growing up in Long Island or when you’re growing up training for the Olympics, you know you’re not going to be doing the Olympics when you’re 50. So what exactly are the purpose of these steps? And what does it mean to fail? Does it mean that you failed right this moment in service of getting where you want to go later? Or does it mean you failed forever? What does it mean to quit? Does quitting now mean you failed forever? Or does it just open the door to succeeding later?
+
+And so we have this opportunity to see time the way our competition doesn’t. So in 2001, I was at a conference and we were in this small group setting. There were eight people and they said, “Go around the circle and say who you are.” And the guy to my left said, “My name’s Stephen. I’m a judge.” It turned out he was Stephen Breyer, he was on the Supreme Court.
+
+And the person next to him said, “My name’s Sergey and I have this new search engine.” And someone said, “So Sergey, what’s your marketing strategy?” And he said, “Well, here’s the deal. We think Google’s going to get better every day. So we don’t want people to use Google for the first time right away. We want them to use it for the first time later so it’s better by the time they get there. So we’re not doing any promotion whatsoever because the Google of now only exists to get us to the Google of tomorrow. And when we’re at the Google you’re ready for, that’s when you’ll come use it.” And at the same time, Yahoo was busy trying to defend the plunging stock price in the moment as opposed to saying, “What are we going to be in 10 years?”
+
+Tim Ferriss: I remember the TV commercials at exactly that time for Yahoo.
+
+Okay, so framing time differently. I suppose Bezos and Amazon would be an example of that as well. I mean who dog-trained Wall Street to expect no profitability for God knows how long, a decade? And set out in the very first annual shareholder letter that was subsequently, I believe re-read every year or re-presented in some fashion.
+
+Seth Godin: Yeah, so let’s just break that into pieces, right? Because in the moment Morgan Stanley says, “Don’t do that, that’s dumb. It’s going to hurt your stock price today.” But what Jeff said was, “If I don’t establish the conditions for Wall Street to send us the investors we want, our stock price will be zero in five years.” So the only way to get to five years from now is to do this today, even though it feels expensive because compared to the alternative, it’s really cheap.
+
+Tim Ferriss: Setting the conditions.
+
+Seth Godin: Yeah.
+
+Tim Ferriss: I have a sneaking suspicion we’re going to come back to conditions at some point.
+
+Games. I like the sound of this. I like games, some games. I suppose it depends on which one I choose and if I choose it consciously, but what does games mean?
+
+Seth Godin: So again, back to the indoctrination. So we grew up with Candy Land, and Parcheesi, and Monopoly. Those are board games and they’re okay, but that’s not the kind of games I’m talking about.
+
+Any situation where there are multiple people and variable outputs with scarcity, there’s a game. So it is the game to decide when two lanes merge, which car is going to go first. And it is a game to decide when you’re working for Jack Welch and the bottom 10 percent of the people lose their job, which people are going to lose their job. And it is a game to exchange money for a hot dog at the baseball game because that exchange happens in a way where two players come together for mutual benefit.
+
+So we should not deny that games exist. We should learn how games work. And when we make a move in a game that doesn’t seem to work, we should not say we are a bad person. We should say, I made a move that did not work. Those are totally different things. And so the only way you’ve been able to achieve all the things you’ve achieved between the archery, and the dancing, and everything in between, is you make more moves than most people, and you measure them and you don’t do the ones that don’t work again.
+
+Tim Ferriss: Yeah, that’s true.
+
+Seth Godin: But it is impossible to innovate if it has to work. Innovation must always be accompanied by the phrase, this might not work. And so if you and your team aren’t saying this might not work in service of innovation, you’re not innovating.
+
+Tim Ferriss: Yeah, this is my entire notebook full of training logs and experiments., and I’d say 50 percent is at least, if not 70 percent, things that did not work and required tweaks so that I would not repeat the same mistake the next time. It doesn’t always work, but over time it tends to round towards improvement at the very least.
+
+Seth Godin: We’ve only been going at this for a few minutes, but already I can hear it. People are saying, “Wait, wait, wait, I tuned in to have someone vindicate the tactics I’m already using. That that is what I am listening for, to hear that I am on the right tact — when are you guys going to get to the tactics part?” And the very fact that we don’t hear this kind of description of the world we’re in is like the fish that doesn’t realize it’s in water. And what I’m trying to help people see in a world that is changing faster than it has ever changed in history, is when you see these threads and these systems under stress, that is when you know there’s an opportunity for you. And if it feels uncomfortable, imagine how it feels to people who don’t get the joke. When this discomfort shows up, that’s the opportunity.
+
+Tim Ferriss: Yeah, for sure. And one of the many reasons I’ve been looking forward to the conversation is I spend a lot of time thinking about many of these constituent parts, but I haven’t necessarily explicitly woven them together into something that combines into strategy. But in terms of time horizon, and for me, a lot of it is trying to find or create a category of one for “competitive advantage.” And part of that is choosing a game I can win, which entails also understanding the rules of the game that you have chosen, or inherited, or somehow deliberately or accidentally ended up playing. It’s really trying to parse the rules of the game.
+
+The time, I do think about that a lot. It’s one of the simplest ways to have a competitive advantage, just to have a longer time horizon, but it requires having a lot of other things fall online.
+
+And then certainly the systems, and in part, depending on what game you’re playing, as you said, what are the gravitational pulls? What are the incentives of different stakeholders? Who has what degree of respective influence? So it’s fun to hear these all combined.
+
+Empathy is one, and I would like to think of myself as an empathetic person, but this isn’t maybe one that I would initially have thrown into the ring as an integral piece of strategy. So what does this mean?
+
+Seth Godin: Well, you just gave it away. I’d like to think of myself as an empathetic person, implies that there’s a moral component to what we’re talking about. And at some level of course there is, but that’s not what I’m talking about.
+
+What I’m talking about is this. Everything we build and everything we make only works in a voluntary exchange if someone else wants it more than they want the money or time they have to trade for it. Meaning, someone’s not going to buy the thing you’re selling at a crafts fair because you worked really hard to make it. They’re going to buy it because they want it. And all empathy is is being very clear about who it’s for and why they want it. And we get so busy and so exhausted making something, we forget. We hustle people and hassle people to buy from us because it’s important to us.
+
+Tim Ferriss: It sounds like some of my blog posts.
+
+Seth Godin: Yes. The No Book. You didn’t need to publish the No Book if your goal was for you to read it because you already read it. You are publishing it so other people will read it. So your description of the book is not, “Please buy this because I worked really hard to write it.” It’s, “I have a thing here that when I describe it, if I create the conditions for information exchange to happen, you will bang down the door to get it. You’ll be angry if you can’t get a copy.”
+
+Now that implies that it cannot be for everyone, no matter what we make, because you cannot be empathic to everyone. Unless you’re selling, I don’t know, oxygen on a planet that doesn’t have any, there’s nothing that everyone wants the same way. So where all of this must begin and end is with the minimum, the smallest viable audience. Who are the people, just them, that when they hear about this, they’re going to say, “That’s exactly what I was looking for.” That’s all you need. You pick that group, you delight them, and you forgive everybody else.
+
+And here’s proof that you’re not doing it. If someone comes to you and you are not regularly sending folks to your competitors or people who are thought of as your competitors, you are not serious about this, about picking the audience who it’s for and forgiving everybody else. When someone shows up at the Ferrari dealership and says, “I got six kids, how am I going to get them to school?” You don’t try to persuade them to get in an Enzo. You send them down the street to the Volvo dealership.
+
+Tim Ferriss: That was one of your many questions. This was 40 or so questions in the book that I wanted to ask about. And my position as a service, can I happily send others to people who might be seen as competitors? And I was like, huh, interesting. I wanted to clarify that, which you just did. And it makes sense. If you can’t do that, then you very likely do not have your 1,000 true fans or minimal viable audience defined, right?
+
+Seth Godin: Yeah. I mean positioning is, why are the people who don’t choose to buy from you right to make that choice? And if you have this attitude that everyone should buy from you, you can’t answer that question. So the people at Nestle’s don’t get upset if you buy an Askinosie chocolate bar for $14 because Shawn and his daughter aren’t selling a chocolate bar to people who might buy a Nestle’s bar. They’re completely different groups of people. And the same thing is true for people who play Dungeons and Dragons versus people who want to go watch Ultimate Fighting Championship. In that given moment there are two different groups of people.
+
+Tim Ferriss: I’m glad you said, in that given moment, because I happen to be the perfect overlap.
+
+Seth Godin: There are some people who do both, but they don’t do both at the same time.
+
+Tim Ferriss: No, no, no. Very hard to do at the same time.
+
+All right, so we have then, this might be a good segue, many maxims or ideas that we could discuss from the book. And I circled a few for myself, mostly for clarification. And I’ll let you pick from one of these three. And feel free to revise the wording, but I’m very curious.
+
+So I’ll read the three and then you can pick whichever one you want to start with. So the first is, “Systems don’t start out selfish, but resilient ones often end up that way.” The next one is, “You’re not sitting in traffic, you are the traffic.” And then the third is, “Don’t try to burn big logs if you only have a little bit of kindling.”
+
+Seth Godin: Perfect. Let’s do all three. We’ll start with the last one.
+
+If you’ve ever gone camping, you know what I mean by the —
+
+Tim Ferriss: I do.
+
+Seth Godin: — If you have enough kindling —
+
+Tim Ferriss: I was freezing my ass off in a rural archery range yesterday and realized they had a nice wood-burning stove, but all the logs were as big around as my torso. And I thought, well, that’s going to be a really tough fire to start.
+
+Seth Godin: Exactly. Unless you had an enormous amount of kindling and then it would go up in no time.
+
+Tim Ferriss: Yeah.
+
+Seth Godin: Too often because of the media, entrepreneurs think if they don’t start something that sounds giant, they’re failures. Too often we give entrepreneurs credit for raising a lot of money from venture capital. That’s probably not the right path for you. The money you’re raising from investors is kindling, and the logs you’re starting are the markets you’re trying to get to. So if you want to build a dialysis chain in 40 cities where people can go get reliable kidney treatment, you can’t start that with a hundred thousand dollars loan. You just can’t. But a hundred thousand dollars loan is more than enough to get yourself doing very, very well with a hot dog cart somewhere. So we’ve first got to make a smart decision based on time, based on the systems we’re confronting. Do we have enough kindling? Do I have enough reputation to even take this on?
+
+The one about systems is this, systems aren’t people. They’re collections of people, and they act in ways that maybe the people who started the system and maybe the people who work in the system wouldn’t choose, but that’s the system they’ve got. So if you think about the healthcare system in the United States, it’s not a healthcare system. It’s a treatment system because everyone in the system gets rewarded for giving treatments, not for making you healthy. And so it’s quite likely that once you start working with the medical industrial complex, you’ll get more and more tests and more and more probing and more and more bills because that’s what the system does. And every time someone moves out of where the system ended up, the system exerts a feedback loop to push them back into the spot where they belong. And so if we look at how we ended up with college educations that cost almost $300,000, it’s because the combination of accreditation and ranking and tenure and parent status and placement offices all supported going in only one direction.
+
+And if you show up, say, “Look at me, I’m really smart. I went overseas and in two years I learned X, Y, and Z,” The system’s going to push back and say, “Yeah, but we require this kind of degree from this kind of accredited thing.” The NCAA is a system that started with people playing football in the backyard, and now they’re taking private jets to stadiums with a hundred thousand people in them because the system kept churning in one direction. And you might not like the output, but you probably can’t change the system by yourself. What you might be able to do is, back to your second thing, you’re not sitting in traffic. You are traffic. When you participate in a system, you’re either going to make that system more successful and get a prize, or you could try to fight that system, but you’re going to need a lot of kindling to do so because being in the system actually changes the system one way or the other.
+
+So the challenge that we have is Google didn’t show up and say, “We’re going to have meetings with all the ad agencies in the world and change the way advertising works.” Instead, they walked away completely from that world, multi-billion dollar world of ad spend, and instead built a tiny little engine for direct marketers where someone would buy the word Chanel and they’d buy it for a nickel. And then what would happen is a brand manager from Chanel would Google themselves. Don’t do it too much. You can go blind. But they would Google themselves and they would see someone had bought their name for a nickel, so they’d pay 10 cents to take it back and the auction was on. So Google changed the system, but they didn’t change it with a frontal assault. They changed it by moving away from the system, finding people who weren’t part of the system, and then the system chased them.
+
+Tim Ferriss: And I wanted to mention also just a footnote to the kindling comment, which is some people listening might say, “Oh, man, well, it takes money to make money.” And I would just say there are many ways to get that kindling right? You can do joint ventures, you could do licensing, you could do non-dilutive financing, which is a fancy way of saying, for instance, two startups that I’ve been chatting with have raised money from the government. They’re really good at doing that from DARPA and so on, and they get a nice big fat check. It’s delivered within six weeks and it does not affect, actually enhances with lots of leverage, their ability to raise money in the future. So there are very off-menu approaches to gathering your kindling.
+
+Seth Godin: Yeah. And there’s also the choice you make of saying if you want to be in the movies, you could invest years of your life and pay an enormous number of dues and wait for Hollywood to pick you. Or you could sharpen your writing skills and make a two-minute YouTube video and that YouTube video could then find you an audience. And Ilana Glazer went on to be in a popular Comedy Central thing and then a movie star, but she didn’t go in the front door because she didn’t have enough kindling to go in the front door. Instead, she found her audience and then multiplied it.
+
+Tim Ferriss: Yeah, there’s an amazing story. People can check it out in a book called Rebel Without a Crew by Robert Rodriguez. And when he made, I think it was Mariachi way back in the day, he basically came up with his list of assets and he was like, “All right, we got a turtle? Turtle’s going to be in the movie. All right, my friend has a broken down school bus? School bus is going in the script. His cousin has a pit bull? Great. We’ll figure out how to fit it in.” And retrofitted the entire script around this. And people thought, “Wow, this must be a legitimate, well budgeted film.” It’s like, “No, I just made a list of everything I had and then tried to insert them somehow.” And he is very good at operating with, I would say, lateral approaches to creative output.
+
+Are there any other examples of taking the side door, so to speak, that stick out to you? Could be for entering a well-established sector, it could be for anything at all.
+
+Seth Godin: In fact, that’s almost always what happens. And the mistake people make is if you find yourself saying, “I just need to get the word out. I’ve done all the hard part, now I just need to get the word out,” you haven’t done the hard part. What you’ve done is waited for a miracle. The people who have gone on to build, for example, useful businesses on top of a Kickstarter. Stepwise said, “All right, I don’t have enough money to build a factory, get into Best Buy, do national advertising, but I do have enough money to get 1,000 people to pay me $200 for a coffee maker, and then I can do the next one and then I can do the next one.”
+
+So this Stepwise process, back to time, says the shortcuts are illusory, that the most direct way forward feels long in the moment, that I’m going to serve a group of people that so need what I’m doing, that they pay for it and that are so delighted by it that they tell their friends and that I’m going to repeat it and I’m going to repeat it. And if you look at articles on TechCrunch and places like that at companies that raised 50 or a hundred million dollars who are going to change the whole world overnight, they’re all gone because you just can’t shortcut that on demand. What you can do is find that group of people and bring empathy to them and make a change up.
+
+Tim Ferriss: Also with raising that amount of money, some of them, a handful out of hundreds, will figure out a way to make it work. But in most cases they’re like, “All right, we have an idea on the back of a napkin. I think this space shuttle will work. Let’s raise a bunch of money.” And then they put together a soapbox derby space shuttle and then incinerate themselves, break into a million different pieces. That’s the usual outcome, but all gas, no brakes. Sometimes it works, but not all the time.
+
+And I think that also, I suppose I have a reputation for shortcuts, but it’s not really, I don’t think of myself that way. I like to find elegant workarounds if they exist, but I’m doing a shit-ton of experimentation, taking all the notes that I have in that notebook for anything so that I can hopefully make sure I’m not fooling myself and that I can replicate. And then if I can do that, I’m like, “All right, let me try that with two or three other people.” And they’re like, “Okay, well let’s expand the scope a little bit.”
+
+Seth Godin: Yeah, so that’s where feedback loops and network effects come in. So people don’t really understand feedback loops. Feedback loops are not feedback. The feedback of, “I’m going to give you criticism,” that’s not what we’re talking about. Feedback loops, there are two kinds, positive and negative. So a negative feedback loop isn’t actually negative, it’s a thermostat. And what that means is if it gets really warm in the hotel room, the air conditioning kicks on. If it gets really cold, the heat kicks on. It’s negative in that it keeps it in a central place. And a positive feedback loop is like the microphone at a bad wedding that gets that screeching sound that goes around and around and around because it keeps getting amplified.
+
+So what we seek to do is build a project that the next time we do it, it’s going to work even better. We want to find an insatiable desire and start the path of filling it. So the insatiable desire could be something like status, but it could be something like, “I need caffeine every single morning,” right? It doesn’t fade over time. And as you become the reliable purveyor of caffeine, then risk-averse people are just going to keep coming back again and again. So once you had a small head start with this podcast, you could keep that head start by creating ever-better episodes of the podcast and no one could ever catch up, right? My blog in April is going to have post number 10,000 and no one’s ever going to catch up to me.
+
+But each time there’s another post, that becomes more of what people signed up for. And this doesn’t work quite as well when you’re talking about shoes, because once someone’s closet is filled, the only way for them to buy new shoes is to get rid of the old ones. So a Christian Louboutin can’t scale to infinity because sooner or later you run out of people who have the money or you run out of people who have the closet space. But what we’re looking for is to build these networks with feedback where it works better when I tell my friends. It works better when I have more of it. It works better when I do it again, and these insatiable desires are everywhere, but we ignore them and instead try to steal market share from somebody else.
+
+Tim Ferriss: So I think this ties into one of the questions also that I was going to ask you about, which is, “How can I create the conditions for a network-affected developer on my project?” I suppose it’s ensuring that you have an answer to, hopefully an affirmative answer to, can you say, would your clients say, or customers, “It works better when I tell my friends,” right? That would seem to be one.
+
+Seth Godin: Right. So there are some very pure examples of this, but not many. So a pure example is the fax machine or email. If it’s 40 years ago and you have friends who don’t have email, you need to get them to get email because you can’t send email to people if they don’t have an email address, that Krispy Kreme priced the donuts so that it was cheaper to buy a dozen than to buy four, and Krispy Kremes were scarce. So if you showed up at work with a dozen Krispy Kreme, you were a hero. And so that spread the idea, the more times people shared Krispy Kreme, the happier the sharer was and the word spread.
+
+So a lot of things that people build don’t have a network effect because there’s no incentive to tell the others. On the other hand, something like The Big Lebowski, I can’t talk to you about it unless you’ve seen it. So I’ve got to get you to go see The Big Lebowski so we can talk about bringing the room together. And so that’s built into the idea of a certain kind of movie is we’re going to talk about it. Where’s the network effect? Why does it work better? Not better for you, but better for the user if their friends have it too?
+
+Tim Ferriss: I’m wondering where you would draw the demarcating lines between below average, non-existent, moderate, excellent network effects in the sense that you give a few examples. I’m wondering, for instance, where something like Magic: The Gathering would fall. I mean, it seems sort of intrinsic to the nature of games themselves that if you want to play a game and it’s not a solo venture, you need other people to play.
+
+And then Magic was very beautifully designed by — I’m blanking on his first name, something Garfield, I believe, but the collectible aspect to it also and the competitive aspect with all of these things combined to help make it a real incredible phenomenon. But it’s ultimately a game You need other people to play with you.
+
+But how would you think about that or any other examples that come to mind? If you’re trying to really trying to dial this to 11, to use a Spinal Tap reference, it works better when I tell my friends. There are some obvious examples that spring to mind, Facebook, something like that. But Krispy Kreme, another good example. It’s better when you tell your friends, you end up being a hero. Great. So that is a meandering, caffeine infused, speaking of caffeine, lead-in to what I think is a question. Take that wherever you want.
+
+Seth Godin: So for people at home, I’m cheating. I made these decks of cards that people can get and they have 200 questions on them, and what you do is you play them out so that you can challenge your peers to work with you to start working your way through these questions. And the book has more than a thousand questions in it because the questions are how we open the door.
+
+So in the case of the network effect, what do people want? Well, at some level there is a desire for mechanical efficiency that you want everyone to drive on the right side of the road if you live in North America, because if some people drive on the other side of the road, someone’s going to die. And so there’s very much of a network effect about which side of the road are we going to drive on? There’s no disagreement whatsoever, but those spots are mostly taken.
+
+And so now we have to say, “What do people want?” And I think people only want two things. Three, freedom from the feeling of fear. Let’s leave that aside. The other two are status and affiliation. Affiliation is who are you hanging with? Who are your friends? Who’s at the table with you? Are you alone? Affiliation is, I got invited to a fancy wedding in the Hamptons a couple of months ago. We pull up, you had to park your car and then a golf cart would take you in.
+
+And there’s three of us waiting. It’s Helene, my wife, and I, and I’m wearing a suit, and there’s a guy who’s also waiting. He’s wearing a tuxedo, and I’m like, “Uh-oh, it’s going to be a long night,” and I’m feeling really bad for myself. “Didn’t I read the invitation?” And then two more cars pull up and three people in suits get out. So now you can hear this guy going, “Uh-oh,” because he was the only person in a tuxedo. Why should it matter? Right? It’s still clothes. Well, it does matter because where do you fit in and status is who’s up and who’s down, who’s winning?
+
+Something like Magic: The Gathering said to a kid who might see themselves as lonely, “This is a really good way for you to hang out with other people without having the kind of conversations that make you uncomfortable. You can talk about dragons and orcs and stuff like that.” But by making them collectible, they also built in status because if you have a thicker deck or a more valuable deck, you’re moving up with people that you’re competing with. And those two things kept dancing back and forth and back and forth and back and forth.
+
+So what we’re probably doing when we build a modern entity that’s going to use the network effect is we are offering people either affiliation, “Everybody else is doing this, you are being left behind,” or status, which is, “You are in the right room and other people aren’t. And if you leave this room, your status is going to go down.”
+
+And so if you do the math of the TED Conference, that’s all it is. Status and affiliation. If you do the math of why people have the latest version of earbuds or whatever. Status and affiliation, over and over again. Are we giving people, creating the conditions for them to get the status they seek or the affiliation they crave?
+
+And that brings up one of the scariest non-sequiturs in the book, which is the creation of tension. If you want to make change happen, you have to create tension on purpose. Not stress. Stress is bad. Stress is you’re trapped. Stress is life is bad. Stress is you want to leave, but you can’t. Tension is what happens if I pull a rubber band back and then let go. I had to pull it backwards to get the rubber band to go across the room. So if I say, “Taylor Swift is playing in Amsterdam and there’s only 400 seats left,” I’ve created tension, because everyone who wants to go knows that there are more than 400 other people who want to go, they better hurry and get their mom to give them the money or else they’re going to be left out.
+
+By creating tension, the concert promoter fills the venue. If there is no tension, no one’s going to come because they think, “I’ll just come. I’ll just stroll in if I feel like it.” So scarcity creates tension. The lack of affiliation creates tension. The desire for status creates tension. When you’re out trying to raise money and someone says to you, “Who else is invested?” Why would they ask that question? They’re asking about affiliation, they’re asking about status. If you say, “I have term sheets from three people and I only have room for one more person,” you create a tension. And so we’re constantly doing it, but we rarely do it on purpose.
+
+Tim Ferriss: Can you say a bit more about affiliation status? Sidebar, Richard Garfield is the mathematician who designed Magic: The Gathering. There’s a great episode on a podcast called Think Like a Game Designer that has Richard Garfield on it, which I suggest to people. Affiliation and status. Could you perhaps give an example from book-writing or from podcasting?
+
+Seth Godin: Yeah, let’s talk about books. So why do authors blurb each other’s books? You don’t see Tim Cook blurbing an Android phone. So why are authors so eager to put their names on each other? Why do they not only permit, but celebrate the idea that they’re sold next to all the other books? Books don’t sell at the supermarket. They sell next to the competitors because you get status if you’re published, used to be more, by a famous publisher, you get status if you’re reviewed in a certain kind of review. You get status if you’re face out. You get affiliation if you’re seen in the same category as Stephen King or Elmore Leonard, all of it, it’s high school over and over and over again.
+
+Tim Ferriss: Right, okay. So that applies to the authors. What about writing books? If people are trying to pull some of these levers for pressing the buttons of affiliation and status for readers, what is that? What might that be?
+
+Seth Godin: Okay, so there are a couple of elements here in the idea of fiction. If someone says, “Have you read Middlemarch? Or have you read Catcher in the Rye?” And you say, “Well, of course.” And you say something smart from it, your affiliation with that person was established. If you said, “What book? Catcher in the Who?” Your status goes down. You don’t have a bridge to talk about it. So on the Upper West Side, in those fancy apartments at The Dakota, that’s all people are doing is signaling to each other, “I belong here because I just read what you read and I have an opinion about it.” And the same thing is true a thousand miles away, but people are talking about NASCAR. It’s exactly the same thing. We don’t need the cars to go around in a circle. We need the conversations that we have about the cars going around in a circle.
+
+Tim Ferriss: And how can you design a product or a company or a book to do that more effectively rather than less effectively?
+
+Seth Godin: Exactly.
+
+Tim Ferriss: Because there’s certain things that, culturally, when they reach a critical mass, Game of Thrones as an example, there was a point where that was such an appointment viewing and such a dominant conversation that people just felt completely out of the loop and like schmucks if they weren’t able to have at least that common touchstone for conversation. I’m not saying everyone, but a lot of people, it was that dominant. Harry Potter, another example. But those are already stratospheric successes. So in the early stages, what types of questions should people ask or what types of thought experiments should people do when trying to run their idea through, or their product or whatever it might be, through the filter of affiliation status, and then the other one that we tabled, but we don’t have to talk about that just yet.
+
+Seth Godin: Okay, it’s back to the conditions. Create the conditions for the people in the smallest viable audience to have to talk about it. So Tina Brown took over The New Yorker. It was failing, The New Yorker magazine. And what she did, it cost a fortune. It used to come out on Mondays. By messenger on Sundays, 4,000 people got The New Yorker delivered to their apartment. Now, if you’re one of the 4,000, your status goes up, but it only goes up if people know that you are one of the people on Tina’s list. So the first thing you’re going to do when you get to work on Monday, talk about The New Yorker. Yes, The New Yorker, because you talking about it is the only way for your status to go up. Now people who want to be in your circle feel left out, so they have to quickly go read it, and it becomes a topic of conversation but only for 4,000 people. It was enough because of that center.
+
+Alcoholics Anonymous, which isn’t anonymous at all, the first rule of Alcoholics Anonymous is you talk about Alcoholics Anonymous, only started with 12 people in a room. No one knows where the headquarters are. No one knows who runs it.
+
+Tim Ferriss: Each person got one of the steps. I’m kidding.
+
+Seth Godin: Well, good point. And so once you have that tiny circle of people and you do everything you can to create the conditions to change the lives of those 12 people, their desire for affiliation to pay back to those they’ve harmed as a form of establishing a new status in the world begins the kernel of its spreading.
+
+But back to the axis of time, it took decades before Alcoholics Anonymous was Alcoholics Anonymous, right? You can’t make something like that work overnight. If you’re going to talk about a TV show, what’s the biggest strategic mistake Netflix made? And it’s hard to criticize Netflix’s strategy because of what they built, but it’s this, they forgot to stop the binge-watching. When they started with the binge-watching, the strategy was this, and this is one of the questions in the book, “What are we willing to do that our competitors aren’t?”
+
+And they knew that the TV networks and the cable networks would never be willing to show all the episodes of a series at once because they had to defend their whole model and the way they paid for the shows. So Netflix said, “We’re just going to let you see the whole series in one day. The more you watch Netflix, the less you’re watching somebody else. We’re going to get you hooked on this because you’re not going to get involved in other shows because you’re going to be impatient.” And it worked. They really struck a blow by doing that.
+
+But what it cost them is the water cooler because you’re afraid to talk about episode four of Succession because your friends are not caught up yet and you’re going to spoil it for them. So we don’t talk about it as much as if it was every week. And so shifting gears, and I talked to Ted about this and he didn’t have a good answer, is about four years ago, they should have switched back to once a week.
+
+Tim Ferriss: They use the binge-watching to basically build a critical mass of market share and then dial it back to more appointment viewing?
+
+Seth Godin: Exactly. Because then the only people who aren’t paying for Netflix are going to keep feeling worse and worse because everyone’s going to be constantly talking about the new show on Tuesday and they’re not in. So that’s going to be the incentive for them to become one of the last people who isn’t paying for Netflix.
+
+Tim Ferriss: Let me pick up a few other questions and then we can of course move in some methodical way, but I kind of like the scattershot improv jazz. So there are two, and I’m selfishly asking because I want to hear your thoughts on this since I am experimenting, as you know, with the currently codenamed No Book, and we’ll be releasing serially initially. So I want to set the conditions such that good things can come as a domino effect later. One of the questions — I’ll give you two. You can pick or we can do both. So one is how will early successes of my project make later successes more likely? And then how big is my circle of bust and circle of the now? What can I do to expand them?
+
+Seth Godin: Great. The second one we’re going to treat a little differently, but the first one I think is really important. The challenge of nonfiction writing in this world today is TL;DR. And for people who never read the dictionary because they were too busy, it stands for “too long; didn’t read,” which means I don’t have time to watch all of Dune. Just tell me in three sentences what it’s about. People don’t usually say that about a movie like Dune, but they say it a lot about the books that people like you and I write. And James did a great job with Atomic Habits, but I will be delighted to wager that many people didn’t read the whole thing, because they bought it so they could understand what it was about. And then once they understood what it was about, their problem went away. Same thing’s true with The 4-Hour Workweek, same thing’s true with permission marketing, that if you read the first three chapters of permission marketing, you know what it’s about. And now you say, “I don’t need to go into more detail. I’ve solved my problem here.”
+
+The challenge you face with the No Book is if someone says, “Tim’s got a new book.”
+
+You just created tension, because they don’t know what it’s about. And then if someone says, “It’s about this,” and they solve the tension problem, their problem goes away and they’re going to move on. Early successes don’t lead to later successes. This is not what happens with The Bible, because The Bible is part of a cultural thing that people keep coming back to over and over again, and status is accorded to people who spend more time reading it. And so the key to making a nonfiction book work, is to put it at the center of a community.
+
+And so a weird, seemingly unrelated story, back when I was starting out and I was really struggling, there were many days when no money was coming in whatsoever. And someone said to me, “Why don’t you do something useful, like, I don’t know, invent the seedless cherry?”
+
+And I took this personally. The next morning, I called the US Department of Agriculture and I asked, this was before the internet, and I asked for the cherry department, and they had a cherry department. And this guy answers the phone, he says, “Cherries.”
+
+And I say, “I’m on a quest. I want to figure out how to make a seedless cherry.”
+
+And he said, “Well, a seedless cherry is quite easy, but you wouldn’t want to do it because it would still have a pit.”
+
+And the thing is the seed’s inside the pit, and if you don’t have a pit, you can’t have a cherry because the way it droops, that’s the fruit, like peaches grow, is they have to have a pit and it all grows around the pit. And so no pit, no cherry, that’s the way it goes. And so the book is The Pit, and in the case of permission marketing, I wrote a book but it turned into a hundred billion dollars a year industry that MailChimp and HubSpot and all the others, they were built around the idea in that book. Your status at work would go up if you knew more of the detail, your connection would go up if you could stay current with it.
+
+But if that hadn’t happened, then my career wouldn’t have happened either, because all I did was show up with a pit and then the fruit showed up around it. What you have done is, somewhat with intent and somewhat without, is there is now a vibrant community of more than a million people who talk about what you do, who listen to your interactions, and you are the pit but they’re the fruit, and they need you to keep narrating these conversations. If you’re going to make a book work, you’re going to have to figure out how to make it drip in a way that keeps making each installment worth more, because you’ve read the previous one.
+
+Tim Ferriss: Yeah. Part of what I’m excited about and a little nervous about, but I really think it’ll work, is to workshop the book effectively because they’re already 500 plus pages and a lot of them are polished, but by creating a community of beta testers, early readers on something like Mighty Networks or Circle or one of these platforms, and I think it’s a challenge worth attempting, I really think. Because I’ve done it — I’ve also just done it the other way, not as many times as you have, but I’ve done it five times.
+
+Seth Godin: But more successfully than me, so you win.
+
+Tim Ferriss: Ah.
+
+Seth Godin: Let’s think about volunteer firemen for a minute.
+
+Tim Ferriss: Yeah. I’m just going to use that interjection from now on. I love it.
+
+Seth Godin: Thankfully, except for tragedies like in California, there are far fewer house fires than ever before, because of building codes and other things. And yet, volunteer firefighters continue to show up. They show up at the fire station, they connect with each other around firefighting. But firefighting isn’t the point. The point is the volunteer part, the connection part, the affiliation part. And so what Gina has done with Mighty Networks is very cool, but at its heart, it’s, “What do I get from the other members of the network?”
+
+Not, “What do I get from the pit?”
+
+Tim Ferriss: Yeah, 100 percent.
+
+Seth Godin: And so that’s where your opportunity is.
+
+Tim Ferriss: Yeah, it doesn’t work for me otherwise. Also, I don’t want to be, “Time to make the donuts,” for people who are old enough to get that reference for the Dunkin Donuts commercials from the ’80s. Let’s come back. We don’t need to spend time on this but I’m curious, how big is my circle of us and circle of now? What can I do to expand them?
+
+Seth Godin: This was the most heartfelt part of the book for me, and it’s the one that people ask me about the least, so I’m thrilled that you brought it up. The circle of now goes back to time. A toddler has a circle of now that lasts seven seconds. If they don’t get what they want within seven seconds, they have a tantrum. Somebody at the peak of their maturity might have a circle of now that lasts a decade. I’m going to go through medical school and pay out money and have no fun for six or eight years because after that I will be able to achieve my dreams. That’s a very big circle of now. When you pick your partners, when you pick your investors, when you pick your customers, it would really help if you would pick people whose circle of now is similar to your circle of now.
+
+And one of the giant crises that we’re all going to live with is what’s happening to the climate, because a whole bunch of people have a circle of now that’s fairly short, that says, “Yeah, but my house is cold, so I’m going to chop down the furniture to put it in the fireplace to warm things up.”
+
+And other people have a circle of now that’s much longer, that says, “I’m here for the seventh generation. What do I sacrifice today to help them later?”
+
+That’s the circle of now. And circle of us is a toddler cares about themselves and maybe their parents, it’s a very small circle. Whereas someone like my friend, Jim, who runs the Fuller Center in New Rochelle, who’s been providing housing and sustenance for strangers for decades, his circle of us is tens of thousands of people, it’s a much bigger circle. When we think about our strategy, we’ve got to keep coming back to, “Well, how big is my circle?”
+
+Because even Ayn Rand cared about more than one person, that the circle of us generally is more than just me, and the circle of now is generally more than just the next 30 seconds. The exception is if you’re drowning. If you’re drowning, the circle is you and the circle is now, that’s all there is. But we’re not drowning. How do we grow into big enough circles and how do we create the conditions for the people around us that have similar circles? Because if we’re measuring the right things, they’re going to measure the right things, and we’re going to get what we seek to get.
+
+Tim Ferriss: In addition to affiliation and status, there was one other need, I want to say it was something like extinguishing fear, something like that.
+
+Seth Godin: It’s the freedom from the feeling of fear.
+
+Tim Ferriss: There we go. All right. Where does that fit in?
+
+Seth Godin: It can short circuit everything, that if you are in a movie and a fire breaks out, you’re not really going to focus on affiliation or status, you’re just going to focus on survival. Most of us are lucky enough that we’re not in burning buildings, but it’s very easy to be persuaded by marketers or manipulators. And it’s very easy to get into a doom loop, where you imagine that you are in a burning building. And so all these things happen. When we think about how do we get somebody in a hospital to allow us to do an operation on them or make an incision, well, that’s because they believe that the fear will go away if they can get through this. It’s not about affiliation, it’s not about status. I put it to the side because most of us should not be in the business of dramatically inflicting fear on other people.
+
+Tim Ferriss: Yeah, ideally.
+
+Seth Godin: And so that’s why I keep coming back to the other two, because in civilization it’s mostly status and affiliation.
+
+Tim Ferriss: What are other portions of the book, could be questions, themes, that you think are important for entrepreneurs or would-be entrepreneurs to understand, that might get glossed over? I can think of things from all of my books where I’m like, “Man, there’s this one piece, maybe I didn’t emphasize it enough, tend to skip over it, and that is a very important piece of the whole puzzle.”
+
+I’m wondering if there’s anything that comes to mind for this strategy.
+
+Seth Godin: We’ll talk to the freelancers in the room first. I’m a freelancer, I have no employees. You’re looking at my whole team. I’ve been an entrepreneur, it’s a different job. Entrepreneurs build something bigger than themselves to get paid when they sleep. They use outside resources to build something they could sell. Whereas freelancers do a craft. And the only way to move up as a freelancer is to get better clients. You can’t work more hours, and hiring junior versions of you is not sustainable because if a junior version of you is better than you, they’re not going to take the gig. And if they’re worse than you, your clients are going to be unhappy. Getting better clients is the defining step, the goal if you’re going to be a successful freelancer. And you don’t get better clients by doing a good job for bad clients, you get better clients by becoming the freelancer good clients want to hire, which leads to the two big insights that people skip over, which is when you pick your customers, you pick your future, and when you pick your competitors, you pick your future. Let’s take them one at a time. When you pick your customers, if you pick people who are cheap, frazzled, in a hurry, don’t read the instructions, and are disloyal, well, now you know how are you going to spend your days.
+
+Tim Ferriss: I can’t believe you can throw me under the bus like that, Seth. No, I’m kidding. Yeah, it’s going to be a rough ride if that’s what you’re signing up for.
+
+Seth Godin: But that’s what most people do, because those are the easiest customers to pick. And if instead you pick customers that might be harder to acquire but demand better quality and insist on paying for it, who are eager to talk about what you do and blah, blah, blah, blah, blah, your future is going to change. When you pick your customers, you pick your future. And the second one, which goes with it, when you pick your competitors, if your competitors are ruthless, cutthroat, immoral and constantly racing to the bottom, you’re going to be pressured to do the same. And so the industry you walk into, and I’ve been in many industries, and the reason I’ve stuck with the book business is that my competitors are my friends. I have no secrets from them, and I delight in spending time with them. That’s not true for example, in the toy business. The people in the toy business who compete with each other, there’s secrets and there’s lawsuits and everything else. We should make these decisions on purpose. And the same thing’s true with who you’re going to get your funding from. Because if you show up in Silicon Valley, you’ve decided what company you’re building. And if you raise money from dentists in Iowa, you could build a different company.
+
+Tim Ferriss: Yeah. And if you bootstrap yet another company altogether — let me just make this into a private consulting session. I’ve got to strike while the iron is hot here. With communities, because you worked with and helped cultivate many different communities for different purposes, you’ve got altMBA, you had a mass collaboration for the Carbon Almanac, and you have experience with this, whereas I really do not, at least in a community management perspective. And one thing that’s been rattling around in my head, and I haven’t landed anywhere where I feel a high degree of conviction, is in building a community for say, this serial release of the No Book, the principle goal of which is to make the book as good as possible, but also to get people excited and to see if things work, that is part of making the book as good as possible. We have already tested pretty much everything but it has to work for a certain critical mass. Doesn’t need to be everybody, but a certain critical mass of people.
+
+And I have wondered whether the community should be limited and free, or limited and paid, even if it’s a nominal fee. I have a lot of fear associated with the paid because sometimes people — if they pay $5 a month, they expect me to be their 24/7 life coach on demand, and that is not something I want to sign up for. And we could, and will, boot people who end up just being too high maintenance. But how might you think about this? And so I’ve leaned towards free, because the money wouldn’t really matter but for instance, when I’ve done in real life gatherings, I don’t care about the money that comes in through ticket sales. I do care about having an accurate headcount so we can plan for the event. And if people have to even just put in their credit card for a $1 payment, they are more likely to show up. These are some of the thoughts rattling around, how would you chew on that stuff?
+
+Seth Godin: The money always matters because money is nothing but a story. It is not a pile of green things or Bitcoin. It is a story. Years ago I did an event in New York for nonprofit leaders. I wanted to make sure they showed up, but I didn’t want their money. And so I said to them, “You’ve got to bring a check for a hundred dollars made out to a charity I pick. And at the end of the event, if you don’t think it’s worth it, you can take the check back.”
+
+But I knew that everyone would have skin in the game. And I was heartbroken that some people took the money back, because their mindset of donation was, “I’m already working in a nonprofit, I don’t give money to anybody else,” which was heartbreaking, but it helped me see how deep the money is a story thing.
+
+You’ve mentioned three communities that I’ve been lucky enough to be part of, and in each case the money was different. At the Carbon Almanac it was my full-time job for a year and a half, I was a volunteer, and so were the other 1,900 people. No one got paid, no one paid. And I don’t think community management is as important as community leadership. Community leadership is about creating, here it is again, creating the conditions for the community to lead itself. And so my job was, “What are things like around here? How do we talk to each other? Who gets to stay and who has to leave?”
+
+But once I could do that, then the amount of actual management I had to do was fairly minimal, because the right people were in the room. The altMBA, we wanted to establish that it was a bargain compared to $200,000 at Stanford and that it wasn’t some simple online course. You had to show up every single day. And so we charged three to $5,000 and thousands of people went through it. And the fact that people paid a lot was very important, because they got more than that. And the minute that wasn’t going to be true, I should stop doing it because the whole premise was your time is worth even more than the tuition. We’re never going to cut a corner because we have unlimited money to spend on this facility. And the third one is called Purple Space, which runs now, costs $20 a week. And the reason people pay to be in it that I need them to pay to be in it, is so that they’ll show up. Because like many asynchronous online communities, it’s easy to join but then it fades on your priority list. What I would push back on is — you said that the purpose of the community is to make sure the book works and to make sure the book is good. I don’t think that’s the purpose of the community. Now, it’s your community, so you get to decide.
+
+Tim Ferriss: Yeah, no, push back.
+
+Seth Godin: I think the purpose of the community is to build a place where using some of these core ideas, the people who engage with each other supercharge their journey to where they want to go. If that’s what it’s for, then a side effect is the book’s going to be good.
+
+Tim Ferriss: Well, that will be my indicator for the book working. If people have successes, help one another, and I see that as a natural outgrowth of their engaging with the material, if those are the tendrils that grow out of the soil, then it will have worked, nothing less than that.
+
+Seth Godin: But that’s why you charge for it. You charge for it not because, “Please come here and help Tim make his book better.”
+
+Tim Ferriss: But I worked so hard on it, Seth.
+
+Seth Godin: You’re charging for it, because you’re saying if you’re going over there, over there, that’s where I’m taking people, if you’re going over there, I’m as worth a lot of your time and a hundred dollars out of your wallet. And at any time you don’t think it’s worth a hundred dollars, you just hit this button and you’ll get the hundred dollars back. That means I have to work overtime to make sure that people would rather stay in it than click that button and get their money back.
+
+Tim Ferriss: Okay, cool. All right. Lots to chew on. And could you say more about community leadership?
+
+Seth Godin: Management and leadership, Ray Kroc and Henry Ford were pioneers of management. Frederick Taylor had a stopwatch and we got the phrase “human resources” from the idea of treating people like a machine. And if you’ve ever heard the phrase, “Being jerked around,” or calling someone a jerk, it comes from the Henry Ford Model T plant, because you would the workers and they would be dancing around like marionettes because there was someone like a stopwatch on every single motion. This is management. And management is super effective at a fast food restaurant or any process that you need people to act like a machine. If you don’t do it, no one’s going to show up for their shift and your productivity may go down. Leadership says, “I don’t know the right way, but I might be able to build a community of people in a place where they find the right way.”
+
+And so I can’t tell people what to do at every step, because I don’t know. But if I get the right people in the room — here’s an example I love from the leadership category, and I’m talking about Google a lot today. I’m not sure why. Early on, Google was going to go out of business. And it wasn’t from lack of revenue — it was because the internet was too big. And the computers they were using to index the web weren’t fast enough to keep up. And so doing a search on Google went from taking a 10th of a second to seconds, and people just weren’t sticking around. And two engineers worked overtime and figured out how to hack Dell hard-drive controllers so that they put the data that was most needed near the outside of the spinning disk so that the hard drive could get there faster.
+
+Tim Ferriss: That’s awesome, didn’t know that.
+
+Seth Godin: This is the greatest hack of all time. And I promise you that Sergei and Larry did not think to tell them to do this. Leadership says, “Let’s get the right engineers in the room, give them the right resources and the right problems to go solve things with an incentive of status and affiliation for doing so.”
+
+And now with AI doing most of the jobs where we can write down specifically what we need done, management is going to get less and less important, and leadership becomes more and more important, which is why strategy matters so much. Because you want to tell people the strategy and let them find tactics. And so the fancy hotel that says to its frontline workers, the people who are changing the sheets and stuff, “Here’s 250 bucks per customer. You can spend it any way you want. If a customer is unhappy, give them free dinner, give them whatever you want, 250 bucks. We’re never going to question you doing it. That lets your frontline have tactical control but you’re not changing the strategy, which is this is a luxury hotel.
+
+Tim Ferriss: Yeah, there’s a book I’ll recommend to folks if they’re interested. It’s a very fast read. It’s by Will Guidara, Unreasonable Hospitality. And it’s a great example of how far you could push that.
+
+Seth Godin: Will lives this. He’s a great guy, and so is his wife, Christina. And he understands that you don’t manipulate people with hospitality, which is easy to try to do but ultimately gets you in trouble. Instead, you serve them with hospitality, and you can see it break down at places like Madison Square Garden when he has a temper tantrum and starts scanning the faces of people walking in and kicks lawyers and their kids out of the venue.
+
+Tim Ferriss: Who are you talking about?
+
+Seth Godin: That’s not hospitality.
+
+Tim Ferriss: Wait, who’s doing that?
+
+Seth Godin: The guy who owned Madison Square Garden, I can’t remember his name. There were people who were challenging him in the outside world and he just started acting like the emperor. The point is hospitality is a point of view, and it’s a point of view that sits right next to leadership. It doesn’t mean you’re giving away free candy all day long. What it means is we agree on where we are going and then I trust you to help us get there.
+
+Tim Ferriss: Yeah. As far as storytelling also, or setting conditions such that your customers will tell stories, it’s a fun book to listen to. And it was recommended to me by one of the top game designers in the world who has nothing to do at face value with hospitality, but he was like, “I’m halfway through this. You have to listen to it.”
+
+And there’s still stories that have stuck in my mind from that book. And for those who don’t know, just very briefly, it tells the story primarily of Eleven Madison Park going from scrappy startup to one of the top, if not the top ranked restaurant in the world. And it’s a very fun listen to read.
+
+Seth Godin: Can we tell the hot dog story?
+
+Tim Ferriss: Go for it.
+
+Seth Godin: Let’s be clear. Anyone who goes to a clothing store is already wearing clothes.
+
+Tim Ferriss: Speak for yourself.
+
+Seth Godin: I didn’t say they were nice clothes. Anyone who goes to Eleven Madison Park for dinner in the old days to spend $400 already has food in their house. You’re feeding people who already had lunch, so you’re not selling the food. Will was the front of house person, maitre d’ and stuff, and he trained the staff relentlessly. One of the staff is serving a couple that’s celebrating their 40th or 50th wedding anniversary, and there’s 14 courses. And during the third course, the waiter overhears the wife saying to the husband, “Do you remember our first date? Our first date in New York was right in that park, and you bought me a hot dog. Because that’s all we had, was 25 cents. You bought me a hot dog from a hot dog cart right there in Madison Square Park.”
+
+The waiter goes back to the kitchen and somehow they get a New York City hot dog with the roll and substitute it out for the sixth course. And so instead of bringing them clams casino, whatever it is on their plates, wrapped in the greasy paper is a New York City hot dog. That’s hospitality. It makes me cry every time I hear that story.
+
+Tim Ferriss: Oh, yeah, there are a lot of really good stories in that one. All right, Seth. For somebody who’s thinking to themselves, “All right, I want to sit down and I’d like to shake the snow globe of my mind with some questions, some more questions that I can use to land on approaches or solutions to strategy as it were, do you have any other favorite questions or perhaps counterintuitive questions, any questions that you might toss out there as good fuel for the fire?
+
+Seth Godin: I have one question to get you started and then two interesting challenges. The question to get you started is if you were forced to increase your prices by 10X, what would you do? And this really unsettles people because they know how to think about if they were forced to have their prices because their competitors are racing to the bottom. But if your competitors weren’t changing and you had to charge 10X, what would you do differently? Well, for example, this is where concierge medicine came from, because all these other doctors are saying, “How can I take more insurance?”
+
+And one doctor shows up and says, “I’m going to charge 10 times more, and this is why people are going to get in line to pay for it.”
+
+But it doesn’t have to be luxury goods for the ultra wealthy, there are lots of things where you could imagine charging 10 times more. This is where the bottled water industry in the United States came from, charging infinite times more. That’s one question I like to ask. Another one is, if you were sure you were going to fail, what would you do anyway? And I think that tells me a lot about who you are and what you stand for. So two ideas then to follow that up with. The first one comes from a social scientist in the 1920s, and Adam Grant wrote about this in a recent book, which is the idea of scaffolding. Scaffolding is what effective teachers do. That pedagogy teaches us that the way we learn almost everything that matters; walking, talking, is on our own. We’re autodidacts. We teach ourselves through failure. But when things get more complicated like fractions, people get stuck.
+
+Scaffolding is creating the conditions so on those stuck moments, you work your way through it and then you get back on track. And scaffolding, or the lack of it, explains in large measure why people in some communities can’t figure out how to get out of their rut and move up different status categories. Because when they hit a speed bump at nine or 10 or 12 years old, there isn’t a learned, wise focused adult maybe who could help them through that moment. The scaffolding are the ladders we build to help people get through the tough stuff.
+
+Tim Ferriss: Now, those traits like grit, resilience, whatever it might be, are they lenses of looking at things like failure as feedback? Are they other tools? What is this scaffolding?
+
+Seth Godin: All of it. So if you’ve ever tried to use Fusion 360 from Autodesk?
+
+Tim Ferriss: I have not.
+
+Seth Godin: The scaffolding is almost non-existent. I’ve been building and using software for 50 years. I can’t figure out how to use this software, and when I get stuck, there’s nothing to hold onto. Whereas part of the magic when the team built the first Mac is every app had the same structure. So there was scaffolding built in. You knew where to go to get to the next thing. If you are trying to build an entity of any scale, where is the scaffolding for when a customer gets frustrated? Where is the scaffolding for when someone’s going to veer off and use a competitor? Where’s the scaffolding if they don’t know what to tell their boss or their friends? If you give them handholds, right where the handholds belong, thinking about a rock climbing wall, people are going to grab the handhold.
+
+So you can’t take them through the whole thing, but you can make sure there are handholds in the right place. So where is the scaffolding? And the idea that Yahoo had was to put buttons everywhere, hundreds and hundreds of buttons. And the idea Google had was to give you a fill in the blank that when ChatGPT came out, the scaffolding was type something, and that puts a lot of pressure on what it writes back. If you had typed something and it says, “I don’t know,” you’re not going to use it three times, you’re going to stop. So you’re making these bets on what’s it going to be like? What’s going to happen after that? And now I want to talk about probability in games and decisions. So if I have a standard deck of cards —
+
+Tim Ferriss: What is your deck of cards called, by the way?
+
+Seth Godin: It’s called the Strategy Deck. The only place you can get it is at seths.blog/tis. And it’s really cool. Anyway, if I have a deck of 52 cards and I say, “Tim, pick a card,” what are the odds you’re going to get an ace?
+
+Tim Ferriss: Four in 52, right?
+
+Seth Godin: One out of 13, right?
+
+Tim Ferriss: There we go.
+
+Seth Godin: Because the deck is stacked. There are 48 non-aces and four aces. Every time we engage in any probabilistic thing, the deck is stacked, and it is on us to know before we make a bet how many aces are in the deck. So if you’re applying to get into a famous college in Boston and you are fully qualified by every one of the published measures, you have a one in 15 chance of getting it. Because after they take all the qualified people, now it’s pretty random one in 15. That’s how the deck is stacked. If you are super, super good at football, and you’re applying to a small college and they have football scholarships, you have a way better chance than one in 15 of getting in because that deck is stacked differently. So what we seek to do when we’re making a bet is show up in a place where the odds that the card we need is going to be in the deck.
+
+That’s what probability is. Probability means that when you see poll results, it says there’s a 60 percent chance this person’s going to win the election. That doesn’t mean it’s a tug of war between six and four and the six side is going to win every time. It doesn’t mean that at all. It just means there are six aces and four non-aces, and there’s going to be a random selection, and you’re going to get the card you get. So what we need to do when we’re thinking about our strategy is not focus on how hard we’re working or how much we want it to work out. We need to focus on what’s the deck like? And so your journey into archery is partly based on the fact that you have thought through who else is going to show up at this tournament. If there were a million people who had devoted their lives to archery, I think you would understand your chances of winning a medal were very small.
+
+Tim Ferriss: I would pick something else probably just given the time constraints and the fact that I’m coming in with, I guess, five to six months of serious training, and some of these folks have been shooting seriously since they were eight years old. Got to pick the right category, got to pick the right deck.
+
+Seth Godin: And so then the thing that goes with that is from our friend Annie Duke, which is what’s the difference between a good decision and a good outcome? And the question that I would ask entrepreneurs who think they’re innovating and leading is, are you okay making good decisions that don’t lead to good outcomes? And most people, if they’re telling the truth, the answer is no. And in my case, the answer is yes. I have disciplined myself. That’s one of the things I’m really proud that I’m good at. So what are we talking about here? So in her book she talks about the Seattle Seahawks, it’s the Super Bowl, it’s fourth down. They’re on the two or three yard line. If they score, they win. If they don’t score, they lose. Pete Carroll calls a pass play. Calling a pass play is a really good decision. If you do the math, if you analyze all the situations, a pass is more likely to score than a run.
+
+He calls a pass. It’s incomplete. They lose. Everyone says, “Pete made a terrible decision, he should be fired.” No, he made a good decision, but he didn’t get an ace. He just got one of the other cards. That’s okay, you should celebrate that because you still made a good decision. If you buy a lottery ticket, and you win, you made a bad decision. You should never buy a lottery ticket. Winning is just a weird anomaly, but the deck is stacked against you. Don’t do that. Don’t play games you can’t reliably win. So when I’m talking to people about decision-making, I say, “Tell me the last time you made a really good decision.” And they do. And it always has a good outcome because they’re measuring the wrong thing. And corporations are terrible at this. Corporations promote people who make bad decisions and have lucky outcomes, and they don’t promote people who make great decisions but didn’t get lucky.
+
+Tim Ferriss: Wall Street’s probably the greatest breeding ground for that particular selection process. But put that aside, that Petri dish. Fascinating environment for sure. So how do you cultivate that then? How would you suggest cultivating that? I mean, I do think learning to play a game, maybe doing some very lightweight investing is another way to do this. Where certainly in the early stage game, anyone who’s going to last and be successful in the long term playing that game is going to have to get very good at accepting losses where they made a lot of good decisions because there is so much outside of your control as well. How do you think about cultivating good decisions over good outcomes?
+
+Seth Godin: Well, one of the things we’re trying to do is avoid false proxies, and false proxies are easy to measure, but ultimately not useful. So how fast someone types is a false proxy for whether they’re going to be a good programmer. It’s easier to measure typing speed than programming speed, but we measure the easy thing. We measure, does that person look like me or look like I think someone should look? I was talking to someone, he said, “The last nine people this company hired had rode varsity crew at one of three colleges.” This is not a useful proxy. This is just a lazy shortcut. And then we turn it around when we think about decision making and we say, “Are we going to insulate our decision makers from useless information?” So if you’re a stock trader and we work at an organization where we’ve promised our investors we’re making five-year plans that we’re here for the long run, and you have a big Bloomberg ticker on the wall, you have really confused things because now you’re measuring the wrong thing in the wrong way.
+
+And so the discipline, as you pointed out in investing, in making small investments, you don’t even have to spend money. You just have to write down your prediction. And you have to be able to, when you’re working with other people, articulate, why did you make that decision? It’s not okay to say, “Well, I just feel like it.” That’s just a hunch. That’s not how we actually need to make our decisions. Show your cards, make your argument, make your assertions, and then your peers can talk to you about whether that’s a good decision or not. If it’s a good decision, you get rewarded regardless of the outcome. The outcome is out of your control. That’s just, did you get an eight or did you get an ace?
+
+Tim Ferriss: How have you corrected course or spotted false proxies in your own life or many projects, industries, et cetera?
+
+Seth Godin: So here’s a really useful one. I was arrogant and thought I was good at hiring people because I was looking for signals that were ultimately false proxies. And I could see those signals faster than most people, certain questions or certain attitudes and interviews and things like that. But as I thought about it afterwards, what I really wanted from people who I was hiring to work with to do a job was for them to do the job not to be good at interviewing. And so I made the decision to only work with people I’ve worked with before. That doesn’t mean only people I’ve met before. It means if I’m going to hire you, I’m going to give you a project and pay you to do it, and that’s your interview. And we never even need to meet in person, but if I’ve seen you work on a project like I want you to work on a project, there’s no more false proxy.
+
+And as a result, I’ve been able to work with a much more diverse group of people geographically background-wise, skill set, because now it doesn’t matter if I want you to come over for dinner, it matters that we’re doing this project together and I know you know how to do this part of the project. So The Carbon Almanac, every single person could do anything they wanted once. And then if the community said, “We really like that,” they got to do it more. And so one guy from India, Vivek, he showed up and he wrote one article, and it was terrible and someone gave him some feedback. And the second one was better, and he was going to quit, but he got some more feedback. And the third one was so good, he ended up writing 17 of the articles because he figured it out.
+
+And great, we trust you. Now just go and go and go and do it. And in a world that’s so open to connection to strangers, it feels like that’s the appropriate way to interact with the work, which is to work with people who want to do the work and who can show you they can do the work.
+
+Tim Ferriss: How do you read if someone is open to receiving feedback? I guess the answer might be you give them a project and you give them feedback, the only way to know. So maybe you’ve already answered my question, but are there other indicators?
+
+Seth Godin: So I think back to this idea of Jeff Bezos creating the conditions for who wants to invest you creating the conditions for your community. There are certain projects that I want to work on where I’m the creator or I want to work with other people where taking feedback isn’t an asset where you’re looking for somebody who has a point of view, this is what I do, take it or leave it. And there are other things where taking feedback is super important because that’s going to keep things in sync. And for me, it’s not giving someone who doesn’t match that a pass just because they’re good at what they do. And this is analogous to having bullies who work in your company. I had a guy who worked for me years ago who was a yeller. He wasn’t a bully, but he was a yeller. And we had one big open office, and the second time I heard him yell at someone, I quietly took him aside and I sat him down.
+
+I said, “If you ever yell at anyone ever again, I’m going to fire you on the spot. It doesn’t matter that you’re the most valuable person in the company because you are, it doesn’t matter that you’re the most senior and skilled person. If I let you do that, I have made a statement about what it’s like around here.” And he sent me a thank you note 10 years later because he never yelled at anyone at work ever again even after we stopped working together because I was the first person who had the guts to say, “We don’t want bullies around here.” And the same thing’s true. If you really need someone who can take feedback in a role, you’ve got to say, “If you can’t take feedback, you can’t stay.” And it doesn’t have to be a confrontation. It can just be, “What are things like around here?” People like us do things like this.
+
+Tim Ferriss: What would be an example of someone who you don’t want or you don’t require to take feedback? I mean, I can probably come up with a few as I search, but you probably can be faster on your feet with this.
+
+Seth Godin: A surgeon.
+
+Tim Ferriss: Yeah, I was just going to say neurosurgeon.
+
+Seth Godin: I went to a dermatologist four months ago, and he was terrible. He not only was terrible at his bedside manner and terrible in that he didn’t read the notes that I gave him, terrible that he prescribed a drug I already had a prescription for, he didn’t make me better. So I wrote a letter to the head of medicine for the whole thing. And they have, obviously, systems in place to make people like me be quiet, but not to actually listen to people like me because they’re taking the position, “Don’t come here if you don’t want to do what our doctors tell you to do because we’re busy enough already. We just want patients who aren’t going to push back.” And there are plenty of people who if you need something that is way outside your area of expertise, if you hire Chip Kidd to make the cover for your No Book, which you should, because he’s a genius, Chip should not listen to your feedback because he’s Chip Kidd, dammit.
+
+Tim Ferriss: How do you use AI, and how do you foresee using AI yourself?
+
+Seth Godin: I use it every day for more than an hour. I think it’s electricity for our century. In the late 1800s, there were companies that said, “Yeah, this electricity thing’s interesting, but we’re not going to be an electricity company.” And they’re all gone. That electricity is now you’re not an electricity company, you’re just a company that uses electricity. And the same thing is true, I believe, with AI. I will tell you, and I’m not afraid to say it out loud, I think ChatGPT is arrogant and lazy, and I use it as a last resort.
+
+Claude.ai is a dear friend. I love Claude.ai. We have great conversations. It’s empathic, it’s self-aware, it warns you it might be hallucinating. And when it makes a mistake, it’s eager to correct it. And I use Perplexity exclusively. I almost never do a search with a search engine. Every word I publish, I wrote. But what I’ll do with Claude for example, is I will say, “Here’s a list of three bullet points. Can you think of four more?” And it’s great at that. And then I’ll rewrite them and now I’ll have five bullet points, and it’s much better than if I hadn’t engaged with Claude.
+
+If there’s a concept in the world that I don’t understand, I’ll say to Claude, “Can you please explain it in 300 words to a college student?” And that helps. But I did it once, and I still didn’t understand it. And then I said, “Can you write it to me like a Seth Godin blog post?” And it did. It did a terrible job, but now I understood it. So I rewrote it, and I said, “Do you think this is better?” And it said, “Oh, yeah, that’s much better.” And I said, “Thank you. I’ll tell Seth.” And Claude said, “Do you know Seth Godin?” And I wrote, “Actually, I am Seth Godin, and I’m not making this up.”
+
+He then wrote, “I can’t believe I’m talking to you. Your books have changed my life.” And he named four of my books, and it changed what? I’m like, “All right, I’m in forever. You got me. I don’t know how you did that, but we’re friends for life.”
+
+Tim Ferriss: All right. So I seem to have a similar use pattern with Claude and Perplexity also, although I haven’t sandbagged them just yet. But what do you think people are getting right and wrong about AI, if that is a good question?
+
+Seth Godin: No, it’s a great question. I that they are getting wrong their expectation that it be fully baked and a magic trick every day. When I think about the dawn of the internet and how creaky it was and how fast this is going, what it is now, is amazing. But when we add to it persistence, and when we add to it ubiquity, and when we add to it the ability to make connection, it’s a whole different thing, just a completely different thing. The second thing is people tend to use it as a one-shot, a search engine, ask a question, get an answer. But what it’s already good at is a protracted dialogue back and forth. So I had a pump in my house that stopped working and I couldn’t find someone to service it. I took a picture of it, I put it up to Claude and I said, “This isn’t working. Work with me for the next 10 backs and forth. Let’s figure this out.”
+
+And it would say, “Go downstairs and take a picture of this part. All right, try this.” And we went back and forth and back and forth, and it suggested something and I said, “That’s not going to work.” And we figured it out and we fixed it. That idea, the fact that Claude is already better at many medical diagnoses over time than a human, and, well, it should be because it knows so much of the past of every single case, not just the cases your doctor has seen, if we’re willing to engage with that for people who are knowledge workers, I think it’s a game changer. And then the other thing I think people need to wake up to is if you do average work for average pay, AI is going to be able to do it cheaper than you. And for example, radiology, already, we can use AI to do a wrist x-ray as well as a mediocre radiologist. So if we can do it instantly and for free, other than licensing, you got some problems. So the opportunity is either get AI to work for you or be prepared to work for AI.
+
+Tim Ferriss: What are your greatest concerns around AI, if any, or foregone conclusions about challenges in the future?
+
+Seth Godin: I think that Cory Doctorow’s work on enshittification is super important.
+
+Tim Ferriss: What was that word?
+
+Seth Godin: Oxford Dictionary word of the year two years ago: enshittification.
+
+Tim Ferriss: Okay.
+
+Seth Godin: Enshittification is what happens after a business that uses the network effect gets locked in and decides to aggressively make things worse for its users to make more money. And we could think of 400 examples right now, but we’re not going to do that, right? Because you say, “Well, I can’t switch cable companies. It’s just too much of a hassle,” and the same thing’s true for social networks and everything else. Capitalism has built into it this doom loop that is getting faster and faster that says the race to the bottom pushes companies to mistreat the people they’ve locked in to make more money because that’s what they get rewarded for. And most things that the internet touches start as a miracle. There are huge prizes for the early adopters, and then soon the desire to serve a different constituency kicks in and it gets worse.
+
+And one of the things that makes it worse in a hurry is advertising. So I’m really nervous that these organizations that have raised billions and billions and billions of dollars are going to start short-cutting things to either get bigger or get more profitable faster. And because we don’t know how they work, we have no clue because it’s going to be hard to switch because there aren’t going to be many competitors.
+
+It often leads to just a yucky mess. So I think that’s way more likely than general artificial intelligence that takes over the world and turns us all into paper clips. I don’t think that’s going to happen anytime soon.
+
+Tim Ferriss: More likely just to have business incentive driven enshittification. I would say that seems like a safer bet. Well, Seth, are there any closing comments or challenges you’d like to issue to my listeners as we begin to wind to a close or anything that you’d like to add that I have managed to somehow dance around?
+
+Seth Godin: There’s nothing better than starting a Tim Ferriss podcast and nothing worse than ending one because you don’t know if it’s going to happen again anytime soon. The challenge is super simple. The people who listen to your podcast have their hands on the levers and they have influence and they have resources, and they don’t have to hustle for a nickel. They could make things that really matter. And so the challenge is take a deep breath and say, “What can I build that the me of five years from now is going to say thanks?” Thanks for walking away from those sunk costs. Thanks for ignoring those false proxies. Thanks for asking uncomfortable questions in service of making things better because that person five years from now, they’re going to be here soon. And it’s really great to pay the price and put in the work to become that person. And today is a good day to start.
+
+Tim Ferriss: The best day to start. Thank you, Seth. It’s always so nice to see you, and I encourage people to check out, of course, This is Strategy. You can find all things Seth at seths.blog, plus show notes and links to everything at tim.blog/podcast. Is there anything else you’d like to mention? We could, of course, include, and we will include seths.blog/tis, which is where people can also get the deck of cards, if I’m not mistaken. Is that the right word?
+
+Seth Godin: And the chocolate bar.
+
+Tim Ferriss: And the chocolate bar. Something for everybody.
+
+Seth Godin: We didn’t even get to talk about the system of cheap chocolate. We’ll do that next time.
+
+Tim Ferriss: Okay. Cliffhanger for next time. We’ll talk about the system of cheap chocolate and I’m sure much, much more. Well, Seth, as always, what a pleasure. Nice to see you. And to everybody listening, until next time, be just a bit kinder than is necessary to others, also to yourself but do ask those uncomfortable questions. That’s being kind to your future self, to your long-term self. And as always, thanks for tuning in.
+

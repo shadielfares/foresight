@@ -1,0 +1,1866 @@
+Please enjoy this transcript of my interview with Rich Barton (@Rich_Barton), the co-founder and co-executive chairman of Zillow, a company transforming how people buy, sell, rent, and finance homes. Rich has been a member of Zillow’s board since its inception in 2004 and has served as both its CEO and executive chairman.
+
+Before Zillow, Rich founded Expedia within Microsoft in 1994 and successfully spun the company off as a public company in 1999. He served as president, CEO, and board director of Expedia and later co-founded and served as non-executive chairman of Glassdoor. Rich was a venture partner at Benchmark Capital and continues to be a board director for Qurate, Stanford Board of Trustees, and Zillow Group.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch the episode on YouTube.
+
+Rich Barton: I know Eddy Cue a little bit. He’s a friend. And there was a point at which I like to observe magic product things. And of course, Apple has tons. But my typical morning news setup is I’m doing my email and sifting through things while I drink my coffee, and I’ve got my iPad set up next to it rolling CNBC quietly on mute. At one point a couple years ago, I moused off the left edge of the screen and it seamlessly went on to the end — and the other side of my mouse is on the iPad. I was like, “Oh, my God.” It just decided because it was the same guy logged in, it’s an extended monitor. And I texted him immediately. I’m like, “Oh, Eddy, it’s magic.”
+
+Tim Ferriss: Why do you have CNBC playing concurrently? Is that just old habits die hard? Or is it, let’s see if anything cataclysmic or monumental has happened that I need to be aware of?
+
+Rich Barton: It’s my favorite source of news because business news is generally happy.
+
+Tim Ferriss: Yeah, got it. Okay.
+
+Rich Barton: They just don’t wallow in the bullshit. Regular news makes me feel bad and CNBC, at best, makes me feel good and most of the time, it’s just mid. That’s fine. I get the news. I’m interested in business and companies and strategy and trends and it is a pretty funny channel. It gets on repeat. You don’t need to watch it very long. But they get good interviews too. So anyway. I usually don’t have the volume on. I have the closed caption scrolling. And then if something catches my eye, I go do it.
+
+Tim Ferriss: So let’s take a closer look, then, at the other screen.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: You have your coffee.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: What time is this?
+
+Rich Barton: Yeah, I’m a pretty early riser. 6:30 I get up, usually. And long before Sarah, my wife. So these hour and a half, two hours I get in the morning, are nice.
+
+Tim Ferriss: Pristine.
+
+Rich Barton: My kids have all left the house now. There was a routine when my kids were in the house that was obviously very different and really fun. I could talk about that. But now, I have two hours of just catch up on the stuff in my newsfeed, which is my inbox, my email inbox. I’m old-school that way. And as I go through that, I’m catching up on the news on my iPad. I have a smoothie every morning with lots of stuff.
+
+Tim Ferriss: What’s the stuff?
+
+Rich Barton: No supplement kinds of things, but lots of —
+
+Tim Ferriss: Cat testicles?
+
+Rich Barton: I am not one of those guys. I am not one of the longevity supplement people, but I’ll tell you what’s in it. It’s about three or four ounces of oat milk, ice, an apple. Used to be a banana. I’ve switched to two-thirds of an apple. Pistachios, macadamias, a handful of blueberries. My favorite electrolyte. I’m getting ready for my workout. It’s not very big. My favorite electrolyte is Pocari Sweat.
+
+Tim Ferriss: Yeah, the blue can, man. I had a lot of that when I lived [in Japan] as an exchange student.
+
+Rich Barton: My nutritionist says, “That’s the one.” And I’m like, okay, I’ve been taking another one, using another one. She’s like, “Nope, this is the one.” Not much. A prune.
+
+Tim Ferriss: A prune?
+
+Rich Barton: A prune, because —
+
+Tim Ferriss: Keeps things moving.
+
+Rich Barton: Keeps things moving and that’s very important. Young people out there don’t really realize how important that is yet. But as you age, you realize how that can affect your day, really. Having everything moving. Here’s a little hack. I’m not really a hacky guy, but I do have a lot of quirks. Hyperice, you know that company that makes the —
+
+Tim Ferriss: Yeah, I do.
+
+Rich Barton: Okay. They have a thing, I think they bought a bunch of products, but there’s a back one called the Venom. You must have run into that.
+
+Tim Ferriss: I think it heats and vibrates.
+
+Rich Barton: Yes.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Oh, my God. So I actually for my whole 45 minutes of that routine at the kitchen table with a lot of light coming in, as soon as the sun’s up, I have it on repeat. I’m wearing that Venom. Oh, my God. That loosens everything up.
+
+Tim Ferriss: And you mentioned before your workout. So this is all pre-workout?
+
+Rich Barton: Yeah, I need to get things going and feel settled a little bit. Settled and brain on before I work out.
+
+Tim Ferriss: Mm-hmm. Coffee helps too.
+
+Rich Barton: Coffee helps all that. Yep. And I don’t drink a lot of coffee. Today, I had a little too much because I’m off time zone a little bit. But I’ll have one, maybe two cups. And that’ll be the caffeine for the day.
+
+Tim Ferriss: Yeah, got it.
+
+Rich Barton: So I go through that and once everything’s — make my ablutions and change into my workout stuff.
+
+Tim Ferriss: Rinse your face with some holy water.
+
+Rich Barton: And pretty much every day I do a workout. I can’t really get my mind right without that.
+
+Tim Ferriss: All right, so we’re going to talk about the workout for people who are audio only. This guy looks like a — I don’t know how you — Marvel character meets Abercrombie and Fitch model, not to mention scion of business. It’s unfair. I don’t know how I got the shirts drawn on this genetic and habit lottery. But we’re going to talk about the training. Because I have this working pet theory that longevity may be inversely correlated with the number of things that you do for longevity. Like in other words, there are a few things that really matter. But then there’s a long tail of things of questionable value that also have unknown, uncharted side effects. So when you start throwing the kitchen sink plus plus at your body, the likelihood of you heading in the wrong direction is probably higher or just as high.
+
+My observation is the harder you push against something, the harder it pushes back. I think the people who are pushing really hard at the longevity and the supplement thing and the whole day scheduled out lifestyle, things to improve, health span, most of that’s probably not very useful. Yeah, there’s some basics.
+
+And maybe the most important basic is when I was younger, my kids were in the house. Because I got up early, I was the “get-the-kids-to-school” parent while Sarah became more beautiful. And she stayed up, she stays up late. And I love to cook. I’ve had several jobs as a kid growing up where I was a short order chef and worked in a lot of kitchens. And I love to cook. And so our house is set up — we have a kitchen island with a big bar, the stools and on the cooktop is on the other side. And whenever the kids wandered downstairs, bleary-eyed, I was their short order breakfast chef. And anything they wanted. I would be — which was so fun.
+
+Tim Ferriss: It was like the breakfast buffet at The Four Seasons or something.
+
+Rich Barton: Whatever they wanted, I could whip it up really, really fast because you get that skill when you’re a short order chef. My younger boy had some kind of ADHD stuff and started taking the meds. I can’t remember how old he was, 10, 12. And those meds make kids — it’s an appetite suppressant.
+
+Tim Ferriss: Oh, for sure.
+
+Rich Barton: Maybe no. And I was a typical parent. Our primal urge is to feed our children. That’s it. Feed and care for our children. That is the overriding program that puts everything else down. So I got to the point where I was so worried about how skinny he was and he wasn’t eating the rest of the day. He was hungry in the morning. I would make a 12-egg frittata and put potatoes in it and sausage in it, and he’d down the thing. And I’m like, “Okay.”
+
+Tim Ferriss: Mission accomplished.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: The Anaconda diet. Just one huge meal and it works.
+
+Rich Barton: Yeah. The punctuation on this one, aside from that just being really quality time, regardless of what kind of mood the kids were in, it was just really quality I cherished. I took a picture most days. Totally candid there. No posing. I would sneak a picture every day. And now, I have a folder called “The Breakfast Club” in my iPhone pictures. And I have a thousand pictures. And it’s a time series of these kids growing up. It’s really a virtual possession, but it’s my most prized possession.
+
+Tim Ferriss: All right, we’re going to double click on a bunch of things we passed over. Let’s hop for the entrepreneurial set listening. This is also related to more than just pure entrepreneurship. But let’s see if this is a dead end or if it takes us somewhere. Who was Brad Chase?
+
+Rich Barton: Brad Chase.
+
+Tim Ferriss: Yeah. What impact did he have on your life?
+
+Rich Barton: He was a great guy. He was my first real boss out of college. It’s not quite right, but it’s close to right. Anyway, Brad was a group product manager at Microsoft. Microsoft was my — I’ll call it my first job out of college. This is 1991. Microsoft had only about 3,000 people at the time.
+
+Tim Ferriss: And just for reference, because I have no idea, how many employees do you think they have now? It’s going to be a multiple of that, of course.
+
+Rich Barton: 300, 400,000. Yeah.
+
+Tim Ferriss: Yeah. Orders of magnitude.
+
+Rich Barton: Multiple orders of magnitude. Yeah, two to three. The product managers were this elite little group of really smart people and we weren’t very big. And he was my boss. And we were working on MS-DOS 5, which maybe I would say we’ll have to go two standard deviations in your audience distribution curve to find anybody who really knows what MS-DOS 5 was. But it was a really big operating system for Microsoft at the time. We made an upgrade and the feature was we broke the 640k barrier. You’re not going to engage on the geeky stuff. But it was a really big product. My job was to create the packaging, manage the manufacturing, and figure out how to get this physical product into the Egghead. Some of you will remember Egghead. Egghead was a retail software store. And to push the product out into Egghead, that was my first job. And Brad was a guy who — my big — he’s one of my mentors. I only worked for him for a short period of time. But I was a big idea thinker. Big risks, big bets. And he encouraged me, at a very young age, he funded me to take a really big swing at something and supported me in it, and it failed miserably.
+
+Tim Ferriss: Is this the book project?
+
+Rich Barton: Yeah.
+
+Tim Ferriss: You want to tell people about it?
+
+Rich Barton: I don’t know how interesting that is, other than the lesson of take big swings.
+
+Tim Ferriss: It is, but the details help paint a picture. People can conjure a visual in their head.
+
+Rich Barton: All right. It’s become a huge series as a series “For Dummies,” Blank for Dummies. And the book that the Dummies series was founded on was DOS for Dummies, believe it or not. It was the best-selling book about software of all time. And I was like — I’m a young product manager, I want to sell more MS-DOS 5 upgrades. And I was like okay, we have all these software retailers where people go, but the really big thing at the time, believe it or not, was Barnes & Noble and Borders Bookstore. Bookstore experience was huge back then. DOS For Dummies sold millions and millions of copies of this book in Barnes & Noble and Borders. And so I was like, why don’t we do a bundle with DOS for Dummies and have that be the manual for the upgrade? Bundle it together, the book and the upgrade —
+
+Tim Ferriss: Seems reasonable.
+
+Rich Barton: And distribute it through bookstores? How brilliant. So I went and met with one of the Riggio guys at Barnes & Noble. I met with the guy who created the Dummies series, this guy, John. So I met with all these people. We designed the product. It was really — I was feeling pretty like a big deal. Built a bunch of it. Probably cost us eight to 10 bucks a unit, which is a lot for COGS, cost of goods sold. And I can’t remember how many we built, but it was at best a C. Maybe a D.
+
+Tim Ferriss: What was the retail price?
+
+Rich Barton: You hit the problem. The problem was —
+
+Tim Ferriss: People are going in to buy a $12 book?
+
+Rich Barton: And it was a $54 price tag or $49 price tag, which is basically what the software cost at Egghead. And it looked a bit too much like a book. I made it look like a book. It wasn’t the greatest cover. Anyway, I’m embarrassed about what it looks like now. I have one of course as a reminder. But yeah, the shock value was too much. People didn’t realize there were software in it. And so we ate a bunch. We ended up getting rid of all the inventory, but it was not a success. And the amazing thing — so depending on where your audience is in their careers, you work at a lot of places out there. Great organizations encourage innovation, encourage big idea people to take big swings and do not punish them when it doesn’t work out according to plan. If that happens too many times, maybe there’s a pattern and somebody should go find another job. But Brad Chase, back to Brad, sat me down for my review and I thought I was going to — who knows. It was like a 10, $20 million mistake. I was a young kid.
+
+And I remember distinctly, he said, “All right, what’s your next big idea?” Amazing, that Microsoft was and is an amazing organization, because of that kind of culture.
+
+Tim Ferriss: Wow. How have you — if you have taken that forward into companies that you’ve built or just philosophically or operationally speaking, how do you encourage that? Because there must be some constraints on things that you don’t light the whole house on fire. How do you think about enabling people to innovate? You don’t want learned helplessness where they’re afraid to do anything. At the same time, you don’t want some rogue trader like taking down Bear Stearns or whatever.
+
+Rich Barton: That’s right. Yeah, it’s really hard. But everything ultimately boils down to the people that you hire and the people you choose to work with and the people you keep. And saying your culture is XYZ is very different from having people who channel that, those traits that you want. So my method for doing this is to make sure we’re really diligent about finding those innovators and the entrepreneurs. Sometimes who the intrapreneurs, let’s call them, the inside entrepreneurs, and protect them a little bit because sometimes they’re different. Mainline corporate culture, sometimes rejects, often rejects the innovators and the ones who want to disrupt whatever, just rock the boat a little bit. And you really do need to rock the boat to innovate. So the leadership needs to hire, cultivate, protect, and invest in those people.
+
+Tim Ferriss: Yeah. The foreign bodies so they don’t get rejected by the corporate immune system.
+
+Rich Barton: That’s right. Which it’s just natural.
+
+Tim Ferriss: Yeah. All right, so let’s come back to one thing you mentioned. You said, “In effect, not totally true, but let’s consider Microsoft the first job out of college.” What was the actual first job out of college?
+
+Rich Barton: I was one of these —
+
+Tim Ferriss: Oh, boy.
+
+Rich Barton: High performance —
+
+Tim Ferriss: Ooh, there’s a confession coming.
+
+Rich Barton: Yeah, I was just one of those kids. I went to Stanford and was an engineer.
+
+Tim Ferriss: Management consulting?
+
+Rich Barton: Where — yes.
+
+Tim Ferriss: Oh, no. Say it ain’t so, Rich.
+
+Rich Barton: I know, but it was funny. There’s a good story here. I don’t know if it’s a good story, but we’ll tell it. Yeah, man. I was the success kid. Do well, loved that, identified that way. And so of course, whatever the hardest job that came to interview at Stanford when I was a senior, of course, that’s the job I wanted. There was strategic planning at Disney. There was the kind of investment banking training program, analyst program, and there was the strategy management consultant. And those were the big ones. And it was the most competitive, hardest to get. So that’s how I got tracked. And I took a job as a strategy consultant in Boston, Cambridge, right out of college. I knew pretty damn quickly it wasn’t for me.
+
+Tim Ferriss: But, like, BCG or who was —
+
+Rich Barton: It was a spinoff of BCG called Alliance Consulting Group. Great group of people, super smart. It was going into a recession though in 1989, and so a lot of people ended up losing their jobs. However, the interesting thing was one of my besties at Stanford, Nina Roberts, who was an engineer with me, we were both interviewing for all the same jobs. And she didn’t get the big job. But she got this little tech company in Seattle, Microsoft. Which of course I knew. The companies that I really loved were Microsoft, Apple. All I needed to do was buy Microsoft and Apple stock back in ’89. That would’ve been it. I wouldn’t be talking with you now.
+
+Microsoft, Apple, I liked Patagonia. That was a brand that I identified with. Anyway, Nina got the job as a product manager at Microsoft, and we kept in close touch. She went to Seattle, I went to Cambridge, and we kept in close touch. And I knew pretty quickly it wasn’t for me. She knew Microsoft was the place for me and was on the horn with me every week saying, “You’ve got to come out here. You’ve got to come out here.” It took about a year to finally get the flight out and the job offer.
+
+Tim Ferriss: How did you know it wasn’t for you? What about it wasn’t for you?
+
+Rich Barton: That’s a good —
+
+Tim Ferriss: Because there are some people who thrive in those environments, right?
+
+Rich Barton: Yes. A trite answer would be dressing up in a suit and tie and wearing uncomfortable shoes. Wasn’t for me. I like to go barefoot. That really wasn’t what it was. It makes you feel important when you dress up. I was presenting things to CEOs and stuff, and it did feel important. And I got a really good business school education in competitive strategy, the Michael Porter stuff. I basically got an MBA in this one year. What I discovered about myself, and I discovered it there — I probably knew it before, but I hadn’t really focused on it, was I believe the world is somewhat divided. It isn’t totally binary, but it’s a continuum. But it’s maybe a barbell, clients and servers. Which is a geeky software architecture reference. But people get it.
+
+There are all of these industries that are set up to be service provision industries. Lawyers, doctors, consultants, academics. The benefit of these industries is you get to indulge your curiosity and see, deal with lots of different clients and lots of different problems. But oftentimes, with consulting, you’re not seeing things through to the finished product. And it was apparent to me really quickly that I derived my jollies, on the other hand, from being a builder, and the client — I actually loved what the clients were doing more than what we were doing when I was a consultant. So it became clear to me that I was a client, I wanted to build things. I derived my jollies that way. So I started looking and it was good to discover at a pretty young age.
+
+Tim Ferriss: Yeah, that’s super, super lucky.
+
+Rich Barton: And then I got to Microsoft. It was like I was a kid in a candy store. I never left the place.
+
+Tim Ferriss: Thank God for Nina, was it?
+
+Rich Barton: Nina.
+
+Tim Ferriss: Wow. I hope she still gets a box of chocolates.
+
+Rich Barton: We’re still close. She’s great.
+
+Tim Ferriss: All right, so let’s talk about, then, Microsoft and Expedia. How does this happen? I’ll just leave it broad.
+
+Rich Barton: Well, back to the earlier conversation we had about taking big swings and intrapreneuring, yeah, the how on how this happened is that Expedia was a “venture startup” inside of Microsoft, and then it spun out, and we can get to that. But the real reason I even got into it and left the operating system group was that my wife, Sarah, who you just saw, is a doctor. She was in medical school at Northwestern and was applying to her residencies. She’s an OB/GYN. There’s only one OB/GYN residency in Seattle where I lived, with only six or seven residents a year, and in one of the most attractive residencies in the country. So super competitive. We were engaged and then soon married after that. We got married pretty young. And I was like, “Well, she’s not going to match out here in Seattle, so I better get ready to move to New York City.” Or this probably would’ve been New York City where she matched. And so about a year, this was during the Windows 95 launch. I left the Windows 95 team and I went to the consumer division at Microsoft, which was small.
+
+Tim Ferriss: Now this is going to maybe sound like a side quest. But when you say you moved, did you just put in a request? How easy is that to do?
+
+Rich Barton: At great companies, it’s relatively easy.
+
+Tim Ferriss: Relatively easy. Okay.
+
+Rich Barton: Especially for people who were tagged as high potential. But it’s still not easy, of course. Brad, who was my boss at the time, couldn’t believe we’re launching Windows 95. This is going to be the biggest launch of all time in the software industry. Or maybe one of the biggest product launches of all time. I don’t know if you remember that.
+
+Tim Ferriss: I do.
+
+Rich Barton: It was a big deal. And about six months before we launched, I had a big job there. About six months before we launched, I interviewed for jobs over in the consumer division and took on a portfolio of multimedia CD-ROMs. And I was interested in consumer marketing obviously, but the reason I did this was that I was going to have to leave Microsoft. I wanted to start a company and it wasn’t going to be an operating system. That just wasn’t going to happen for reasons that we don’t need to get into. But the government made clear to Microsoft at one point — so I figured it was going to be a consumer software company and I wanted to go learn that. And the folks over there were fantastic. Microsoft was fantastic. And I took on a portfolio of CD-ROMs. Some of you out there will not even know what that is. It’s basically a precursor to the internet.
+
+Tim Ferriss: It’s the thing your doctor gives you that you can’t make any use of with all your images.
+
+Rich Barton: It’s true. It’s true. And some artists, some musicians, still hand out CDs.
+
+Tim Ferriss: It’s the artifact that your doctor gives you.
+
+Rich Barton: It was what came in the red envelopes at Netflix. Anyway, so, but these things were like Wikipedia before Wikipedia was called Encarta.
+
+Tim Ferriss: Mm-hmm. I remember Encarta.
+
+Rich Barton: It was a multimedia CD-ROM. And one of them with the products in my portfolio of rando ideas was an Encarta. So an encyclopedia of travel guides. This is really good. You take a whole bookshelf, a whole shelf of travel guides, cram it down onto one CD-ROM, pictures, audio. Wow, what could be better for travel planning? And that was one of them. I remember going into my first product review with Bill Gates and others, which was every six months, every year kind of thing that the product people did. I was used to business plans with billions of dollars from the operating system group. And I was responsible for this thing. And I’m like, “Bill, this is tiny.” The whole book, the whole travel book industry in the U.S. is maybe $100 million. And that’s the whole thing.
+
+And so really, A, there’s not an opportunity. And B, you can’t travel with the CD-ROM. There were no like — the laptop at that point was this compact suitcase that weighed 20 pounds. I’m like, “That’s when you want the travel guide when you’re traveling.” So even though I know it’s your idea and it’s fun, it’s not going to work. That said, I demoed easySABRE on Prodigy. Prodigy was an online solution.
+
+Tim Ferriss: Oh, yeah.
+
+Rich Barton: Okay. And I was a —
+
+Tim Ferriss: Bring back the memories.
+
+Rich Barton: Geeky online guy, right. And easySABRE was a tool for travel agents to use at home on Prodigy to access the airline reservation systems. So it wasn’t meant for consumers, but I could get access to it on Prodigy. And I demoed that for him. He actually knew about it. I demoed that for him. I’m like, “This is a change-of-the-world thing.” If we can have consumers be able to do this, then we can become the largest — e-commerce wasn’t a word back then. We could become the largest seller of travel in the world. That was my pitch and my dream.
+
+The pitch further went and fund me on the outside because I’m going to have to move to New York, be , she’s not going to match out here. And this doesn’t want to be a Microsoft business anyway. It’s travel first, software second. Not software first, travel second. He agreed with all that. He thought it was an awesome idea. He also liked that we could rebuild all the mainframes on Windows NT, which was a different conversation. So he loved it. He green lit it. He was my first venture capitalist. He said, “No, don’t go do it on the outside. Do it here. We have a great team that we’ll put together, and I’m sure Sarah will match her residency at University of Washington.”
+
+Tim Ferriss: High degree of confidence.
+
+Rich Barton: Yeah, that was the end of that. She did match. I don’t know. Honestly, to this day, don’t know if there was any thumb on the scale. I doubt he had that kind of power, but she matched. I stayed in Seattle. He had promised me that he’d consider spinning it out if it got big enough. And then that’s what happened. So we spun in the height of the internet bubble, which is so bubbly that people today who think we’re in a bubble have no concept. You remember.
+
+Tim Ferriss: Oh, yeah.
+
+Rich Barton: 1999.
+
+Tim Ferriss: I moved out right before the Thelma and Louise car went off the cliff. I moved out to the Bay Area in 2000.
+
+Rich Barton: It was crazy.
+
+Tim Ferriss: Impeccable timing.
+
+Rich Barton: We all thought we were the smartest people in the world. We really did. We all thought those people in New York City just didn’t get it. And then there was comeuppance. But Expedia was a really good business. I was working for Ballmer at the time, and I asked Steve for $100 million to spend on a television advertising campaign because I said, “We are becoming, we can do this. We are in the pole position. We can build the biggest brand in travel.” And Steve laughed at me. “No, we don’t do that.” I said, “Well, dogshit.com is going public right now at a billion dollar valuation.” It wasn’t quite that. It was 500 million, which seemed big at the time. Reallydumbdumbstupidstuffinmycloset.com was going public. “Put it on the web!” Anyway, and I was like, “The public markets would give us $100 million and it’ll cost basically nothing. And so let’s give this a try. Let me spin this thing out.” It’s a good HR experiment. Human resources experiment too.
+
+Tim Ferriss: Now, just explain for folks, why does spinning something out make sense? What are the advantages of doing that, to them and to you?
+
+Rich Barton: Okay. The financial answer to that is unlocking value that is stuck in a company. And this happens a lot. That’s the most uninteresting one.
+
+Tim Ferriss: Unlocking value, meaning?
+
+Rich Barton: It’s not getting valued by the shareholders —
+
+Tim Ferriss: Properly.
+
+Rich Barton: As being part of Microsoft.
+
+Tim Ferriss: Right. But if you take it public or do something outside of Microsoft, all of a sudden —
+
+Rich Barton: It could attract its own investor base, that we’re interested in that in particular. Okay, so there’s a conglomerate discount, generally speaking in the public markets, where the more stuff you have in a big company, the less individual businesses are valued. There was a period of American business history where conglomerates actually got a premium in this — like the GE, the Jack Welch, GE days, and Honeywell, and there were all these big conglomerates. And then the pendulum swung the other way. Microsoft couldn’t have cared less about the financial play, though, however. I pitched it mostly as an HR experiment.
+
+Microsoft was getting so big at the time that people could hide out in random corners of Microsoft, and as long as Windows NT, the operating system succeeded, or Office, Microsoft Office succeeded, they could make a lot of money off their stock options.
+
+And so that’s basically a compensation-accountability disconnect. And so some of the best people at Microsoft, there was this Field of Dreams, wild opportunity outside of Microsoft, even though it was the place everybody wanted to work at the time, probably still is. There were great people. I’ll just say, like me, I would not have stayed, I would’ve gone out and started something on the outside, because the opportunity was so great. And Steve Ballmer understood this really well.
+
+Tim Ferriss: Got it, so this was like a talent retention pitch.
+
+Rich Barton: Sort of. Sort of. And so he’s like, “Yeah, we’ll take a flyer on it.” And that was great. And Greg Maffei, who was the CFO at the time, he became my chairman, and he was really supportive. He and I still work together. He’s been a great mentor to me. We took 150 people out of Microsoft. We gave them the choice if they wanted to stay or come, all but, I think, two people, we had 150, it was all but two people decided to come, take the adventure, give it a rip. I was 32 years old, 31, 32 years old.
+
+Tim Ferriss: Now, were you pitching those people yourself? What was the pitch? It’s going to be different than the pitch to Ballmer, right?
+
+Rich Barton: Yeah, way different. I mean, I had had this idea for a while. And so the people I recruited, back to an earlier comment I made, the people that were on the team were the people who were the adventurers, and the ones who would’ve left.
+
+And so this was all about the adventure. The hardest sell was not the people, it was the spouses. And I remember several dinners with an S-1, for those who don’t know, that’s an IPO document, with our Expedia draft of the S-1 lying on a dinner table at Wild Ginger in Seattle with a skeptical spouse walking — like, the S-1 is highlighted, and there’s annotation, and I’m having to answer — those were my toughest investors, actually.
+
+And anyway, it worked out really well, maybe too well, because Expedia was a real business. We actually were profitable and growing like crazy. I mean, obviously digital travel agent made a lot of sense. And so when Thelma and Louise went off the cliff, as you say, we were already public, and we’d gone to the moon, the stock price had gone to the moon. We crashed back down, but we had a real business, and very shortly popped back up on the climb, and just climbed from there. And we’re very successful. Microsoft, however, crashed with Thelma and Louise, and it took 17 years for Microsoft to re-achieve the same stock price it had in November of ’99 when we spun Expedia out —
+
+Tim Ferriss: 17 years.
+
+Rich Barton: — so the HR experiment kind of failed.
+
+Tim Ferriss: How long did it take Expedia to recover, or to get back on the climb?
+
+Rich Barton: I mean —
+
+Tim Ferriss: Not 17 years.
+
+Rich Barton: — to re-achieve the all-time high, probably a couple years.
+
+Tim Ferriss: Yeah, but a couple versus 17.
+
+Rich Barton: But the valuations were a bit nutty, right? So it was obvious that Expedia was on the right path very quickly, and there was kind of a flight to quality with internet investors, which meant find the profitable recent IPOs, which there were not many, and let’s invest in those. But we were one. Anyway.
+
+Tim Ferriss: How did you learn to pitch? How did you learn to pitch different stakeholders, right? Because you’re talking about employees, Ballmer, Gates, spouse. That is a skillset, right?
+
+Rich Barton: Persuasion.
+
+Tim Ferriss: Yeah. How did you develop that?
+
+Rich Barton: It just must’ve been an innate thing that got a lot of exercise. As I was growing up, I was an engineer by degree, but never a practicing engineer. I was an engineer because I liked technology. I was a geek.
+
+Tim Ferriss: What type of engineer, initially?
+
+Rich Barton: Well, the story there kind of answers the question. I was an industrial engineer theoretically, but I wanted to go study in Italy my junior year.
+
+Tim Ferriss: Now industrial engineer would be like, you end up going to a Smart Design or one of those types of companies? Or how are you thinking your path would unfold?
+
+Rich Barton: It’s not a degree anymore. At Stanford, it’s called management science and engineering. And then there’s a kind of a symbolic systems thing. The industrial engineering degree, which kind of sunsetted, was really a kind of manufacturing efficiency.
+
+Tim Ferriss: I got it. Okay, I got it.
+
+Rich Barton: Optimization, simulation, lots of computer work going into the design of making things more efficiently.
+
+Tim Ferriss: Kind of like the operations research finance department at other places?
+
+Rich Barton: That’s right. I did it just because it was a bachelor of science, not a bachelor of arts. And it was the most business-y of the engineering disciplines. At Stanford they called it imaginary because mechanical —
+
+Tim Ferriss: That’s catchy.
+
+Rich Barton: — and the electrical folks didn’t respect us. Probably deservedly, because we were more interested in business. But anyway, I did this because I had all these other interests and skills around persuasion, and people, and entrepreneurialism. And —
+
+Tim Ferriss: Already at that point as an undergrad?
+
+Rich Barton: Already, already as a kid, I had all that. And so I’d had a lot of exercise. I probably was a good pitch person already, but had a lot of support and exercise of that.
+
+Tim Ferriss: You mentioned Italy in passing, so we’re going to come to Italy, but how did you get that exercise when you were younger?
+
+Rich Barton: I went to Italy, so I got off the industrial engineering track, and Stanford was awesome. I came back and they’re like, “Well, you can’t get an accredited degree now.” I’m like, “I don’t care.” And Nina’s dad was a professor at the time and he said, “Well, at Stanford you can self-design an engineering degree, so let’s just design one for you.” So I designed one. So my degree is called general engineering: industrial economics.
+
+Anyway, unlike a lot of kids today, I worked real summer jobs. My kids generally did, actually, my kids have worked real summer jobs.
+
+Tim Ferriss: So what are we talking, like busboy, what do —
+
+Rich Barton: Yeah, I mean, my daughter, I’m just thinking about what their jobs are right now. My daughter spent, you’re going to know this place. After Gurney’s was redone, it became like this club scene. This is out in Montauk —
+
+Tim Ferriss: Once it got fancied up.
+
+Rich Barton: It got super fancy.
+
+Tim Ferriss: Took away the day passes for the locals, you bastards. Anyway, yep.
+
+Rich Barton: Yep. So it was after her sophomore year in college, I think. Yeah, sophomore year. And I’m like, “Honey, you’ve got a place to stay out in the Hamptons. You don’t need to get on the freaking track that every smart kid is supposed to take. You don’t need to do that. Why don’t you get real experience?” So she came and lived in our house out in Montauk, and was the, what do you call, who’s the person that stands at the counter?
+
+Tim Ferriss: The hostess.
+
+Rich Barton: The hostess at the club part of Gurney’s.
+
+Tim Ferriss: Oh, God.
+
+Rich Barton: Okay, where it was like $2,000 tables.
+
+Tim Ferriss: Yeah. Yeah. That’s quite an education in —
+
+Rich Barton: It’s an amazing —
+
+Tim Ferriss: — human nature.
+
+Rich Barton: — human nature job.
+
+Tim Ferriss: Oh, my God.
+
+Rich Barton: She had a crazy successful, interesting learning experience. We had fun watching it happen. And we also got tables at Gurney’s. Anyway, when I was a kid, I was the ice cream man. So I ran my own ice cream business. This was in Connecticut, I went to high school in Connecticut. I learned how to do house painting as a crew member of a buddy of mine. And then after one year doing that, like, “Well, I can bid the jobs myself, and I can hire a crew.” And so I had my own painting company for a couple years, which was hugely profitable for a kid. I made a ton. I had to pay for all my expenses at college. Not my tuition, my parents covered the tuition, but I had to pay all my other expenses. So making, back then, I would make like $15,000 or $20,000 in a summer painting. And that was a boatload of money. And so I had run my own businesses.
+
+Tim Ferriss: Got it. All right. So —
+
+Rich Barton: I knew I liked it.
+
+Tim Ferriss: And why did you go to Italy at all?
+
+Rich Barton: Why did I want to go when I was in school? I have no Italian heritage, as you can probably tell, but I went to Italy and Greece when I was in high school, with my Latin teacher, and just had these awesome kind of kid high school trips. And while I was in Italy, I literally fell in love with the whole vibe. The food, the wine, the girls, just the family culture, the work is not as important. And I kind of fell in love with it, and kept going back.
+
+So I went to study, and then after I sold Expedia to Barry Diller, we were public and Barry Diller bought it, and we had three little kids, and I was leaving after Barry, I wanted to give space to the next team. And I said, “Let’s go back to Italy.” And so we moved to Florence for a year after we sold Expedia. In fact, Nina, who I was talking about before, she was living there, married to a European guy, and I’d gone to Stanford there when I was a junior and I kept in touch with the woman who ran the Stanford program, Linda. And so we kind of moved to Florence and went back to school, and learned how to paint, and started road biking. Anyway, so I loved the whole Italy vibe.
+
+Tim Ferriss: So let’s take a closer look at the Barry Diller transaction.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: How did that come to be, and what were the most important aspects of that deal? Or could be deal structure, could be timing, could be anything, but how does that even happen?
+
+Rich Barton: So Expedia had been public for maybe four years, and had become very successful and pretty big, pretty highly valued in the market. And I think it came about, I mean, Barry was kind of interested. He was building a interactive conglomerate called —
+
+Tim Ferriss: This is IAC?
+
+Rich Barton: IAC, right. USA Networks, and then —
+
+Tim Ferriss: I think he owns most of the popular dating apps, things like that. I mean, IAC buys a lot of stuff.
+
+Rich Barton: Yeah, and then spun it out as Match.com. And he was post his media career, he got into interactive media, and he started buying stuff. And a guy, his kind of key corporate development strategist, and all around great fricking guy who worked for him, was a young guy named Dara Khosrowshahi.
+
+Tim Ferriss: Ah, okay. Folks might recognize that name.
+
+Rich Barton: I may be miscrediting, or giving you too much credit, Dara, but probably not. I think this was Dara’s idea, was consolidate the players in the online travel space. That it was already big, but it was going to be much bigger. And they just made an offer that finally — and Microsoft was the majority owner, but didn’t have anybody on the board, even.
+
+Tim Ferriss: That’s —
+
+Rich Barton: I think they owned 65 percent of the company, they didn’t have anybody on the board. They knew me, and they trusted Greg Maffei, who had left as CFO and was running the company now.
+
+Tim Ferriss: That is an unbelievable level of trust.
+
+Rich Barton: It just didn’t matter to Microsoft, right?
+
+Tim Ferriss: Yeah. I guess, as —
+
+Rich Barton: Just didn’t matter.
+
+Tim Ferriss: Just as a percentage of the total.
+
+Rich Barton: And at some point somebody came in, I won’t name names, somebody came in and said, “We need to focus at Microsoft. We need to get things focused. We’re too scattered.” And an easy thing to do was to take a big offer from Barry Diller. And so they did. It was a bit of a two-step deal. IAC and Dara and Barry bought Microsoft’s 65 percent. So we were public but captive to IAC, and Barry Diller was my chairman for a while, and then maybe eight months later, bid for the rest of it.
+
+Tim Ferriss: For the remainder?
+
+Rich Barton: And consolidated it down. Or I think they kind of pushed us to buy the number two player, which was hotels.com. And so we mashed those things together, and I moved on at that point.
+
+Tim Ferriss: So when in that journey, the Expedia journey, did you feel the highest high? At what point in that journey did you feel the highest high? For instance, I would imagine when you were working summers, and on your way through high school and college, there was probably a moment, I’m just guessing here, but when you had your first big summer with that painting gig and made 15, 20 grand, my God, you must have felt rich.
+
+Rich Barton: We went to the [inaudible]. Do you know what the [inaudible] is?
+
+Tim Ferriss: Yeah.
+
+Rich Barton: We took the crew to the [inaudible].
+
+Tim Ferriss: Yeah. So with the Expedia journey, was it the tail end, with the Barry Diller transaction?
+
+Rich Barton: No.
+
+Tim Ferriss: No, yeah.
+
+Rich Barton: No. Because there’s mixed emotions there, right?
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And I didn’t control the company. I learned that henceforth I would control the companies that I started. No, I mean that was great, and it made sense, and it created value. No, the highest highs were probably around the spin-out and the IPO. There’s kind of a funny IPO story that my wife, Sarah was pregnant with our first child, Will, during the roadshow. So this is November of 1999. It’s really pitching to the buy side. So it’s pitching to the mutual funds and —
+
+Tim Ferriss: To the mutual funds.
+
+Rich Barton: — to the investors.
+
+Tim Ferriss: Okay, got it.
+
+Rich Barton: And it used to be, I think now is a lot more on Zoom. Which it should be, by the way. But it was a rite of passage back then for companies going public, and a lot more companies went public then. And it was 15 cities over three weeks, five meetings a day, six meetings a day, chartered private plane with banker team, and CFO, and CEO zipping around the country.
+
+Exhausting, and exhilarating, and repetitive, and kind of boring. Also really fun. Anyway, so Sarah was pregnant, and she wasn’t due until December, but we had been on the road for two and a half weeks already. We’d filled the book 30 times over, which means we had a lot more demand. We knew the offering was going to be successful. These were back in the days when the offerings were a little bit managed to the advantage of the kind of inside banker people. But anyway, that’s a different story.
+
+So it was going to work, the IPO was going to work, and I called the roadshow off a day early. I flew back to Seattle, exhausted. I get in bed at like 1:00 in the morning after getting home. Sarah’s super pregnant, I get a tap on the shoulder at 3:00 a.m. and she said — she’s an OB, so she knows what’s going on, although that’s not always the case, but she knows what’s going on. And she said to me, “Honey,” this is like IPO day. “If our baby is born on the IPO day, do I really have to name him Expedia?” Which is what I’d promised the team. And then we went to the hospital, and while the IPO was happening, my son was being born, yeah, my oldest was being born. So that was actually the high point right there.
+
+Tim Ferriss: Wow. All right, now we’re tracking the path. So now you’re painting a vase of fruit in Florence, living the life of a —
+
+Rich Barton: It was a naked woman, it was light drawing.
+
+Tim Ferriss: There we go, all right.
+
+Rich Barton: Charcoal light drawing.
+
+Tim Ferriss: Charcoal drawing of naked lady, changing poses every 10 minutes.
+
+Rich Barton: What could be a better way to learn art?
+
+Tim Ferriss: What a lovely way to learn art. And living the life of a refined gentleman. An American.
+
+Rich Barton: Pasta and wine.
+
+Tim Ferriss: Pasta and wine, and culture —
+
+Rich Barton: Road biking.
+
+Tim Ferriss: — and road biking. Little cap, maybe.
+
+Rich Barton: Little cap, of course. No helmet.
+
+Tim Ferriss: Little —
+
+Rich Barton: Taking Italian classes in the morning.
+
+Tim Ferriss: Yeah, yeah. Espresso here and there. Sounds like a great life.
+
+Rich Barton: Yeah, it’s fun.
+
+Tim Ferriss: How the hell does Zillow happen?
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Do you start getting fidgety? I mean, what happens there?
+
+Rich Barton: Yeah, I was still pretty young, so probably — this is ’03, I was like 35, 36, and I was hoping art, music, I thought I might write books, whatever, find the next chapter. Because I had enough to take care of myself for the rest of my life. But something I discovered, I was still on a few boards, including the IAC board, which had bought Expedia, and Netflix, where I’d been on the board since 2000. And I’m still on that board and a couple others.
+
+So I was still involved in the business world, in a long-distance way. And though I had an amazing time, learning experience, I didn’t find my next calling. And I was still really curious about the business world and what was going on. And so I knew that we weren’t going to stay in Italy. We were going to move back, and I was going to do something else, which is great to learn.
+
+Tim Ferriss: And then?
+
+Rich Barton: And we did. We’d been in Italy for, we lived in Florence for a little over a year. We spent a few months skiing with the family, which was really fun, in the mountains.
+
+Tim Ferriss: And you came to the US, sort of, “I am going on a hunting expedition.” Did you already have an inkling of what you were going to do?
+
+Rich Barton: A little bit. A little bit. I didn’t know if I really had another startup in me, because I knew how much work it was. And I’d adjusted my life to prioritize some things I hadn’t prioritized when I was younger, like living well, and family, and body, and mind. And I was very curious and all kinds of different things, so the venture capital opportunity was available to me, to go be a GP at a venture capital firm. And I was kind of headed in that direction. And then my Zillow co-founder, Lloyd Frink, who was a guy I went to Stanford with and did Expedia with, he was still at Expedia, and he got fired by our good friend Eric, who was running Expedia at the time, probably for good reason. Awesome guy. Really smart.
+
+Tim Ferriss: I won’t follow up on that. I’ll let that one go.
+
+Rich Barton: It’s a fun story. But, so Lloyd got fired and Lloyd’s like, “Wait, wait, wait, don’t move to California. Let’s just sit in an office and brainstorm for a while.” And so we did, we did, and we went through a bunch of ideas. He went off on one that was kind of Dropbox before Dropbox. It was obvious that the kind of cloud storage thing was going to be huge. And I said, “Go figure that out, see what it’s cost.” And so he disappeared for a couple of weeks. So we were kind sharing an office, and came back and he’s like, “Yeah, a hundred percent this is going to work, but there’s no profit. Microsoft and Google are going to give this away.”
+
+Tim Ferriss: Where were you guys brainstorming?
+
+Rich Barton: We were brainstorming in his dad’s — his dad was a stockbroker, where he had an extra couple rooms in his office, and he just gave them to us.
+
+Tim Ferriss: New York City?
+
+Rich Barton: No, this was Seattle.
+
+Tim Ferriss: Oh, Seattle, okay, got it.
+
+Rich Barton: Yeah, yeah. So we’re in Seattle. Because we didn’t sell our house in Seattle when we moved to Italy, we moved back to our house. But we were looking for a new house. We were going to maybe move to California, or something in Seattle. Our family was getting bigger. And so we went through a series of ideas.
+
+And then at one point I said, “Hey, back when we started Expedia, we also wrote a plan for an electronic stockbroker, a matchmaking service,” all the classifieds categories, basically. And all the kind of agent categories were all obvious, that we were on a little team of people researching big ideas inside of Microsoft. How would the web change industry? And so we had all these plans. Expedia was one of the ideas. There was a, basically to create a digital real estate marketplace. And I dusted that off and I said, “Hey, what about that? I mean, you’re looking for a house right now. It’s really freaking hard.” This is 2003 and I can’t get the price of a home online. Are you kidding? I can’t even get the address. Because the industry had been very good at defending their special data.
+
+Tim Ferriss: Making it opaque.
+
+Rich Barton: Yeah, yeah. And we were the power to the people, guys. We were the guys who freed all that information for the regular traveler, and we were like, “Well, wants to be power to the people here too, right?” And we couldn’t believe that it hadn’t changed. And so that was the dawn of Zillow. So he convinced me not to move. And I said, “Well, I’ll be CEO, but I’m not going to work that hard.” He’s like, “Don’t worry, I’ll do it. Just be CEO. I need you to be CEO, because you have to raise money and stuff.”
+
+Tim Ferriss: Oldest trick in the book.
+
+Rich Barton: So maybe I am a 4-Hour Workweek kind of guy. I said, “Look, I don’t want to do it full time. You can use my name.” Of course he was like, “Yeah, sure. Whatever. You can do whatever you want, Rich,” knowing I’d be sucked in.
+
+Tim Ferriss: Let the line out.
+
+Rich Barton: He totally managed me. I think I’m in charge now. Well, he was in charge.
+
+Tim Ferriss: So when you say you’re brainstorming, there’s an entire universe of possibilities. What constraints or criteria are you applying to that brainstorming? What are you looking for? What are your searching —
+
+Rich Barton: I think most great ideas, that there’s just a big obvious problem. I like consumer stuff. And so that means the way I interface with the world, the way we all interface with the world, is rife with problems. And all those problems are business opportunities. And when you see a particularly big like, “Oh, my God, why is it this way?” Those are probably the bigger opportunities. And it’s almost as simple as that. We identified this big dislocation. We knew 100 percent that there would be a leading digital real estate marketplace in the US.
+
+Tim Ferriss: At some point.
+
+Rich Barton: At some point.
+
+Tim Ferriss: There’s an inevitability.
+
+Rich Barton: Inevitability. And business model? Who knows, who cares? It’s a giant. It’s a big pond. And so my business criteria for doing stuff is, is it a big pond, and are there good fishermen?
+
+Tim Ferriss: Right, because the travel CD-ROM wasn’t big enough, right? You said —
+
+Rich Barton: It’s a small pond.
+
+Tim Ferriss: A hundred million, that’s the entire market. Plus you’re not going to carry a briefcase that you’re doing weight training with inadvertently —
+
+Rich Barton: Problems.
+
+Tim Ferriss: — to read the thing.
+
+Rich Barton: A lot of entrepreneurs make this mistake of identifying a really big problem, but it is just a small opportunity. And then there are ones where, like I know Bill Gurley was on the pod a couple years ago talking about the Uber thing, the insight — you were involved there, a little bit.
+
+Tim Ferriss: I was one of the first three advisors when it was called Uber Cab, LLC. Yeah, way back in the day. And for people who didn’t pick up, Dara.
+
+Rich Barton: Yeah. Oh, sorry. Dara’s the CEO.
+
+Tim Ferriss: Current CEO of Uber.
+
+Rich Barton: He was the CEO of Expedia too, after I left, as well.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Anyway, a lot of people make the mistake, is what I was going to say, of identifying a real problem, but it’s just too small. Uber kind of, to a lot of people, looked too small because it was a black car TAM —
+
+Tim Ferriss: Exactly.
+
+Rich Barton: — total addressable market. But the insight that you, and Gurley, and Travis and —
+
+Tim Ferriss: Garrett.
+
+Rich Barton: — I guess J Cal and others had was that actually no, it was going to take not just the black car market, but taxi transportation and then ultimately more.
+
+Tim Ferriss: And it can expand the total addressable market.
+
+Rich Barton: That’s right. Car ownership, just transportation. And of course, obviously, it’s beautifully played out that way. Took a little while to see, but it’s amazing. Anyway, so “big pond, good fishermen,” start after identifying the big problem.
+
+And I guess that was the guiding thing here. I knew — Lloyd and I knew there would be a digital real estate marketplace. We didn’t know what the business would be. We didn’t know how we were going to play. And we started poking at ideas for attracting audience with software. And we made a couple of big mistakes before we landed on the solution.
+
+Tim Ferriss: What were some of the big mistakes, and how costly, how risky were they?
+
+Rich Barton: Pretty small venture numbers at that point, and Lloyd and I were funding it ourselves. We put the first five million bucks total in with a couple of friends. So costly, but not that costly. But the first idea, we were very —
+
+Tim Ferriss: Side note, also what Garrett Camp did with Uber early on.
+
+Rich Barton: He did too. Yeah, I didn’t realize that.
+
+Tim Ferriss: Yeah, there was self-funding for a while.
+
+Rich Barton: Interesting.
+
+Tim Ferriss: It wasn’t expensive. It wasn’t overly expensive, but —
+
+Rich Barton: It’s a good way to go as a second time founder, or a non-first time founder, if you actually have some resources, because you end up with more of the company down the road. I love Gurley, we’re really close, but by the time Gurley or the venture capitalists come in, if they’re writing the first check, they’re going to end up with a big chunk of the company, Which is great, especially if you get somebody like Bill. But we were able to do it ourselves. We were enamored of Google. Everyone was at the time. The magic business model that they sort of discovered or innovated, iterated on, that came from another company, was the AdWords, the digital auction-based marketplace.
+
+Tim Ferriss: When you say it came from another company, I might not know that wrinkle.
+
+Rich Barton: Yeah, it did.
+
+Tim Ferriss: Meaning they acquired something, or they —
+
+Rich Barton: I’m thinking, what’s the guy’s name who did the startup incubator factory? Gross?
+
+Tim Ferriss: Oh, Bill Gross?
+
+Rich Barton: Bill? Yeah. Yeah. It was, I may be getting this wrong —
+
+Tim Ferriss: Oh, am I making this — Idealab?
+
+Rich Barton: You get Idealab, a lot of companies sort of spun out of that, but one of them was a search engine whose name I’m forgetting. We can look it up later.
+
+Tim Ferriss: We’ll put it in the show notes, yeah.
+
+Rich Barton: But the whole basis of the search engine was that AdWords.
+
+Tim Ferriss: AdWords. Oh, wow. So did Google acquire that, or are they just being a better mousetrap?
+
+Rich Barton: I think the latter, but I’m not an expert. Regardless, I don’t want to speak out of turn.
+
+Tim Ferriss: We’ll put the story in the show notes.
+
+Rich Barton: Okay. Right. There’s a good story there, I’m sure. Why I brought it up was we were enamored of auctions. Auctions have huge geek appeal for mathy idealists. And we were like, “Well, obviously the US housing market should be an auction, and that’s the most efficient mechanism for price discovery.” Which of course it is. And we were like, “Okay, so that’s our business. We’re going to auction homes.” And what we learned trying to auction a home that our buddy Gordon got us kind of on consignment was that, well, two things. One, to have an auction work, you kind of need a real-time liquid market. Okay, duh. So you need all the bidders there at the same time.
+
+Well, the housing market doesn’t work that way. It’s a long period of time. You want to show it to a lot of bidders. That didn’t work. The second thing, which was obvious, is — and to all those innovators out there, if you have to educate your customer on how to buy the thing that you’re doing, if it’s like a radically new way to do it from decades or hundreds of years of ingrained human behavior, it’s a pretty heavy lift. It’s got to be super-duper simple, obvious, and 10 times better than the current way.
+
+And just, we didn’t check any of those boxes. But in pursuit of price discovery, we found the Zestimate, which was our killer feature. And the visual on the Zestimate that’s in my head, that kind of popped in our collective heads on the home auction web experiment, was a real time estimated value, algorithmically driven, as you’re Google Map zooming over neighborhoods. We wanted prices on every roof. Because everything should have a price.
+
+Tim Ferriss: And the timing of that is pretty wild. And it’s just like how things line up. I mean, how long had the aerial view been around prior to you guys?
+
+Rich Barton: Short.
+
+Tim Ferriss: It was short, right?
+
+Rich Barton: Short. And there was no iPhone. There were no smartphones. Yeah, short. But it was obvious. I was like, “Whoa.” And then I also had in my head, homes are, for American homeowners, oftentimes their largest asset, and the bulk of their wealth. And people care a lot about it. So I knew they wanted to know the value. I knew that was catnip, okay? In my gut, I knew that was — we did, the team knew it was candy. And I’m like, “Oh, it’s an investment. And so let’s plot the home value like a stock chart.” And so the aerial view with the numbers, and any home’s value laid out like a stock chart. Those were the two things. And when we discovered that, we were kind of off to the races.
+
+Tim Ferriss: Okay. So at the time, was it just rentable infrastructure, AWS, you get it going, you launch and it’s up to the right? Just a nice smooth rocket launch, is that what happened?
+
+Rich Barton: AWS didn’t exist.
+
+Tim Ferriss: I know.
+
+Rich Barton: No, dude, man, this was like server in a closet. Yeah, this was server in a closet.
+
+Tim Ferriss: Is it true that you forbade Christmas lights or something, like you’re preserving electricity and compute power and all this stuff?
+
+Rich Barton: I don’t remember that.
+
+Tim Ferriss: Who knows.
+
+Rich Barton: I don’t remember.
+
+Tim Ferriss: All right, got it. But the things of lore.
+
+Rich Barton: But David Beitel, who was our CTO at the time, and still is, and was CTO at Expedia with me, too, he may have told that story somewhere. So it may actually be right.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Yeah, I believe. I remember our launch blog post with Garrett, who worked for David doing the — what’s the professor in —
+
+Tim Ferriss: It’s Doc from Back to the Future.
+
+Rich Barton: “3.2 gigawatts,” whatever. Because we launched, and millions of people showed up, because Walt Mossberg, who is — who’s the equivalent? Is there any equivalent of Walt Mossberg now? No?
+
+Tim Ferriss: It’s like the Oprah of tech at the time, right?
+
+Rich Barton: Yeah. I mean, God. And Walt loved it, and Walt published, and millions of people came on day one, and of course the server in the closet tipped over for a while, and it was painful. But Amy Bohutinsky, who was running our marketing at the time, said, “Don’t worry, we’ll make lemonade out of lemons.” And the headline the next day in the San Francisco Chronicle was, “House porn site Zillow launches and falls over because it’s so popular,” or something, something like that. And she’s like, “Yeah, that’s going to be good press.” Anyway, I’m a big believer in the product being the most important part of the marketing mix, if that makes sense to you.
+
+Gurley actually challenged us when we launched. He was on the board, Benchmark and TCV were our A round funders, and he was on the board at the time. And we had had kind of a spend advertising dollars mindset at Expedia, because we really needed to grow exposure for the brand. And Gurley said, “Well, what if we didn’t have any marketing budget?” And that launched, we were like, “No way, you can’t do that.” But that made us think a lot more creatively about the features that we built, the way we built them, and then the way we PR communicated them.
+
+And I’ve since developed a pretty good playbook around I guess what I would call provocation marketing. When you have a really provocative feature that you know people are going to feel emotional about one way or the other and they’re going to talk about it, you’re on to something.
+
+Tim Ferriss: What are some aspects of that toolkit, or the playbook?
+
+Rich Barton: Yeah, I mean, having data, having a stream of data that people are interested in. Like Glassdoor, which I did with Bob Hohman, who was at Expedia with me as well, Glassdoor is another example of that. When you have constantly changing data that people are interested in, you can almost think about feeding that data to hungry consumers in a Bloomberg-like way. And so, the playbook that Amy put together was building a PR data distribution infrastructure down to the —
+
+Tim Ferriss: Remind me who Amy is. Sorry.
+
+Rich Barton: Amy was our marketing chief —
+
+Tim Ferriss: Got it.
+
+Rich Barton: — at Zillow. She’s still on the board today, and she was really creative about recognizing that there’s an infinite newshole for housing data at local newspaper level once upon a time. And if you could wire that up to just feed, constantly feed the endless appetite, housing is just an important topic, and there’s always space in the paper for a story on housing and changing prices. And so, we set up a mechanism to feed that data, which was a terrific brand builder for us, rather than spending ad money, and then just having this estimate be so provocative, like high school boyfriends house, philanthropist development team that are trying to figure out who’s a good target, whatever. It’s a —
+
+Tim Ferriss: Lots of applications.
+
+Rich Barton: Lots of applications, yeah.
+
+Tim Ferriss: I know you had a lot of fans. I think the Arizona attorney general was a fan.
+
+Rich Barton: That’s a deep cut. Wow.
+
+Tim Ferriss: No, but this is of interest to me because there was opposition, also.
+
+Rich Barton: Oh, yeah. A lot of the agents didn’t like us.
+
+Tim Ferriss: And my God, I mean, the number of, I don’t think they were actual ulcers, but just the rollercoaster ride that I was also on with Uber from a regulatory, like mobbed up local fill in the blank perspective, it’s just nonstop battles. And that was just part of the deal if you want to —
+
+Rich Barton: And actually part of the playbook.
+
+Tim Ferriss: Yeah, yeah. Right.
+
+Rich Barton: Honestly. It’s the same provocation marketing, it’s the exact same thing. It’s exactly the same.
+
+Tim Ferriss: Yeah. So, what happened with you guys?
+
+Rich Barton: Yeah. I mean, we were provocative to some of the industry players who were big lobbyists. The taxi commission in Uber’s case, in our case a lot of the real estate professional associations.
+
+Tim Ferriss: They were not —
+
+Rich Barton: A lot of voters.
+
+Tim Ferriss: They were not thrilled.
+
+Rich Barton: They were not thrilled, or they think they’re not thrilled. They don’t realize till later that it could be helpful, but whatever. Yes, they were —
+
+Tim Ferriss: Initially.
+
+Rich Barton: — provoked. No industry likes change. Most people don’t like change. I’m one of the people that loves change, but a lot of people, most people don’t. And so, we were seen as a —
+
+Tim Ferriss: You may like change when you’re the instigator of the change.
+
+Rich Barton: Well, that’s awesome. It leaves me more open to change from the outside too though —
+
+Tim Ferriss: Yeah, fair enough.
+
+Rich Barton: — I do believe, and obviously this is just human nature. Yeah, but the equivalent of the taxi commission in the Uber case was these real estate professionals, and a lot of places we had them lobbying to have us outlawed. Or, “They’re not licensed. How can they make an appraisal?” Whatever, whatever thing they’re going to make up. We knew we were on really strong legal ground, and so we weren’t so worried about that. But the strategy for combating that resistance was literally probably the same thing you guys did at Uber, which was we knew the legislators, state legislators, not to mention federal legislators were big fans of the site and the service. And so, all we had to do was make sure we just activated that latent love for the product itself, and it made it obvious that this way is the future way, and the lobbyists got nowhere and it was overcome.
+
+Tim Ferriss: Yeah. In the case of Uber, I don’t want to make this overly about Uber, but also turns out when people have something that is incredibly convenient and useful, they do not want it taken away.
+
+Rich Barton: No, of course not.
+
+Tim Ferriss: And if elected officials like the service or are even ambivalent about the service, they do love getting reelected.
+
+Rich Barton: They do.
+
+Tim Ferriss: And man, oh, man, if there are a lot of your constituents using that app and you take it away, they’re not going to be super happy about it.
+
+Rich Barton: Power to the people, baby. And you build magic stuff for masses of consumers that they want to talk about with their friends, unprompted on the sidelines of the soccer game or what have you, “Have you tried Uber? Have you tried Zillow? Have you tried Expedia?” Whatever. It’s like you’re definitely onto something, and having popular support, as we’re learning politically right now, is having big populist support is ultimately where the power is derived.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Sometimes you can go too far. We don’t need to talk about that. Of course you can go too far, and in fact it may be that you need to go too far to establish where the frontier is.
+
+Tim Ferriss: All right, well I can’t not take the bait on that one. So, what does going too far look like?
+
+Rich Barton: I was thinking specifically Uber, but —
+
+Tim Ferriss: Oh, all right.
+
+Rich Barton: Because it did in some cities, the municipality —
+
+Tim Ferriss: Oh, sure. Now, you —
+
+Rich Barton: Or Airbnb.
+
+Tim Ferriss: — can push too hard.
+
+Rich Barton: You can push too hard, and learn some lessons about how much leash you’re going to be given by the popular support, because it does tip into a point where, like with Airbnb, this is not a story, I know those guys a little bit, but it’s not a story I’m intimately familiar with, nor was I an early investor or anything. But they did off some homeowners in certain cities, not just the hotel owners. And so, they found the line and I think they’ve managed it really, really well because they lead from the heart. I think other companies may have not obviously led from a heart and had a difficulty. At Zillow our job was a little easier.
+
+Tim Ferriss: Well also with those battles, I remember there were early on a number of locations that were incredibly important. Not just from a ride volume perspective, but from a precedent-setting perspective. So, if you win a few of those precedent-setting battles, then you don’t necessarily have to do like a full-frontal assault on the next —
+
+Rich Barton: That’s right.
+
+Tim Ferriss: — 10 locations, because people have gotten the message you can be a little more diplomatic about it, which people figure out over time.
+
+Rich Barton: Yep. But then there’s the next country and then whatever. Anyway, there’s always something. But provocation marketing with a heart, with the end consumer’s best interests in mind, that’s a winner.
+
+Tim Ferriss: So, if you were teaching a class, maybe you already have, I have no idea, related to provocation marketing. All right, there you go. You get to choose, you can go back to your alma mater, wherever it might be. You’re teaching a class, what would other elements of the class be? Other resources, principles, anything at all that —
+
+Rich Barton: Yeah, while I try to figure out a structure here on the fly to give a couple other examples of stuff that I’ve been involved with. So I co-founded Glassdoor, which many people out there may know. And our provocation data marketing feature was how much money do people make? Not individuals, but the product manager at XYZ company, or the developer, or the customer service representative. And our model was, we knew that salaries was a little bit taboo for a lot of people, so it was inherently secret and provocative. And then Robert Hohman, who is my co-founder, and the team, they had a data collection problem, because it was ultimately user-generated content. People would need to share their salaries in a way that we believed, in order to get enough data to provide anything interesting to everybody else. And so, their innovation after hand cranking it with survey, their innovation was give to get. You show me yours, I’ll show you mine. Very good.
+
+Tim Ferriss: That’s very clever.
+
+Rich Barton: Very clever. And say, “Hey, I’ll give you a little taste, but if you want to see any more data you’ve got to share your salary, and your title, and your company. We promise you’ll be anonymous.” And do a company review.
+
+Tim Ferriss: How many people screwed that up where they’re the only person with that position? I guess it has to use —
+
+Rich Barton: And we had protocols for that. We did have protocols for that, but it worked really. And we also then solicited feedback on what it’s like to work at the company. And CEOs are kind of public figures, so okay, we’re going to let you review the CEO performance. And we knew all those things would provoke. We knew some CEOs would go crazy. So there’s another example while I’m formulating a framework. Another one is with another former Expedia guy, Mark Britton. We founded a company called Avvo, which was in the legal space. And we decided to rate attorneys, systematically rate attorneys. This had never happened before. It was just like Tripadvisor for attorneys. You can have a Tripadvisor for anything, these are business models that are well trod now but these were kind of innovative back in the day. And of course, we were going to get sued because we were rating attorneys.
+
+Tim Ferriss: Yeah, definitely a great way to kick the hornet’s nest.
+
+Rich Barton: Well, some investors, when we were raising money, I remember traveling around doing the Sand Hill shuffle with Mark. And I remember some people saying, “Well, is this legal? Can you rate people? You know you’re going to get sued, I’m not going to invest.” And we were like, “Yeah, we’re going to get sued. Did you see Die Hard?” You remember Die Hard, where the German terrorist leader is waiting for the last lock to open, and he needs the power to go down in order to be able to get the bearer bonds out of the Nakatomi Plaza safe? And the people are like, “How is he going to get the power to go down?” And he said, “Ladies and gentlemen, I’ll give you the FBI.” And they came in on those things and the FBI, the playbook said, “All right, cut the power.” Boom. Anyway, that was exactly the launch strategy of Ava. It was like, “Here come the suits, I’ll give you the FBI.” Anyways, perfect because it created all kinds of noise. So, I’m struggling with —
+
+Tim Ferriss: Well here, let’s go with the lawsuits. All right, so the Sand Hill shuffle, for people who don’t get that reference. So Sand Hill Road, if you could imagine going to like, this is not going to be the best comparison, but you go to, like, Kuwait and there’s a shopping mall with, like, Balenciaga and Prada, and all the fanciest brands. All the aspirational brands. Well, if there was such a place but it was all the highest end venture capitalists, that would be Sand Hill Road.
+
+Rich Barton: That’s right.
+
+Tim Ferriss: And now it’s more distributed, but still it’s a thing, right?
+
+Rich Barton: Oh, yeah.
+
+Tim Ferriss: If you go stay at the Rosewood and you’re right around the corner, that’s got its own stories, that’s a strange place, but —
+
+Rich Barton: Fantastic. Loved it, loved it.
+
+Tim Ferriss: And then you have, you name it, everybody’s there. All the big players. And so that’s the Sand Hill shuffle. So, why not be afraid of the lawsuits? What did you guys know that the guys who said, “Nuh-uh-uh, I’m not going to touch that with a 10-foot pole?”
+
+Rich Barton: Well, the founder, CEO, Mark Britton, was my general counsel at Expedia, and he worked Securities and Exchange Commission prior to that. He was a real attorney. And the way we did it, we were 100 percent convinced of our legal grounds.
+
+Tim Ferriss: Yeah, but people could still just consume so much energy. Right?
+
+Rich Barton: No doubt. So, we raised money to deal with that, but we knew it was going to be pretty cheap lawsuits and we could provide most of the legal billing ourselves anyway. And so it would be cheaper than hiring some fancy firm.
+
+Tim Ferriss: A lot cheaper.
+
+Rich Barton: And so we were convinced. And after we won the first few suits, they lost steam — the lawyers lost steam on suing. So yeah, I mean, it caused some venture capitalists to not do it, but the more disruptive oriented folks, we were like, “Yeah, great.”
+
+Tim Ferriss: So what happened with Avvo?
+
+Rich Barton: It did pretty well. It did pretty well. So, in a Tripadvisor for legal sort of way, it did really well. Ultimately these kind of Tripadvisory digital middlemen who were kind of SEO on one side, search engine, doing Google search, collecting Google search traffic on one side and trying to monetize leads on the other. As time wore on, a lot of those business models got somewhat disintermediated. And so, the protection against that is usually to go down into the workflow of the transactions of the industry, which is say what we’ve done at Zillow or what Expedia does.
+
+Tim Ferriss: So, could you explain that just one more time, and maybe an example would be helpful? So, let’s just say there’s a Tripadvisor for X, like you said, they’re harvesting traffic on the SEO side. So, their pages are engineered in such a way —
+
+Rich Barton: That’s right.
+
+Tim Ferriss: — maybe also using ad spend to drive traffic to these reviews, which are then monetized on some level.
+
+Rich Barton: That’s right.
+
+Tim Ferriss: How do —
+
+Rich Barton: Some people can’t see. But by selling those leads out the other side of the marketplace, so literally a lead middleman.
+
+Tim Ferriss: Got it, yeah. A lead general. And so how would they get disintermediated?
+
+Rich Barton: Well Michael Porter’s Five Forces would say, “Look, if you have an overdependency on any supply of customers, you’re strategically exposed,” for obvious reasons. If you have an overdependency on any supplier, you’re strategically exposed. And so, business strategy 101 says, “Diversify your sources of customers and your sources of supply, so that nobody gets too much leverage over you.” Okay, well —
+
+Tim Ferriss: Also it’s like a single point of failure, right?
+
+Rich Barton: Absolutely.
+
+Tim Ferriss: If the factory went down because of XYZ, that’s a problem.
+
+Rich Barton: We’re dealing with that right now in the country, because COVID discovered that we had lots of supply chain single points of failure. Anyway, we don’t need to sidetrack on that. So in that example, if you’re primarily getting your traffic from Google, paid or free, you’re developing a serious dependency on Google. And Google of course, in its own search for increased value, starts looking vertical, which means down into your business. And so, people probably noticed over the years that Google started doing reviews, and then they did their own maps. So they’re doing their Yelp reviews and their Tripadvisor reviews, and then they started doing airline schedules, and hotel bookings, and restaurant reservations, and, and, and. And so, when the big guy that you’re getting all your customers from starts taking a more than passing interest in your business model because they want to capture more value, you better figure out something else.
+
+And so, strategically speaking, my defense against that in my digital marketplaces has been twofold. One, build a giant brand the customers know and love, and therefore most of your traffic and customers comes directly to your app insights. You have to have a brand to do that in order to have power. And then two, look down your funnel and look into the workflow of the business you’re in, be it travel, or real estate, or legal, or jobs for the verticals that I’ve done stuff in. And make sure you become digitally integral to the workflow. You’re building tools for the industry, ultimately maybe even doing the transactions and having a platform for the transactions. And that in a nutshell is what Zillow’s long-term strategy is. We’re basically building a super app, a one-stop shop application for anybody who’s renting or buying, soup to nuts, everything integrated. All the professionals plug in and workflow. And that, a big brand, we have a big brand, we source almost all of our customers directly. Not all, but most. And we’re embedded in the workflow solving real customer problems, and the business is great and growing.
+
+Tim Ferriss: All right. So, I haven’t forgotten about the provocation marketing class, however I think this is a great place to buy you some more time and talk about naming.
+
+Rich Barton: Okay. Oh.
+
+Tim Ferriss: how do you name companies?
+
+Rich Barton: You saw that blog post. I played around with blogging, like all of us. It really stuck with some and it didn’t with others. I probably only had like 10 posts on my blog. But one of them was naming, because I’ve had a lot of fun naming companies, and I gave advice on naming. I think the title of the post, the site it’s on is called hopperanddropper.com, which is a fly-fishing term, which nobody’s gone to. I’ve only had 20 visitors, Tim being one.
+
+Tim Ferriss: Lucky 21.
+
+Rich Barton: So, I have a few rules about naming. First, when you’re trying to brand a company, if you’re building a consumer brand especially, you have two broad ways you can go, the easy way and the hard way. And I’ll forgive The 4-Hour Workweek and The 4-Hour Body, but I’ll tell you that there are no shortcuts. You take the shortcut to the long road, my coach Jimmy says. Anyway, the easy way is if you’re building a travel site to call it hotels.com, airlinetickets.com, you name it. Every category has a literal word.com. And the advantages to that are it’s easy to explain to people what you do, and the disadvantages to that are you don’t own any brand equity because you can’t own a word that previously exists. And so, you’re non-distinct and non-distinctive.
+
+There’s an in-between way, which is to use an existing word but make a new application of it, Apple computer, amazon.com, and that’s viable. But you have to build a new definition for that word, which those companies obviously did successfully. The hard way and the best way I think, for consumers, is to make up a word. Make up a word, which is super hard because you have to tell people what the word means. You have to define it for them. But once you do, you own that word, the definition of that word is yours and only yours. And so, I like the hard path because I like building brands. And with provocation marketing, I think I can get a big audience early, which begins to familiarize people with the brand. So, I was confident in my ability to, my and my team’s really, ability to do that. Okay, so now when you’re making up a word, what do you do? And I think this is what you’re referring to.
+
+Tim Ferriss: Exactly.
+
+Rich Barton: Okay. So high-point Scrabble letters. Do you play Scrabble?
+
+Tim Ferriss: It’s been a minute, but yes, I’ve played Scrabble.
+
+Rich Barton: Okay. You know that there are different point numbers on each letter as you play Scrabble.
+
+Tim Ferriss: Yes.
+
+Rich Barton: And do you remember what the high-point ones are?
+
+Tim Ferriss: I don’t.
+
+Rich Barton: Okay. They’re Z is 10, X is 10, that’s the highest points you can get. A-E-I-O-U are one. Here’s why. Q is 10 too. Here’s why. Z, X, and Q are super rare letters. A-E-I-O-U are super common. And so, rule number one, is pick the super rare letters, and pick them because they’re very distinctive. They jump off a page when you read, they stick in people’s brains in a way that’s not crowded. So, all my stuff has Zs and Xs, and some Qs actually too. Rule number two, fewer syllables is better than more, I learned this lesson with Expedia. Expedia was too many syllables. It’s worked out fine, we’ve overcome that, the company’s overcome that now, but it was, in hindsight, was a lot. I liked it because of rule number three, which is it was evocative of positive things, speed, expedition. So it said adventure and speed, and that all felt good in that word, but fewer syllables. I think two syllables is the sweet spot, because I also don’t want it to be a good dog name.
+
+So if the word could be a good dog name, you’re onto something, like you can call for it. Zillow. Anyway, another one is it can be turned into a verb pretty easily. So, pick a word that can be turned into a verb. So, a dog name and verb probably means it ends in a vowel sound. And then, the last one is double letters and palindromes are good too. So, anything that is a unique word form. Double letters, people remember, they jump off the page. And palindromes are words that are the same forward and backward spelled right. So just interesting, interesting words. Anyway, that’s my, that’s my handbook.
+
+Tim Ferriss: Palindrome, like my friend Mike Kim, back in the day.
+
+Rich Barton: I was struggling to think of one, I couldn’t pull one. I was like —
+
+Tim Ferriss: Taco Cat.
+
+Rich Barton: That’s a good game. So, you’re in the game space —
+
+Tim Ferriss: Yeah, Taco Cat.
+
+Rich Barton: That’s a funny game, isn’t it? It’s so stupid.
+
+Tim Ferriss: Yeah, it’s great.
+
+Rich Barton: It’s so fun.
+
+Tim Ferriss: Yeah, that’s so good. So, I’m thinking of double letters. So, there are names. Expedia had —
+
+Rich Barton: X.
+
+Tim Ferriss: Has an X.
+
+Rich Barton: X, speed.
+
+Tim Ferriss: Good connotation with pre-existing words or concepts, maybe one syllable too long. Then you’ve got Zillow.
+
+Rich Barton: Zillow, that’s the sweet spot.
+
+Tim Ferriss: Kind of named it, I’m imagining this Labrador retriever. Zillow.
+
+Rich Barton: And starts with a Z. How many words start with a Z?
+
+Tim Ferriss: It starts with a Z.
+
+Rich Barton: And two double letter, L-Ls, soft ending.
+
+Tim Ferriss: Now, double letter, but I’m not sure because I am not up to speed with my Scrabble, Glassdoor.
+
+Rich Barton: Glassdoor.
+
+Tim Ferriss: How did —
+
+Rich Barton: Yeah, in the mid, in the middle. It was pretty evocative of having people peer — it’s transparency, power of the people and transparency is a big thing. And we really liked looking in through the glass door inside of a company. Two syllables, not a great dog. Not a great dog word, but two double letters. So it jumps off the page, it’s an interesting looking word. I would say we get a B on that, but Robert did a very good job with marketing that.
+
+Tim Ferriss: All right. So, if you need more time, I’m not going to forget about it, with the provocation marketing curriculum. And it could just be one seminar, it doesn’t have to be ongoing. Just if that complicates the envisioning process.
+
+Rich Barton: Find a seven deadly sin zone, something that is emotionally core to us. That you know is going to incite an emotional response. So some topic that people are emotional about. And then, go address some sacred cow, some taboo or sacred cow in that space. Most of the ideas that you could probably think of with that outline would be really negative. And then, get rid of all those, because I do believe a cheap way to get attention is to scare people, but I think it’s cheap. It’s a cheap way to lead, is to scare people. Effective but cheap. And it doesn’t make people feel good to be scared. So, if you’re building a brand and a service, you want people to be provoked, but feel good, or tickled, or entertained. And so, that is where I would head with the seminar, something — and then we’d end up brainstorming about getting people’s ideas for that.
+
+Tim Ferriss: Let’s touch on briefly, mentioned Bill Gurley, of course famous venture capitalist. He’s been on the show. Brilliant guy, also quite hilarious.
+
+Rich Barton: And local.
+
+Tim Ferriss: And local.
+
+Rich Barton: Hey, Bill.
+
+Tim Ferriss: Yeah, yeah. He’s right down a couple blocks from where we’re sitting right now. You have spent time at Benchmark Capital. Which way back in the day, I mentioned this to Bill, when I first moved to Silicon Valley a book was recommended to me called eBoys, way back in the day.
+
+Rich Barton: Exciting.
+
+Tim Ferriss: And regardless, putting aside how Bill may or may not feel about it, we didn’t really get into it. I’m sure there’s lots of stuff that could stand some fact-checking, but it was incredibly inspirational.
+
+Rich Barton: Super entertaining.
+
+Tim Ferriss: And so entertaining. I mean, this was the heyday. I mean, this was just rocket ships everywhere. So fun to read. So, you’ve spent time at and with Benchmark, what led you to that? Was that biding time until you figured out which next big swing to take? What was the motivation? And then, also what did you learn there or what came into greater resolution or clarity while you were there?
+
+Rich Barton: Yeah, okay. So, as we chatted about before when I was coming with my family back from that sabbatical, I’m a big believer in the sabbatical, in Italy, and was considering the next career move, I got to know first Bruce Dunlevie at Benchmark, and then Bill and the other guys. I did read eBoys then too, which was romantic in a weird way. But for business geeks like me and you, maybe romantic. And I also knew that I had a personality that did want to have my fingers in a lot of stuff.
+
+Tim Ferriss: They did.
+
+Rich Barton: I did, yeah. I knew that. I knew I liked to do lots of things and I wanted to do lots of things, and I could do lots of things. I could think about lots of things. And so, in the course of trying to figure out, prior to Zillow, trying to figure out what to do, I got to know those guys really well. They invited me to a bunch of stuff to sit in on stuff, I knew I would be good at that, I knew I liked doing that. And then a condition with Lloyd Frank of doing the Zillow thing and taking the CEO title, I said, “Look, you know I’m going to do a bunch of other things too. I’m going to start more companies and I’m going to do the venture capital thing.” And he was like, “All good, no problem.” And so, as a way to keep myself stimulated and seeing lots of stuff, and get down to the valley, I was in Seattle, which was not really a venture hotbed at the time. Cloud computing hadn’t happened yet.
+
+We did have Amazon, Expedia, and Microsoft. And so the action on the cutting edge was down in the valley. I had some boards I was on down there as well. And so, I took the venture partner job with Benchmark, which is a pretty ill-defined position, as a way to keep me going to the valley and keep me in the flow of the latest stuff. And I really loved that. I do believe that ended up benefiting all the other stuff I was doing as well. I really love that team, I love that team to this day —
+
+Tim Ferriss: How did it benefit the other things? Was it just seeing around corners, getting an idea of what’s coming before most other people have a chance to?
+
+Rich Barton: Yeah, and thinking of new ideas for companies too. But I’m a big believer there are some companies that hold on to their people and say, “You can’t go do other things. Don’t sit on other boards.” I really like executives that are on my teams to have another board. And if you love it, set it free. I mean, if you’re scared about losing people and you’re being too retentive, that means you’re too insular probably. And you’ve got to give to get, if you give time and get interested in other business models, you help them, but you end up learning a bunch of stuff for your own company. I’ve learned so much from sitting on the board of Netflix that I’ve imported to my other companies —
+
+Tim Ferriss: Can you explain, just for folks who may not be familiar, what does it mean to sit on a board? What does that actually mean? And it depends board to board, I’m sure, on responsibilities and expectations, but along with that you must have lots of requests to join X, Y or Z boards. How do you choose the boards to be a part of?
+
+Rich Barton: Okay. What it means to sit on a board is when a company’s private, it means help the CEO and the leadership team build the company. So, it’s really being an advisor and a coach, and somebody with a lot of business building experience to help pick the right strategy. You’re not running anything, but you’re basically coaching the entrepreneurs who oftentimes are less experienced, sometimes not, but oftentimes less experienced. And I would always recommend assembling a board of people with real experience who are going to be engaged. And so, it’s a company building exercise. And then when it’s time to fundraise, can totally help with the next fundraising. It can help with recruiting. One of the very best is at this is, there’s so many good ones, but Bill is really good, as you’ve seen in the Uber case, at really helping build companies. Okay. And a public company is a little different.
+
+Tim Ferriss: May I add one thing?
+
+Rich Barton: Yeah.
+
+Tim Ferriss: And I’ve never been on a board, but —
+
+Rich Barton: Really?
+
+Tim Ferriss: Yeah, no, I’ve dodged it, I guess in a sense. Maybe a —
+
+Rich Barton: You have a negative impression?
+
+Tim Ferriss: No, no. It’s not a negative impression.
+
+Rich Barton: You dodged it.
+
+Tim Ferriss: Well, I feel like, dodged is a strong verb to use.
+
+Rich Barton: That was a missile coming at you. And you —
+
+Tim Ferriss: I have felt like I, at the time when these opportunities have come up, that I did not have clear criteria and I don’t want to commit to things reactively.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Which is part of the reason why I’m asking you.
+
+Rich Barton: Okay, got it.
+
+Tim Ferriss: And also it seems like, and definitely correct me if I’m wrong, but another responsibility of a board is to fire leadership if it comes down to that.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Right. It can be a bed of roses and looking forward to the future and a lot of good things. It also comes with responsibilities to handle the tough times.
+
+Rich Barton: Yep.
+
+Tim Ferriss: And that can —
+
+Rich Barton: Especially for a public company, those are the most important times too.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: When you’re company building as a private company, it’s a little less important.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: That’s good context.
+
+Tim Ferriss: But it’s something that I’ve been not necessarily reconsidering because I’ve —
+
+Rich Barton: I think you should. I think you’d be good.
+
+Tim Ferriss: Okay. Tell me.
+
+Rich Barton: Well, you’re a coach.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: That’s all it is.
+
+Tim Ferriss: Okay.
+
+Rich Barton: I mean, it’s what it primarily is, you’re instinctively a coach.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And you have a lot of experience sets and you look for analogies, you look for oh, this situation here is a lot like this other situation and that makes you a good communicator.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And that is oftentimes what good coaching is.
+
+Tim Ferriss: I, I shouldn’t say inadvertently because it’s not inadvertent, but informally do that already, right, with a lot of the founders that I’m involved with.
+
+Rich Barton: Which is fine too.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: In the best of circumstances, it is that same way on a board.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Okay? And those are the only boards that I’m involved with, is those that are really there to coach and give advice. Sometimes, oftentimes in a public company, when you get into the public markets where your responsibilities are a little different, okay?
+
+Tim Ferriss: Yeah.
+
+Rich Barton: You have these hardcore responsibilities to represent shareholders, and the only real power you have is capital allocation a little bit and who’s the CEO, okay?
+
+Tim Ferriss: Capital allocation, meaning how do they spend their funds on various things?
+
+Rich Barton: Raising money, spending money.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Usually not to the budgetary, but big acquisitions, whatever.
+
+Tim Ferriss: I got it. Mm-hmm.
+
+Rich Barton: Big changes in the cap table, in the balance sheet that will affect shareholders, okay?
+
+Tim Ferriss: Yep. Got it.
+
+Rich Barton: Oftentimes public companies, depending on their age, usually as they get older, they stop acting like a private board where it’s really about the strategy and coaching and helping and building. And then becomes more about institutional shareholder services, rates, directors.
+
+Tim Ferriss: What is that, oh, wow. Okay. They’re like the lawyers competing to have good ratings on Avvo?
+
+Rich Barton: Kind of.
+
+Tim Ferriss: Okay.
+
+Rich Barton: And then when a board —
+
+Tim Ferriss: This is something I haven’t heard anything about.
+
+Rich Barton: If a board —
+
+Tim Ferriss: Oh, this is juicy.
+
+Rich Barton: If a board tips into, let’s call them professional directors who are really worried about their board director reputation, it becomes more about them and process and CYA.
+
+Tim Ferriss: Cover your ass.
+
+Rich Barton: Yeah. Because you don’t want to get sued, whatever.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: You don’t want to look bad, whatever, versus let’s build a company.
+
+Tim Ferriss: Yeah. That doesn’t sound fun.
+
+Rich Barton: And I’ve really actually never had a board tip into that. I’ve had some boards devolve into finger pointing and what have you, but in the private space, right?
+
+Tim Ferriss: Yeah.
+
+Rich Barton: I’m on a few public boards, but they’re strategy and how can we grow and how can we help you and how’s the team doing?
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And so if I don’t get a good ISS rating, which I have some of the worst there are out there. Really, I do.
+
+Tim Ferriss: Wait, wait, who actually determines the rating?
+
+Rich Barton: I don’t really know the process and I don’t really give a rip. But some survey, it’s a stick-up job, these things.
+
+Tim Ferriss: Stick up job, like give us what we want or else?
+
+Rich Barton: Look, it’s like bond ratings or whatever. These ratings firms, they do ratings and then they sell consulting services to the customers.
+
+Tim Ferriss: Yeah. Yeah.
+
+Rich Barton: It’s just a classic. And mutual funds and ETFs, whatever hire them and they can’t track every company. They look at the ratings and how we should vote on the proxy issue and blah, blah, blah. Anyway, I’ve got very low ratings for lots of nonsensical reasons, but I don’t care, okay?
+
+Tim Ferriss: Yeah, yeah. Yeah, yeah.
+
+Rich Barton: I personally don’t care, but a board that’s full of directors who really do care is not as fun. Anyway. Framework, framework for you, what you asked.
+
+Tim Ferriss: Yep.
+
+Rich Barton: Greg Maffei, who’s on my board at Zillow and who I’ve worked with for a long time, I mentioned already, and Jay Ho gave me the same advice. Jay’s another venture capitalist who I work a lot with. We’re on boards together. Construct. A good construct that Greg told me early in my career was, “Is it local? Is it fun? Is it lucrative?”
+
+Tim Ferriss: Uh-huh. Yeah.
+
+Rich Barton: That’s a good place to start.
+
+Tim Ferriss: Those are good starting points.
+
+Rich Barton: You can zoom now a little bit, but you really don’t want to spend your life —
+
+Tim Ferriss: That’s another thing that put me on the sidelines is I knew a few people who, they just seemed like traveling salesmen in the sense. It was like George Clooney from Up in the Air, when he was just traveling around a different city every other week.
+
+Rich Barton: Soul crushing.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: It’s not quite that way, but —
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Yeah. Greg, when he laid it out for me, he’s like, “It’s got to be two out of three at least. If it could be all three, trifecta, score.”
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And lucrative meaning potentially lucrative.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: You would buy the stock as a growth stock.
+
+Tim Ferriss: Mm-hmm. And this is as good a point as any to just explain the, I guess, compensation structure. How does it work? You get an equity grant, you have options that vest over time, and then I suppose it depends on the state and stage of the company.
+
+Rich Barton: That’s right. But private companies often are not compensated because you’re the venture capitalist.
+
+Tim Ferriss: Right. Mm-hmm.
+
+Rich Barton: Okay? You’re the funder, so you’re doing it because you already own a chunk of the company.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: That’s your compensation.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And most startups, most private companies can’t afford to pay. Now the late-stage startups, the forever startups now, like I’m sure Stripe directors make a lot of money.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Public companies, it’s really just salary bands based on the size of the company. I mean, for most mid-cap public companies, I would guess it’s 200 to $350,000 a year.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Most companies are for big meetings, committee meetings, whatever. Not a huge chunk of time.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: It’s nice. And then usually they enable the directors to choose if they want it. Some part has to be in stock and some could be in cash.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Anyway, I don’t have a ton of experience with those.
+
+Tim Ferriss: Got it. All right. Fun, local, lucrative.
+
+Rich Barton: Potentially lucrative.
+
+Tim Ferriss: Potentially lucrative.
+
+Rich Barton: And fun has got to be like it’s a proxy for, maybe it’s a cool company, whatever, that’s fun. But really it’s the boardroom dynamic.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: You look around the table and at the leadership team. And are these interesting — is it a collegial, everybody’s rowing together in the same boat kind of situation? Or is it a, “We got old factions fighting and these guys want that and these ones want that.” And run away.
+
+Tim Ferriss: Less Game of Thrones.
+
+Rich Barton: Yeah, exactly. No fun. No fun.
+
+Tim Ferriss: All right. We’re drinking our carbonated – Japanese citrus. Yes.
+
+Rich Barton: Yuzu coconut water.
+
+Tim Ferriss: Feeling very —
+
+Rich Barton: Infused.
+
+Tim Ferriss: Well-hydrated and infused. And that is as smooth/awkward a segue as possible to do a callback to something you mentioned earlier, which was, and then I started paying attention to things I had neglected before that, including health and body, things like that.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: When did that happen? Was it a gradual development of wellness habits, self-care, or was there a reckoning at some point? What happened?
+
+Rich Barton: Yeah. I mean, I think for a lot of people it’s a health reckoning for them or for somebody else that shocks them into — and maybe an overlay of general age.
+
+Tim Ferriss: Mm-hmm. Yeah.
+
+Rich Barton: The substrate is age.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And ultimately everybody probably figures this out, some sooner than others.
+
+Tim Ferriss: What is your age now? I have no idea. I can’t tell.
+
+Rich Barton: I’m 57.
+
+Tim Ferriss: Okay. God.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Wow.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: You’ve really held onto the youthful glow.
+
+Rich Barton: Everything’s falling apart.
+
+Tim Ferriss: Look at me. Oh, God. I’m like American History X as of 10 years ago and then it’s just the crow’s feet are turning into crow’s legs. But you seem to be very active.
+
+Rich Barton: I am. For me, it was that same thing. It was a catalyst, a pretty sudden external catalyst. Not my health, but my wife’s and children’s. And so I have three kids, Will, Josie, and Russell and Josie and Russell are twins. And twin pregnancies are high-risk definitionally. And so I was aged maybe 35, 34, running Expedia as a really young public company CEO. Company’s doing great, but I had to deal with stuff like 9/11 in the travel business. Anyway. And I had been a pretty, not quite sleep under the desk, but work all the time kind of guy for a long time because I love my work, whatever.
+
+Tim Ferriss: Right.
+
+Rich Barton: We socialized with Microsoft people and then Expedia people and we just lived, this was our lives. We talked about it at dinner. And so I was pretty neglectful, while I was a weekend warrior type basketball player and tennis player and snowboarder, I didn’t yet realize that I had to maintain myself in order to be able to do those things. I was just working too hard, working all the time. And then when Sarah was pregnant with Josie and Russell, she went into labor really early. We were on our way up to Whistler, and she was, for those who understand these things, I think she was 27 weeks pregnant out of a 40-week typical gestation period, which is very early. It’s not very, very early, but it’s danger early. We were driving, and on our way, Sarah was like, “I think something’s going on. Let’s go stop by the hospital.” We stopped by the hospital just so her OB could check her out and she was partially dilated and some small contractions and Sarah thought nothing of it. The shoemaker’s kids have no shoes.
+
+Sarah’s like, “Oh, fine, I’ll just keep the seat reclined as we drive up to Whistler.” And her doctor, Edith, said, “Not only are you not going up to Whistler, you’re not going home. You are going to be admitted to the hospital. We’re going to put you on muscle relaxants.” And so that began a six-week, very scary period in my life and her life where she was in the hospital making sure that the babies didn’t get born. I was taking care of my three-year-old, Will. And everything turned out great. She carried them to 35 weeks or something, 36 weeks. Kids were perfect, the birth was a little hard, the kids were perfect and it all worked out. But in the course of that period of time, it got me to just reassess my life and how I live my life and what my priorities were and how I needed to take care of myself mentally and physically.
+
+I had the realization that for sustainability, I was going to have to start doing a bunch of things. If I wanted to do the things I love to do for the long term, I was going to have to really build my foundation. I decided to quit my job at that point too. I was still CEO, IC had just acquired the company and I made the decision at that point that I didn’t need it.
+
+Tim Ferriss: Need to change.
+
+Rich Barton: Need to change.
+
+Tim Ferriss: And what were some of the changes? How did you layer things in? Did you boil ocean all at once and it was like, all right, here are the 12 new things I’m starting. Did you layer it in and would you have done anything differently?
+
+Rich Barton: I started just exploring things. The big change was we moved to Italy six months later or maybe eight months later, and I developed a whole new set of things I did when we were living in Italy. I took up road biking, which is a social Italian thing to do, which was great. It was great for making friends too. But I had a period of time after that where I was in Seattle and I remember the first real class, the thing I’d ever done was hot yoga. And I was like, wow, this is amazing. I feel incredible after I come out of that class and it’s strength and some conditioning I guess, and really interesting and a mental thing too. And I started doing that. And then I didn’t hire a trainer until much later, but I eventually got there. I didn’t lift weights for a long, long time. It was more just running. I took up running, I ran a couple of marathons. I discovered my joints were not built for marathons anyway, I did a bunch of things, recognizing that I felt better when my body felt better and my mind felt better when my body felt better.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And it’s just built over time to the age I am now where the physiology of what’s happening to my body and my bone density, my muscle mass at my age, I’ve continually been ramping up how much I do A, because it makes me feel good, but B, because I’m just age-wise deteriorating.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And if I want to snowboard, I’ve snowboarded 35 days this year, and it’s been amazing. And if I want to keep doing stuff like that, I’ve got to be strong.
+
+Tim Ferriss: Mm-hmm. What does the current regimen look like, generally speaking? I’m sure there are exceptions and maybe you travel, go to various places, but what does the general regimen look like?
+
+Rich Barton: Yeah, I would say probably a couple hours total of zone 2E type stuff.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Bike, rowing, maybe tread.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: My knees are not great running, but a softer treadmill works. But the Peloton is my favorite one there.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And then weightlifting different body parts maybe four times a week.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And then a lot of just play stuff.
+
+Tim Ferriss: What kind of play?
+
+Rich Barton: A lot of snowboarding and I can –
+
+Tim Ferriss: I got it. Sports.
+
+Rich Barton: Play sports.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: I play tennis. I like to do a lot of stuff with my body in the world. Yeah.
+
+Tim Ferriss: And how do you fit that in? I mean, you’ve got a lot going on. You like building, you continually, as our mutual friend Chris Sacca has in one of his suggested topics for exploration since I asked him, you continually put yourself back in the arena as a builder.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: You are on several boards. I mean there are demands, I’m sure there’s a lot of inbound that you say no to.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: How do you think about the self-care? Is it the first thing that you block and then that’s it?
+
+Rich Barton: Yeah. For me now, priority wise, that is my family and my health is essential to my family’s health too. My family and my health and my state of mind. But I am not operating, about seven, eight months ago after my second or third stint as CEO at Zillow, I kicked myself back upstairs.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And so I’m no longer the day-to-day CEO, which is terrific. It’s helped. But I’ve always been the guy who, my joke was, I’m very much a delegator. I’m very much a pick great people and then give them lots of space.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And actually a leadership development technique I often coach is for a senior leader or a middle management type leader, I encourage them to really take a vacation and disappear, okay? And most people think that’s going to be harmful to their business or their career. And what I try to coach them on is no, that is actually the way you develop your leaders. One of the ways you develop your leaders, because if you’re really disconnected, you’re on a surf trip in Indonesia and you had zero connectivity —
+
+Tim Ferriss: for how long would you recommend?
+
+Rich Barton: For two weeks, okay?
+
+Tim Ferriss: Uh-huh.
+
+Rich Barton: Do it for two weeks and be disconnected. And your teams are going to have to figure out how to deal with stuff that’s important because it’s gonna arise.
+
+Tim Ferriss: And you’re going to have to create systems and policies and rules ahead of time that will outlive the surf trip or whatever the trip.
+
+Rich Barton: That’s true. But from a leadership perspective, sometimes the real leader of an organization is not necessarily the one with the title.
+
+Tim Ferriss: Yep.
+
+Rich Barton: And when somebody’s really disconnected, the senior leader is disconnected, leadership is an emergent property, okay? And it emerges. This is a long way of saying, I have always felt that way about my universe too. I believe the most secure people are willing to let go and roll the dice on the other people and answer the question, who is your successor? If you were hit by a bus, who would take over?
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Okay. And the less secure people, the more insecure people put themselves in a position where they seem indispensable to senior management and couldn’t possibly leave. Okay, that person is not promotable.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: The person who has cultivated leaders under them, that person is totally promotable. Even though that person’s more expendable too, right? And so it’s that fine thing. Long-winded way of me saying, I’ve always had a lot of things going on. And my joke was, if I’m doing my job really, really perfectly, I can be on my surfboard, okay? And nobody knows when you don’t show up to work. If you have eight jobs, everybody always thinks you’re working on the other thing. I’m being glib and it gets a little bit of a chuckle, but I am a seriously leverage-oriented person.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Yeah. It’s not that hard.
+
+Tim Ferriss: Yeah. What are other ways that you identify opportunities for leverage or think about leverage?
+
+Rich Barton: I mean in a life context, it is just surrounding yourself with great people who care.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Who have skills and who care about whatever the mission is, be it building a business or building a family. Sarah is amazingly smart and capable and cares and the stuff that she’s in charge of is going to happen well.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: That’s an unbelievable feature to have in a partner as you’re looking for a partner.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Lots of stuff matters in finding a partner, but it’s really a partnership. If you guys are going to have a baby, that’s a business of sorts. Anyway, I think it’s mostly about picking the right people.
+
+Tim Ferriss: Any recommendations for people who are hiring folks they have not known for a long period of time? Any recommendations for the hiring process? Because a lot of people interview well who don’t necessarily perform well, they know what to say.
+
+Rich Barton: And reference checks often are —
+
+Tim Ferriss: Reference checks —
+
+Rich Barton: Conflicted.
+
+Tim Ferriss: I’ve had the worst luck with taking reference checks at face value. There’s some ways to work with that, but —
+
+Rich Barton: Yeah. Two things I would say. One is my favorite section of the resume, I guess now LinkedIn, it’s not really a section on LinkedIn, but is always in the very bottom, which is the interests, okay? And I want to get somebody in an interview situation talking about their interests and why they put them there. And then just asking them basic questions and watching whether or not they have any passion to see a real spark.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Because if they put it there, that is what they’re interested in and they’d better be able to light up on it. When I was earlier in my career, I would always make up business cases around some interest. How big is the ski industry because you put skiing, whatever. And that was always a fun stepping-off point. I want to find people who are passionate people.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And then the second thing is get used to pulling the pitcher off the mound quickly.
+
+Tim Ferriss: Firing someone.
+
+Rich Barton: Yep.
+
+Tim Ferriss: Okay.
+
+Rich Barton: And it’s hard when you’re early in your career, it’s not as hard later. All of my mistakes as a leader have been leaving, almost all of them, have been leaving the pitcher on the mound too long hoping that the arm would get better.
+
+Tim Ferriss: What have you learned in terms of process for firing? Any approach, go-to phrases, rules, right? You’re going on your two-week surf trip, there’s someone below you who is going to fill that leadership void and he or she is going to have to fire someone and they’re like, “Hey boss, I don’t want to bother you, but this is something I haven’t done before. Give me some advice.”
+
+Rich Barton: Yeah. Don’t do it via text. Be an upstanding person, have some courage. You’ve got to be face-to-face. But it’s actually not that hard. My advice would be, look, if you’re not happy with the performance of this person, I guarantee you the person isn’t happy either.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Therefore, you can increase love in the world by releasing that person to find where that person belongs.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: That person belongs somewhere else, that person’s going to be happy somewhere. Help that person find that somewhere. But you’re going to be happier when you release that person, that person’s going to be happier too. And so if you make it a partnership, if you make it a joint decision effectively, or at least get the interests aligned, which it almost always is, it’s not as hard. And when you do that, you naturally are being human.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: If you’re looking for shared alignment, that means you care. That means you’re showing heart. And having heart in this situation is really important.
+
+Tim Ferriss: Mm-hmm. And then in terms of the delivery, the conversation, any tips on how to manage that?
+
+Rich Barton: You do have to be ready for a lot of stuff to come up.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And as the person holding the power in this situation, you have to wear it. You have to understand and be sympathetic and non-argumentative in order to get people on the same page. Oftentimes, just like in life with anything, people really do need to get it out and be heard.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And that’s great.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: That’s great. And then asking advice on the way out too, like for voluntary or involuntary termination, sometimes it’s hazy, right?
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And soliciting information on the way out for yourself and the organization is often appreciated and often revealing too. That’s good.
+
+Tim Ferriss: Exit interview.
+
+Rich Barton: Exit interview is important.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: In as casual a setting as you can make, as you can muster. I believe the entrance, the one-month post start is a really great time to get observations from new people too, because they haven’t been fully indoctrinated yet and they probably are good consultants right then.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Random question, I don’t know, you could be covered in tattoos, but what is the story of this tattoo?
+
+Rich Barton: Family.
+
+Tim Ferriss: All right.
+
+Rich Barton: Five of us in the family, things we love.
+
+Tim Ferriss: At a quick glance, it looks like a snowflake, but those are trees?
+
+Rich Barton: It’s made up of five trees. It’s a snowflake in total shape, and it’s a starfish in the negative space.
+
+Tim Ferriss: Uh-huh.
+
+Rich Barton: My daughter, Josie, when she was 16, which is too young to get a tattoo, asked Sarah if she could get a tattoo or asked her more specifically, would she get a tattoo with her.
+
+Tim Ferriss: Mm-hmm.
+
+Rich Barton: And Sarah’s like, “Pft,” well, you met Sarah. Like, “Sure.” She’s like they brought it to me and I was like, “Okay, let’s design one as a family.”
+
+Tim Ferriss: Yeah. No Wile E. Coyote.
+
+Rich Barton: The first versions, you know those on the back of a minivan, the family of five with the stick figure mom? That was what Josie drew.
+
+Tim Ferriss: The V1.
+
+Rich Barton: Josie’s very creative. You’re creative, honey. But it was funny, that was the first version and we were sharing different versions and iterating. And at some point Sarah said maybe we should bring this artist friend Joe Park into this. And he’d never designed a tattoo. We brought him and he was super psyched to do it. So then he led the creative iterations and we ended up with this. They look exactly the same, but they’re not, they’re all unique. They form a cohesive pool.
+
+Tim Ferriss: Oh, the trees, you’re saying?
+
+Rich Barton: The trees are unique too. So anyway.
+
+Tim Ferriss: I dig it.
+
+Rich Barton: Yeah, I love it. I was the only one who got it in a really visible place and everybody else got jealous, because I like to be able to look at it and remember my family. And I thought I would start getting more. We did this maybe five, six, seven years ago. I thought we’d get more. Sarah’s gotten two more tattoos, but I haven’t gotten any more. I think tattoos are, you don’t have any, do you have some?
+
+Tim Ferriss: I don’t.
+
+Rich Barton: It’s a very few people have one.
+
+Tim Ferriss: Yeah. I’ve been considering getting my first, which is in some ways similar. It’d actually be in a very similar location right here with my dog’s paw prints. It’s hard for me to imagine regretting that.
+
+Rich Barton: You won’t.
+
+Tim Ferriss: Yeah, I don’t think I will.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: It was interestingly, our older boy Will was of age to get a tattoo. He was 18 I think at the time, maybe 19. But the twins, it wasn’t legal to get one in Washington state or most states. And so Josie was actually going to high school for a year in Spain at the time, and Spain didn’t have that restriction. So she got the design and got it in Spain. And we have that house in Montana, and Montana doesn’t have any restrictions. So on the way to go skiing one time, Russell went to some sketchy place in Bozeman and got the tattoo. So we all got them in different places. It’s funny.
+
+Tim Ferriss: Any other, I guess getting a tattoo is not necessarily a recommendation you’re making, but any thoughts for, let’s just say there are people listening who are type A or otherwise builders, who can sometimes be consumed perhaps by the scale and scope of what they’re doing, or hope to do, and they’re planning on kids or they have very young kids. What would your recommendations be to those people?
+
+Rich Barton: Well, for the planning on the constant delayers, which there are a lot of — maybe some right here. There are a lot of out there. And I think the fundamental logic is I just don’t have enough, this is an important thing and I don’t have enough time right now. And so I’ll wait until it’s a better time. There’s never a better time. There’s never a good time. And so point number one is it’s not going to get better. It’s not going to feel better.
+
+And then point number two is we’re built for this. We are the successful evolutionary product of a lot of people who figured this out. Which means we have a lot of encoded knowledge about how to do this, and how to deal from our bodies and our minds and our relationships, and even just how we parent. It’s encoded. A lot of it is encoded. So it’s, you know what? It’s probably going to work pretty well. And so I am, I don’t know if I’d call myself a birther, I’m an encourager of —
+
+Tim Ferriss: Procreating.
+
+Rich Barton: — let’s have more babies. And I’m a really big believer in how it’s such an important part of our own mental health to have, at least for me, to have children and from a growth perspective. And as we get older, our ego focus naturally, the diameter of our ego sphere gets broader and broader, and children just blow it way out. And that is really a positive for most people to realize that their needs and wants are trivial. And I think that’s a positive. So anyway, I encourage it. Yeah.
+
+Tim Ferriss: Yeah, for me it’s not a bad timing, looking for better timing thing. It’s more of a navigating the bizarre aspects of modern dating. Being in my public/semi-public position. And as someone who is already for a lot of good reasons, slow to trust, getting to a point where I feel like I can pull the trigger. I think that’s solvable, but it’s not trivial.
+
+Rich Barton: I never had to deal with that, but I totally understand.
+
+Tim Ferriss: How old were you guys when you met?
+
+Rich Barton: 22.
+
+Tim Ferriss: Wow. Yeah. Good for you.
+
+Rich Barton: Met in a club in Cambridge, Mass.
+
+Tim Ferriss: Look at that.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Maybe that’s my next move.
+
+Rich Barton: Yeah.
+
+Tim Ferriss: Go pub crawling in Cambridge.
+
+Rich Barton: It’s hard. I totally get what you’re saying. It’s hard. For the people with young kids and balancing things, I guess I would just always advise to don’t wait for an external catalyst to make sure you’re prioritizing your family life and your personal health. Because a lot of people out there are not doing that. And eventually it comes home to roost one way or another. And the sooner you can keep things in perspective. It’s a confidence game in general. It’s a courage and confidence game in general. If you have high confidence in your abilities, there’s no better time for at least the kinds of jobs to sit at a desk, use a computer type jobs. There’s no better time in the history of the world to be able to have a good balance between having work and life interweave.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: I’m a huge believer in what I call cloud HQ, cloud headquarters at Zillow. Post pandemic, I was a huge believer in office culture before that, but the pandemic opened my eyes to just how much more inclusive the cloud headquarter, the Matt Mullenweg. Matt was very, he was very influential on me early in the pandemic. I had him blue jeans Zoom into an early company meeting early in COVID, and lay out his game plan for the distributed corporation.
+
+Tim Ferriss: Yeah. For people who don’t know. Yeah.
+
+Rich Barton: Super helpful.
+
+Tim Ferriss: Yeah. Matt Mullenweg, generally associated with WordPress, founder and CEO of Automattic spelled M-A-T-T-I-C. And pioneer of distributed workforces. And as a design principle from the outset, has built that company to be distributed. And therefore was very anti-fragile when COVID came along. And there are some other standout examples. Shopify did really well also. But you’re right. I think that if this can’t lend itself, modern technology and the options available to some type of balance, or the option to pull different levers where it would have been far difficult even 10 years ago.
+
+Rich Barton: Yeah. We can generalize and say it’s been great for moms, but it’s more than just moms. But it has enabled really smart, very experienced moms who may have historically decided to take the off ramp into primarily mom hood rather than primarily climbing the corporate ladder, or just executive leadership path. It’s enabled them to come back.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And likewise now for a father, like, come on, as long as the company doesn’t get angry when they see you in your car on the Zoom, because you’re at a dentist appointment for your kid or something, as long as that doesn’t make the CEO get angry because, “That’s not the way I did it when I came up and look how great I turned out. Got to do it this way.” It’s — I chuckle when I listen to all that. I’m like, “You people, open your minds. This opens doors, this doesn’t close doors.”
+
+Tim Ferriss: Yeah. So let me ask a couple of, just a few quick questions. They don’t need to have quick answers, but just as we start to land the plane. What books have you either gifted a lot to other people or reread yourself? Either one.
+
+Rich Barton: Yeah, I am not your typical person probably sitting in this seat and that I, maybe I am, I am not a nonfiction, business book, sorry Tim.
+
+Tim Ferriss: Oh, that’s okay.
+
+Rich Barton: Yeah. I tend not to read that stuff. The older I get I occasionally will read a biography now, but they mean more now the older you get. But no, I am fully a, I’m a big reader and it’s fiction. And generally good fiction. Although I do have —
+
+Tim Ferriss: Cheap thrills.
+
+Rich Barton: — yeah, I do. I really love beautiful, beautiful fiction. And I like, I dabble, I’ve always dabbled in the science fiction, magical realism stuff as well. Anyway. I believe for me at least, escape from the cranked up, quick twitch, always on alert, operational stuff that —
+
+Tim Ferriss: Problem solving.
+
+Rich Barton: — exactly. To get my brain, my monkey brain, and to get my monkey brain to relax, escaping into a fiction novel for me is just a fantastic release. So with all that said, what stuff do I like and that I’ve gifted? Recently I gifted The Oceans and the Stars. Do you know Mark Helprin?
+
+Tim Ferriss: No.
+
+Rich Barton: Okay. He’s a guy who’s a little older than I am, and writes characters that are just about in my phase of life. Like a beautiful luscious prose writer. Really smart. Wrote Soldier of the Great War and A Winter’s Tale and Freddy and Fredericka, I don’t know if you’ve heard of any of these books.
+
+Tim Ferriss: No.
+
+Rich Barton: But they are, there’s a little bit of magic in them. Magic is a prime character in all these books. It’s this luscious prose and epic stories of war, and romance, and exploration, and relationships. And this latest one is, I highly recommend it’s a on the edge of retirement, just under admiral or a low level admiral in the US Navy, who almost becomes head of the DOD but doesn’t get it because he speaks his mind. And then he gets commissioned as a rebuke on this new weird ship. And I’ll just say that. And that’s a setup for him taking this really more fast attack destroyer into the Middle East. And deals with a lot of, he’s a war guy. He’s a vet. And he’s a pretty engaged political, I call him an offensive realist, in the John Mearsheimer mold. Hawkish. Would be perceived as hawkish. Believes in strong defense.
+
+Tim Ferriss: The protagonist?
+
+Rich Barton: This is —
+
+Tim Ferriss: The writer. I got it.
+
+Rich Barton: Mark Helprin. He’s, this is his mindset. And so that manifests in basically romantic stories of heroic war efforts, which is I’m a boy, I like that stuff. I recommend Oceans and Stars is great.
+
+Tim Ferriss: Oceans and Stars. Okay.
+
+Rich Barton: The only one of his that I’ve probably reread is A Winter’s Tale, which was my first one I ever read by him. It’s just a beautiful, beautiful story of early 20th century life near New York City and upstate New York. You might actually like it.
+
+Tim Ferriss: I might dig it. I read Last of the Mohicans just to —
+
+Rich Barton: Beautiful. It’s beautiful.
+
+Tim Ferriss: — take a walk through that area in that time period.
+
+Rich Barton: Authors I like, I like Haruki Murakami, kind of magic. Neal Stephenson is like, some people don’t like his latest book, Polostan. I don’t know. He’s the one who wrote Snow Crash.
+
+Tim Ferriss: Oh, yeah
+
+Rich Barton: So you know him. Snow Crash —
+
+Tim Ferriss: I had pizza with him in Seattle with a couple of other guys. And I was like, “Wait, you do Victorian era calisthenics with? Oh, and you make swords? Wait what?” Lots of —
+
+Rich Barton: And he’s got the beard down.
+
+Tim Ferriss: Oh, amazing beard. Yeah.
+
+Rich Barton: I actually froze up when I met him. It doesn’t happen to me very often, but he’s a hero. And he’s in Seattle. He’s in —
+
+Tim Ferriss: Yeah, he’s right there.
+
+Rich Barton: Yeah, he’s right there. So I see him occasionally at our sushi place. I’m like, “Oh.” I get scared. But his latest, Polostan, I highly recommend.
+
+Tim Ferriss: Okay. I haven’t read it yet.
+
+Rich Barton: Some people are giving me grief for it. It’s, you know, authors when they get successful —
+
+Tim Ferriss: 7,000 pages?
+
+Rich Barton: — well, it’s long. A lot of his stuff is long, but it’s not that long.
+
+Tim Ferriss: Mine are pretty long too.
+
+Rich Barton: It’s not like Cryptonomicon or something like that.
+
+Tim Ferriss: Which I loved. Side note.
+
+Rich Barton: Me too. But authors as they get successful sometimes they have too much power over their editors. And so they get a little self-indulgent. Which for me, with a beautiful prose writer, I’m like, “Take me along. Fine. I will indulge your self-indulgence.” And I don’t mind it. But this one takes 100 to 150 pages to break into, but then it just goes.
+
+Tim Ferriss: Then it rips.
+
+Rich Barton: Then it rips. So anyway, I highly recommend. And it’s going to be a trilogy. And so it’s only the first one. So I’m like, I can’t wait. Anyway, I love, you can tell, I love to read fiction.
+
+Tim Ferriss: And do you lean these days, if you’re gifting, have you gifted those books that you mentioned?
+
+Rich Barton: I have gifted Oceans and Stars, but I’m such a Kindle person and so many of us are digital readers now. It’s hard to gift.
+
+Tim Ferriss: Yeah, it is.
+
+Rich Barton: It’s more group chat.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Book group, group chat. That’s how most of the book discovery happens for me now.
+
+Tim Ferriss: Have you read any of Ted Chiang’s stuff? Oh, man.
+
+Rich Barton: Who is it?
+
+Tim Ferriss: Okay, so Ted Chiang, C-H-I-N-G.
+
+Rich Barton: Okay.
+
+Tim Ferriss: He has, last I checked, he has two collections of short stories. There’s one which I always script the title of. It’s Stories of Your Life and Other[s], something like that.
+
+Rich Barton: Okay.
+
+Tim Ferriss: And one of those short stories was the basis for the movie Arrival with —
+
+Rich Barton: Oh, God, that was a great movie.
+
+Tim Ferriss: Jeremy Renner. Amazing movie. So one of his short stories was the basis for that. And then I read that collection and pretty much everyone who read it was just like, “I don’t understand how this guy does this.”
+
+Rich Barton: All right. Cool.
+
+Tim Ferriss: And if they happen to be writers, they’re also just like, “Sad clown tear.” Just like, how does someone even begin to create something like this? Then his second collection came out, Exhalation. And I didn’t want to buy it because I didn’t want to be disappointed. I was like, “There’s just no way.” That first one was Appetite for Destruction. Yeah, you can’t do that twice. And the second was just unbelievably good. And not all of them will hit necessarily, but the ones that hit are just incredible. And he has —
+
+Rich Barton: And they’re one night read short story, a collection of one night reads?
+
+Tim Ferriss: I would say a lot of them are one night reads. Some of them end up being a little bit longer, but he, along with other writers too, Kenneth Liu, I think is L-I-U. He has The Paper Menagerie, which was actually gifted to me by Matt Mullenweg, blends or alternates in a sense between sci-fi and fantasy in this really compelling way.
+
+Rich Barton: Cool.
+
+Tim Ferriss: So you get these like little ginger snacks in between your pieces of sushi.
+
+Rich Barton: That sounds right up my alley.
+
+Tim Ferriss: Resets so highly, highly recommend. And I think for the longest time he wasn’t, maybe he still isn’t a full-time writer. That’s the part that really got me where it’s like, “Okay, he writes technical manuals for A, B, or C, and then in his spare time he wins Hugo and Nebula Awards.” It’s just like, “Oh, come on.” Yeah.
+
+Rich Barton: There’s hope for, I always wished I became a writer. I’d like to write, but I’m not that good. And I’ve never dedicated time to it. But in that vein, this guy Amor Towles, do you know who?
+
+Tim Ferriss: Oh, so good. I’ve only read —
+
+Rich Barton: He was a banker.
+
+Tim Ferriss: I know. Finance. Well that’s another one —
+
+Rich Barton: Until he was 40.
+
+Tim Ferriss: No, I know. I read, the only thing I’ve read of his is Lincoln Highway, which —
+
+Rich Barton: Oh, fantastic.
+
+Tim Ferriss: — it is such a page turner. It’s so beautifully architected. And I read that and I through someone named Hugh Howey shook hands with, very briefly at a restaurant, we happened to bump into each other. And I found out about the finance background. I was like, “You’ve got to be kidding me.”
+
+Rich Barton: I know.
+
+Tim Ferriss: “You’ve got to be kidding me.”
+
+Rich Barton: I learned that he was on somebody’s pod, he gave a great pod when Lincoln Highway came out, to somebody who cracks open artists. It might’ve been Brian.
+
+Tim Ferriss: Oh, Koppelman.
+
+Rich Barton: Brian Koppelman.
+
+Tim Ferriss: Yeah. Very well could have been Koppelman.
+
+Rich Barton: Who gets to artists, right?
+
+Tim Ferriss: Yeah. Who by the way, for people who don’t know, a quick bit of trivia. So Brian Koppelman, co-creator of Billions and co-writer of Rounders, and all these movies and TV shows and so on, also discovered Tracy Chapman as a musician back in his A&R days.
+
+Rich Barton: Really?
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Oh, my God.
+
+Tim Ferriss: Isn’t that wild?
+
+Rich Barton: He’s a talent.
+
+Tim Ferriss: Yeah. So it wouldn’t surprise me if Amor was on that show.
+
+Rich Barton: Yeah. He was on there and got him to crack up. And then he was surprised by Brian’s questions, I think. And didn’t know Brian, and all this stuff came out.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: It was pretty cool. Anyway.
+
+Tim Ferriss: Amazing. All right. This is the billboard question. If you could put anything on a billboard message, quote, reminder, anything at all, obviously metaphorically, just to get something in front of a lot of people.
+
+Rich Barton: You asked this, so I did think about it a little bit. And my initial response that I latched onto came from that movie Bowfinger. I don’t know if you ever saw Bowfinger.
+
+Tim Ferriss: No.
+
+Rich Barton: It’s a cult classic.
+
+Tim Ferriss: Okay.
+
+Rich Barton: And a lot of you people out there haven’t seen it, but I highly recommend it. It’s Eddie Murphy tour de Force.
+
+Tim Ferriss: Okay.
+
+Rich Barton: And Steve Martin and Heather Graham, it’s super quirky. Eddie Murphy plays two roles in it, which he did for a while in lots of movies. And he plays, one of his roles, he plays a paranoid Hollywood celebrity who thinks and in fact is being followed by people who are making a movie about him with him starring it, unbeknownst to him. That’s the setup. Steve Martin’s directing. And he gets super crazy. He’s already a paranoid guy, but he gets super paranoid. He’s like, “People are following me.” And he goes to a thing that, I don’t know what culty L.A. religion it’s representing, but it’s called MindHead.
+
+Tim Ferriss: Okay.
+
+Rich Barton: And he goes in and he has his first counseling with the high priest of MindHead. And the religions are based on three happy premises. I’m not going to remember them all, but happy premise number one was something like, “There is no giant foot in the sky about to step on me.” Okay, this is like a mantra you have to repeat. The third one is my favorite. And that was what I was going to put on the billboard. And that is, “Even though I feel like I might ignite, I probably won’t.”
+
+Tim Ferriss: Okay.
+
+Rich Barton: That goes on my billboard. That or my favorite Burning Man bar ever was, had that giant neon sign on top of this cozy geodesic dome playing groovy music, decorated as an aquarium. Anybody out there. It was at Burning Man a while ago and it hasn’t come back. It was our favorite spot. And the sign said, “Don’t panic.”
+
+Tim Ferriss: Won’t say more. Okay.
+
+Rich Barton: That’s it. Don’t panic. So that’s on the billboard. Don’t panic.
+
+Tim Ferriss: Don’t panic.
+
+Rich Barton: I think a lot of, look, my job as a leader explicitly or naturally or otherwise, is to naturally bring people off of their high beta, high swing, high mood swings. People have a tendency towards fear and panic. And almost always it’s going to be just fine. And when it’s not, it doesn’t matter anyway.
+
+Tim Ferriss: Right. Yeah.
+
+Rich Barton: Okay. All right. And it can cause a lot of a happier life and a calmer community, and a better, healthier community and family, if everybody just takes a little breath before getting scared. Or sending a text or whatever.
+
+Tim Ferriss: If I feel like, even though I feel like I might ignite, I probably won’t. Is that basically related to the “Don’t panic?”
+
+Rich Barton: Yes. I think so. I think that led me to the “Don’t panic.” I think so.
+
+Tim Ferriss: Okay. I dig it.
+
+Rich Barton: And I’m not saying, I actually don’t move through the world feeling as if I might ignite. I really don’t.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: But I think a lot of people, especially in the modern newsfeed, iPhone, TikTok, Twitter world, do feel that way.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And so it’s even more important. It’s why meditation is on the rise. It’s why we’re looking for escapes. We’re looking to give our brains and bodies just a break from the constant barrage. And it’s causing mental health problems we all are familiar with. And I think that’s part of it. It’s just too easy to get mad or scared or outraged or whatever. And go take a rafting trip for a week that’s disconnected. That’s going to be on the rise. Those are growth businesses. It’s people sheltering from the digital —
+
+Tim Ferriss: Hail storm of doom.
+
+Rich Barton: Exactly. It’s so unhealthy.
+
+Tim Ferriss: Have you taken any sabbaticals since Italy?
+
+Rich Barton: Oh, yeah. I’ve had multiple retirements.
+
+Tim Ferriss: Now are those failed retirements? Or did those have an end point where you’re like, “I’m going to take a year and then I’m going to dust off my gloves and get back into it”?
+
+Rich Barton: The Italy one was a failed one, although I suspected — I was really young, right?
+
+Tim Ferriss: Yeah.
+
+Rich Barton: The others, no, it’s just been sabbaticals.
+
+Tim Ferriss: How long are they typically?
+
+Rich Barton: The Italy one was the longest one, but I’ve built shelter into my, into our family’s routine now. So it’s just a part of the normal cycle of the seasons. And a really key component of that, not always achievable, especially now. Starlink and traveling Starlink and Starlink at my surf camp and Starlink on my Airstream. It’s harder and harder to disconnect, but disconnection is really a key part of it, I think. I think disconnection, the behavior you observe when people are disconnected, like with my family when we do, we wrapped at the Grand Canyon this year with a big group of friends and family. And when you watch the younger people, it’s very unsettling for the first, it’s only three or four hours. And then when they realize it’s over, it’s total mean reversion to human behavior. Playing games, doing crafts, taking a hike, painting a picture. It’s totally beautiful what happens. And everybody is happy.
+
+Well, you can’t not be happy making a friendship bracelet or playing Taco Cat. What do we —
+
+Tim Ferriss: Oh, yeah.
+
+Rich Barton: I don’t want to give that away. I don’t want to give your game —
+
+Tim Ferriss: Oh, no, you didn’t.
+
+Rich Barton: But you can’t not be happy when you’re doing that and not looking at your phone.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: Highly encourage.
+
+Tim Ferriss: Rich.
+
+Rich Barton: Tim.
+
+Tim Ferriss: So nice to see you, man.
+
+Rich Barton: It’s great to see you.
+
+Tim Ferriss: We’ve covered a lot of ground.
+
+Rich Barton: That was fun. Woo.
+
+Tim Ferriss: Where, if people want to learn more things about Rich, should they be visitor 22 to your blog?
+
+Rich Barton: No, I don’t think so. The blog is totally vestigial. It’s an appendix that needs to be removed. Hopper and Dropper. Yeah. No. Yeah, no man, I haven’t written, I haven’t gotten the writing thing, I’ve had a lot of offers to do that with. I’ve just never felt like I enjoyed reading any of those business guy ego books. I just don’t find them very interesting. And I don’t want to be one of those jerk offs.
+
+Tim Ferriss: Maybe you do a writer’s retreat or an MFA, compressed MFA and take a stab at fiction?
+
+Rich Barton: It’s not a bad idea.
+
+Tim Ferriss: Just saying. Even if you never publish anything, it’s a good muscle to train for a bit, just to play with it.
+
+Rich Barton: I’m doing more creative things deliberately now, and it feels good.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: I took up Procreate painting on my iPad during COVID.
+
+Tim Ferriss: Oh, so fun.
+
+Rich Barton: I feel so good.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: And I catch myself going back and looking at my works, and I should be at a party and I’ll show people what I painted.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: It’s not good, but it makes me feel good.
+
+Tim Ferriss: It’s so, I did exactly the same thing during COVID: Procreate. And you go through these tutorials, there’s something very soothing about it.
+
+Rich Barton: That Australian gal who I think works at Procreate, who gives the tutorials?
+
+Tim Ferriss: So many.
+
+Rich Barton: She’s so awesome.
+
+Tim Ferriss: Yeah. So many good ones. Is there anything you would like to say? Any closing comments, formal public complaints you’d like to lodge?
+
+Rich Barton: No. No. I guess I should thank you. You perform a good service. You provide a good service for a lot of people with this pod.
+
+Tim Ferriss: Thanks, man.
+
+Rich Barton: And with your books. And certain people need it more than others. And I don’t think, I really don’t think people are looking for shortcuts. That may have been where you started a little bit.
+
+Tim Ferriss: Yeah.
+
+Rich Barton: I really just think, I do think people are just looking to lead better, happier, slightly more efficient lives, improving lives. They want to improve themselves. And you really help people do that. And the diversity of the guests that you bring on this pod is really inspiring. So yeah, it’s great. Thank you.
+
+Tim Ferriss: Thanks, man.
+
+Rich Barton: It’s great to be here.
+
+Tim Ferriss: Yeah. Awesome to have you. Everybody listening, we’re going to include everything we’ve talked about in the show notes, tim.blog/podcast. If you search Barton, that’s going to be the only Barton. So you’ll find this episode. And until next time, be just a bit kinder than is necessary to others, but also to yourself. And as always, thanks for tuning in.
+

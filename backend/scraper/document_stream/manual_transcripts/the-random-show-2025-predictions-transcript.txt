@@ -1,0 +1,1182 @@
+Please enjoy this transcript of another edition of “The Random Show” with technologist, serial entrepreneur, world-class investor, self-experimenter, and all-around wild and crazy guy Kevin Rose (@KevinRose). We cover 2025 predictions, AI, Bitcoin, aliens, fitness goals, and much, much more.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. Watch the conversation on YouTube here.
+
+Tim Ferriss: KevKev, nice to see you.
+
+Kevin Rose: TimTim, happy holidays, brother.
+
+Tim Ferriss: Happy holidays. Another random show, ladies and gentlemen, boys and girls, brought to you by KevKev and TimTim. Happy holidays, everyone.
+
+Kevin Rose: It’s that time of the year.
+
+Tim Ferriss: It is.
+
+Kevin Rose: And can I say where you are? Because you’re not in a holiday place.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: You’re in Hawaii.
+
+Tim Ferriss: Right? I’m not in a place with great seasonal variety.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: I am in a place with wonderful sun and warmth, which is —
+
+Kevin Rose: Is it good?
+
+Tim Ferriss: — Hawaii.
+
+It’s amazing. Of course, it’s amazing.
+
+Kevin Rose: You seem very chill right now.
+
+Tim Ferriss: I am chill right now. I’m feeling very good. And there are a bunch of reasons for that, that I can talk about. We’ll get to that. But there are some contributing elements that you are actually very familiar with, so we’ll come back to that. I’ve had more comments in the last week or two from close friends of mine, people who know me who are like, “You seem really chill.”
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: “You seem very grounded right now.”
+
+And I’m like, “Yeah, I feel very chill and very grounded right now.”
+
+And there’s still a lot going on. It’s not, I love absence of things going on. It’s actually somewhat amazing that given how many projects are in process right now, I’m getting those comments, which makes me feel like I must be doing something right, or I’m just lucky because, who knows, I’m sleeping well in Hawaii.
+
+Could be that I set the AC to negative 500 degrees, which I had to override every system in the hotel to do.
+
+Kevin Rose: Yeah, they have those things on lockdown. And then if you open the door, it shuts the AC off. It’s a whole thing.
+
+Tim Ferriss: Yeah, 70 degrees would be dangerously cold, so it’s sometimes hard to get the AC low. But let’s hop into it, man. We have a lot to talk about. Where should we begin?
+
+Kevin Rose: Oh, man. Let’s start off with, when I think about these year-end specials, we’ve done a few of these. And we typically do a little bit of, “What are you doing in the New Year? What are you going to change this year?”
+
+And it’s the same list every year, for me.
+
+Tim Ferriss: Drink less, exercise more?
+
+Kevin Rose: Yeah, exactly. Exactly. But we’ll talk about that. But there’s a lot of stuff. I thought some predictions would be fun because I have some good ones for next year.
+
+And then whatever else you want to talk about.
+
+Tim Ferriss: You’re the right guy for that. I might have some predictions, but you have a better track record than I do.
+
+Kevin Rose: I think you’ve got a few right.
+
+Tim Ferriss: I occasionally get one, right? It’s not that my track record is bad. I think you have such a 30,000-foot view on so many different sectors. And also, just as a General Partner at True, and as a more active investor than yours truly, you get to see a lot that is coming down the pike. Right, you really get to observe patterns on a weekly basis that most humans do not, including me. But I do see things, occasionally. So we’ll see if I can riff off of some of your predictions. So where would you like to start?
+
+Kevin Rose: Let’s start off with something that I just thought was a fun one to just really get your take on this because I think we’re screwing up society.
+
+So every year Apple does these, it’s like, “Yeah, here are the 15 apps that we love. This is the best gaming app, this is the best productivity app,” all this stuff, right? And I tend to go in there, and poke around, and I’m always checking out what the new hot thing is, especially on the gaming side of stuff, where I really just don’t pay attention.
+
+I’m like, “Just tell me the best thing. I’ll go check it out.” Right?
+
+Tim Ferriss: Yep.
+
+Kevin Rose: And I noticed one thing, that I keep seeing this over and over and it’s driving me nuts, because it dovetails into some of the videos that we send each other, on a side thread.
+
+Tim Ferriss: Oh, God.
+
+Kevin Rose: But okay, so we’ve sent a couple of these videos back and forth.
+
+Tim Ferriss: You mean the mutually assured destruction thread?
+
+Kevin Rose: We could say Sacca.
+
+Tim Ferriss: These are more civilized. Okay, got it.
+
+Kevin Rose: Yeah. So you, me, and Sacca will be sending texts — this is one of those threads. I don’t know if this one’s that bad, but we’ve been on some threads where there’s a lot of pics going around. Nothing horrible, but definitely, I’ll move on from there.
+
+So there’s basically these new AI videos of like, MMA fighters. And they’ll get knocked out and when they fall to the ground, they get in go-karts, and shit, and start driving around. Have you seen this where they blend AI?
+
+Tim Ferriss: Yeah, I’ve seen that.
+
+Kevin Rose: And it’s messing with my head. I look at that stuff and I’m like, “This is really bending reality.”
+
+I don’t know if it’s because there’s a psychedelics component there where you’re like, “Why am I seeing something that I would typically see in a different realm in this realm?”
+
+Weird stuff’s happening in the brain. One of the things I noticed in the App Store is they said the best app of the year was an Adobe app, which they make great stuff. And they had Adobe Lightroom on there as winning the Apple App Store 2024 winner Mac App of the Year and why they were so stoked on Lightroom. When you think about Lightroom, you’re like, oh, this is like software’s been around for a couple decades, why is this anything new?
+
+And they have a video there that showed these kids running around in their backyard, and you’ve seen this thing where you can erase shit. You can drag your finger across it.
+
+Google does all these ads where they’re like, “Hey, is there someone weird standing in your photo? Erase them.”
+
+Dude, this video, we’ve gone too far. So they’re like these kids playing in the backyard — there was hedges and then they erased their yard door to get out of their backyard. And it made more hedges. And I was just like, can you imagine these kids are like 35 or 40 and they’re like looking back in their photos and they’re like, “Did we have a backyard door?”
+
+And they took the dog out and shit. I’m like, “Why are you taking the dog out? The dog’s part of the family.”
+
+Tim Ferriss: Just sowing the seeds for gaslighting yourself later?
+
+Kevin Rose: No, but do you know what I mean? What is going on? They’re erasing all of our real memories and replacing them with almost imperceivable, at this point, digital alternatives. And it’s really worrisome to me. I don’t know. Do you do any of this shit? Do you erase anybody out of your photos?
+
+Tim Ferriss: I don’t erase people out of my photos. I also feel like a lot of that editing is for sharing outside of your immediate circle.
+
+Kevin Rose: Like social media stuff?
+
+Tim Ferriss: Social media, or effectively applying digital plastic surgery to your life so you can share highlights that look better than they actually do in real life. And I am very cautious to play with that because I feel like it’s similar to getting your first little dabble with eye tucks or a facelift. And then there’s this creeping tendency to add more, and more, and more, and more.
+
+And similarly, I don’t want to become delusionally dissatisfied with my life because there are little things that, in my mind’s eye, aren’t perfect for broadcast, like a door in the hedges, right?
+
+Kevin Rose: Right.
+
+Tim Ferriss: Because then what happens when you’re doing that constantly, and then you sit in your backyard, and you’re looking at that door? Does it drive you insane?
+
+Kevin Rose: Right.
+
+Tim Ferriss: Right.
+
+Kevin Rose: And then also, but think of the downstream effects, too, where your friends are like, “Okay, you just take something that is a mild visual nuisance out of the equation.”
+
+And it’s like, “Oh, they had that perfect beat shot. They’re so lucky. If only I could have that thing.”
+
+And then you go and you’re like, “Oh, it was crowded. We didn’t have the same thing they did.”
+
+But in reality, they just magic erasered all their friends or all the people behind them out of it. I’m just like, it’s creating a fake everything.
+
+I don’t know. Something about it. I love AI. I think there’s a lot of fun. There’s so much I use it for every single day. But this is one of those things where I’m just like, I don’t want my kids to grow up thinking they need perfection. And that’s what this is doing. It’s creating a better, perfect scene.
+
+Tim Ferriss: Oh, yeah. And people are already using that to, of course. It’s like Zoom filters on steroids. Right?
+
+Kevin Rose: Right.
+
+Tim Ferriss: Totally.
+
+I think — I’ll just throw this in there. I’m not sure exactly what form this is going to take, but I do think there will be a pendulum swing away from certain digital environments when people realize just how contorted constant exposure will make your perception, your satisfaction, your dopamine reward system. I really feel like the impact is going to be felt in a way that people could perhaps rationalize away or brush aside.
+
+In years past, they’re like, “Well, I know that Twitter’s accessible on X, Y, and Z levels. But I get A, B, and C.”
+
+But once people are put into environments where what’s up is down, what’s left is right, what’s fake is real, and what’s real is fake, the psychological toll, the emotional toll, I think, will become much harder to dismiss. And people are going to look for things offline. I think there are going to be a lot of opportunities for that.
+
+You see that in, I think you see early indications of that with, for instance, running clubs, and various in-real-life activities that have become very popular in place of, or as supplements to, online dating, and dating apps as an example. Those things are exploding in New York City, a lot of major cities.
+
+You see that in, potentially, certainly this is a trend, at least in a few countries outside of the US, I’d have to look at the data. I think it’s mildly true. We see some improving numbers in print book sales. That could be attributed to a number of other factors outside of people moving from digital formats to print.
+
+But at least as a thought exercise, I think we can explore different ways in which people are going to seek out something tangible they can hold and know is real, look at in person, and know is real.
+
+So that’s certainly extrapolating from just what I see in a small circle of people who are hyper-exposed to a lot of this. I feel like people like you who are perhaps way, it’s called prematurely saturated with exposure to these things, are canaries in the coal mine.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: You’re like, “Ooh, holy shit, we need an exit. We need a way to step off the stage. So we’re not looking at this manufactured reality.”
+
+Kevin Rose: Yeah. Well, it’s funny you say that. I was talking to another friend of mine that’s keeping this stuff, you know Chris Hutchins. I was talking to him about his raising daughters, and the kids are getting older, and he’s like, “Dude,” he’s like, “you know what’s funny, when we got bullied as kids, somebody would be like, ‘I hooked up with your mom or whatever,’ right? And it would just be like, there’s these schoolyard slams or whatever, right?
+
+And now, in three years, he’d be like, “I hooked up with your mom, look at this video.”
+
+And it’d be like the mom hooking up with a kid because AI and shit. He’d be like, “Damn, you’re hooking up my mom.”
+
+But it won’t be real, but it’ll be like slams.
+
+Tim Ferriss: Looks real enough.
+
+Kevin Rose: Yeah, looks real enough. The bullying’s going to get hardcore.
+
+Tim Ferriss: Yeah, yeah, of course it will. Or just sharing videos of the person you want to bully doing things they didn’t do.
+
+Kevin Rose: Right, exactly.
+
+Tim Ferriss: It’s going to get bad. There are plenty of upsides. Look, I’ve used ChatGPT and Claude 10 to 15 times today with my team. I’m doing a company on-site here in Maui, that’s why I’m in Maui. And there are reasons for the location we can get into. But it’s very useful. But the dose makes the poison, the application also makes the poison. And it pays to just be cognizant of how you are using these things.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Right. So that’s one. All right, what else you got? Are there any personal New Year’s resolutions that come to mind? Or specific ones, where you’re like, “Okay, some of these might line with things in the past, but here’s how I’m going to approach them differently.”
+
+Yeah.
+
+Kevin Rose: Oh, man. Okay. So —
+
+Tim Ferriss: The exasperated exhale is always a good place to start.
+
+Kevin Rose: Well, the hard thing for me is that I get into this really bad situation where, come November, I just let myself go.
+
+Tim Ferriss: Yep.
+
+Kevin Rose: It happens every single year. I just go ham on shit. And Thanksgiving comes around. And I hate too much nutmeg. It’s like, or not nutmeg, eggnog. Nutmeg, too.
+
+Tim Ferriss: You know what I can’t stand? Cloves. Let’s talk about cloves for a minute. Yeah.
+
+Kevin Rose: But I do like a little eggnog with a little of that brandy in there. You put in a little cognac in your eggnog, but that goes straight to your gut.
+
+Tim Ferriss: Of course it does.
+
+Kevin Rose: And so I hate this. This is the freaking seventh year of Random Shows or whatever where it’s like every December it’s like, “I want to be less fat and drink less.”
+
+And it’s like, I get a good running start on the New Year, though. So I am going to go into this.
+
+Tim Ferriss: Maybe we’ll put together a compilation music video.
+
+Kevin Rose: Oh, yeah, of all the times we’ve said that over 10 years.
+
+Tim Ferriss: ‘”I’m not going to drink.”
+
+Kevin Rose: Yeah, exactly.
+
+So I think I’m just going to lean into and do the exact opposite, just keep eating, just keep drinking.
+
+No, I’m just kidding. I’m just kidding. That’s horrible.
+
+No, but I think one of the things that you and I were trading links on a couple of days ago, which I’d really curious to get your take on this, is there’s this movement, well not movement, it’s called — well, it’s movement, but it’s old people movement of — you and I, when we first met, the name of the game, as bro-y as this might sound, is we wanted to put muscle mass on. We were like —
+
+Tim Ferriss: Meathead central. Yeah.
+
+Kevin Rose: Yeah. I wouldn’t say full meathead, but there was a good amount of meat there.
+
+Tim Ferriss: That’s pretty meathead.
+
+Kevin Rose: So to transition from meathead to somebody that actually just wants to be able to stretch and do functional stuff, we were talking about functional patterns because it was an account that I had followed for a while, and they had some more non-traditional ways of approaching your gait, and your movement, and really setting you, hopefully, up for years of good, solid longevity, in terms of joint health, back health, all these things.
+
+And I sent you another one that you were checking out, as well. What’s been your take here? I’m starting to make this move into like, okay, I want a lot of movement and a lot of core-plus-plus strength.
+
+I’d love to be lean. I don’t need to be ripped. Although did you see the new Hugh Jackman Wolverine, with Deadpool?
+
+Tim Ferriss: He’s a beast. Yeah.
+
+Kevin Rose: Do you think that was freaking animated or was that really Hugh Jackman’s body at this stage?
+
+Tim Ferriss: I think it’s really him.
+
+Kevin Rose: That’s insane. How could he freaking be that age?
+
+Tim Ferriss: I have it on pretty good authority that that’s him. Yeah.
+
+Kevin Rose: Dude, how does he get cut like that? It was insane.
+
+Tim Ferriss: He takes it seriously, follows the basics, follows the rules, doesn’t waver. He’s very dedicated. And he is a real athlete. You watch him move, he moves like a dancer. He can lift like a powerlifter. His endurance on, say, on a rower, like a Concept2, is unbelievable. The wattage that he can sustain over periods of time would boggle the mind of even some people who’ve been former competitive rowers. He is a true athlete.
+
+Kevin Rose: So that explains it.
+
+So anyway, my point being is that there’s this little micro trend I see occurring where a lot of people are making this move to more functional, holistic, movement-based health, and strength, and training, that is non-traditional, as we define it.
+
+Where do you see that playing into your own routine? Is that something that you’re looking into?
+
+Tim Ferriss: Yeah, I’ve thought about this a lot. So our texts were well-timed. And I want to give credit where credit is due. First to you, for introducing me to this account. And then I ended up doing a bunch of research on this account that I did not tell you about. So I will probably pronounce the name incorrectly. And for that I apologize, but I believe his name is Nsima Inyang. Now, the spelling on that will be more accurate than my pronunciation. But N-S-I-M-A, that’s probably all you need to find him on YouTube. Inyang, I-N-Y-A-N-G.
+
+So Nsima has this video, which you sent to me, called “The Lie of Traditional Strength Training.” Now yes, that is YouTube clickbait on one hand, but he actually does deliver on that. His production value is incredible. His delivery is impeccable. I was very, very impressed. I went back and watched certain sections of this.
+
+Kevin Rose: His agility, too, is insane.
+
+Tim Ferriss: His agility is incredible. So in terms of his power, he’s a Brazilian Jiu Jitsu competitor, as well, at a very, very high level. I think he won Worlds or Masters Worlds at a brown belt most recently, is now black belt, which is no joke. And I reached out to a friend of mine, Mark Bell, who is very well known in the powerlifting community. He also has a number of products that have done very, very well. And I met, I realized, Nsima at Super Training Gym in Sacramento a decade ago.
+
+Kevin Rose: Oh, crazy.
+
+Tim Ferriss: When he was still really focused on powerlifting. Met him very, very briefly. I’m almost 100 percent confident. I remember he was doing deadlift band pulls while I was there checking out the gym for the first time. This was a long time ago.
+
+So I chatted with Mark about Nsima, who Mark reinforced is the real deal on every possible level. And the piece that I took from that video specifically was paying attention to what he calls, and others have called, the spinal engine. There’s a book, actually, by that title, The Spinal Engine, the name again, tough one. I think it’s Serge Gracovetsky, S-E-R-G-E and we’ll put a link in the show notes.
+
+But in effect, I’ll actually pull this up because I think it’s worth reading. So The Spinal Engine, and you can watch the video, and Nsima does a great job with video of explaining this. But the book has in its Amazon description, and there’s no digital version, you have to buy paperback for 115 bucks. So I’m not saying you should, I haven’t read it. But this book deals with the human spine with particular emphasis on the lumbar spine. Human gains traditionally believed to be the exclusive function of the legs or say the swinging of the arms and the legs, which play a part.
+
+But going back to the description, the book presents arguments and data that challenged that belief because the spine is the primary engine that makes us move, and it goes on and on.
+
+And what I think Nsima does such a nice job of is showing that, demonstrating the implications of that theory through video, and also using tools, like rope swings and other things, to demonstrate how you can develop mobility through different planes of motion.
+
+So you have various things, lateral flexion, you have flexion extension in terms of this type of forward backward plane. And it really got me thinking, and I started experimenting with some of the motions in that video, primarily because his counter example, which is effectively the live traditional strength training is how if you’re constantly bracing, you’re constantly, say, holding your breath in certain portions of a lift to increase for abdominal pressure. That ultimately, as a side effect, you can produce a lot of rigidity in the spine.
+
+And I really have never had an interest in powerlifter or even an Olympic weightlifter, although I think they should more accurately be called powerlifter. I’ve always been focused on weight training in service of athleticism, and have loved playing sports, have traditionally competed a lot. And I may actually compete in 2025 in some form of sport. I would like to have something on the calendar for that.
+
+A number of cautionary notes, and then I’ll come back to how I’m thinking about, maybe, framing exercise for myself. The first is that you should not go from all fucked up, and broken, and stiff to, “I’m going to do the most exaggerated rotational movements possible.”
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Or pulling a sled backwards in this compromised, rounded back position. You will break yourself if you do that.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: So I think the name of the game is micro progressions and progressive resistance. But being very, very smart about it because, as you have experienced, certainly as I have experienced, as you get older, and you accumulate injuries, it takes a lot longer to heal. And sometimes those things do not heal completely no matter what you do.
+
+Kevin Rose: It’s funny, I got one of those splits machines where you can put your legs in there and then you crank a wheel.
+
+Tim Ferriss: Ah, the Chuck Norris special.
+
+Kevin Rose: Yeah, yeah. I had the Chuck Norris thing on the outside. But I was doing it and I was getting further, and further, and further each week and my Pilates instructor was like, “What the hell are you doing?”
+
+And I’m like, “I’m going to do the splits in a couple months.”
+
+And she’s like, “You have no supporting muscles at all for any of this.”
+
+She’s like, “When you get done, you’ll go down once and then you won’t even be able to, everything else will rip.”
+
+And I was like, “Oh, shit, that’s a good call. I’m glad I didn’t take it that far.”
+
+Yeah.
+
+Tim Ferriss: So, for me, I am focused on a few things. And I’ve actually made a lot of progress with this over the last handful of months. And in 2025, I will be very focused on this. For the first two months of the year I’ll be focused on skiing. So I’ll be in the mountains for two months. And that is a great motivator to develop, say, different types of stability and strength, single leg —
+
+Kevin Rose: So good.
+
+Tim Ferriss: — and so on. And having that context in which to test myself, right? So if I’m carving in one direction and then in the other, say, the inside leg is very unstable for some reason, it’s chattering a lot, well that’s something to fix. And the skiing serves as a fun, assuming you don’t overdo it and blow yourself apart, diagnostic tool for bringing to awareness some of these things you need to work on.
+
+And I’d say priorities, these aren’t necessarily in ranked order, but number one, as you get older, you lose muscle mass. You just do. And that’s age-related muscle loss, sarcopenia is directly correlated to any number of issues, I’m sure, including all cause mortality. So weight training, resistance training, building muscle mass is in an undeniable priority for functional health span as you get older.
+
+But, for me, that means compound movements once or twice a week, you really don’t need to overdo it. Or do it five days a week. A lot of people use five days a week or every day as an excuse to not get started. You can make a lot of progress, especially if you haven’t done much weight training, with one day, one session per week. If you’re using, say, high intensity training, one set failure-type protocol, I recognize it’s very simple. I recognize there are some very experienced athletes will say, “Well, now you want to do five sets of three, or five sets of five,” or whatever it might be, “With three to five minute rest intervals in between to replenish, da, da, da, da, da.”
+
+But complexity can be the enemy of execution as Tony Robbins and others say a lot. And it’s like, just scale down to what you can do. If you’re starting an exercise habit, if that means you go to the gym every day and you do five minutes on a treadmill, make the bar low enough that you can clear it, and you are not tempted to make excuses. Right?
+
+Kevin Rose: Let me ask you a question. If you’re like, “Okay, I don’t want to be a meathead, but I want a little muscle mass, so I want some tone and definition, a little bit of muscle mass.”
+
+And I’ve seen the pros and cons of one set to failure and the data around it. It seems to be that it’s good but not as good as multiple sets of failure for a single muscle group. Would you say that you believe that to be true? Or are you doing one step to failure with, if you’re doing bicep, let’s just take biceps, for example. If you’re doing one set to failure, are you doing several exercises on the bicep, one set to failure? Or are you just talking about like, you’re just doing hammer curls until you fail and that’s it for biceps that day?
+
+Tim Ferriss: So, I would, actually, let’s just take skiing as an example. So my priority’s going to be skiing and there are actually a few other sports I’ll be training for at the same time. So I’ll be a busy, busy, boy for the first two months of the year, which is great. So I’ll need to lose all this fat that I accumulated over Thanksgiving and Christmas because I know those Danish butter cookies that my Mom bought at Costco are just waiting for me.
+
+Kevin Rose: Everybody’s got their thing.
+
+Tim Ferriss: I know it. I know they’re sitting there.
+
+So the one set to failure or multiple sets to failure, training to failure, can inhibit your ability to train something sport-specific like skiing if you overdo it.
+
+For instance, I would not, even though you could pack on tons of muscle doing 20-rep set to failure for squats, if you do that, then you try to go skiing the next two or three days, you’re going to be garbage from a fine motor control perspective.
+
+But to answer your question directly, I have not looked at the most recent data on any of this. I’m not sure there exists data comparing these in meaningful ways that do not bias towards one method or another. Because I have volunteered to be a participant, a subject, in certain weightlifting trials. I’m not going to mention the university because I don’t want to throw them under the bus. But when I went in there, the protocol required us to do 10 reps of bench press for X number of sets. And I went in there and you’d see one guy get on the bench, because there’s a circuit, they’re trying to make use of basically an open class period for volunteers. You’d see one person who’s basically dropping the weight onto his chest, at risk of breaking every one of his ribs, and bouncing it off.
+
+Kevin Rose: Oh, geez, like those sternum presses?
+
+Tim Ferriss: Using terrible form. Yeah, terrible form. Very, very little time under tension. And then you’d see someone else who’s doing two seconds up, four seconds down, pause off the chest. Those are not the same 10 repetitions.
+
+Kevin Rose: Yeah, a hundred percent. Time under tension is completely different.
+
+Tim Ferriss: Yeah, so I think garbage in, garbage out for a lot of these studies, so I don’t weigh them too heavily.
+
+But what I will say is, if you are reasonably novice, even intermediate for training, and by the way, if you’ve been training for a bunch of years and you haven’t made a lot of progress, I would consider you a novice, right? If you do a single set to concentric failure, per exercise, and I’ll come back and then answer what type of exercise and so on that you asked, you will see excellent results. And there may be some incremental gain from doing multiple sets, but it’s going to dig into your recovery ability.
+
+Kevin Rose: So you’re saying one set?
+
+Tim Ferriss: Yep. And let me tell you what the one set means.
+
+Kevin Rose: Yeah, yeah, exactly. That’s what I was going to get to.
+
+Tim Ferriss: What the one set means, and I’ve gone back to — all of my books function this way. All of my books are reference books for myself. I go around, I gather these best practices that I’ve tested, and then I refer back to them. So in the case of, say, The 4-Hour Body, the Occam’s Protocol, and a handful of compound movements still does the trick for the vast majority of the population. I’m sure people are going to take issue with this, but I have now, hundreds of thousands, millions of people who have tried these things and I’ve seen the success studies.
+
+It does work. Yes, it’s simple. Yes, it could be more sophisticated. It is idiot proof for a reason. That if I go in to lift, I’m not going to be doing direct bicep work. I’m going to be doing something like a seated row and then a pull down. And If I’m hitting the back from a few different angles, that’s it. I might honestly just do one of those. I might do one compound pulling movement, one compound pressing movement, and then one or two leg movements, that’s the whole workout. The whole workout should take less than 20 minutes.
+
+People say, “What about warm-up sets?” Well, if you’re tracking your progress well, you’re using the same equipment, and you are lifting at a slow cadence, this is key. The first handful of reps effectively function as your warm-up. Now, what I’ll often do is take 30 percent of the target working weight that I’m going to use for my one set to failure, and I’ll do three, four, five reps just to make sure my joints aren’t flared up, that I’m not feeling any pain, and then I would have, say, an A workout and a B workout.
+
+So let’s just say hypothetically, I’m making this up, but you might have something like a close grip incline bench press, right, to just avoid issues with your shoulders, let’s just say. Then you have pull-downs, like close grip supinated, so palm facing you pull-downs, and then a leg press or split squats holding dumbbells on either side, so you’re also hitting your traps in that one, right? That’s your whole workout.
+
+Kevin Rose: One thing we didn’t cover that I think is really important is, you say, “One set to failure,” but what’s your target reps here? Some people say lift heavy and do eight to 10. Some people say go a little bit lighter and get to 20 to where you fail at 20. What are you aiming for here?
+
+Tim Ferriss: For safety purposes and again, everybody’s got a fucking opinion with this stuff, but use something that can do a super slow protocol, which is like five seconds up, five seconds down, and then you can do six to 10 reps, but I wouldn’t increase the weight until you get to an eight to 10 rep range. You can increase that for the legs, but I wouldn’t make it complicated. I would say five seconds up, five seconds down. That’s one 1,000, two 1,000, slow, and let’s call it six to 10 reps to failure.
+
+Positive or concentric failure means you’re on the — in the case of the pull-down, the pulling motion. This is when the muscle is overlapping and shortening. In the case of the leg press, let’s just say, or the squats, it would be when you’re pushing out, not when you’re lowering. In the case of the close-grip bench press, it would be when you’re lifting the weight up, that’s the positive portion. Then you get to the point where you stick, you can’t move it. All right, push for another 10 seconds as hard as you can, try to move at a millimeter at a time and then lower for 10 seconds, you’re done.
+
+And then you have to log the entire workout. It’s not hard to do. You need to take notes. If you don’t take notes, you’re not going to make the progress you want to make, and then the second workout, just to again, hypothetical, it doesn’t really matter that much. As long as it’s safe and it’s a compound movement, you’re doing it to failure, you’re going to make progress. So let’s just say that your shoulders are healthy enough to do this. You could do an overhead press or a military press, and I’m equipment agnostic. People can argue about free weights versus machines. My position now is whatever is safest and whatever you can do consistently. So if you’re traveling a lot, then hire a personal trainer or a powerlifter or someone with very good technique to coach you on how to use free weights because those are going to be uniform around the country or around the world instead of equipment, which is going to be highly variable.
+
+So on the next one, might be overhead press or seated overhead press. Then we already did the pull down, so maybe it’s a seated row or a bent row with a barbell. Then for legs, we already did, I think I was talking about split squats with dumbbells. So maybe at this time it’s leg press.
+
+I have, for instance, my right leg is 1.1 centimeters. I had full leg x-rays done a year ago because a number of doctors thought I was full of shit with this, and I was like, “I really think one leg is longer than the other.” I’ve looked at it a number of different ways. My right leg is about — femur length — is 0.8 centimeters to 1.1 centimeters I did two takes of x-rays. So what happens if I’m doing, say, a back squat is it introduces rotational force, and that is how I initially turned my mildly bad back pain into really acute, horrifying back pain that has persisted now for two years or so.
+
+I’ve made a lot of progress and I can talk about what’s contributed to that. Actually, an experiment recently with stem cells seems to be delivering some very interesting results. I’m not ready to recommend any laboratories related to the production or harvesting of the stem cells nor any clinics. So I want to wait until I see more longitudinal results for myself, but the early indications are very positive, and the TLDR on that is that I did not want to inject anything intradiscal. I didn’t want to puncture any discs, and there are many reasons for that.
+
+I’ve spoken to a lot of spine mechanic experts and so on. It seems that the long-term risk of having some type of issue with your disc, a rupture, is higher if you ever puncture the disc. So I didn’t want to do that, and rather than do that because my pain is localized, like the SI joint and L4, L5 where I do have a bunch of structural issues, we did something maybe a little unorthodox in a sense, and there’s something called the iliolumbar ligament, and you have two of them and people can look this up, but I used to think, and I do still think this, you’re effectively as old as your joints feel, right? I really think there’s something to that.
+
+Kevin Rose: Especially when you throw your back out and you’re like, “Fuck.” You’ve never felt older in your life than when you have to crawl to your bed on your hands and knees because your back is thrown out.
+
+Tim Ferriss: Or lay on your bed or you have to constantly fidget because your back is bothering you.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Where I’ve started to think there may be for me some interesting interventions because what we did is we did an injection. I mean the needle is huge. That’s like five to eight inches long.
+
+Kevin Rose: Don’t look, yeah.
+
+Tim Ferriss: But an injection in the SI joint, but then also didn’t want an injection directly into the ligament just because I couldn’t take the recovery time for that, but to bathe around the ligament with these stem cells, MSCs, and literally within a day I felt relief in that area, and so it raises questions for me around how you diagnose back pain or look at structural issues and what’s visible versus less visible. So in other words, when you look at back pain, oftentimes you do imaging, you look at the spine and you fixate on the facet joints and the vertebral bodies, these segments and so on, and if you’re over the edge of 40, your back’s going to look fucked in some way.
+
+It’s not going to look great. As you get older, just like you get wrinkles on your face, your back is going to show degenerative changes almost 100 percent, especially if you’ve done any lifting or athletic anything, and what is less obvious though is the health or inflammation associated with some of these ligaments. So I’ve become super interested based on my recent experience, and I know friends from friction massage who have seen tremendous back pain relief.
+
+Kevin Rose: What is friction massage?
+
+Tim Ferriss: You could use a gua sha tool, there are different ways.
+
+Kevin Rose: Is it cupping and shit where they break fascia up?
+
+Tim Ferriss: Yeah, it’s like a rapid pressure movement back and forth. So you could use a gua sha tool, it’s probably going to be too big for this particular area you might use, probably using manual therapy, but I have friends who have seen incredible relief in what appears to be the case is that if I address those ligaments a lot, my low back pain goes away. Now, the contrast between my right side, which was treated and my left side, which was untreated, but my left side, I considered the healthy side. I now realize it’s actually in a lot of pain. So what I may do because I’m part of a clinical trial and you have to take a six-month break between stem cells for a host of reasons. I may actually do PRP, platelet-rich plasma on that left side, we’ll see.
+
+Kevin Rose: Get the vampire facial while you’re at it.
+
+Tim Ferriss: I’ll get a two-for-one vampire facial while I’m there, get the package deal. So hopefully that helps and we only talked about one aspect of how I’m thinking about health, which is the muscle mass. For me since I am doing the skiing training and other things, I will probably not do extended sets to failure because it’ll inhibit my training. I will probably do something in the order of more like the three to five rep range, still doing it slowly enough that I feel like it’s very under control, nothing ballistic. I’m going to get plenty of ballistic and dynamic movements from the skiing itself.
+
+Kevin Rose: One question on the recovery side is back in the day, it was like one gram of protein per pound of body weight to get any type of muscle growth. What’s your current regimen look like for something like this? Because I mean you’re not going for massive gains here, so it’s not like you’d be perfect. Are you still getting adequate protein? Are you putting a lot of protein in there when you’re doing these training days?
+
+Tim Ferriss: Yeah, I will. I mean especially because I’ll basically be training at the gym at night and before dinner and I will be skiing and taking very serious technical lessons and trying some pretty gnarly stuff for me in terms of reasonably intense training.
+
+Kevin Rose: Like flips and shit?
+
+Tim Ferriss: No, not that intense. No.
+
+Kevin Rose: You doing a halfpipe?
+
+Tim Ferriss: No, not halfpipe. I’m just talking about bumps and back country stuff.
+
+Kevin Rose: Oh, back country stuff. Yeah.
+
+Tim Ferriss: Also ski touring. I’ll be skinning — basically work your way up the mountain and then you ski down and stuff. So it’s going to be physically intensive. I’ll also be eating quite a lot of carbs, but probably I will almost certainly get at least one gram of protein per pound body weight. I don’t think that’s overkill.
+
+Kevin Rose: All right.
+
+Tim Ferriss: And I’ll show you one more thing that’s kind of fun, and I’ve been looking very closely at this. I don’t feel comfortable promoting any brands yet because I have some technical questions, but I have been experimenting with something called — the acronym is LICUS, L-I-C-U-S. So I’ve got this.
+
+Kevin Rose: Holy shit, what is this now?
+
+Tim Ferriss: Another one over here.
+
+Kevin Rose: If you’re not seeing the video, it looks like he’s part cyborg now.
+
+Tim Ferriss: It’s got patches with electrodes and cables coming off and then you set how many hours you want on this thing and it is low-intensity continuous ultrasound.
+
+Kevin Rose: Is this why you’re so chill right now? What’s going on? What is this thing doing?
+
+Tim Ferriss: No, no. This is not why I’m so chill. I mean who knows? I don’t think so. This is a device that safely administers low-intensity ultrasound over a period of one to four hours per site of treatment. So I currently have two of these coupling patches, one on the front of my shoulder, one at the rear of the shoulder. I have a bunch of tendonitis around the insertion points.
+
+Kevin Rose: Oh, so this has nothing to do with your Hawaii trip. It’s not like swimming or talking to dolphins.
+
+Tim Ferriss: No, I’ve been playing with this for about a month. No, this is for recovery, but also the low-intensity continuous ultrasound, so LICUS, L-I-C-U-S. You can find a lot of interesting studies on this and I’ll mention a site, I don’t know if I’ve mentioned it before, but consensus.app, which uses AI to assess published literature from reputable journals to determine if something is a thumbs up, thumbs down, or inconclusive. So you could put something in like, “Is there any evidence that low intensity continuous ultrasound helps with tissue remodeling?” Or whatever, sports recovery, and you’ll get an answer.
+
+It’s not perfect, but it’s actually very helpful to get an initial indication, but this stuff, part of what I find interesting about this is unlike some other types of, say for instance, electrical stimulation, there are TENS units that you can use that will effectively reduce pain and this is not a scientific description, but they’re effectively overriding your nerves or overstimulating your nerves. So certain frequencies to turn off or mute the pain signaling. That’s not what this is doing. This technology seems to actually help with tissue remodeling and proliferation of different growth factors, and I really remember the first time I used this within an hour, this acute pain in my shoulder just vanished.
+
+Kevin Rose: Crazy.
+
+Tim Ferriss: Now, could that be placebo? Could be a placebo.
+
+Kevin Rose: What’s the cost on this?
+
+Tim Ferriss: It’s not cheap, which is why most people go into a clinic to use something like this, but they get you with the razor blades approach. So the device itself, who knows, but these coupling patches are very expensive. So if I’m using it once a day or twice a day, I’ve been using it a lot, it’s like 10 grand for two months.
+
+Kevin Rose: Oh, Jesus.
+
+Tim Ferriss: It’s expensive.
+
+Kevin Rose: How much are the patches? Like a grand a pop?
+
+Tim Ferriss: One box of four, I think it’s four, four, four, four. So it’d be like 16 patches. Something like 900 bucks. It’s very expensive. But there are some people out there for whom this will be out of reach, but you may be able to find a clinic where you could do this on sort of an as needed basis, who knows? Once a week, there may be some minimum cadence necessary to see the results that you would want, but there are also people out there for whom this may make sense, and hopefully as this technology, and you’ve seen this happen a million times, so have I, as it becomes more popular, as the technology gets more developed, as there’s more competition, the price drops tremendously.
+
+Kevin Rose: What’s funny is I’ve seen in podcasts, you and I have been part of this where you’ll mention something that’s three grand or whatever or something crazy and it’s like, “Well, that Tim fucking rich guy can afford all these things.” But honestly, what happens that I think is so beautiful about this stuff is if you can get the higher-end folks that want to go and experiment at the edges here that have the disposable income, they’re doing nothing but dropping the prices for the masses because they have to ramp up production over time.
+
+And it’s funny, I’ve seen this happen so many times, even in drug stuff as well. When I first started taking Repatha as an alternative to cholesterol meds and it wasn’t covered out of pocket, it was like $2,500 a month. It was ridiculous, and now Amazon has it for 500, that’s no insurance and it takes time for these things to come down and hit the masses and those VO2 max machines too that you can get at home now, I don’t know if you mess around with those, I just got one of those and it’s insane, but it’s great because you don’t have to go to the clinic and you can save the time and then eventually these would be less expensive for everyone.
+
+Tim Ferriss: Yeah, we’ve seen it with Uber Black in the beginning, it was definitely one percent kind of thing, but it subsidized the development, I mean that was jet travel though, as well.
+
+Kevin Rose: UberX.
+
+Tim Ferriss: Tesla, same thing. I mean there are many examples. I’ll give people some recommendations that are not expensive at all, which I’m equally focused on, actually more focused on. This is a nice bonus and I’m still experimenting with it. Jury’s out, it seems to be very helpful, but I want to see longer term. There is a chapter in, and I’ll see if I can share some of this. I’ll put a link in the show notes for people. I’ll share at least some of this. There’s a chapter in The 4-Hour Body called “Reversing Permanent Injuries.” I will link to it for folks.
+
+But the exercises in that still deliver so much like the bang for the buck in doing some of the Gray Cook exercises, the chop and lift with cable machines, the Turkish getup, even if you’re just doing the first portion of that on the ground for shoulder health, I mean there’s so many benefits to a handful of exercises in terms of injury prevention, and you have to invest in that stuff as you get older. If you want to be active, if you want to be athletic, your body just does not have the elasticity and the regenerative ability that it used to, and that for instance, part of the reason I went back to that chapter is that the chop and lift exercise have a slow under control rotational component that I felt was not dynamically, but still compatible with getting me closer to developing or redeveloping the spinal engine that Nsima Inyang talks about. I was like, okay, look, let me take small safe steps towards incorporating some very mild rotational exercises. And that’s where I’m starting.
+
+Kevin Rose: That sounds good.
+
+Tim Ferriss: It feels great and I’m doing it first thing in the morning. Wake up, cold brew coffee right now, and then — Hawaiian coffee’s incredible. So this has been my reentry after my 30, 40 days of abstinence. Wake up immediately, have a cold brew and then go to the gym.
+
+Kevin Rose: That’s a big shot. Hawaiian coffee’s no joke, that’s some strong stuff.
+
+Tim Ferriss: It’s so good. It’s delicious. It’s some of my favorite coffee on the planet.
+
+Kevin Rose: There’s something about how just dark and dense and it feels very nutrient rich, like antioxidant rich to me. It’s good stuff. The Kona coffee is good. All right, so we get a few other predictions and fun things?
+
+Tim Ferriss: Yeah, let’s do it.
+
+Kevin Rose: We’ve got tons.
+
+Tim Ferriss: I just gave several TED Talks, so you should let ‘er rip.
+
+Kevin Rose: Yeah, so I’ll do some rapid fire, fun stuff here. So damp January, I’m going to drink six or less drinks a month. Moving on to investments.
+
+Tim Ferriss: I like how you just ran through that one.
+
+Kevin Rose: The drinking thing, I actually am cutting back a ton. You notice I’m not drinking tonight, look at that.
+
+Tim Ferriss: Look at that, baby steps.
+
+Kevin Rose: Baby steps. One of the things I’ve realized, especially as you get older is that, as life gets more complex, there has to be this kind of continual, especially as you have kids and other things, this continual reevaluating of your processes and every year, how can you turn down the knob and automate more things than you had the previous year? Just for my own sanity.
+
+Tim Ferriss: Or eliminate more things too.
+
+Kevin Rose: Yes, and so in that theme, I’ve gotten really simple in the investing front. The vast majority of my exposure is at True Ventures where we take a lot on a lot of risks. That’s what we do for our day jobs. I’m going to try a new app called Monarch. It’s not new, but it’s been around for a while to track my finances and finally get a budget under control starting January.
+
+Tim Ferriss: You’ve been using it for a bit?
+
+Kevin Rose: Yeah, I’ve been using it. It’s great.
+
+Tim Ferriss: What do you like about it?
+
+Kevin Rose: So there’s a couple of them out there that I really like. I like for holistic net worth, just where am I in the world? There’s a bunch of tools out there. ProjectionLab is where —
+
+Tim Ferriss: Where am I in the world, meaning like big picture —
+
+Kevin Rose: Financially.
+
+Tim Ferriss: — what does my whole thing look like?
+
+Kevin Rose: Yeah, exactly. And so I would say that ProjectionLab is good at looking where you’re spending in terms of how soon can I retire and what does my retirement look like? And planning for different scenarios. I think that’s probably the best app out there.
+
+Tim Ferriss: What was it called?
+
+Kevin Rose: ProjectionLab.
+
+Copilot has always been my favorite on mobile, but Monarch, it ties together all my accounts in a view that I think is more data rich, especially on the budgeting side than Copilot. So I’ve kind of started to move over to Monarch more full time, which is great. Those two and then gosh, I’m drawing a blank of the last one for the overview of everything, they’re going to kill me because it’s a fantastic app.
+
+Tim Ferriss: PornHub Premium?
+
+Kevin Rose: What’s that?
+
+Tim Ferriss: PornHub Premium?
+
+Kevin Rose: Exactly! There’s Tim, he’s back! He’s back, everybody.
+
+Tim Ferriss: Now I can’t even blame it on the booze.
+
+Kevin Rose: Yeah, exactly. Before you were like, “I’m hammered.” Do you actually buy their premium?
+
+Tim Ferriss: No. No, no, no. It seems like overkill. Yeah, let me share my public favorites.
+
+Kevin Rose: Yeah, exactly.
+
+Tim Ferriss: pornhub.com/timtim. 20 percent off.
+
+Kevin Rose: Kubera is my overview app that I think is the best for tracking all of your larger investments and overall networks.
+
+Tim Ferriss: What was the name? No wonder you forgot it.
+
+Kevin Rose: Kubera, K-U-B-E-R-A. I love Kubera, I think it’s really high-quality software. So anyway, that’s that. So let me just go quickly down the investment front, VTI because it gives you global exposure. I love that, I get the total stock market index there. It’s Vanguard, it’s low cost. It’s like I want to have the majority of my stuff in there. I have moved my crypto allocation to 10 percent of overall net worth from about four to five percent.
+
+Tim Ferriss: Oh, you increased your holdings.
+
+Kevin Rose: I increased.
+
+Tim Ferriss: Did you increase it or is that just reflective of an increase in value?
+
+Kevin Rose: No, I increased it.
+
+Tim Ferriss: You bought more.
+
+Kevin Rose: Yes, I’ve been buying more for the last few months. I had this feeling that Trump was going to win and I started buying more crypto when I had that gut feeling just because I think that he’s going to push a massive crypto agenda, and I believe that if — this is probably in the more prediction side, I think in the next couple of years we’re going to see for the very first time the US government is going to start adding crypto to our reserves. We’ll treat it as a currency that we hold in our reserves, and when that happens, it’s going to be nuts. My gut says 250,000 or more a coin in the next couple of years. So we’ll see where that goes.
+
+Tim Ferriss: Now, if somebody listening’s like, “Kevin’s just shilling his bags,” what would you say to that?
+
+Kevin Rose: I would say, a lot of people have said this, I don’t know. Like I was talking about Nvidia —
+
+Tim Ferriss: I’m not saying that.
+
+Kevin Rose: No, I get it, just listen, here’s the deal about shilling your bags.
+
+Tim Ferriss: I’m giving you PTSD flashbacks.
+
+Kevin Rose: No, but this is the real truth. Okay, let’s go and take a look at how much Bitcoin traded today in terms of volume, okay? So I love all our podcasts that we’re both going to syndicate this episode on our respective feeds, but we’re not moving trillions of dollars of Bitcoin because I say it’s going to 250 a coin. I could go right now on Coinbase right now and say, “Sell 20 million in Bitcoin,” press a button at market, and it would hardly even — a little tiny tick. Because there’s so much volume, no amount of shilling could move it in any meaningful way. It just can’t happen.
+
+Now, 10 years ago, you and I go on here, talk about Bitcoin, and we just made ourselves five million bucks. But you know what I mean, that’s not the case anymore. It is just too massive.
+
+Tim Ferriss: Makes sense.
+
+Kevin Rose: So anyway, there’s no such thing as shilling anymore, at least when it comes to Bitcoin. Now, if we’re talking about shitcoins, which are happening a lot right now, that’s the stuff that’s just so stupid I don’t even get involved in. So anyway, I hold Bitcoin, I purposely hold it in an account that I can’t touch. So I like this because Coinbase has a feature called custody where you can’t withdraw it for three days.
+
+Tim Ferriss: Enterprise-level self-control.
+
+Kevin Rose: Yeah, exactly. It’s like a forced hold. I like doing it and I’ve now stopped trading it, so I don’t even look at the price. I’m like, it’s just part of my overall holdings, I’m going to hold it for the next 50 plus years. I want to hand my kids Bitcoin. It’s gone from “When do I sell it?” Like, “Oh, is it too high? Should I sell right now?” Those days are over. Now it’s just part of the portfolio. So it’s digital assets, it’s not going away. You can’t put digital assets back in the box, back in the tube, or wherever the genie comes out of.
+
+Tim Ferriss: Back in the tube! Can’t put the genie back in the toothpaste tube.
+
+Kevin Rose: Yeah, exactly. So last thing I will say, now I do like to play, do little one-off stock buys every now and then. I got really lucky because we called Nvidia pretty early on your podcast before, which was good, but I have enough friends that are large executives at major companies in the tech arena that they’re all talking about nuclear power. And I don’t know how to play it, but my gut tells me over the next decade, I’m pretty bullish on the return of nuclear to the United States just out of our sheer capacity for power that we need for data centers on the AI side. We need alternative forms of energy.
+
+Tim Ferriss: Especially if coal plants are shut down.
+
+Kevin Rose: Well, I mean I don’t think that’s going to happen.
+
+Tim Ferriss: I’m not saying all. I’m not saying all.
+
+Kevin Rose: If you want to play the broad basket and you’re thinking about this over the long term, and I was just speaking for myself, this is not investment advice, but I did find there’s a fund that holds uranium manufacturers and some nuclear plants and some of the companies that are thinking about doing these new smaller plants, and so it’s like a basket of public nuclear stocks right now, and they will add to it as other nuclear companies go public.
+
+And so I’m not in the game of going and saying, “Hey, this is the nuclear future.” It’s this one company, right? Because it seems too much like angel investing or something else. So anyway, the one I look at is the only one I could really find was NLR, which is the VanEck ETF trust, uranium and nuclear basket of stocks. It’s got a pretty high expense ratio, but I’m doing a really small piece into it just because I think over the next decade it’s going to outperform the S&P, that’s all. That’s for fun on the investment going into the new year, and then I’ve got a bunch of predictions going into the new year.
+
+Tim Ferriss: Throw some of the predictions out.
+
+Kevin Rose: Okay, so prediction number one, Bitcoin hits 250, US government starts adding it to the reserves.
+
+Tim Ferriss: You think that’s in 2025?
+
+Kevin Rose: I think that is in the next two years. So I’ll kick that out, say within the next two years. I think several AI companies next year struggle to raise capital and go under, and I’m talking some of the bigs that have raised hundreds of millions of dollars because I think what’s going to happen is — I shouldn’t say the bigs, the big players that are in the startup space now, I think the quote-unquote bigs, the Alphabet companies are just going to run the table when it comes to most AI-related things, and if that’s the case, I kind of just want to hold those stocks. OpenAI, they’re so intertwined with Microsoft. I think that they’ll be fine plus they’re working on other devices as well.
+
+Speaking of which, one of my predictions will be that OpenAI launches some type of mobile device, maybe some type of smart headphones this coming year because they have to be at the meta level, meaning they have to be at the device level that we all carry around, and when you have press and hold Apple Intelligence just by holding on the side of your phone now, and you have press and hold how you used to query Siri or whatever, and now you have that same going on with Gemini with Google.
+
+Now you’ve got AI at the phone level already carried by the big providers to get someone to think like, “Oh, I’ve got to go download ChatGPT so I can go and switch it out as my assistant and set up shortcuts and all that, and if it’s 90 percent as good, people won’t care. You know what I mean? It’s like I don’t care if I’m streaming Lord of the Rings off of freaking Hulu or Prime or Apple TV, I just want to watch the movie, right? And so I think AI is going to be kind of like that where we’ll just like, “Oh, I have an Apple phone so I use Apple Intelligence.” That’s kind of where it’s at.
+
+Tim Ferriss: That’s interesting, yeah. Because you think of where could they get the wedge in the door, I think the headset’s interesting, right? Because if they made a really good set of basically AirPod clones of some type —
+
+Kevin Rose: But intelligent, with AI built in.
+
+Tim Ferriss: — that had that built in, but basically they’re not going to replace the iPhone, right? They’re not going to replace good Android phones for people who already use those. But they could replace wireless AirPods.
+
+Kevin Rose: The only way I think they would have a chance at replacing, not replacing the iPhone, but being a top seller would be that they do something so first principles-oriented where it’s like a type of UI UX that we just haven’t even imagined yet. I heard they were working with Jony Ive on some of this stuff, and so you’ve got the former industrial designer head of design for Apple coming to the table with OpenAI saying, “Hey, let’s go back to the drawing board and say, ‘If we had to build a phone today, would it be with a series of app icons on here or might there be a different interface that makes this way more sexy, more fun?'” Because the future is not going to be, hey, I’m going to go launch Hotels.com app and say, “Get me a room in Japan in two weeks,” negotiate all the things, put in my credit card credentials. It’s going to be literally you open your AI and you say, “Hey, can you get me a room for Japan at this hotel in two weeks,” and they’ll be like, “Which room do you want? These three things, blah, blah, blah,” and you’re like, “This room,” and it’s like, boom. It’s already got my information, it’s all APIs behind the scenes, it hands all that data over, the exchange is done, the payment is done, and it’s finalized within 30 seconds versus a 15-minute thing.
+
+Tim Ferriss: I guess what someone like OpenAI could do is something along the lines of a fantasy I’ve had for a long time, which is a very dumb phone that — I remember last, almost a year ago, I was telling my friends it’d be great to have a one-button phone. And a one-button phone at that time would have basically sent voice or routed a phone call to a virtual assistant or someone who handles everything for me, outside of Google Maps. It’s like, all right, I have Maps, and then I have one request button for everything, and that’s it, just to avoid the metastasized mess of having a thousand apps and —
+
+Kevin Rose: So many people want this.
+
+Tim Ferriss: — a thousand notifications and all that bullshit. And I know some very accomplished professionals who have stopped taking their iPhone into their office. They leave it in some type of locker, or maybe they leave it someplace safe, at the reception, and they take their dumb phone into, say, the office where they’re doing their real work, and their family has that number. The ringer is on for emergencies, it has Maps, and that’s it. There’s nothing else. So you could envision something that is effectively the one-button phone, but it’s using an AI assistant through OpenAI.
+
+Kevin Rose: Yes. 100 percent. Yeah, and I think you’re exactly right in that there’s probably the two or three things that you still need, and it’s not Instagram, it’s not a full suite of things. It’s like, “Okay, maybe I still need to call or hail an Uber at this corner and see when it’s pulling up,” right
+
+Tim Ferriss: Yep. It’s like Maps, maybe Uber, and then —
+
+Kevin Rose: Music, probably.
+
+Tim Ferriss: Yeah, music and credit cards. That’s it.
+
+Kevin Rose: Right. Exactly.
+
+Tim Ferriss: You don’t need anything else.
+
+Kevin Rose: Exactly.
+
+Tim Ferriss: And AI could serve up music. I don’t know exactly how they would do it, but there’d be a way to do it.
+
+Kevin Rose: They’ll have APIs with all that stuff.
+
+Tim Ferriss: They’ll have APIs for everything.
+
+Tim Ferriss: Coming back to what we were saying earlier, too, it’s like, okay, well, most people are not going to replace their phone with that, but could they get 100,000, 200,000 techies to overpay for that to do the basically field-testing for them? Sure, they could.
+
+Kevin Rose: 100 percent.
+
+Tim Ferriss: Almost certainly.
+
+Kevin Rose: As the technology matures behind the scenes and then — this is the playbook that I think is finally starting to work for Meta, where they have these Ray-Ban glasses that — it’s the first time I’ve seen a Meta product where I’ve said okay. We’ve been talking about VR and AR for so long and how stupid it is —
+
+Tim Ferriss: As long as this show’s been around.
+
+Kevin Rose: I know. Adam Gazzaley still owes me a bottle of whiskey because he thought it was going to win out, but that’s in your book. But yeah, so Ray-Ban finally is really starting to hit for Meta in that you can walk up to people now in Japan and get real-time translations, and you don’t even look like you’re wearing anything.
+
+Tim Ferriss: And real-time doxxing too. Did you see the Harvard student who figured out how to use the Ray-Ban glasses to immediately dox everyone? You can be like, “Oh, hey, are you so-and-so who researches so-and-so?” They’re like, “Oh, my God, how did you know?” and it’s like, because they’re getting a Terminator readout.
+
+Kevin Rose: I know. I know. Yeah, you’re getting The Terminator readout. Totally. A little higher fidelity than those graphics back then.
+
+But yeah, so a couple of things, though, real quick on the prediction front and then I’m done, but I think Microsoft releases an Android phone because largely because they have this suite; they have Word, they have Excel, they have PowerPoint, they have Drive, they have all the stuff, Outlook, you name it. I think it’ll be Android-based. And they have ChatGPT. So I think on the OpenAI side, that will probably be integrated into the Microsoft phone. My gut tells me that it’s a no-brainer for them.
+
+Tim Ferriss: So Microsoft would subsidize the development and all that of this hardware as opposed to AI.
+
+Kevin Rose: But it’d also be Android-based.
+
+Tim Ferriss: Right. Okay.
+
+Kevin Rose: It’s almost like getting a Google phone. You know when you get a Google phone, you open it up, and it’s got Gmail and Chrome and everything baked in?
+
+Tim Ferriss: If it is Android-based, this is such a Luddite question, I should know the answer, but does Gemini automatically come along for the ride, in which case that would be built-in competition for OpenAI if they use an Android phone?
+
+Kevin Rose: It’s a great question because I know that Google had some funky things back in the day. If you wanted to use Android, you had to include certain types of Google services behind the scenes, even though it’s open source. I don’t know to what extent and what you have to bundle, but I believe, because if I look at Samsung phones and they have their own browsers and they have their own email and everything else and they’re based on Android, that they could do the swap here, because Samsung already does that on the AI side and everything else.
+
+Lastly, I think we’ll get some type of confirmation of aliens. And then one last thing which I think we will see is we’re going to see a very massive unlock in creativity around music creation happening in the next couple of years. So the same way that we’re able to prompt and type in, “Show me a fox swimming underwater, grabbing an apple,” and now you can’t even tell it wasn’t shot and it’s just being generated, these little 4K snippets, I think there’s going to be a way to prompt music creation in a very fun and exciting explosion of creativity that will make an average consumer sound like they can be a real producer for the first time, just because I’ve seen some of these early betas and they’re a lot of fun.
+
+Tim Ferriss: I think that’s the next 12 months, maybe 18, max.
+
+Kevin Rose: Yeah, I think 18 sounds about right. Yeah.
+
+Tim Ferriss: So you skipped over damp January, which is fine. We’ll let that sit, but —
+
+Kevin Rose: Yeah, yeah, that’s fine.
+
+Tim Ferriss: — aliens. So tell me more about the aliens. And what the hell is going on in New Jersey? Honestly, I just have been ignoring most of the news.
+
+Kevin Rose: Yeah, I have kind of too. I feel in the last three years, and I got a really awesome chance to sit down with that Navy fighter pilot that saw some of these things, and there has been so much inquiry now, and then there also is a new changing government, obviously, that’s pushing for so much more transparency. And I think that when you have someone like, and we don’t have to get into politics whether you love him or hate him or anything else, but when you have someone like Elon Musk in there being Elon, I can see this shaking free, or at least the uncovering of whatever we know in this domain being kind of declassified. And that, to me, is just horribly scary/exciting at the same time.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Yeah, who knows? Crazy. Yeah.
+
+Kevin Rose: What are the odds that you would place, honestly — in my head, it’s like 90 percent there’s aliens out there and that we know about it as a government.
+
+Tim Ferriss: I guess we haven’t talked about this because I don’t want to sound like a fucking crazy person, but there was a point where this conversation was in the air enough. I was like, “Okay, let me do a deep-dive to see what we can say with any degree of certainty and what we can’t say with any degree of certainty.” And looking at government reports, looking at various first-person testimony about the Tic Tac and so on that are very widely cited, and trying to account for the possibility that some of these people, not all of them, and not necessarily the people involved with Tic Tac, may see some benefit or appeal, like every human being on social media, to getting attention. So you have to add that in as a possible contributing factor.
+
+What can we conclude based on the available data? And what seems to be the case if you’re looking at UAPs, I guess is what, unidentified aerial phenomena now is the rebrand from UFO so you don’t sound like someone wearing a tinfoil hat.
+
+Kevin Rose: It’s good. It’s a good rebrand.
+
+Tim Ferriss: And part of the reason that it’s “aerial phenomena” as opposed to “flying object” is because the vast majority of these can be explained by, say, high-altitude weather balloons or meteorological phenomena that cause a strange visual effect in the sky that is noticeable by humans from the ground, blah, blah, blah, blah, blah. Right? 95+ percent can be accounted for by that, or 90+ percent.
+
+Then you have also a long government history of covering up test craft flights and so on with reports of UFOs, right? So there’s a crash of some prototype of some type of weaponized technology or surveillance technology, and especially many, many decades ago, they’re worried about that news getting to our enemies/competitors overseas, so they drum up a misinformation campaign around it being a UFO. Okay, so there’s also a bunch of that.
+
+Taking all of that into account, if you look at congressional testimony and a bunch of other things, there do seem to be quite a few examples of documented phenomena often recorded from multiple video sources that defy explanation. They seem to defy explanation. And the descriptions of the behavior of these things seem to defy any explanation using technology that is currently available to us. But I would say that the idea that there are little green men in these ships strikes me as kind of ridiculous, unless they’re tourists who just are on safaris seeing what humans are doing. Because if they’re sufficiently advanced to do what some people report these craft doing, why on Earth would they have — we’re already using drones for warfare and all sorts of things. Why would they risk —
+
+Kevin Rose: That’s right.
+
+Tim Ferriss: — life and injury?
+
+Kevin Rose: That’s why I don’t think it’s that. I think it is tourism too. I think you’re right.
+
+Tim Ferriss: It could be tourism.
+
+Kevin Rose: And the ones that wreck are the ones that you hear about in Africa when people go in the safaris and they have too many drinks and they just fucking crash into a rhinoceros and then get eaten or whatever. It’s like, some of these aliens are coming down here, and it has to be something like that. They’ve had a few bevs and they just fucking wreck their shit.
+
+Tim Ferriss: It’s like teenage alien DUIs.
+
+Kevin Rose: Yeah, exactly.
+
+Tim Ferriss: “Where’d Glubblug go? Oh, fuck, he’s gone to Earth again.”
+
+Kevin Rose: Right. “Did he drink?” “He took a few.”
+
+Tim Ferriss: Yeah. I mean, maybe. Maybe, right? I do think that there are many more questions than answers, of course, but — actually, no, I’ll give a shout-out. There is an app called Enigma, which runs machine learning on UAP sightings. So if people want to check that out, it’s pretty interesting. Of course, we’ve seen a huge spike in New Jersey over the last period of time, but that’s worth checking out. And I’m actually just going to double-check that —
+
+Kevin Rose: Did you see Moment of Contact, by the way?
+
+Tim Ferriss: Nope. What’s that?
+
+Kevin Rose: Oh, you’ve got to see this.
+
+Tim Ferriss: Yeah, so Enigma is enigmalabs.io.
+
+Kevin Rose: Make a note of this. Moment of Contact, it’s a Netflix documentary about this 1996 crash in Brazil, and it’s like these citizens, dozens of them, saw not only the crash, but the freaking aliens wandering around the neighborhood and shit after the crash. And then all these military things came in. Dude, it’s worth it. It’s worth it.
+
+Tim Ferriss: It’s like E.T., but in Brazil.
+
+Kevin Rose: I put on an alien documentary once a year just because — Netflix knows me enough —
+
+Tim Ferriss: Why not?
+
+Kevin Rose: Yeah, it’s like, “Hey, you might like this.” I’m like, “I might.”
+
+Tim Ferriss: J.J. Abrams’ production company, Bad Robot, they made some UFO mini-series. I watched that on an airplane.
+
+Kevin Rose: Did they?
+
+Tim Ferriss: That’s when you watch that kind of thing.
+
+Kevin Rose: Yeah, yeah, yeah, exactly. So I watched this one and I was like, “Wow. Holy shit.” It’s pretty compelling.
+
+Tim Ferriss: Let me throw out a couple of alternate explanations, or supplemental explanations. So, one, when you see these reports, the vast majority of alien abduction reports are like rednecks getting pulled up by a tractor beam and then having anal probes put in them, and I’m just like, “Why is it that all these rednecks are getting anal probed?”
+
+Kevin Rose: Is it always anal probes?
+
+Tim Ferriss: Well, there is a lot of probing typically involved, but —
+
+Kevin Rose: It is weird.
+
+Tim Ferriss: What’s going on there?
+
+Kevin Rose: Why do they return them? Take them.
+
+Tim Ferriss: I don’t know. I don’t don’t know. But where I was going to go is the reports also of the appearance of these aliens — so what you often see is the sort of upside down, teardrop-shaped head with the big eyes and it’s like, well, cross-culturally, you see these reports everywhere, therefore they must be real. Those types of entities often are cited in, say, certain types of psychedelic drug experiences also. So what does that mean? Are people having sort of spontaneous, drug-like experiences that are producing these visions? Is it actually not that these particular alien creatures exist or that there is some fundamental production of this hallucination based on endogenous DMT release or something? Who the fuck knows? But I’m saying there could be a component of that.
+
+The other one is, my thought is, if we take as a possibility that there are aliens from God knows where who are somehow getting to Earth by bending the time-space continuum to get here from gazillions of light years away somehow in these craft, then wouldn’t it be equally plausible that these craft are sent by time-traveling humans, basically descendants of us that are like, “Wow, we really fucked that up. Let’s try to send back an intervention team?” It sounds crazy. I don’t think it’s any crazier than aliens figuring out how to get here from a gajillion light years away to go on safari and anal-probe rednecks. It doesn’t strike me as any stranger.
+
+Kevin Rose: Well, you’ve heard that a lot of these sightings are around some of these nuclear facilities as well. Like missile silos and stuff like that.
+
+Tim Ferriss: I have, yes. What I’m doing right now is what I always try to do, and this is especially true with things that I feel strongly about. I’m like, “What else could explain this? What are some possible or alternate explanations?” Particularly when I’m delving into some of the very weird edges of things that I’ve done over the last 15, 20 years with respect to psychedelics, assisted therapies, and so on. Some very, very strange reports come back. So how do you cross-examine those?
+
+One tool in the toolkit is simply to say, “Let me try to strongman against whatever my current explanation is.” So in the case of the nuclear sites, yes, there is a lot of — it seems like there’s a disproportionate number of reports and videos and so on associated with these military sites. However, you could also look at, say, the data for brain tumor diagnoses, and if you were to look at the graph of something like that — and I’m making this example, but I think it’s probably true — it would look like there’s an explosion of brain cancer. Among the human populace, brain cancer is just on this crazy, parabolic rise, but it’s probably just because our diagnostic tools have become better. Our imaging tools are catching things earlier. They’re more sophisticated. Similarly, at these nuclear sites, or especially military sites with nuclear components, what do they have? They have a million-times the surveillance of any other place. So it’s possible these things are flying around in the Alaskan tundra, but there’s nothing there to capture them.
+
+So I think it’s certainly possible those are areas of interest. To me, that would seem to lend weight to explanations of — I don’t know why aliens would be interested in that. Time-traveling humans? Maybe. State actors, like China? Oh, for sure. They’d be very interested. Soviet Union? For sure. But some of the propulsion and sort of aeronautic behaviors of these crafts do not seem to reflect technology that’s available to any current state actor, including the United States, which raises all sorts of questions. But yeah, there’s some very strange stuff out there. It is a very, very, very small single-digit percentage of the total reported or documented phenomena. But yeah, it’s strange. That was my conclusion.
+
+Kevin Rose: If we can ever find a hotspot and we get a chance to go out there, that would be fun, like just get a group of people to go out there and just do a little —
+
+Tim Ferriss: A hotspot? What do you mean?
+
+Kevin Rose: Yeah, yeah, yeah. Like a place where there’s a lot of UFOs showing up. There is some of these places that are supposed to be better for viewing UFOs.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: That would be fun, just get an Airbnb for like a week.
+
+Tim Ferriss: When I was a kid, I remember driving my mom, babysitter at the time, I think my brother was a baby, and we were driving, I remember exactly where we were — I’m not going to name it, but I remember the exact road — and this kind of cigar-shaped thing just went — and then just shot off. We all saw it, and I was just like, “What the fuck was that?” No idea. But we all saw the same thing. Yeah, so who knows? There was a fair amount of military testing out there, so maybe, but yeah.
+
+Kevin Rose: That’s crazy.
+
+Tim Ferriss: Go figure.
+
+Kevin Rose: That’s awesome.
+
+Tim Ferriss: So that’s the aliens.
+
+Kevin Rose: That’s all I’ve got.
+
+Tim Ferriss: Or pseudo-aliens. All right, that’s all you’ve got. So I’ll talk about a couple of things, which are not related to predictions. Maybe I have some predictions. Maybe they’ll come out organically. So you’re talking about protein. I’ll mention a few things that might be of interest to folks. So while I’ve been here, I’ve been on the go. I’ll also talk about why I seem so chill, which I think I can nail pretty easily to one thing.
+
+So the first, and this is a company I’m super heavily involved with, but I’m involved with it because I believe in it a lot, so these — so you’ve seen these venison sticks —
+
+Kevin Rose: Yeah, yeah, yeah.
+
+Tim Ferriss: — these Axis deer venison sticks, Maui Nui venison. It is the most nutrient-dense red meat that you can get and the most ethically harvested, in my opinion, red meat that you can get. What’s interesting about this one, this is a brand new product that I’ve been — I’ve been consuming two or three of these today. It’s basically a multivitamin in a meat product because it has — this is called Peppered 10, and it’s got 10 percent liver and heart, in addition to the muscle. And it is incredible how much nutrient density you get from that.
+
+And then the other one, which I don’t actually have any official relationship with whatsoever, but shout out to also Peter Attia, who we both know, who’s the chief science officer, but this is David. So these David Bars have incredible protein-per-calorie ratios, 28 grams of protein, 150 calories. So when I’m traveling, especially when I’m traveling, this is basically the kit.
+
+Kevin Rose: Yeah, I do the David Bars too. They’re good. One of them was a little too sweet for me, but the blueberry one’s really good.
+
+Tim Ferriss: Yeah. Some of them are a little too sweet for my palate, but also there is a point where I’m like, “I cannot eat another venison stick,” because I eat so many of those per week. And we’re in Maui, meaning my team and I are in Maui right now, because we wanted to visit Maui Nui because —
+
+Kevin Rose: Oh, that’s awesome.
+
+Tim Ferriss: — Jake Muise is one of the most impressive company leaders and operators I’ve ever seen, including all of my startups in tech and otherwise. He’s so good at talent development and he’s so good at culture, and it’s a great example of doing good through a for-profit. And I just think that type of model is important to highlight because there is a lot of good you can do through market-driven solutions. And in this case, what Maui Nui Venison does that people don’t know, Axis deer were introduced, they’re originally from India, to Hawaii by King Kamehameha III or V. I can’t recall exactly. They have no natural predators, and now there are tens of thousands of these deer ravaging the landscape, and so they’re destroying the ecology, and that has all sorts of downstream effects, literally and metaphorically, including destroying coral reefs because they produce a lot of erosion. It’s really alarming. It looks like wildfire, effectively.
+
+So what Maui Nui does is they harvest these deer, meaning they shoot them in the field at night for lowest stress levels for the animals, and it’s incredibly well-run. Their efficiency ratio is as good as, say, slaughterhouses for cattle, which are very stressful for the animals. They’re factory-farmed, then they’re put into chutes, they’re literally held in place, and then boom, like bolts in the head. This for my money is infinitely more ethical. The animal is wild and free, living its life until the very instant that it instantaneously expires. Then they package that and they sell it. But what they also do.
+
+Kevin Rose: It’s the best way to go.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Let’s just go on a Maui Nui field when we’re like old, they’ll just put us out in a field, we’ll just run —
+
+Tim Ferriss: When we can no longer harness our spinal engine. It’s like “Oh, it’s time to put Kevin out to pasture.”
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: “Just give him a donut and a couple of beer, have him sitting at a table, and then POW. Let’s just get it over.”
+
+Kevin Rose: Yeah. Exactly. At Maui Nui, it’s all green. I’m like, “Tim, why did you bring me to Maui Nui? It’s so nice here.”
+
+Tim Ferriss: Yeah, your retirement home. You’re going to love it.
+
+Kevin Rose: Sit there.
+
+Tim Ferriss: You’re going to love it.
+
+Kevin Rose: Exactly.
+
+Tim Ferriss: What I did hear this trip, which I’d always wanted to do, but I’ve never done, is I went on a Holo ‘Ai. And a Holo ‘Ai Harvest is for the community here in Maui, so the Holo ‘Ai food sharing program that was created in April 2020 as a response to food insecurity in Hawaii, which had a lot of food security issues in emergency level caused by the COVID lockdowns. And what the Maui Nui team did is they completely revamped everything so they could first just drive venison by the ton straight to the food bank to donate it for communities. And then after the devastating wildfires last year, they completely restructured their operations. I got the email sent to all investors, and they were like, “Hey, look, guys, we are shifting our focus completely to helping our communities, which need food. This a disaster-level crisis…”
+
+Kevin Rose: That’s amazing.
+
+Tim Ferriss: — and changed their business model, and they have shared more than 120,000 pounds of venison, meaning donated, since the 2023 fires. It’s amazing. So there are a lot of partners and other people who have helped them along the way. But what I did is, and my team had the option of participating and they all opted in, was to go on a night harvest. So their operation is like a special operation, vampire-hour outing. You go out, they have FLIR infrared cameras and scopes, they have display monitors. They’re capturing information, which is like current stop, no shot, current stop, shot, and they have laser identifications for the rovers, who are the people who then go and retrieve the deer. And I went through the butchering process. I wanted to get better at butchering, so I actually butchered, I don’t know, six or seven deer on this trip.
+
+Kevin Rose: That’s amazing. Did you get to take some meat with you, or no?
+
+Tim Ferriss: Oh, of course. Yeah.
+
+Kevin Rose: That’s awesome.
+
+Tim Ferriss: The vast majority of that’s going to be donated, but some of it I’m going to keep for myself and send to family members and so on. But it can be very visually arresting. It can be confronting for someone who’s used to getting food from a conveniently wrapped plastic packaging from Whole Foods, but I find it so grounding in the sense that it makes you fully aware of what is involved to put food on your table if you choose to eat meat. And I feel very unconflicted about it. I know there’s some people —
+
+Kevin Rose: I do too.
+
+Tim Ferriss: — who feel conflicted. I don’t.
+
+Kevin Rose: It’s funny you mention that because it’s like — I get if you’re a vegetarian or vegan out there and you’re like, “I don’t see eye to eye with anything that is being said right now.” That totally makes sense to me. But if you’re going and having a burger, I don’t know, for me, if I’m eating a burger and I can’t put down the animal that I ate it from, there’s a big disconnect there. Just a couple generations ago, we were doing that. You know what I mean? And now it’s been completely stripped out of our culture. And I don’t have the same amount of hunting experience that you did; I went hunting with my dad once, but when I was — I’ve certainly done a shit ton of fishing, and it’s not the easiest thing to put down a big-ass salmon either, but you thank it for its life and you make use of everything you can, and it’s amazing.
+
+Tim Ferriss: Yeah. Totally. And they use everything, which is also deeply inspiring. They use everything from these animals. And they’re effectively restoring an ecosystem, they are feeding the local community, and they’re providing the most nutrient-dense meat that you can purchase because —
+
+Kevin Rose: And they’re bringing back traditions of things that — this idea that, and there’s a lot of chefs that are doing this now, where they call it nose-to-tail, which is like it’s not about just getting the prime cuts and throwing everything else away and being wasteful. It’s like cooking all of the different aspects and using all of the different aspects of the animal for either consumption or for product use or whatever it may be. There’s no waste there, or very little.
+
+Tim Ferriss: Yeah. And part of the reason they can do this is because they are harvesting these deer from private land. So to be clear, the reason that you buy farmed animals for food in the United States is because that’s what you have to do. You cannot buy game meat. That’s illegal, because you don’t want people poaching on public land and then selling meat, which can lead to over-killing and all sorts of issues with wildlife management cause imbalancing. So the operation is incredibly unique in that respect.
+
+And there are actually, and I don’t think it matters to out them here, there are a lot of, say, vegans or vegetarians. I know vegans, this is going to sound like a contradiction in terms, but who object to basically a lot of the animal husbandry practices, especially factory farming and so on in the US, so they don’t eat meat based on those ethical grounds, and they make an exception for Maui Nui. It’s the only meat that they consume.
+
+So anyway, that was this trip. So my team got to ride around in these ATVs and see the displays and really see the whole process.
+
+Kevin Rose: That’s amazing. How does that not surprise me that every single one on your team — if you work for Tim Ferriss, and you’re like, “Hey, we’re going on a hunt tonight,” is there one person that’s going to be like, “No,” you’re like, “You’re fucking fired?”
+
+Tim Ferriss: No, no, I wouldn’t fire them. I wouldn’t fire them. It’s —
+
+Kevin Rose: I’m kidding. I’m kidding. I know.
+
+Tim Ferriss: It’s quite a bit to take in.
+
+Kevin Rose: I know.
+
+Tim Ferriss: But what I wanted to do — and this is actually not my idea; this is the suggestion of one of my employees. They wanted first-hand experience with one of the companies or nonprofits that I support. And initially we’d thought about doing something with Amazon Conservation Team because I’ve done a lot of work with them in Colombia and Suriname and other places, but that would’ve involved two weeks off the grid and would’ve been very complicated from a logistics perspective.
+
+Kevin Rose: Maybe they’re talking about your psychedelic donations that you’ve been doing.
+
+Tim Ferriss: Wait, what was this? Oh, yeah —
+
+Kevin Rose: Maybe they’re talking about your psychedelic research that you’ve been doing.
+
+Tim Ferriss: I don’t think I feel comfortable sending my employees to the 17th dimension just yet. Yeah. But who knows? So that’s what I’ve been up to. And then on the calming side, on the grounding side —
+
+Kevin Rose: Yeah, you’re like a two. You’re typically like a nice, toasty seven or eight.
+
+Tim Ferriss: A simmering seven.
+
+Kevin Rose: You seem very chill.
+
+Tim Ferriss: Yeah, so I’d say chill, certainly, Hawaii helps, certainly good sleep helps, exercise helps. But —
+
+Kevin Rose: Valium.
+
+Tim Ferriss: What?
+
+Kevin Rose: You’re like, “I took three Valium before a certain show.”
+
+Tim Ferriss: Yeah, I’ve got the LICUS on this shoulder. I’ve got my morphine drip on the other.
+
+Kevin Rose: Yeah, exactly. Your morphine patch, slow-release.
+
+Tim Ferriss: No, it’s not morphine. It is not morphine. It’s meditating twice a day and —
+
+Kevin Rose: Amazing.
+
+Tim Ferriss: Yeah, and I’ve been doing it for probably a month now. And I started it in part as a response to a disappointing result from a booster of accelerated TMS. So we spoke several shows ago about accelerated TMS and how my five-day bout, let’s just call it, or treatment with accelerated TMS had the greatest durable impact on my generalized anxiety that I’ve ever experienced. This includes psychedelic-assisted therapies. The accelerated TMS, which is a noninvasive treatment using transcranial magnetic stimulation over a five-day period in this case, where you’re getting treated basically eight minutes every hour on the hour for 10 hours a day. So it’s very involved. When you’re doing it, that’s all you’re doing for effectively a week.
+
+And it was phenomenal, and I will almost certainly do it again, but five days is a lot and I wanted to see if I could do it with less. So first, I tried a two-day booster. It might’ve been a single-day booster and it was not enough, did nothing. Then I went back, and this is going to California, and I did a three-day booster. Also not enough. So I just wasted a lot of time, a lot of money trying to round down and it didn’t do anything. And I found that very disheartening. It just means I need to go back and do the five days and figure out the right cadence, but it’s very expensive to do this and it’s very time-consuming.
+
+So I then was looking at different meditation options and this has since become a company that I’m very heavily involved with, but The Way, Henry Shukman, your man. Who you —
+
+Kevin Rose: I Love Henry.
+
+Tim Ferriss: — initially introduced me to, and I’ve introduced my employees to The Way, which is an app, and the sessions, you can make them longer or shorter. I set them at 10 minutes and I was very skeptical because I did TM, Transcendental Meditation, back in the day, which is 20 minutes, twice a day. And I assumed that the 10 minutes, like, “Yeah, it’ll be kind of relaxing, but it’s really not going to have much of a cumulative effect.” And I was completely wrong. Doing 10 minutes in the morning, 10 minutes either before dinner or before bed, but making it like brushing your teeth. It’s a non-negotiable.
+
+Kevin Rose: Yes, exactly.
+
+Tim Ferriss: It’s just a non-negotiable. You just do it like you would do anything else that is non-negotiable. And doing those 10 minutes twice a day has been incredible because it has effectively gotten me to I think a similar level of lower generalized anxiety that I got from spending 30 to 50 grand to do this experiment —
+
+Kevin Rose: Holy shit.
+
+Tim Ferriss: — called TMS therapy.
+
+Kevin Rose: I didn’t know it was that much.
+
+Tim Ferriss: That is all-inclusive, so that’s like the treatment, the hotels, the flights, so on and so forth, it adds up and you can do it for less. That was with the MagVentures device, which I think is quite interesting. BrainsWay is another one that’s very interesting and worked well for a lot of other people. It doesn’t have to be that expensive. But for me, I was like, “Look, let me pay for the white glove ultra high-touch best option. And if that doesn’t work for me, I’m going to conclude that I cannot recommend this therapeutic intervention because this is as good as it gets.” And the idea that you can meditate 10 minutes a day with an app and people could check it out, TheWayApp.com is the app. Henry Shukman has the most relaxing voice you’ll ever hear in your life.
+
+Kevin Rose: He’s the best.
+
+Tim Ferriss: And I think the app gives you 30 sessions for free.
+
+Kevin Rose: That’s right.
+
+Tim Ferriss: So you can get a real flavor for it. It’s not like, oh, you get two chances. And at least when I used it the first time, I didn’t have to use my credit card. And by the way, even though I’m an investor, because I product test everything and love giving feedback, as Kevin has seen, I’ve sent a million Looms to the co-founders as product feedback was, “No, I want to pay for it, because if there’s a glitch in the system, I want to know what the glitch is and I want to report it.” So I paid for it. And you get 30. So that’s either if you’re doing 10 minutes a day, that’s 30 days. If you’re doing two a day, that’s two weeks. It’s plenty of time to either notice or not notice an effect. But what else would you say about Henry?
+
+Kevin Rose: I think I will say that what is a challenging thing to always navigate on the investment stuff, although I love Maui Nui as well, I just ordered the sticks, the 10 sticks, those are going to be good.
+
+Tim Ferriss: They’re so good.
+
+Kevin Rose: I’m not an investor there, but I do love their product. The one thing that you won’t see that I’ll tell you the behind the scenes is, Tim, I was hitting you up and I was like, oh, dude, you invested, but you hadn’t really given it a full deep dive run.
+
+And you were like, “Oh, man, I don’t know.” I really have to — to your defense and your credit, and this shows you the behind the scenes of why Tim, I respect you so much, is like you didn’t want to ever really talk about this or really overly endorse it until you had really put it through your own personal rigor.
+
+Tim Ferriss: Super, super deep dive.
+
+Kevin Rose: And then the first thing is I get on the phone call with the team, because we do investor updates with them or I do investor updates with them because I led their round every month and they’re like, “Yeah, Tim sent us another 10 Looms. He’s got all his feedback, he’s got all this feedback.” And they were quick to implement that stuff, which was awesome.
+
+Tim Ferriss: They have been one of the fastest teams to update product, which is not to say they have to take all my feedback or suggestions, they certainly don’t. It’s their product. But they have been so fast at fine-tuning the product. I’ve been really impressed.
+
+Kevin Rose: Yeah, well they’ve loved the feedback. It’s all been super valid stuff, so that’s awesome. But anyway, what I would say about it is I started studying with Henry before he had an app during the pandemic. And this is what really got me into Zen. And I think one of the things that meditation struggles from is this race towards the bottom in that there’s been a commercialization of meditation that says, Hey, do the two-minute meditation. No, the one-minute meditation. It’s like this, how can I just productize meditation and sell meditation?
+
+And this is a real Zen master teaching a course that it’s for people that really, you may have tried Calm or Headspace, but you want to go deep deep and really go for something much bigger here. And that to me is the exciting promise of this app because it’s not just a hired pretty voice on the thing. It’s like an actual Zen master teaching you and it comes through in the knowledge transfer. It’s just you can feel it.
+
+Tim Ferriss: Yeah. And it’s also, it’s skill development, right?
+
+Kevin Rose: Yes.
+
+Tim Ferriss: It’s not pleasant story du jour where you’re just jumping around listening to different things, which could be soothing. Maybe it works for some people. It’s never really worked for me particularly well if I approach it that way. This is skill development in a logical progression, which you notice. You recognize it. You will recognize as you go through and maybe you’re going through a particular retreat that is themed on hindrances, for instance. And then you’re doing a sit where you’re focusing on aversion and you can label it. And then for instance, I went out to a dinner two nights later and this was little table of ladies who’d had a few too many drinks and they were cackling like fucking crazy. And normally I would sit there just seething, right?
+
+Tim Ferriss: I’m not proud of saying this, but I would just be like, “God damn it.” I’d want to exact some vigilante justice. I’d be like, “Well, if nobody’s going to talk to her, how are they going to learn?” And nobody else is going to go over there, so I have a moral obligation to be like, “Hey, ladies.” And then if they’re like, “Hey, pal, fuck yourself.” Then I’m going to be all spun out and discombobulated sitting down to eat my cheesecake, trembling in fury. And so I was like, “Oh.” And it popped up and as soon as it popped up, I was like, “Aversion. You’re experiencing aversion.” And I used exactly the skill that I had practiced two days before —
+
+Kevin Rose: That’s awesome.
+
+Tim Ferriss: — in the meditation. And I was like, boom. And it defused the whole thing. And that’s what you want. You’re not meditating in an app just to feel good while you’re using the app.
+
+Kevin Rose: That’s right. How can you bring it into everyday life?
+
+Tim Ferriss: And what I also like about it is it doesn’t let you skip. You have to follow the program for good reason. You don’t get to skip around indulging your whim and impatience, you have to follow through. So if you try to skip ahead, it’s like, “Hey, buddy, yeah, glad you’re excited, but sorry, you’re not allowed to skip around because this program does X, Y, and Z. So enjoy.”
+
+Kevin Rose: It’s good stuff. It’s a perfect time too. It’s New Year’s. Get a New Year’s resolution. This is going to be a big one for me.
+
+Tim Ferriss: It’s funny because I’m looking at the number of retreats, because I’ve done quite a few now, and I’m like, “Oh, God, I don’t want this to end. What am I going to do when I’m like through the entire program? Am I going to run out of Henry?” But I have so much left. It’s great.
+
+Kevin Rose: Well, also you’re going to come with me to a seven-day retreat. We’ve got to make that happen this year, like an in-person one.
+
+Tim Ferriss: Yeah, I’m game.
+
+Kevin Rose: We’ll do a five-day one.
+
+Tim Ferriss: Look, I’m open to it.
+
+Kevin Rose: As long as you don’t eat a lot of mushrooms before you go.
+
+Tim Ferriss: Yeah, fast for six days and eat a microdose while I’m doing it. Probably overkill.
+
+Kevin Rose: You probably have some PTSD from that one.
+
+Tim Ferriss: Oh, it was not a wise set of decisions. Bad decisions were made on my part. I’d be game to talk about that.
+
+Kevin Rose: Sweet.
+
+Tim Ferriss: So let’s talk about actually New Year’s resolutions for a second, because this ties in.
+
+I literally just did my past year review, which I do every year. I go through my calendar week by week. I did that today. I also looked forward to the next year. And what I’ve already been doing over the last month or two, and I’d encourage people to think about this instead of thinking about New Year’s resolutions, think about New Year’s reservations. New Year’s reservations, what does that mean? It means what are you putting in your calendar if it’s not in your calendar, it’s not real, right?
+
+It’s like, okay, so if you want to exercise, do this and this and this. Hire a trainer or book a program or buy a membership. Get time in your calendar. So what are your New Year’s reservations? And for me, the core of that is extended periods of time with close friends. Those people who I know are going to give me energy, are going to leave me feeling better about my life and the world and optimistic. Those are the relationships I want to invest in. And so I go through the year and for instance, January, February, it’s like I’ve rented a house and it’s stupidly expensive for me, but I put together a Google spreadsheet and I’m inviting friends to come join.
+
+Kevin Rose: I’ll see you late January. I don’t know if you saw it. It’s on our list. I’m going to buy some skis too.
+
+Tim Ferriss: Yeah, awesome.
+
+Kevin Rose: I’m going to do some skiing. I’m excited.
+
+Tim Ferriss: Yeah, it’s going to be fantastic. And I’ll give you another example. And you’re invited. I haven’t actually talked to anybody about this. I did it on the sly, but next August, I booked a week in the Rockies for Alpine survivalist training with this amazing outdoorsman. And I’m going to invite five to seven guys.
+
+Kevin Rose: Dude, that sounds amazing.
+
+Tim Ferriss: So if you’re interested, I can tell you more about that. It’s going to be incredible.
+
+Kevin Rose: Yeah, that sounds fantastic.
+
+Tim Ferriss: I pay a lot of attention to the details for this type of thing.
+
+Kevin Rose: I’ve always loved that shit. Like with being an Eagle Scout and being a Boy Scout, I want to dig little tunnels that I can sleep in and shit in the fucking ice and shit. I’m totally down.
+
+Tim Ferriss: So we’ll have adventures like that. And it doesn’t have to be a week long. It could be a long weekend. It could be every year, some of my closest friends come, and it depends on the cast of characters. It’s not always the same people every year. But for an annual reunion in the summer of old friends. And in this case, because I do get questions about this sometimes, well, why isn’t it a mixed group? It’s not a mixed gender group because unfortunately in modern society, especially on the coast where people tend to get highfalutin and fancy and brainwash themselves into all sorts of unproductive things, that there are very few socially acceptable male only activities or groups and there’s just not many options outside of perhaps certain sports environments.
+
+So since that is a rarity, people are by default going to be in mixed groups. And I think women generally do a very good job and it’s socially acceptable to have female only activities and groups and so on. But a lot of men don’t have that. Most of my friends don’t have that. And that type of experience becomes less and less common as they get married and have kids and so on and get busy. So for me, I feel like the gift I can give is blocking out a few options for people over the year where —
+
+Kevin Rose: Take them away from their wives for a weekend, you know what I’m saying?
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: It’s a gift you’re giving.
+
+Tim Ferriss: Yeah, really. Really get some time.
+
+Kevin Rose: And the kids and a little break.
+
+Tim Ferriss: Yeah. Yeah. Also, I think a lot of men in my experience, they don’t bond necessarily. And I know I’m painting with a broad brush and there are always exceptions and so on, but it’s like they don’t bond in the same way that women do in the sense that a lot of guys just want to not talk and do shit together. Right? And there just aren’t many options for doing that. And the beauty of setting this up and having reservations, and this doesn’t only apply to men, it applies to women too. If you don’t cultivate and nourish those friendships, they will actually, they will go away.
+
+Kevin Rose: Yeah. It’s interesting. I have to convince my wife Darya to do these social things with women, because it’s not in her DNA to do that. It’s like tonight I was like, “I’m going to record a podcast.” She’s like, “I’m going to go out with my girlfriend.” I’m like, “Awesome. Go do that. Take some time. Have a moment. Go get a massage. Whatever you’ve got to do to prep for the holidays, you deserve it.” It’s so important to have those breaks.
+
+Tim Ferriss: It’s important to have the breaks. And this idea that, I can’t remember where I read this recently, but I was reading a piece, this idea that you’re going to spend 24/7 together with your partner is a very new idea, relatively speaking.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: And get everything and anything from your partner? Unreasonable. That’s not going to happen.
+
+Kevin Rose: Yeah, they’re everything. They end up being your therapist, your partner, your business person, and it’s like, that doesn’t work.
+
+Tim Ferriss: So I have a number of these blocked out for the year. I try to have probably four or five, and they’re not all a week long, and they’re not all dedicated time. It’s like, for instance, with the skiing, it’s like people are bringing their wives, people are bringing their kids. That’s a family or a couple adventure. And then there are a few that are boys only. And so the New Year’s reservations is something, I’ve done this now for at least five years, maybe longer, where it’s like I’m blocking these things out and they’re in the calendar. They will not get crowded out by other things. That’s a big one.
+
+Kevin Rose: Love it. That’s great.
+
+Tim Ferriss: And then other news, finished my NOBNOM, which is no booze, no masturbating, 30-day challenge, which a lot of my readers and fans joined me on. I also did no coffee, so I was allowed to have tea, but I didn’t do coffee. And it was a fantastic reset. And in the last week, not to get too TMI, but it’s like, okay, all of those things have been reintroduced.
+
+Kevin Rose: Yeah, you just went to town.
+
+Tim Ferriss: I really liked the cleansing of the dopamine palate, and these are addictive, these can be addictive behaviors, all of them. So I think there’s a very good chance that I’m going to be — I have to think about it a little bit just because so many people will be visiting, but very, very either completely dry for January or —
+
+Kevin Rose: So many people are going to visit me. I’m just going to have to.
+
+Tim Ferriss: Masturbate in the living room.
+
+Kevin Rose: Masturbate every day. I’ve got so many friends coming over, just got to go to town.
+
+Tim Ferriss: What kind of party is this? I didn’t get the memo.
+
+Kevin Rose: Tim’s back on. Just give him a few minutes.
+
+Tim Ferriss: Yeah, sorry guys.
+
+Kevin Rose: You don’t understand. He’s been depriving himself.
+
+Tim Ferriss: Is Tim ever not in his bathroom? What’s going on?
+
+Kevin Rose: Exactly.
+
+Tim Ferriss: Yeah. So no, that’s the alcohol side. So yeah, all that stuff. I think I might continue all of that for January. We’ll see.
+
+Kevin Rose: That’s great.
+
+Tim Ferriss: But it really was a fantastic reset and I think it contributed to the lowered anxiety and kind of how chill I am right now, frankly.
+
+And there was an interview, I think Peter Attia did with a psychiatrist, a female psychiatrist, who was saying, when somebody comes in and, say, they are a heavy cannabis user and they use it for reducing anxiety and chronic pain or whatever, actually in this case it wouldn’t be chronic pain. It would be they’re using it for what they believe to be reducing anxiety. But they’ve developed this sort of hedonic adaptation to the cannabis consumption. That before she’ll prescribe other medications, before she’ll work on the talk therapy, she’ll try to get them to abstain from, say, cannabis use for two to four weeks. And lo and behold, in many cases, anxiety drops through the floor. Just by that intervention.
+
+And that was partially what inspired me to do the 30 days of abstinence from these things is just to see, okay, what does it look like to reset the system? And it’s great. Nothing against those things in moderation, but I think for instance, with me and coffee, it’s like if I’m allowed to unrestrained, consume as much coffee as I want, I will consume a lot of coffee and it’s easy for me to over consume. So I do occasionally, look, I’ve been loving like cold brew, so maybe I’ll just limit it to one cup of coffee in the morning, which I can actually do if I’m getting out of the house and getting on the mountain for a few hours rather than sitting in a coffee shop, where there’s a fixation with beverages. Or if you’re in a restaurant like a diner, they keep pouring coffee. And before you know it, you’ve had five cups.
+
+Kevin Rose: Right.
+
+Tim Ferriss: Anyway, some of the things on my mind. What else have you got, Kevin? Anything else you’d like to add?
+
+Kevin Rose: I’m in the same boat as you with the alcohol stuff. It’s so funny how the last few years, if you go back, it’s been like, “Oh, I’m going to do X number of days.” And there’s been this hard and fast rule and it was like, don’t break it. Just force yourself through it. And it’s like one of the things I realized in the last few weeks, especially with all the holiday parties and things that I’ve had, I’m like, I just have to understand that there are going to be moments when you go out and you have a couple of drinks with friends, but it has to be an occasion, not just a night at home where you’re like, oh, let’s pop a bottle of wine and have some alcohol.
+
+It’s like I would much rather it be about a special moment with a friend enjoying a good meal than have it be just this constant thing that just kind of makes you, not hung over, but just not your best version of yourself. Like you said about the anxiety stuff. A lot of that you don’t even realize it because you think that substance is actually reducing anxiety, but in reality, if it’s too many times in a month, it’s like depleting you of all kinds of nutrients and B vitamins and it adds to actually more anxiety by just partaking in it. So it’s like this horrible thing.
+
+Tim Ferriss: Oh, yeah. It also fucks up your sleep. So the big one is like, yeah, it’s going to reduce your anxiety for two to three hours and then you’re going to feel like dog shit for 12.
+
+Kevin Rose: Right.
+
+Tim Ferriss: And some people handle it better than others, but what I’ve found also is that by doubling down on exercise, exercise is the lead domino that tips over all of these other habits more easily.
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Wheat I mean by that is, if I know I have a half day ski lesson that starts at 8:30 or 8:00 a.m., depends on the snowfall, and then I have more training later that night. If I’ve had two or three drinks the night before, I’m going to be punished. There are consequences. And maybe it’s not feeling terrible, but my performance is terrible and I hate losing. I hate not improving. I love improving, and it’s a corrective mechanism. If I don’t have that in place, I’m just sitting in front of a laptop and maybe the performance drop isn’t as noticeable, it’s not as obvious, then it’s harder for me to hold myself to that line, perhaps. The more movement, the more exercise, the more everything else falls in line in my experience.
+
+Kevin Rose: Agreed.
+
+Tim Ferriss: Yeah. All right, man. Well, I’m excited for 2025. I’ve got all sorts of crazy shit coming.
+
+Kevin Rose: I am too.
+
+Tim Ferriss: I’m super stoked.
+
+Kevin Rose: I do too. And we’re going to hang. I’m presuming it’s South By, well, we’ll still see you in January.
+
+Tim Ferriss: Of course. We’re going to, we going to each other in Jan and then got a lot of fun stuff coming for South By.
+
+Kevin Rose: Yeah, we’ll have to let people in on that at a later date in terms of when to come hang with us. But yeah, we’re going to do a little, we’ll do something. We’ll do something on stage and something fun around that time.
+
+Tim Ferriss: Keep your eyes and ears peeled for news at some point in the near future, which should be very exciting.
+
+Kevin Rose: Sounds good.
+
+Tim Ferriss: Good to see you, buddy.
+
+Kevin Rose: Yeah, happy New Year and happy holidays.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Give your fam the best.
+
+Tim Ferriss: Yeah, same to you, man. Same to you and yours. And for everybody listening, we’ll put links to stuff we mentioned in the show notes, tim.blog/hodcast and we’ll put everything in there. And I’ll give one more rack, which is, I’m totally unaffiliated with this, but in addition to The Way, I’ve been listening to a recording, which was actually sent to me by a friend who took the audio tapes and converted it into mp3, but there’s an easier option because I found it on Audible. It’s called The Present Moment: A Retreat on the Practice of Mindfulness by Thich Nhat Hanh. So Thich Nhat Hanh, I’ve been a fan of forever and his books had a huge impact on me, but I’d never heard his voice. I had never heard his voice. And this is a recorded retreat, of guided meditations and so on.
+
+Kevin Rose: I know this retreat. Yeah, it’s amazing.
+
+Tim Ferriss: From Thich Nhat Hanh and it is quite mesmerizing. And I mean, he’s got the accent, which gives it the necessary level of exotic gravitas, which always helps. But I will say that The Way sort of greased the groove for me to be more open to this. And when I’ve just been laying in the bath after doing a bunch of activities after my night harvest or whatever, and I’m really sore, I will listen to these chapters from The Present Moment.
+
+Kevin Rose: Let me give one book recommendation as well I’m not affiliated with.
+
+Tim Ferriss: Fire away.
+
+Kevin Rose: By Bruce Greyson, MD it’s called After. Have you heard of After?
+
+Tim Ferriss: I have. Because I had Bruce Greyson on the podcast.
+
+Kevin Rose: No way!
+
+Tim Ferriss: Yeah, yeah.
+
+Kevin Rose: Holy shit. I’ve got to go listen to that. Was it good?
+
+Tim Ferriss: It was outstanding. Yeah. He was really good. From University of Virginia.
+
+Kevin Rose: So essentially this book, the subtitle is, A Doctor Explores What Near-Death Experiences Reveal About Life and Beyond. I am halfway through it and I just like, “I can’t put it down. It’s so good.”
+
+Tim Ferriss: Yeah. And Professor/Dr. Greyson is a very credible researcher. This guy is not like hand-wavy, woo-woo guy in beads. No offense to beads, but you get the idea. It’s not like the archetype of some guy who’s got a heavy dose of conspirituality and can’t really sort fact from fiction. This is a very credible researcher, and he is fascinating. I debated having him on the podcast or not for quite a long time, and then I realized, what am I so afraid of? I actually feel quite good about his documentation, the research he’s put out, and his observations don’t ring as wildly speculative, and these are documented phenomena. People have these experiences.
+
+So let’s take a closer look at near-death experiences. And I’m really glad I did it, really glad I did it. But I was hemming and hawing for probably a year or two, simply because I didn’t want to — I was worried that it would open the door to criticism of not being sufficiently skeptical or critically minded with guests, but he delivered what I hoped he would deliver, which is a very —
+
+Kevin Rose: That’s awesome.
+
+Tim Ferriss: — sober, fascinating account of a well-reported phenomenon that is poorly understood that he has researched for several decades now at this point. And which he became interested in quite accidentally and reluctantly.
+
+Kevin Rose: Oh, my God. The story about how he became interested in it and what happened to him is just wild.
+
+Tim Ferriss: It’s bananas.
+
+Kevin Rose: I won’t ruin it, but people check out the book. When did the podcast come out? A couple of years ago?
+
+Tim Ferriss: No, the podcast came out a few months ago.
+
+Kevin Rose: Oh, jeez. I’ve got to go check it. Awesome.
+
+Tim Ferriss: Yeah. Yeah.
+
+Kevin Rose: It’s amazing.
+
+Tim Ferriss: It’s fun. It’s fun. I’ll link to the Dr. Greyson episode as well for folks. Yeah. After. Didn’t Darya also read that?
+
+Kevin Rose: Yeah, that’s how I had it. It was in my Audible library, and she’s like, “You’ve got to read this,” and when you share an Audible library, you just see what your partner’s buying, and so I just downloaded it and yeah, it’s been awesome.
+
+Tim Ferriss: I dig it. Yeah. Awesome, brother. Well, lovely to see you. As always, give a hug to Dar-dar and the kiddos and Toasty for me.
+
+Kevin Rose: Will do. Please pet Molly for me and tell your parents I said hello.
+
+Tim Ferriss: I will.
+
+Kevin Rose: And happy holidays, brother. I love you, and I’ll see you in Jan.
+
+Tim Ferriss: Yeah, love you too, buddy. I’ll see you in January. Happy holidays.
+
+Kevin Rose: Happy holidays.
+

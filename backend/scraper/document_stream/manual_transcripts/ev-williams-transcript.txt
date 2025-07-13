@@ -1,0 +1,370 @@
+Please enjoy this transcript of my interview with Ev Williams (@ev) the co-founder and chairman of Mozi, a new social network that helps you connect in person with the people you care about. Over the past 25 years, Ev has co-founded several companies that have helped shape the modern internet—including Blogger, Medium, and Twitter. Ev is also the co-founder of Obvious Ventures, an investment firm that focuses on world-positive companies addressing major systemic problems. Ev grew up on a farm in Clarks, Nebraska, has two sons, and lives mostly in the Bay Area.
+
+This episode was recorded live at Diggnation (diggnation.show), where digg.com was relaunched. Digg was recently acquired by its original founder, my friend Kevin Rose, and reddit co-founder Alexis Ohanian, and they invited me along for all the fun and surprises as they celebrated the relaunch. Go to digg.com and sign up to get early access when invites go out.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform.
+
+Kevin Rose: Hello, hello. Good Lord. Wow, I can’t see anything because there’s so many lights, but thank you for coming. I’m Kevin Rose. Tonight is going to be a really fun night. A lot of surprises, a lot of fun. In 2004, when I was first out here, I would pull up my cell phone and I would text a number, which was 40404, which was for Twitter, and you would say, “I’m going to be at this bar,” or, “This is what I’m eating,” which is basically what you would say back then, and people would show up. And it was awesome.
+
+So it is really cool to have this kind of throwback, this time, this new reboot, in many ways. And to kick it off, I have an old, old wooden friend, as an Anchorman reference, Tim Ferriss, who is here. We were reminiscing on the old times. He had more hair back then, I had less gray hair. And for Ev, we were texting things, not using apps. So Ev Williams, co-founder of Twitter, and Tim Ferriss.
+
+Tim Ferriss: Hey, everybody.
+
+Ev Williams: Hey, guys.
+
+Tim Ferriss: Good evening. Welcome to Austin. Beautiful, beautiful, warm Austin. You guys ready for a fun night? I have my party pants on. And it’s nostalgic to be here, because the last time I was in this venue was probably 2007, I think, for a Diggnation event. May have been a little bit earlier. Oh, Stubb’s, excuse me, Mohawk. That’s my early onset dementia kicking in yet again. So we’re going to pretend that didn’t happen.
+
+And we’re going to move on to discussing cutting-edge technology with Ev right here. And I know the question you all want to ask, which is, what is the past, present, and future of VHS? And we’re going to begin with your history with VHS.
+
+Ev Williams: Great. Thanks, Tim. Hey, everybody. I don’t get asked about VHS enough these days. In fact, I don’t even know what it stands for. I think what Tim is referring to is my very first internet product.
+
+Tim Ferriss: That’s right.
+
+Ev Williams: Which was a video cassette that was about how to use the internet. You watched it on your TV. The year was 1994, folks. It wasn’t that odd for the time, but how are you going to learn about computers on the computer when you don’t have the internet? So I made a tape in my basement with my college buddies, and that was my very first internet product. It was two hours, basically, of me explaining how to FTP via Terminal. I think I talked about the web for about three minutes. “Yeah, there’s this new thing called the web.” So we’re talking Usenet, Gopher, that type of stuff.
+
+Tim Ferriss: Did it sell well? Was it a bestseller?
+
+Ev Williams: I think we broke even, on a very low budget production.
+
+Tim Ferriss: So you’re known for a lot of different things, Blogger, Twitter, you now have Mozi. And I wanted to ask you, because here we are in person, how nice is that? Remember COVID? It’s easy to take things like this for granted. And I wanted to talk about relationships, because I imagine how you think about relationships, cultivating relationships. Using technology to enhance relationships may have changed over time. Could you just walk us through perhaps that trajectory?
+
+Ev Williams: Yeah, we were talking earlier today about social media and how the word social has changed. Remember when social used to mean getting together in real life, getting to know people? And now social is just this catchall word that kind of just means the internet. And that was, I think, an evolution that started in maybe Facebook days. Facebook was actually in the newsfeed, was a social media, a new format, really, because it was media from people you knew. We borrowed from some of that for Twitter. We also borrowed from blogs for Twitter.
+
+But Twitter, we never saw as necessarily social. And personally, I wasn’t very focused on social. I think that’s the somewhat ironic thing is that I come from a very small town in Nebraska and the farm, didn’t know a lot of people. And maybe, subconsciously, I liked the internet because I actually wanted to make friends, but I didn’t know that at the time.
+
+So in all of these technologies, I was really focused on information and ideas, until fairly recently, like this current stage of life — I don’t want to say later stage of life.
+
+Tim Ferriss: The golden years. Ev’s golden years.
+
+Ev Williams: I started thinking a lot more about relationships. And I personally had underinvested in relationships, and overinvested in just maybe business.
+
+Tim Ferriss: Yeah.
+
+Ev Williams: So yeah, I’ve been thinking about that a lot lately.
+
+Tim Ferriss: You seem to me to be a thoughtful, you don’t seem, you are a very thoughtful, and I want to say systematic guy. How have you translated thinking about countering the trend of underinvesting in relationships? Have you done anything?
+
+Ev Williams: I started a company.
+
+Tim Ferriss: You started a company. Let’s hear about it, because I’m sure there are people here who haven’t.
+
+Ev Williams: I started a company called Mozi within the last year, and Mozi is an app for finding out where your friends are and getting together. And we like to say, it’s actually a social app, because it’s really about getting together with friends by knowing where they are. So I’m in Austin, who do I know in Austin? I know a bunch of people in Austin. I may have forgotten who I know in Austin, but Mozi tells me who’s in Austin, tells me what they’re doing, that type of thing.
+
+But the emphasis of really saying how I think the way I look back on some of the early ideas about social on the internet is, of course we connected with people, we’ve all made friends through the internet, we’ve built many relationships or maintain relationships, but I think humans, fundamentally, were wired to be deeply social, but that wiring was way before screens. And that wiring to be social, it didn’t happen in public. And so Mozi is a very simple idea where we said, “Well, what would an actual social network look like?” And so that’s what we’re building.
+
+Tim Ferriss: So I want to edge into a question about initial product design and what your expectations might be just by rewinding the clock a little bit, and talking about Odeo a little bit. So I’ve read about board meetings and you’ll have to tell a bit of the context related to Odeo in which you’re presenting usage metrics at the time it wasn’t growing, but it wasn’t dead. Maybe it was semi-growing. And as a lot of people here read in the media, as they used to see on magazine covers, the stories of perseverance against all odds, it failed a hundred times, but then we succeeded the hundred and first time, get a lot of airplay, but I think something that doesn’t get as much attention is strategic stopping or strategic quitting.
+
+Ev Williams: Yeah.
+
+Tim Ferriss: Right? Sometimes it doesn’t make sense to keep beating your head against a wall. So could you take us back to Odeo and walk us through that experience?
+
+Ev Williams: Yeah, so Odeo was a podcasting company that I co-founded in 2005, which if you recall, was pre-iPhone. And not to correct Kevin, but Twitter was 2007 when it was here. So this was before Twitter, and podcasting seemed cool. I don’t know if you’ve heard about it, Tim, but we were like, “Let’s build a platform for podcasts.” And we worked on it for, maybe, six months. We raised some money because I had previously sold the company to Google. I was fortunate enough to get some VC funding before we even had a product, which turns out, isn’t always fortunate.
+
+So we had high expectations from the get-go. This is in 2005, Apple released podcasts in iTunes that summer in 2005, which completely blew us away. It was totally unexpected. This is very, very early for podcasts, even though the name comes from the iPod, and they basically obsoleted what we had been doing for six to nine months, overnight. And then we were like, “Oh, maybe we create a podcast creation tool.” You know, we were trying to pivot, and whatnot. And I think I just came to the conclusion at some point, the way Biz Stone tells the story is that, I wrote this big strategic doc about how to succeed in the podcasting business, and it was very convincing, and about the pivot, we could do and to do. And I was like, “I don’t want to do this.”
+
+And so I went to the investors and said, “I don’t think this company is on a great trajectory. Maybe we should just stop.” But that was unusual, because pivoting now, of course, is taken for granted, that your idea isn’t right the first time out. That was less assumed back then. And so I was embarrassed. I was like, I said I was going to start a podcasting company and I raised this money, I have these employees, I have these investors, but I don’t believe in it. I don’t believe in this vision anymore, even though it wasn’t dead, as you said.
+
+Tim Ferriss: Was the reason you didn’t believe in it based on the emergence of iTunes and what that represented, or was there more to it?
+
+Ev Williams: I wasn’t that into it, personally. I wasn’t a podcaster. And I think that was another principle that I’ve learned over and over is, I think some people can build products for other people, and thank goodness, they do. But I just build products for myself. And I was like, “I don’t know, I don’t know what the product is here we need to build that I want.” And so that was — but I think to your question about strategic quitting, I think a ton of companies and a ton of people just getting into these life situations where they just keep going. And that’s certainly what I was taught.
+
+In fact, Blogger, which is the company I sold to Google, I completely ran out of money after the dot-com bust. I had to lay off all my employees, was barely able to pay my rent, and kept working on it, kept working on it, kept working on it, eventually sold it to Google, and very happily. And to me that was like, “Yes, that is the triumph of perseverance and that’s why you should stick to things.” And then, Odeo, thankfully we didn’t. We did create another company out of that.
+
+But I think this idea of it’s okay to quit is underappreciated. And the main reason — everyone knows about sunk-cost fallacy. There’s a great book, by the way, by Annie Duke called Quit, which I highly recommend. And it, actually, was part of the reason a couple of years ago, I stepped down from Medium, which was my last company I was running for a long time. I quit my job, the company’s still going. But I was like, I realized that I was just working as like, it was ego, it was pride, it was expectations of other people.
+
+And the book is really great if you don’t know it, because it just points out all the reasons beyond sunk-cost fallacy, that people do things way longer than it makes sense to do them. And the biggest thing is they underestimate opportunity costs. If you’re working on one thing — and there’s identity and ego and all those other things. But it’s like, you don’t know what else there is until you clear your attention away from the thing that you’ve been struggling with. And so I think if you’re in a situation where it feels like a slog, quitting is probably a good idea.
+
+Tim Ferriss: So Annie Duke, for people who might not recognize the name, well-known poker player, also wrote Thinking in Bets, I believe. So let me ask you then, if you look back now, hindsight 2020, at Ev, who persevered with Blogger and then ended up selling it to Google at a very good time to get Google equity, did he just get lucky in that perseverance or was there some type of scent trail, that in retrospect, you can say, “Well, it was actually the right thing to do at that time, because…”
+
+Ev Williams: I’ve struggled with this because I don’t have a clean way to understand it, but I think one big difference is, I believed in the vision of Blogger the whole time, and that was — where Odeo was like, “I’ll keep coming to work and make it succeed.” It was also, I was lucky, because Blogger, being my first real company, and I was a little bit younger, I believed in the vision, but I also just was petrified of failing. I just couldn’t accept that possibility for myself. I also didn’t have a lot of other prospects. I’d never really had a job. I didn’t have a degree. The dot-com boom, it was like, “Well, I don’t know what the hell else I’m going to do if I don’t make this succeed, so I’m going to stick with it.” But it didn’t really make sense.
+
+Tim Ferriss: So that speaks to your prior comment about the opportunity cost.
+
+Ev Williams: Yeah, exactly. Actually, a good point. Yeah, yeah.
+
+Tim Ferriss: Like your opportunity cost was not as high, maybe, at that point —
+
+Ev Williams: Fair, yeah.
+
+Tim Ferriss: — by pursuing something else.
+
+Ev Williams: Yeah.
+
+Tim Ferriss: So you mentioned something came out of Odeo. What came out of Odeo?
+
+Ev Williams: A company called Twitter. I still call it that, I don’t know about you guys.
+
+Tim Ferriss: How did that happen?
+
+Ev Williams: Well, the investors, thankfully, then my board, I went to the board and said, “This is my honest assessment of Odeo.” And they, as good investors do, said, “Well, we didn’t believe in investing in podcasting. We invested in you. You have a great team. You got any other ideas?” And I thought I must have other ideas. So I always prided myself on having ideas. But I went back to the team and said, “I don’t have any ideas. You guys got any ideas?” And we ended up doing a hackathon where we, basically, for a couple weeks —
+
+Tim Ferriss: Internal hackathon?
+
+Ev Williams: Internal hackathon, where we just said, “Hey, let’s all…”
+
+Tim Ferriss: How many employees did you have at the time?
+
+Ev Williams: I think it was around 12, 14, something like that. People worked on a bunch of stuff. A lot of it was related because we were doing audio, and recording in the browser with Flash, and stuff like that. Again, pre-smartphone. But we were dabbling with text messaging, and a couple of the engineers were familiar with how to send text messages en masse, which was little known at that time. There was no real APIs for that. And so people were trying a lot of things along those lines. Maybe we send an audio, voice memo, maybe we record something in browser, little, kind of social things.
+
+And then one of the ideas was to, the way I remember at first, it was record a message via your phone, and then it got broadcast text to people, and then they could listen to it. And then that quickly evolved to, “What if we got rid of the audio?” It was just text broadcast. And then having come from the blogging world, that we were familiar with RSS and subscribing, which turned into following. And yeah, evolved from there. To mention names, that was Biz Stone and Jack Dorsey’s project. And it also was informed by Jack’s previous work on careers and status systems, and whatnot.
+
+Tim Ferriss: And at what point did you, or anyone else for that matter, realize that there was a there, there? Like, “Oh, there might be something very interesting with this.”
+
+Ev Williams: We were pretty intrigued right away. I mean, we certainly didn’t know the extent of it by any means, but it felt new and interesting and we kept evolving. It definitely wasn’t right. I mean, I think no ideas come out fully baked. And so there was a lot we had to get right. Like what is the graph? The very first version was highly informed by status messages, which were a thing in Facebook, but this is pre-Facebook being available to outside of colleges. And we were too old to be on Facebook, so we didn’t even know about status messages on Facebook. But it was kind of like that.
+
+And it was like AIM messages. And the very first version, there wasn’t a whole feed, it was just the latest person who had updated their status, was on top, and it went out via the text message. And so, but we were like, “Hmm, interesting.” And we felt it was interesting when we had, maybe, 10 people on it. 10 people worked at the company and then we started getting our partners on it, and we were intrigued. So this is 2006, and it really wasn’t growing for months and months, and we hit an inflection point here, in Austin, in 2007.
+
+Tim Ferriss: So I have to just mention that that particular South By is very nostalgic for me, because I launched The 4-Hour Workweek with an overflow presentation in 2007, after haranguing the shit out of Hugh Forrest, thank you for letting me fill in for a cancellation. And basically next to a cafeteria, my laptop failed. So I ended up having to improv the thing without my slides. And I remember the big screen TV in the ground level of the conference center showing tweets going through. And I was like, “Huh, look at that.”
+
+Ev Williams: Yeah, that was the idea we had. It was starting to take off amongst the people we knew. And South by was always the conference where the indie, cool tech people came, and these were our people, and they were the ones, our early adopters of Twitter, because they came from the blogging world, and they were our friends. And so we sensed that we could get critical mass here. And so we talked to Hugh and whoever from his team, and of course they were like, “Well, you could have a trade show floor.” And I’m like, “No, no, no. No one goes to trade show. Can we buy a screen and put it in the hall where everybody’s hanging out?” And that was the move. And people saw that and I’m like, “Oh.”
+
+Tim Ferriss: That’s amazing. I didn’t realize that backstory.
+
+Ev Williams: And this cost $11,000.
+
+Tim Ferriss: It’s a great investment. $11,000. A little more expensive these days, I think, since you’re competing against AT&T, and God knows who else. But this ties into Mozi in part, because I’m wondering how much your expectation is that you will design and deliver to spec, maybe like an Uber, where the business model has changed relatively little over time? It’s been very reliable. It’s stayed very similar with bells and whistles and changes along the way. Or is your expectation along the lines of a Twitter, or Odeo in some sense, morphing into a Twitter, that Mozi is just a starting point and your expectation is it’s probably going to end up being something very, very different a year or two —
+
+Ev Williams: I’m sure it’ll end up with something very, very different. It’s early for Mozi. The way we think about it in our wildest dreams. It is a ubiquitous social network, in the way Facebook was at one time, but actually designed for enhancing people’s social lives and relationships. Which means, it’s not a media platform, it’s not an advertising platform, it’s not a performative platform, it’s not a status-building platform. It’s really about sharing information that’s important to you with people you care about, and enabling. It won’t all be about IRL, but that’s where folks stand right now. But it’s early. We haven’t figured it out yet. And I think that’s part of the fun, is figuring out where it goes.
+
+Tim Ferriss: So, you impress me at a whole lot of levels. I’ve always found you to be a very deep thinker. You think a lot and you choose your words carefully and ask a lot of good questions. And I’m always curious about the inputs, what you feed yourself in terms of information. And I’ve read that you’re fond of a few books. This may have changed, because this is from 2016, but Zen and the Art of Motorcycle Maintenance, Robert Pirsig, The Effective Executive by Peter Drucker. I don’t know if you’d still stand by those, but I’m curious, if so, why those books and if there are any others that you would add to that list.
+
+Ev Williams: Where’d you get that list?
+
+Tim Ferriss: That is New York Times. ev-williams-favorite-books.html.
+
+Ev Williams: Yeah, I probably wouldn’t pick those now.
+
+Tim Ferriss: It’s been a while.
+
+Ev Williams: I’m not an executive anymore, so that’s not as useful. Zen and the Art of Motorcycle Maintenance is great. But I will mention one book very related to the conversation, which is, have you read Why Greatness Cannot Be Planned?
+
+Tim Ferriss: No. Great title though.
+
+Ev Williams: Why Greatness Cannot Be Planned. I’ve recommended this to a hundred people. Love this book. Its subtitle is, The Myth of the Objective. And the premise is by a guy named Ken Stanley and another guy who were AI researchers. And the way it starts out is they — this is early AI research. Ken, when he worked at OpenAI, later, they were building bots. And the example they talk about is trying to build a robot to go through a maze, and how they’ve tried to program all kinds of smart algorithms into it. And then they found that the most effective strategy was just try something new.
+
+And they go on from that and extrapolate this idea that if you are trying to do something that hasn’t been done before, you were taught from birth and from school and everywhere, is like, set your goal, make a plan to get to the plan, persevere, go through that. And the premise of the book is, that works if it’s something that’s been done a lot and that’s formulaic. And you can set a goal to run a marathon, and you can download a training regime, and you can go run the marathon. You can’t do that to invent the computer, or Twitter, or create amazing art. You can’t plot it. And to the extent you try to plot it, you shoot yourself in the foot, because you cut off the possibilities that lay before you.
+
+And I read this book when I was running Medium, my last company, and it had a great effect on me, because I felt this deep sense of relief, because my entire business has started from here. I’ve been deeply driven to create things. I saw companies, in particular, products as a creative process. You know, it’s like writing a book, or painting a painting, is like, you have to figure it out as you go. You don’t have it fully baked in your head from day one.
+
+But what I’ve seen happen a million times and happen to me, is you have this intuition, you kind of know what it is, you start to develop it. You’re like, “Oh, it’s this, not that. Let’s try this, not that.” And you feel your way into what’s the best, first version of it. If you’re lucky and good enough that that first version meets with some success in the world, then at least in the tech world, employees and investors and business people come in. It’s like, “Okay, where are we going next? What’s the plan? What’s the roadmap? How are we going to make the numbers go up?” And it doesn’t work to very far. It works a little bit to get that next stage, but it doesn’t work to really innovate. It doesn’t work —
+
+And so you have to be comfortable with the ambiguity of not knowing where you’re going to go. And anyway, this book is good, and it makes this point very short. It also talks about evolution a lot, and how the most creative force in the world is clearly nature, and it has no plan. It just tries shit.
+
+Tim Ferriss: Trial and error.
+
+Ev Williams: Yeah.
+
+Tim Ferriss: All right. Taking notes. That’s going to be one of my next reads. You mentioned AI, and it is the topic du jour, but you can’t believe everything you read on the internet, but I believe that 25 percent of the latest Y Combinator class wrote 95 percent, plus, of their code using AI. And I’m curious, you have kids, what would you suggest your kids study in school?
+
+Ev Williams: My kids are here, in fact. Whatever they want. I mean it depends on what the goal is. I mean, I think —
+
+Tim Ferriss: I can frame it a little more or constrain it. I would say, if people are wondering here how to, I don’t want to say AI-proof themselves, because good luck predicting where that’s going to go, but are there any fundamental skills or specific skills that you think will increase in value over time? For instance, I don’t know if I had kids, if I would suggest they take a legal path, necessarily, since I already use AI in 30 seconds to draft most of my legal documents before I send it to human eyes. Do you have any thoughts?
+
+Ev Williams: I haven’t thought about this deeply, but what comes to mind is social, human things. Two things, one is, I do encourage them to read and write still, because I think that’s how you figure things out. The best way to think and have ideas and get clarity is to write. And you can’t write if you don’t read. So even if the AI can write for you, that’s fine. If it’s a paper or a report or some analysis where the product is very important, like, “This is the information and text that I need,” but it robs you of the process of thinking.
+
+So I think problem-solving, creative ideation is useful no matter what you do, ever. So I think those core skills and then social skills, and one of the reasons I love the school they go to is, they have a thing called SEL, which maybe you all had, but I sure as hell didn’t have in rural Nebraska in the ’70s, is Social Emotional Learning. And that’s just like, how do you connect with people? I mean, we know that’s critical to any job no matter what you’re doing. And I think that’s probably, well hopefully, not going to go away. Who knows?
+
+Tim Ferriss: I think we’re in a lot of trouble if that gets —
+
+Ev Williams: We don’t know.
+
+Tim Ferriss: — removed from you in life. So let’s shift gears a bit, and I’ll just ask a question I like to ask. If it goes nowhere, it goes nowhere. But all right, so metaphorically speaking the billboard question, right? So if you were going to put a message on a billboard, could say anything, could be an image, anything at all that you would want a lot of people to see and understand, what might you put on that?
+
+Ev Williams: I love this question. I might overthink it. And understand. So we can assume though —
+
+Tim Ferriss: The “and understand,” I threw on there with a little creative flourish. It may complicate your thinking.
+
+Ev Williams: I’m going to build on that. Because, in thinking about this, what comes to mind first of all, is the category is something that will help people heal, just be their whole and true selves. Because I think that’s where all our problems come from, is the lack of that. And as much as I care about climate, I think the key to solving climate is to heal ourselves, to heal the culture, to heal the planet.
+
+And so I start with the self. And then my mind goes to, what’s a big fundamental truth that we want everyone, let’s pretend if they read it, they’ll actually get it and know it. Then I think there’s a little bit of tension between like the most fundamental truths and how actionable they are, or how much they will act. So if we said, “We are all one,” which I believe. It’s like, “Okay, we’re all one. The universe is one big thing, we’re all connected.” What do I do with that? I mean maybe if you really ponder that, and meditate on that a long time, it’ll actually, it will do you some good.
+
+But then if you move toward the spectrum of usefulness of what’s a fundamental truth that’s more useful, you might have like some Buddhist, or saying like, “All of our suffering comes from our thoughts or inability to accept reality,” which is a little bit more useful, but maybe for the masses, still not very actionable.
+
+And then you could move to like, “Feel your feelings,” which I think would do a tremendous amount of good if people adopt, “Oh, feel your feelings.” It’s a little bit easier to imagine that, like so much of our suffering. And I say this as someone who told their first therapist, “I don’t understand the point of feelings.” I was like, “They are just a nuisance and get in the way.” And so it took me a long time to appreciate that, and the avoidance that so many of us go through. And then one step further, it might be, “Stop drinking alcohol for six months and see how you feel.” Not tonight, though. It is fine. We’re in a bar.
+
+Tim Ferriss: Not tonight. Starting tomorrow.
+
+Ev Williams: Yeah.
+
+Tim Ferriss: So following up just on the “feeling your feelings,” you said for a long time, and you said this to your first therapist right, “They’re just a nuisance; I’d like to know how to rid myself of these irritations.” What changed? How did you end up going onto team feelings?
+
+Ev Williams: So I mean it was a long, long process. I mean the therapy helped, the psychedelics helped. Meditation, growth, learning, reading books, having friends, stopping drinking, just for six months. And I’ve gone through a lot. I’ve done a lot of work, particularly in the last couple of years, and that’s been/is super, super important.
+
+Tim Ferriss: Yeah, just a note on alcohol. Look, I’m going to have some drinks tonight. I do enjoy drinking. But yeah, but just a PSA for people, because ketamine is in the air. Ketamine’s probably in a few people’s pockets here. They’re both dissociative anesthetics. So if you want to feel your feelings, it’s a good idea not to engage with those things excessively. And if you have a history of alcohol overuse, I would also stay away from any at-home ketamine. But in terms of books or types of therapy, did you find if there are people in the audience who are like, “Yeah, you know what, actually that makes sense to me, but I’ve never been able to find a handhold to get started.” Is there any advice you might give?
+
+Ev Williams: Probably the best thing I’ve ever done in that realm is Hoffman. Have you done Hoffman?
+
+Tim Ferriss: Hoffman. I haven’t done Hoffman, but quite a few of my friends have.
+
+Ev Williams: So there’s a thing called the Hoffman Process. It’s 20 years of therapy in a week, in terms of the effect. I mean I’ve got much more out of it than I ever got in therapy. It’s a week-long retreat. There’s a few different places. The main ones in Petaluma, California. You hand over your phone, you go and do some exercises with 36 strangers and yourself for a week, and you come out a new person.
+
+Tim Ferriss: I’ve spoken, well not directly, I’ve more listened, but had a conversation on this podcast where the Hoffman Process came up, and a lot of listeners have gone to the Hoffman Process. And I get letters, literally, every week from people who are thanking me for, not really the proper credit, because there’s someone else who brought it up, for the Hoffman Process. I’m very curious — you mentioned the strangers. Part of the reason I haven’t gone is, I’m like, “I don’t want to air all of my dirty laundry in front of 20 strangers. I don’t know these people.” And I know you’re also, I think it’s fair to say pretty introverted. I would say, I am. Even though I’m on stage, like safely doing, speaking into the darkness. Was that an issue at all for you or how did you get past that?
+
+Ev Williams: It wasn’t easy, but just in the context of it, it just feels very safe. One of the fascinating things is, it’s strangers. You’re not allowed to say your last name, or what you do in the real world, when you get there. And so you connect with people. And I realized after a few days, I relied so much on people knowing who I was or what I did, that it was this veil between me and other humans. So you get to know people at such a deep level without really knowing any of the normal things that we would say, if you meet someone here, “Oh, what do you do? Where do you live?” And it just feels incredibly safe.
+
+But the Process is — they’ve been doing it for 50 some years. It’s very evolved. It’s very well done. You take any of it out of context, that sounds weird. Like I knew nothing going in, and about five people brought it up to me in random conversations over a week and were like, “Okay, this is a message. I’m going to go sign up for this thing, show up.” I had no idea. And then you just dive in and it’s incredible.
+
+Tim Ferriss: Yeah, from what I can tell, it’s somewhat like Fight Club. It’s like, “First rule of Fight Club is don’t talk about Fight Club.” You’re not going to find much detail on the Hoffman Process. This also ties into a question I was planning on asking anyway, which is, are there any habits or beliefs that have really positively impacted your life in the last handful of years? Could also be 10 years ago, but you’ve talked about doing a lot of work in the last handful of years. Any new habits, beliefs, tools, anything come to mind that have been really helpful?
+
+Ev Williams: Yes, but I feel like they’re the ones that everybody knows.
+
+Tim Ferriss: So that means sometimes the fundamentals are worth a review.
+
+Ev Williams: I mean it is exercise and meditation. I dabbled in for a long time and then I got much more serious a couple years ago about both, and really, really dramatic life improvement.
+
+Tim Ferriss: Why did you get more serious about them? You just wake up one day, and you’re like, “Today’s a new day,” or was there a breaking point?
+
+Ev Williams: It was early COVID. I was like, “What the fuck am I doing? I’m going to turn 50, and I need to work a hell of a lot harder to be in shape than I was.” And so I just started doing that, I was at home, I had the time. So I did that. And then although that’s increased, because you get the positive reward cycle and it feels great. And meditation, I’ve always found super valuable.
+
+And last year, on January 2nd, 2024, I had meditated the day before. I was like, “I could meditate every single day to this year.” And it was just that sort of psychological hook that you find motivating, even though it’s arbitrary. And I was like, “Yes, I’m going to meditate every single day in 2024. That’s a goal.” And I don’t normally set goals like that, but I was like, “Okay, let’s see what happens.” And so my teacher says, you can’t boil water if you keep turning off the flame. And so the consistency of meditation, I underestimated what dramatic difference that makes, and how fast you can drop in if you do it every single day.
+
+Tim Ferriss: What type of meditation did you decide on?
+
+Ev Williams: Just mindfulness, meditation, breath, and awareness. Not TM.
+
+Tim Ferriss: Just like an open monitoring, feel what you feel, see what you see.
+
+Ev Williams: Yeah.
+
+Tim Ferriss: Are you noting things or are you just observing?
+
+Ev Williams: Sometimes noting. Sometimes noting. And I know you like to know about products, you know about this product, but I was using The Way — you probably talked about that before. The Way is a meditation app. I hadn’t used a meditation app for years. The Way, I started using The Way. Kevin sent it to me actually, when it was still in beta. And I started doing that around that time, and I did — yeah, The Way is fantastic.
+
+Tim Ferriss: Yeah, Henry Shukman, just an incredible guy. Hope to meet him in person someday. Do you have a favorite failure, or any favorite failures that come to mind? I mean, you’ve got a greatest hits list that’s pretty outstanding. I’m just wondering.
+
+Ev Williams: I have a lot of failures.
+
+Tim Ferriss: And anything that has either taught you a lot, or in some way, set you up for successes later? That’s two possible ways of approaching it.
+
+Ev Williams: We already talked about Odeo, which kind of failure that led to Twitter. So that’s obvious. But I think a thing that took me a very long time to appreciate, that felt like the biggest failure possible, was getting fired from Twitter, which I did. I co-founded the company, I was CEO for two years, and then I got fired, to my great shock and dismay. And I was just devastated, absolutely. But so now I look, I’m just like, “Wow, I’m probably way happier today than I would have been, had I not.” But it took me a while. It took me a long while to appreciate that.
+
+Tim Ferriss: What was the silver lining on that, in retrospect?
+
+Ev Williams: Well, it kind of goes back to, all our unhappiness comes from thinking things shouldn’t be how they are, because I was very upset because of the injustice of it, and what I thought was, just dumb. Now in retrospect, and even at the time I knew I was in over my head to a certain extent, and Dick, who became CEO, was much better at certain aspects of the job, the way they did it — I wasn’t even that attached to being the CEO long term. I was just like, “But maybe we should talk about it before you fire me.” That seemed rude. But — “I mean, this is my company.”
+
+The silver lining was like, I didn’t have to do the job anymore, that’s one. I mean I still owned a bunch of the company. I didn’t have to do the job. I mean objectively, it wasn’t that bad. But as an identity and ego hit, it was tremendous. I also thought the best thing for the company was for me to stay, and even not in CEO role. And I tried to negotiate that and that wasn’t accepted. But it was more like, “This is so wrong,” and that’s that anger. And rather than just — and then it was like, “Okay, what can I learn from this?” Once I was out of that, some deep reflection happened, and I think a long-term path of personal growth.
+
+Tim Ferriss: Are there any people who come to mind who you’re tracking right now? Or anyone you think people should pay more attention to? Innovators, technologists, thinkers, alive or dead?
+
+Ev Williams: I’ll mention another book. What I’ve been geeking out on recently is just how the universe works.
+
+Tim Ferriss: Small side project.
+
+Ev Williams: You know, I used to read a lot of physics books and quantum physics just for fun. And it had been a while. So I started delving into that more recently.
+
+Tim Ferriss: Just set a bubble bath, light a candle, read some quantum physics.
+
+Ev Williams: There’s a book I’m reading right now, called The One, by Heinrich Päs. I don’t know anything about him.
+
+Tim Ferriss: The One?
+
+Ev Williams: Yeah, The One is about, it’s about how it’s Monism, the idea that the universe is just one thing, and nature and us and this glass is all one thing, and that the separation is an illusion. How that fits with quantum physics and the whole history of quantum physics, and how this idea had come up but rejected. It was very interesting to learn how — it’s like, the implications of that, which we’ve heard about, with multiverse and all these crazy ideas, were rejected by scientists who were materialists, because it was like, “This.” And it was interesting to learn the materialism in the science is basically religion. And that’s fascinating. So, yeah.
+
+Tim Ferriss: How did you find this book?
+
+Ev Williams: My partner James Joaquin at Obvious. We like to talk about how the universe works, and then invest in startups.
+
+Tim Ferriss: Sounds like a great job. All right. Now how do you tend to find books? Again, just riffing on how you choose your intake. And there’s finding the signal and then there’s tuning out the noise. I mean I haven’t had any social apps on my phone for years at this point, because I just don’t have the control to be like the heroin addict wandering into the heroin den. But then there’s choosing the signal, and I think books are still, if you can do it with a slightly longer attention span, or to cultivate that, a great way of finding these, like I said earlier, scent trails to follow. But you still have a problem, because there are a hundred thousand plus books published in hardcover alone in the US every year. How do you choose your books? And do any other books come to mind?
+
+Ev Williams: I wish I had a better way. I should ask you, how many books do you read a month?
+
+Tim Ferriss: Probably four or five.
+
+Ev Williams: Okay. You read a lot more than I do. But I may read two a month, but I think it’s kind of haphazard, which is scary because you’re going to select a very tiny portion of —
+
+Tim Ferriss: Yeah. Tim Urban style, right? It’s like you’ve got time for however many books left in your life.
+
+Ev Williams: Right, right. Great book, by the way, Tim Urban’s book. I have that. It’s pretty random. It’s just like wandering, like I’ll buy tons of books, I read mostly on my phone, but I’ll buy physical books to remember that the book exists. And then so I’ll have a lane around the house and I’m like, “Oh, I should — oh, this is interesting.” And then I’ll go, so I’ll just read it on my phone. But I feel like I should have a better way. I also watch a lot of YouTube, I have to admit.
+
+Tim Ferriss: What do you watch on YouTube? It’s got to be better than what I watch.
+
+Ev Williams: I end up in some weird corners. I watch music content, like not music, like how to make music, like make music as a hobby as well. And then, like, quantum physics stuff.
+
+Tim Ferriss: What is — do you have a background in physics?
+
+Ev Williams: No, I don’t even understand it. I don’t want to give the impression that I am an expert on any of this. It’s just been, you know, I just follow my curiosity. Yeah. I used to just exclusively consume business and technology and startup stuff. Because I was so — I mean most of my adult life, I was CEO of a company and just waking up every day, desperately trying to make that succeed. And so a lot of my new stuff, like music, it is like, it’s just fun.
+
+Tim Ferriss: Do you read any fiction?
+
+Ev Williams: I’m trying to read more fiction. I tried reading that book that you recommended a little while back, The Little one. What was it?
+
+Tim Ferriss: Oh, it’s so hard.
+
+Ev Williams: It was so hard?
+
+Tim Ferriss: Little, Big.
+
+Ev Williams: Little, Big.
+
+Tim Ferriss: Little, Big by John Crowley. This is the one book that I hesitate to recommend, because nine out of 10 people are just like, “What the fuck?”
+
+Ev Williams: You even said that in the recommendation. I’m like, “I can handle it. I’ve got this, I’m going to do it.” I gave up.
+
+Tim Ferriss: Yeah, the more drugs one has done, the easier it is to eventually get into the “talking fish” section of the book.
+
+Ev Williams: Okay.
+
+Tim Ferriss: When then you’ve crossed the Rubicon, then that’s all in. But yeah, John Crowley. Any other fiction books? You said you’re trying.
+
+Ev Williams: I just read this Miranda July book, All Fours.
+
+Tim Ferriss: Okay.
+
+Ev Williams: It’s good. She’s hilarious. It’s random.
+
+Tim Ferriss: Yeah. Got it. All right, so if we look back at the products that you’ve built, if you were to build any of them again today, are there any features you would either remove or add that come to mind?
+
+Ev Williams: Certainly. Let’s see. You know, I think a lot of cases I was much too eager to add things, especially Medium. Medium, I definitely, prematurely scaled, and I just wanted to create a —
+
+Tim Ferriss: Why do you say that, that it’s prematurely scaled?
+
+Ev Williams: Because I hired too many people at first and had this — my tendency is to, I’m good at seeing systems in, like, a product. And most of the things I build are systems. They’re not just, you know, a product. And with Medium, I had lots of experience understanding the internet and publishing and some platform, and I wanted to build everything new, and that may or may not have been possible, but I tried to do it all at once, which was, I think, the mistake.
+
+And so that’s why I say we prematurely scaled. It is just that it takes time to get everything right, and you know, the company and the product, et cetera. And because when you’re trying to do a whole bunch of things at once, it’s classic failing mode to try to bite off more than you can chew. And almost every, I’d say, 80 percent of the time if I meet with a startup or founder, which I don’t really do anymore, if they ask me their advice, they say, “Do less.” And so Medium, it was like that. It was like, build a great writing platform and I got impatient for growth. And —
+
+Tim Ferriss: Was that due to outside pressure or was that an internally generated pressure?
+
+Ev Williams: It was internal, but it was self-imposed by me. But it was also — this is a part of prematurely scaling, is if you get beyond a handful of employees, it’s as much pressure from employees as it is from investors. And if you have everyone around the table and everyone’s seeing all, then you can kind of take your time more. But if people are having doubts and you have to sell internally all the time before you figured it all out, that’s a dangerous place to be. So that’s where we were for a while.
+
+Tim Ferriss: So when you say do less, I’m sure a lot of folks in this audience, I’ve been in a position where I’m trying to do more things than I should, taking a shotgun approach to trying to impatiently get seven things done, when I should probably put them in some type of logical sequence. So if you’re trying to take a more rifle-like approach, and you could give the example with Medium or it could be with Mozi or otherwise, how do you choose the first few things to focus on when you have this ocean of possibilities? Looking back, we can use this as a starting point, at, say, Medium, what would you have focused on in terms of feature set or otherwise?
+
+Ev Williams: I’ll use Mozi as an example if that’s all right, because it’s fresher in my mind, but where we’ve done a much better job, and there was a while — so Mozi, I originally conceived of as a better contacts app. And the idea was, it’s a very old idea, like the Plaxo idea, if you remember that.
+
+Tim Ferriss: I do remember.
+
+Ev Williams: I remember hearing about Plaxo in 2001 or something like that, and the idea of Plaxo, a pre-smartphone desktop, like a Rolodex on your computer, but if I have your business card in my Rolodex, you can update it on my Rolodex. I heard that idea and was like, “Duh, that’s like one of the many things that the internet is going to change, is like the difference of being in a connected world versus a disconnected world, is in what utility and great stuff come from that.” And then fast-forward 2023, we still don’t have that, which is kind of crazy. Like I have this contacts app and it’s lacking information, it’s incomplete, it’s outdated.
+
+And so I was like, I’m going to build a better contacts app. And then it led to the idea of okay, if you managed to do that and got lots of people connected, then you would actually have this private social network. So then you could do all kinds of things. And one of the ideas we had was location sharing or like city level location sharing. But we also have these ideas around customizing. If it’s a digital business card, it was like what if you could customize it, make it look really cool, and choose your fonts and colors, and wouldn’t that be just fun and kind of a throwback?
+
+And so we actually built that. We built this whole system for making these cool looking cards that would show up for your friends in your Mozi, and then we killed it all, thankfully. And that was painful, because you’ve gone down a path with the team, they work really hard, and like, “Actually, you know what, this is complicating our vision because what we’re hearing from people and what we’re sensing is, that’s noise compared to the utility.” What I just want to know is when my friend’s in town, or I just want to know when I’m going to a city, like where are my friends, and all the rest of this is noise. So we ripped that out.
+
+Tim Ferriss: How are you going to approach the invite process to show your contacts? Because this seems to have been a challenge with some previous attempts at this work. If I look at my contacts, my contacts is this bloated monster full of people. A lot of them are acquaintances I don’t really want to keep in touch with, there are probably a handful of frenemies, where I’m like, “Definitely don’t want to see those people,” some crazies, don’t want to see them either, but they’re still somewhere hidden in my contacts. So how do I just have my real friends notified?
+
+Ev Williams: Good question. We are assuming, for starters, and maybe this is false assumption, if you are in the phone book of someone else and they’re in yours, that you’re willing to share more than your phone number, you’re willing to share your private profile. And we’re not sharing anything that’s never public, but that if you’ve given your phone number to them, then you can see what we build in Mozi profile, which is just, it’s not address, it’s like social handles. It’s more or less what would just show up on a social network profile. But some people are nervous about that.
+
+So I mean you can not sync your contacts and build it from scratch, would be the answer. And then plans have a separate mode. So what people are most nervous about and we want to make it very clear, is it’s not going to tell everybody in your address book where you are, and we don’t even automatically update your location. You put in plans, and then at the plan level there’s another level of privacy where you just say you have to actually opt in to say, “This person can see my plans.” Does that make sense?
+
+Tim Ferriss: Yeah, it makes sense.
+
+Ev Williams: We’re trying to take a conservative approach to privacy, but balance that, obviously, with ease of use and growth and having enough nodes in the network. But we’re not compromising on privacy and we never want to surprise someone that they’re sharing information with that random ex or crazy person who happens to be in their phone book.
+
+Tim Ferriss: So we’re coming up on time pretty quickly. You guys excited for a fun night? There’s a lot coming. You mentioned, I think it was January 2024, “I could meditate every day this year.” Do you have anything on the docket for 2025 that’s like that? Do you make resolutions?
+
+Ev Williams: No, that’s the only one I’d made in years actually. Other than just general themes like dance more.
+
+Tim Ferriss: Here we are tonight. You guys are in luck.
+
+Ev Williams: You guys ready?
+
+Tim Ferriss: All right, well we’re going to land the plane. Anything else you’d like to say? Have any closing comments, thoughts for the audience?
+
+Ev Williams: I would just say, Tim, thank you for having me. Tim and I have known each other for like 20 years.
+
+Tim Ferriss: Yeah, long time.
+
+Ev Williams: I’ve never been on the podcast. That was fun. And it’s just a whole night of nostalgia, because we’re back in Austin, and it’s Diggnation, and it’s a good time. So I hope you guys enjoy it.
+
+Tim Ferriss: Yeah, I will say guys, it feels like the mojo’s back to South by after COVID. It took a few years and you have an amazing night in store. So we’ll get more people out here in just a minute. I will be back out in maybe a half hour. I have a surprise and maybe even some gifts for everybody here. So stick around. And Ev, thank you. So much fun. Have a great night, everybody.
+

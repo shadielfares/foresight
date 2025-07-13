@@ -1,0 +1,1010 @@
+Please enjoy this transcript of my interview with Cyan Banister (@cyantist). Cyan is a general partner at Long Journey Ventures, an early-stage venture capital firm focused on early and new investments. Cyan was an early investor in Uber, SpaceX, DeepMind, Flexport, and Affirm and has invested in more than 100 companies. Prior to that, she was at Founders Fund, a top-tier fund in San Francisco. Subscribe to Cyan’s Substack at uglyduckling.substack.com. 
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform. You can watch the episode on YouTube here.
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show. And this conversation is a long overdue conversation. I have been wanting to make this happen for quite some time. My guest today, Cyan Banister, is a general partner at Long Journey Ventures, an early stage venture capital firm. She was also an early investor in a few names you might recognize, Uber, SpaceX, DeepMind, Flexport, Affirm, and has invested in more than 100 companies. She was most recently at Founders Fund. I was actually an LP at Founders fund way back in the day, a top tier fund in San Francisco. You can subscribe to Cyan’s Substack at uglyduckling.substack.com. Her writing is great. I would recommend subscribing, and you can find her online at least on X, the artist formerly known as Twitter, @Cyantist, one of the best handles I’ve seen, C-Y-A-N-T-I-S-T. Cyan, nice to see you.
+
+Cyan Banister: Good to see you.
+
+Tim Ferriss: All right. So we just listed off, I’m using the royal we, some very impressive names, and certainly I would consider you one of the top angel investors of many ventures, not just one, across quite a few different time periods, but it didn’t start off that way. You weren’t the child of Tim Draper or anything leading to Atherton at age seven, things along these lines. Could you take us back to homelessness in your life and how that factors in?
+
+Cyan Banister: I was raised on the Navajo Reservation in northern Arizona, and I had an extraordinary education, and I think I was incredibly lucky to have been educated there because I have about the equivalent of an eighth or ninth grade education. And the reason for this is due to circumstances outside of my control, I became homeless off and on when I was 13 and then homeless officially when I was 15 and became a ward of the state of Arizona. And this was because my mother, she had a very difficult time keeping children in her house past the age of 13. My sister was removed from the house when she was a teenager. My brother was removed when he was a young boy.
+
+Tim Ferriss: So to dive into a couple of things you mentioned, and if you don’t want to cover any of this, we don’t need to. But the first is, I suppose a question a lot of listeners will have on their mind, which is what was it like for you growing up on a reservation? What are some of the memories that stand out or characteristics that stand out?
+
+Cyan Banister: Well, first of all, I am white. And so being on a reservation, I was a minority, and it gave me a really unique perspective around being a minority. When I was a kid, I thought I was an albino Indian. I just thought that I’d lost my melanin, and the other kids treated me the same. Because when you’re a child and you’re small, you don’t know anything about racism. You don’t know anything about being an other. You start to notice these things, but you definitely don’t treat each other differently.
+
+But as we started to get older, that’s when the name-calling started. That’s when a little bit of the bullying started from other kids. And I can only suspect that they learned this at home, or they witnessed it someplace else, because it certainly was not something they were born with. And I’m happy that I experienced this because there is a lot of prejudice in this world, and I would say there’s probably a lot more prejudice than there’s actually racism. But experiencing that really taught me what it’s like to walk in those shoes and made me hyper aware of it when I became an adult.
+
+So the other thing is the culture is just a really rich culture, and it’s very different than any other place you could ever live. I really recommend that people visit the Navajo reservation or any of the reservations that allow visitors because it’s hard to believe that that’s in America, because there’s this amazing swath of land with an old, ancient culture that they preserve. And there’s just a lot of things that happen there that you can’t experience any other place. And it’s right here, if you’re in America, in your back door. And so being able to go and experience a ceremony or get a guided tour down a canyon is something that I really recommend everybody do. But when I was little, there were no guides. I would just walk down into canyons and explore ruins, and the kids and I would run free and wild. It was a very different time.
+
+But I also have a little bit of an accent. I don’t know if you notice it, but if you go to the Navajo reservation, you will see that people speak the way I speak. And there’s just not a lot of variation in my tone. And then it just sort of goes up and down in a certain way that’s very specific to that region. It’s created some confusion for me because culturally, I am Native American. And that has always been bizarre when I moved to a place where people didn’t understand our customs and the things that we respected and the holidays that we observed, or the customs that we had are just not anything that anybody I went to school with after I left the reservation even understood.
+
+So I’ve always felt like an outsider no matter where I am, and I think that’s been wonderful and incredible for my career. You can certainly look at that and have kind of a victim mindset about it, but I took the opposite path, which was, this is what makes me special, is that I don’t fit in wherever I am.
+
+Tim Ferriss: Going to have a lot of questions about that. And before I get there, and this is again referring to something you mentioned, that your mom had a hard time keeping kids in the home. What are some of the reasons why kids were removed from the home by the state otherwise?
+
+Cyan Banister: So my sister, my sister was removed first, but I was told a lie about her removal. I was told that she ran away from home, and it was right after my brother was born.
+
+And we went out trick or treating. And my child mind remembers it as happening the next day, but maybe it wasn’t the next day. But my sister’s room was vacant and empty, and suddenly my little brother was in it. And I was expected to just roll with it. And when I asked where she was, I was told, “She doesn’t want to live here anymore. She ran away.” But reality was quite different. About a year later or so, I went to go visit my grandparents and discovered that that’s where my sister had been the whole time. And my mother was afraid that she was going to hurt the new baby. I don’t know where these claims came from —
+
+Tim Ferriss: That your sister would harm the new baby?
+
+Cyan Banister: Yeah, that my sister would harm the baby. And I don’t know where this fear comes from. There was nothing rational about it. From my point of view, there wasn’t enough room for another kid. And so we had to make room, and suddenly one was just replaced with the other. And that was very weird because my sister was my best friend in the world. She looked after me, we were incredibly close, and then she was just ripped away. Luckily, I bonded with my brother. I could easily see how that could have gone south, where I would’ve been filled with, I don’t know, disapproval, or I would be upset about having that situation. But he was just really lovely and I love my brother, but when my brother was three years old, he was removed from the house next. And that was in a really contentious divorce, where a custody battle happened. And then my mother tried to implant false memories with me. She had us try to perjure ourselves in court.
+
+And I really feel that this is when my mother and I completely fell out. I refused to testify against my stepfather and accuse him of abuses that she tried to plant in my memory. And I think this is important to highlight because a lot of people don’t talk about female abuse. They talk about, usually, men, but my mother was incredibly abusive in very interesting ways. It wasn’t screaming, it wasn’t hitting. It was neglect, and it was these social manipulations. And unknown to me, I was in my mother’s truck, and it was still moving when she made the ask for me to lie in court. And I jumped out of the truck, and I rolled on the ground, and I ran and I ran and I ran and I ran and I ran until I could find a phone.
+
+And I called the number that I had on me for our child psychologist that I had no idea was court-appointed. I thought it was just someone my mom was having me see and that I could confide in him. And I called him and told him what my mother had asked me to do, which was to lie about my stepfather molesting me, which he did not. And it all happened very quickly after that. My brother was removed pretty much in the next 48 hours from the home, and she lost custody of him. Now, why she didn’t lose custody of me still remains a mystery because I was the last child in the house. And that made me the sole focus of her ire after that, and I’m also the kid who refused to fall in line and tell a lie.
+
+And so we were at odds with each other. It just was never the same after that. And we moved to Flagstaff, Arizona. She quit her job on the reservation as a teacher and decided to become a scientist. So before this, she had an MFA in arts, and I suspect that she wanted to get another degree in science because the man that she had divorced was a scientist, and she wanted to prove that she is intelligent. My mother’s incredibly intelligent. She is one of the smartest people I’ve ever met in my life. So I don’t know why she had to prove this to anybody, but she went back to school and started taking up many jobs. So she would have one or two jobs and go to school full time. And at that point, I was pretty much left to my own devices. And she would come home after work, and that’s usually when I would get kicked out, or she’d be angry with how I didn’t clean or keep the house.
+
+It was just a constant cycle of being kicked out, the police getting called, me getting picked up by the police, ending up in juvenile, ending up in jail sometimes. It’s a horrible system for kids, by the way, if we want to get into that topic, and into foster care and into group homes. But eventually, they had enough of this. So she left me for a summer, and basically she decided to go take a position at Lawrence Livermore, a summer job or a summer research position. And she wanted me to come with her, but I had to go to summer school, and I had to stay in school if I was going to graduate, because home life was really, really bad. And so I told her about my desire to stay home, and she said no. But the next thing that happened I did not expect, which is I came home from school and discovered a $20 bill on the countertop with a note that said, “Good luck,” and her stuff gone.
+
+And so the landlord showed up and basically said, “You can’t stay here.” And so I went out on the street, and the most miraculous thing happened. A lot of my life is a series of miraculous things, where people have stepped in at just the right moment to help me. And there was a woman who was my friend Becky from band class. It was her mother who saw me sitting on the street corner crying. And she pulled her car over and she said, “What’s going on?” And I just started mumbling to her about what’s going on. And she just said, “Get in.” And she took me home.
+
+And I had no idea that Becky’s dad was the general manager of Walmart, which I had a nasty shoplifting habit as a young teenager. And that Walmart I hit up a few times, and I will never forget coming into that home and seeing that man who was opening his home to me and really questioning my life choices and moral decisions at that moment, really taught me a really valuable lesson. I never stole again. And this family took me in, and they tried to actually get custody of me. They tried to go to the court systems and become my forever home. But my mother got back, and she has this racket that she runs, where you have these kids, and they’re really useful for free education, for free childcare, for free housing.
+
+And so we lived in student housing, and if you don’t have a kid, you can’t live in student housing. You can’t have a nice house. You have to live in a dorm room. So when she came back, she got me back, and that’s when the cycle of kicking me out started all over again.
+
+And eventually, I got picked up by a police officer named Officer Pratt. That’s actually something I would love to find through this podcast, if I can find Officer Pratt. Officer Pratt probably did one of the most single important things in my life in helping me. He picked me up and brought me to the courthouse, because he arrested me several times. But this particular time, the last time that he did —
+
+Tim Ferriss: This is in Flagstaff?
+
+Cyan Banister: Yeah, in Flagstaff. He did something he’d never done before, and he took me to Dairy Queen, and he let me get whatever I wanted. And I was like, well, this is weird. And then he took me to the courthouse, and then he paraded me into the courthouse, and he let me sit where the judge sits. And I was like, this is very strange. And he said, “Would you like some spaghetti?” And he brought me spaghetti. And I’m like, “Everybody’s being so nice to me.” And then this woman came in, and she introduced herself, and she told me she was my public defender. And I was confused about a lot of this terminology because I didn’t understand what I needed to be defended from. What did I do to the public? I remember thinking, I don’t know what this means. It’s like cosplay, as far as I’m concerned.
+
+But they basically told me, “When the judge comes in, you are to stand. You are to say, ‘Your Honor.’ You are to say, ‘Yes, Your Honor. No, Your Honor,’ and you are to sit, and that’s it. Just behave yourself. We’ve got the rest.” And I’m like, “Okay, but I don’t understand what’s going on.” And then my mother came into the right of the courtroom, and I’m on the left, and I look at her, and she never looks at me. And the judge came in. It all happened again. This stuff happened so fast and time just — I don’t know, it’s hard to explain, but it changes, it dilates.
+
+But he looked at me, and he said, “Cyan, do you want to live in a cardboard box for the rest of your life?” And he held up some book, which I assume is a book of the law. I have no idea what he was holding up. And I said, “No, I do not want to live in a cardboard box.” And he was like, “Is there anything in this book that tells you that you are above the law?” And I said, “No, Your Honor. I’m not above the law.” And then he looked at my mother, and he said, “Do you want this child anymore?” And she said, “No, I do not.” And the gavel just came down, and he said, by the power invested in him and all that stuff, and basically said that I was now a ward of the state of Arizona.
+
+And what that means in Arizona, it is not emancipation. You get assigned a probation officer, and you’re treated like a criminal. And so, if you want to live on your own, which is very, very difficult to do, if you can imagine, at 15. There’s not a lot of people that will hire you, not people who will rent to you. You can’t sign a contract either. They basically said, “You have 24 hours to find a place to live. Otherwise, you end up in a group home.” And the rules of living on your own are you have to be in at 9:00. There’s a curfew. You’re not allowed to have boys over. You’re not allowed to have marijuana. You have to work, and you have to go to school.
+
+And then the strangest one of all was you had to have a gallon of milk in your fridge at all times because they would show up and that was like — sign of adulting is if you can buy a gallon of milk and keep it fresh in your fridge, before the expiration date. It was the strangest thing. But I walked out of that courtroom. I never saw my mom — well, I saw my mom again twice after that, but I didn’t see my mom leave, and she never looked at me. She just exited out some other door. And that was the end of my mother.
+
+And suddenly, I’m a, quote, unquote, “independent person,” not quite an adult. I go out and sit on the curb, and I remember looking up at the sky, and I said, “Oh, sky, what do I do? What now?” Because they gave me 24 hours to find a place to live. They said, “If you don’t find a place to live, you’re going into an unfortunate circumstance.” And so I went through my mental map of how many friends did I have that were adults? And this one woman named Pam just came in crystal clear, and I said, “I’m going to walk to Pam’s. I’m going to ask her if I can stay there and that’s going to give me some time.”
+
+And so I walked over there, knocked on the door, “Pam, can I stay here?” She had no problem. She said, “Come in.” She gave me a corner on the floor. I didn’t have a mattress. She said, “I recommend you get a pillow, but here’s a blanket.” And that became my home. And again, I think you’re going to see over and over, I didn’t see it then, I see it now looking back, at all of these precious moments where a person does something extraordinary at just the right time. And that’s what Pam did. And I had my first home, and that was in Flagstaff. It was next to the train tracks. So it was a very strange home. It rumbled a lot, and we got into a lot of shenanigans with the train because we were young and dumb, but it was a great home.
+
+Tim Ferriss: Wow. What helped save you or put you on the trajectory to where you are today, given those starting conditions, let’s call it? So you’re sleeping on the floor, at least to begin, at Pam’s house. Looking back, what do you think were the critical moments, decisions, anything at all, if you had to point to one or a few things, that helped to bend the arc of your life to not go to a terrible place? Because I could see how many people with the experience you just described could end up junkies, could end up dead, could end up, who knows, but certainly not operating at a very high level and with some very good reasons, neglect, trauma, fill in the blank, right? So what are some of the things that saved you?
+
+Cyan Banister: Well, I don’t know if you’ve ever seen those crusty punk kids that hang out on Haight and Ashbury, or you see them in every city that has any kind of population, and they’re usually sitting around a record store on the ground with a dog.
+
+Tim Ferriss: Yeah, sure. Of course.
+
+Cyan Banister: Well, I was one of those kids, and I fell into that group in Flagstaff. There was a group of wanderers who came in and took me under their wing and started teaching me the way of the streets. Because before this, I was thrust onto the streets, and I was on my own, and I did my best. I would stay under people’s beds. I would sleep in playgrounds. I would find any place I could stay. But once I met some people who are a little more professional and had a little more time under their belt at homelessness, I started to learn that there’s a whole world out there of really interesting ways to get by. For example, there’s coffee houses that have creamer, and creamer is relatively free, and it has fat and calories in it, and they have sugar and honey. And if you get those things and you put them in a cup, you can have a pretty nutritious meal.
+
+So there’s things like that. Once you’re homeless, you can never be un-homeless. It’s really strange. Every time I walk around at a conference or anything, I see all the waste. I see, if I were a homeless person, I could come and I could have this, no matter where I’m at. It’s really interesting. But during the time before I got this house, there was a time where I was homeless and hitchhiking. And my boyfriend at the time, who was one of these crusty punk kids, he goes by the name Cuddles, they all have these funny names, and he and I decided we were going to hitchhike to New York. We got it in our heads from, at the time, Phoenix, I was in Phoenix, and we set out, leaving from a coffee shop in Tempe, Arizona and ending up in Jemez Springs, New Mexico. We never made it to New York.
+
+Instead, we ended up in a hippie commune, where they basically had us bury pipe to justify our stay there. And then at the time, they had psilocybin spores. I don’t know if they still do that or if they’re still around, don’t want to get them in trouble, but that’s how they made their income. And we lived in this little teeny tiny trailer in the dead of winter. And at some point, I got homesick. I couldn’t take it anymore. I was just like, I need to go back to Arizona. I need to be in familiar territory. This is a very strange place to be, and there was constantly different people showing up. Sometimes the police would come and raid the place because there were people giving illegal tattoos. It was just nonstop stuff, and I wanted to be away from it.
+
+So I talked my boyfriend into hitchhiking back to Arizona, and I almost died on that return trip. We got dropped off. A lot of times, you’re very lucky if you can hitch a ride where someone takes you the full way. Usually you get these little partial ways, and you have to stand somewhere, and then someone takes you to another segment and another segment. Well, we got dropped off on one side of Albuquerque, New Mexico, and we had to walk from one side to the other and cross a river. But crossing a river as a homeless person is actually not that easy because a lot of the roadways don’t have sidewalks.
+
+And so we were contemplating some seriously dangerous things. We were thinking about looking around for flotation devices. How are we going to get across this river? And eventually, we didn’t have a map. We just walked and walked and walked until there was a pedestrian way, which we finally found. And the reason why this is weird is that it was so cold. So we were desperate to find heat, to find some place where we could sleep for the evening, and having no luck. Eventually we did make it to the other side of the river, to the side where we would need to get a car heading towards Flagstaff, and we holed up in a Denny’s.
+
+And we did that for quite some time. But eventually during a shift change, they were just like, “You’ve got to get out of here.” And we went and slept in a dumpster outside of a gas station. And eventually when the sun rose, we went out to the highway, and we stuck our thumbs out, and nobody would stop. But this RV apparently had gone, I didn’t notice it, but had gone by several times, and he stopped, and he opened the door and he said, “I’m going to save her, but I guess you’re along with the package. But God told me to save her.”
+
+Tim Ferriss: Now, what required saving? What was your condition at the time?
+
+Cyan Banister: Oh, yeah, sorry. Why did I need saving? I was developing hypothermia. So I was on the side of the road, and I started to fall asleep, and I was getting really warm.
+
+Tim Ferriss: It’s not a good sign.
+
+Cyan Banister: It’s not a good sign. I was getting really warm and very sleepy and happy. And if you’re in a very cold place, where it’s below freezing, and you start to feel those things, that is a very dangerous warning sign. And he stopped at just the right time when I thought I was going to lose consciousness, and it was just gone. It was over for me. And he pulled me along with Cuddles into the RV, and they put blankets around me. They did whatever they knew how to do because they didn’t understand what to do when someone has hypothermia and gave me hot chocolate. And just the next thing I know, I wake up in Flagstaff. This guy took me all the way home, and he just told me that it was God that told him.
+
+And at the time, I didn’t believe in God. I had no reason to believe in God. And my attitude towards God, if there was one, was how could a God do this to me and do this to other people and allow these atrocities to exist in the first place? So I just thanked him, and I was like, “I’m so glad that God spoke to you. Thank you so much.” And that put me again on an interesting trajectory because when I experienced homelessness again after that, I decided I didn’t want to rely on other people. I think the whole experience taught me how my life was just so dependent on spare changing and the kindness of others. And I needed to come up with a way to provide for myself. And I didn’t know how. I was underage. I couldn’t work. Minimum wage and age requirements, I have a controversial view on them. I am not saying that people should have child labor, but I am saying that it draws a line, and sometimes it’s the difference between life and death for a lot of people.
+
+And for me, I almost died many times because I couldn’t eat or couldn’t have a place to sleep, and I was cold, and just you have to get very, very resourceful. And I had to figure out something. So what I started doing was there’s these donation centers, where people donate clothes or they donate books or things like that. And I found a place that allowed homeless people to take three things every day. So you basically check in and you’re allowed to take three items, and I would go in and find items that I could sell to Buffalo Exchange or I could take to a bookstore.
+
+Tim Ferriss: So Buffalo Exchange, is it fair to describe, there’s one probably a few miles from where I’m sitting right now, a vintage clothing store where folks can come in and buy various pieces of used clothing. Is that a fair description?
+
+Cyan Banister: Yeah.
+
+Tim Ferriss: Just for people who don’t know it.
+
+Cyan Banister: But I developed a really good eye for what people like to buy at the time. And this was in Tempe, Arizona, where there’s college kids. And so college kids throw out the coolest stuff. And the books were great, too, because you could get a really nice premium on books if you could find a good textbook or something like that. But my job was to make $2 a day. If I could make $2 a day, I could afford a bagel, cream cheese, if I was lucky, a 99-cent Whopper. And if I was extra lucky, I got a bowl of rice and some vegetables from my favorite Vietnamese joint over on Mill Avenue. And that was all that mattered during the day. And once you were done with that task, you just got to lay around, swim in fountains, walk around, take creamers from coffee shops.
+
+Life was grand, but the seeds of self-reliance were planted then and I honestly think the beginnings of my love for capitalism. Because then somebody taught me how to make jewelry, hemp jewelry, in particular, and gave me some hemp jewelry and some beads, and taught me how to braid them. And I made some really beautiful jewelry, and I would go from table to table. I was one of those people that would annoy you during dinner, coffee when you’re out on a date, and guilt you into buying a necklace. And I would sell them. And eventually I made enough money to pay for rent.
+
+The other interesting thing that I want to bring up during this as well, is I have two mothers. So when I speak about my mother, there’s my mother who gave birth to me, but there’s also this guy, Cuddles, the homeless guy’s mother, who had basically adopted me. And eventually I moved in with her. And when I arrived with her, I couldn’t look you in the eye. I would always look at my feet. I couldn’t make eye contact. I would not be able to have this conversation that you and I are having, Tim. It just wouldn’t have happened. I would shiver constantly. I was a mess.
+
+But she looked at me, and she said, “You’re going to look at me when I talk to you. You’re going to stand up straight. You’re going to wear respectable clothing. You’re going to bathe. You’re going to brush your teeth. You’re going to do all the things that your other mother didn’t do and didn’t tell you to do.” And she’s my mother to this day. So she always gets upset when I talk about mother, because she’s like, “That’s not me. That’s not me.” But she’s the most amazing woman, and I still am in touch with her. And I just was really lucky to have found a boyfriend who had an amazing mother.
+
+And you might wonder, why was he homeless? Some people are homeless because they romanticize it. I was out there because I had to be there, but he was out there because he read Jack Kerouac or something.
+
+Tim Ferriss: I was just going to say, like Dharma Bums or something.
+
+Cyan Banister: Yeah, he probably just read Dharma Bums and was like, “I’m heading out.” So his situation was totally different. And he brought me home to meet his mother. This is scandalous today, but he was 19, I was 15. And she was like, “Oh, my gosh, what are you doing? This kid, she’s a kid.” But she saw my situation, and she saw what I was going through. He saved me in so many ways. He was my protector. He was my bodyguard. There was a lot of, like you said, I could have ended up on drugs. I could have ended up dead. I could have ended up — I was in squat houses where people were shooting up heroin, but he kept me away from all of this stuff. And I’m not sure what possessed him to, because at first I wasn’t even his girlfriend. I was just his tag along buddy that hitchhiked with him and slept in squats with him. But eventually we became something, and then he just looked after me, another special person who just did something really incredible for me.
+
+But when I was on the streets, selling necklaces, I also took up a little hobby of spray-painting clothing with stencils, and I learned how to silkscreen. And that’s when I met my first customer. His name’s Chris Collins. And I had put my t-shirts and my patches that I was making of some DIY punk rock bands. So I was really into these British punk rock bands at the time. And I see this guy walk by with a jumpsuit, and he’s wearing a patch from this band called Crass. I don’t know if you’re familiar with any of the old punk bands from the ’70s.
+
+Tim Ferriss: Sure. Yeah, yeah.
+
+Cyan Banister: But it said, “The nature of your oppression is the aesthetic of our anger.” I remember exactly what it says. And I stopped him, and I said, “Hey, I made that.” And he turned around and he sees this homeless chick, and he’s like, “Yeah, prove it.” And I said, “Well, you bought it at either Eastside Records or you bought it at one of these places that I would basically consign them at.” And he said, “You’re right. That was where I got it.” So he sat down with me, and he explained that his mother ran a sign shop, but the most important thing that he did was he asked me to come and spend time with him on his computer. And I was like, “Computers are portable now? This is weird. I didn’t know you could do that.”
+
+And I blew him off for a while, but a month later or so, I saw him at a coffee shop, and he was on a laptop. And it was my first time ever seeing a portable computer. And it was like, I don’t know, I was in Heaven. And I came over to him, and I said, “Well, what can we do with this?” And he says, “Well, what can’t you do with it?” He’s like, “Let’s go get online and I’ll show you.” So we found a place to do dial-up connection and I remember hearing a modem for the first time, and he started showing me this thing called IRC and how I could meet friends from all over the world. And back then, there wasn’t a search engine. So there was linked sites that you had to go to and you had to discover content, but I knew that no matter what it took, I had to be a part of that world.
+
+And so he and all of his hacker friends basically started wooing me over to their side. They’re like, “You don’t want to hang out with these crusty punk kids. You don’t want this life. You want to learn about UNIX and you want to do this stuff with us. You want to be a hacker chick.” And so they basically encouraged me to be bigger, to think bigger, and to start reading and start studying. And they bought me books and they got me my first computer. And that’s, again, I credit people, magical moments where people just sort of step into my life at just the right moment and me paying attention, if you will, if I had a part to play in this, is paying attention when those moments arrive and seizing them.
+
+Tim Ferriss: So let me hop around a little bit, because I want to bring us a little closer to the current day and we’re probably going to bounce back and forth, but the curiosity that you exhibit, the ability to, I don’t want to say put yourself in the right place at the right time, but somehow increase the surface area to which that type of experience can stick, seems to also translate to how you have, I don’t even know if this is the right term to use, but sourced some of your very successful angel investments. Right? Some of them don’t seem to travel what we might consider a typical Harvard Business School case study type of path.
+
+Cyan Banister: No.
+
+Tim Ferriss: So, could you share just a few of those, so that people get a taste?
+
+Cyan Banister: Yeah, I’ll start with Uber. The Uber story is really fascinating because it starts with a thesis. So they all start with a thesis and then eventually, I’m just going to say, maybe the universe just puts the people in front of me and I have to recognize they’re right in front of me. Obviously, you can walk the other way, you can be asleep to what’s being presented.
+
+But I developed a thesis around the taxi medallion system. And I was fairly libertarian. I still am. And was thinking about how when I go out to get a taxi and it’s a rainy day or it’s busy outside, why wasn’t I getting one? Every time I would get into a taxi, I would ask them, “What is your day like? As soon as you get your car, what happens?” And they were like, “Well, I’m already $200 in debt and I’ve got to make $200, and there’s a clock ticking because I have to return the car at a certain time.” And this is why they were driving around like bats out of hell. And everybody would complain about taxi drivers and how they drove, it’s because they were racing a clock. They were already in debt.
+
+And then I asked him, I said, “Well, do you own this taxi?” And he said, “No. We rent them. We have to pick them up and pay for them. There’s a guy that has the medallion.” And this was the first time I learned about a medallion, which is a license that somebody owns that allows you to operate that car. And it got to the point where these medallions were worth millions of dollars in some cities. They were worth that much in New York. And in San Francisco they were worth a lot. In L.A., they were worth a lot.
+
+And so what happens is your retirement plan is you rent out your medallion to someone who doesn’t have a medallion and you just make money while you sleep. And that’s pretty much the whole plan of taxi drivers everywhere at the time. And I started thinking about how it was unfair, this system, just kind of like how I thought minimum wage was unfair, because if you create a line, that means that only certain people can cross it, and some people are privileged and some people are not. So —
+
+Tim Ferriss: Just not to leave that hanging. So, minimum wage unfair, just another line or two, meaning that you should be able to charge less and get paid less if you want that to be the case, or that it should be higher?
+
+Cyan Banister: Yeah. So, when I started working, minimum wage was $3 and 15 cents an hour, and I would’ve gladly cleaned your toilet bowl for 25 cents, because 25 cents is half a bagel. Again, I think we need to allow homeless people and people who are in those lower financial or economic realms to make decisions for themselves because we know how. We know where that 25 cents goes and how we’re going to use it. We are very, very acutely aware of every cent in our lives.
+
+And there were so many jobs I wasn’t allowed to have. Now, I did end up working at a record store where they did pay me under the table, but think about that. We shouldn’t have to break laws. That person shouldn’t have to do something illegal in order for me to make money.
+
+Tim Ferriss: Great. I don’t want to take us too far afield of the through line, but thank you for that.
+
+Cyan Banister: No problem.
+
+Tim Ferriss: All right. So, coming back to the unfair aspects of the medallion system.
+
+Cyan Banister: Yeah. Well, the medallion system is incredibly unfair. And I started thinking about how could you disrupt taxis? And I didn’t have a clear answer actually. What happened was I was staying at a hotel in San Francisco at the time and I asked for them to arrange a car for me to SFO. And so they arranged a livery car and it was a guy named Roger. And when he picked me up, he told me, he said — he got to know me and he ended up giving me several rides to the airport. But one day he picked me up and he handed me a card for a gentleman named Ryan Graves. And he said, “I don’t know anything about investing, but if I were an angel investor, I would put my money into this company. I’m driving for them. And basically it’s a black livery car on demand, that you just text this phone number, you get a car.”
+
+And I was like, “Well, how many drivers are there?” And he goes, “Well, I’m the only one. It’s just me.” And I was like, “Well, how’s it work?” And he said, “Well, they’re paying me by the hour.” And I was like, “Huh, that’s interesting.” Then he hands me the card. And at the time, I only invested in companies that were in the Bay Area because it’s the ecosystem that I understand. It was how I could actually help founders when they went to raise more money. You want to be kind of locally centric. Now that after the pandemic, that’s less true. So I just kind of ignored the card. But the next ride, he brought it up again. The next ride, he brought it up again. I started having a collection of Ryan Graves cards. But then I went to Hawaii to this event held by August Capital called The Lobby.
+
+Tim Ferriss: The Lobby.
+
+Cyan Banister: Yeah. And at The Lobby, this conference is centered around the most important discussions happen by the pool, or in a hot tub, or in a lobby. And there’s content, but it’s an unconference. The content is every person there is capable of giving a speech. So I was at this event and everybody retired to this very large hot tub. There’s about 20 people in the hot tub.
+
+Tim Ferriss: That’s a huge hot tub.
+
+Cyan Banister: It was big. It was big. And I got in there and Travis Kalanick was in the hot tub. And I observed him and he had a very distinct demeanor that I had not seen in any founder. He had a lot of gravitas. If there was someone who was king of the hot tub that night, it was him. If he was managing the hot tub, it was him. You could just tell this is a person who’s going to lead. And he declared in the hot tub that he was working at some company called Red Swoosh, but now he was on the bench, or he started a company called Red Swoosh and sold it. He was on the bench and looking for his next thing. And if you’re an investor, a lot of what we do is it’s kind of like reporters or hackers with zero-day wares. You’re looking for secrets. We are on the hunt for secrets, for insights that nobody else knows about.
+
+And then I got invited to a dinner with him and I observed him some more. I observed how he talked to people at the dinner table, the opinions that he had. And I just thought, “This person’s remarkable. I don’t know what he’s going to do, but I’m going to watch him.” About three weeks after, maybe a month after this Lobby thing, Jason Calacanis held this event called Open Angel Forum. And at the time, he was sharing his deal flow because it was very much a, there were party rounds, people would get together, pool in money, and a lot of things were done at the earliest stages just by angels. Now institutions are getting into this game, but in the beginning it was just individuals.
+
+And I see Travis get up and pitch this Uber cab thing that my driver’s been telling me about, and I took it as a sign from the universe or whatever, and I wrote to my husband and I said, “We need to invest in Uber cab today. Right now.” And he was like, “How much?” And I said, “75k.” And he said, “Fine, get us in. Get us a meeting.” So I got us a meeting and they ratcheted us back to 50, but there were only two individuals that were able to put that much money in at the time. So it was pretty sizable for that round. And I really credit Roger because had he not flagged this for me, had I not paid attention to Travis in the hot tub — keep in mind, Ryan’s still the CEO. I just realized there was something about him and there’s no way he’s going to just raise money for this company. He’s becoming the CEO.
+
+Tim Ferriss: Yeah, Ryan at the time, Ryan Graves that you mentioned was CEO of Uber. And then that changed —
+
+Cyan Banister: Yeah. A wonderful man too, but he became the COO.
+
+Tim Ferriss: Oh, he’s great. He’s great. Great guy. I have a couple of questions, but I want to share just a few anecdotes for people, to add some color also, because a lot of folks are familiar with Uber, but they don’t know the Red Swoosh story. And I’m going to get some of the details wrong, but I’ll just share two things related to Travis, often called T.K. by folks.
+
+So Travis with Red Swoosh created this company that became very quickly sort of an enemy of all these huge music and entertainment companies, because it was — think of it as not quite a Napster, but it produced to that amount of blowback. And he got served with some type of lawsuit, which was like $250 billion or something. Not a good day. Now, so then he has to — this actually may have been the predecessor to Red Swoosh. Shuts it down because he doesn’t have any choice. Starts a new company, which I believe is Red Swoosh, then goes back to all the people who hated him and sued him, and makes them customers.
+
+So, just let that settle in. What type of stage magic and charisma and sales ability is required to do that? Okay. So he did that. And then very unrelated, but still a glimpse into the personality story, and I’m getting some of the specifics wrong, but not by far. So he was at a friend’s house, I want to say in Truckee, and he was playing with all sorts of people in Wii Tennis, and he was just slaughtering everybody.
+
+Cyan Banister: Wasn’t he number one in the world or something like that?
+
+Tim Ferriss: Well, that’s the thing. So, he was playing with his non-dominant hand. And then, “Oh, by the way, I’m top four in the world in my spare time.” If you can imagine that level of competitive drive. And then, you mesh the thing together and you get arguably the only person who could have helped build Uber into what it is, right? I mean, really just one of a kind. Fascinating, fascinating guy.
+
+All right. So, I want to ask you about another one, and I’m going to potentially get the pronunciation wrong. Niantic, am I getting this wrong?
+
+Cyan Banister: Niantic, the makers of Pokémon GO.
+
+Tim Ferriss: Pokémon GO. Okay, so how does this show up?
+
+Cyan Banister: Oh, this one’s a great one. So the same Chris Collins that met me and showed me a computer, started playing a game called Ingress. And Ingress was this early game that came out of Google that overlaid on top of the real-world map where you would team up with people and go to really weird remote locations so that you could cast invisible triangles over large swaths of land.
+
+I’m simplifying this because there’s a storyline behind this, but if you can imagine this, it’s basically a gigantic game of green versus blue. And we were on team blue, which is called the Resistance, and then team green is called Enlightenment. And we played this game and we were hooked. And there were people that were so hooked, they were chartering helicopters to go to remote places. And what we were creating and we didn’t realize what we were creating was PokéStops. Eventually —
+
+Tim Ferriss: And what time was this? What year, roughly, would you say?
+
+Cyan Banister: Oh, gosh. I’m going to get the years wrong on this.
+
+Tim Ferriss: That’s okay.
+
+Cyan Banister: I was at AngelList around this time that this was happening. So, I want to say 2012.
+
+Tim Ferriss: Okay. All right. Cool.
+
+Cyan Banister: 2011, 2012.
+
+Tim Ferriss: Just roughly. Yeah. Around then.
+
+Cyan Banister: Yeah.
+
+Tim Ferriss: All right.
+
+Cyan Banister: So I picked up this game with my friends. We started going out every night playing Ingress, doing walk-arounds. What’s really funny is people who knew you were playing Ingress on the other side would come up to you and there was some banter. People would be like, “Oh, Resistance.” Because we’re blowing up each other’s virtual things. And I started asking myself the question, “Why is Google doing this? Why is Google making this game? Why are we doing all this work for Google for free?” And they were collecting what’s called points of interest, which are not mappable by cars or by sometimes satellites.
+
+Tim Ferriss: That’s clever.
+
+Cyan Banister: So, things like tombstones —
+
+Tim Ferriss: Yeah. Clever.
+
+Cyan Banister: — where you can then take the text. So we were going around taking pictures of everything and submitting it to this database that was then used to create Pokémon GO.
+
+Now, how I got involved, I thought I would invest in this company in a heartbeat if it was not part of Google. And one day I get a text message from a friend and he says, “They’re spinning Niantic out of Google. There’s this whole weird thing called Alphabet that’s happening and Niantic’s becoming its own thing.” And I was like, “You’ve got to be kidding me.” And I was like, “If there’s one moment, this is the only moment to strike, where we can go put money into this thing, this is it.” But I didn’t know anybody at Google. I am not Google alumni. That’s probably where my network is probably the least effective. And I just didn’t know how to reach this guy, but I’d invested in a company called Hint Water. I don’t know if you’ve ever had Hint Water, but there are these flavored —
+
+Tim Ferriss: I know Hint Water. Sure. Of course.
+
+Cyan Banister: Yeah. So, I invested in Hint Water and I was helping the founder set up her ticketing system. She didn’t have a support —
+
+Tim Ferriss: You mean — oh, for support-related things?
+
+Cyan Banister: Yeah, for support. So, she didn’t have anybody to help her set up her support system. And I knew how to set up Zendesk, so I went in and set it up for her. I started noticing all of these weird messages coming in saying “Ingress” in the subject line. And so I walked over to her and I said, “Why is everybody sending you emails that say Ingress?” And she says, “Well, we give out game codes on the bottle caps.” And I looked at her and I said, “You’re kidding me. Who over at Ingress did this deal with you?” And she said, “John Henke, the guy who runs Ingress.” “Can you introduce me to him?” “Well, sure. Why?” I’m like, “I want to go talk to him.”
+
+So, I emailed him and he said, “Come by the office in San Francisco, I’d love to meet you. We’re not looking for any investment, but thanks.” And so, I showed up with my best friend, Lucas, who was also a player, and we sat at his doorstep, and we waited and we waited until we could get a meeting with him. And we went in and he told us flat out no at the beginning, but we sat there and showed him how Lucas was a level 16 player and how many hours we had put into this thing, and how amazing it was because we had this insight, which is we’d heard that as an April Fool’s joke, they’d put Pokémon on the map. And I had this realization that that was going to be the biggest game ever, and if I could just get a check in here at just the right time, it would be timed perfectly. By the time we left the office, he gave Lucas a desk and he hired Lucas and he let us both invest in the company.
+
+Tim Ferriss: Okay. So, let me slow this down a little bit. All right. So, right off the bat, no and no. No means no.
+
+Cyan Banister: Yeah.
+
+Tim Ferriss: All right. So, by the end, one of you gets hired and then you get to invest, but you’re not hired. Now, I’m actually more interested in your case, not the least of which because I’m interviewing you right now, but the, “I’m going to hire you.” Okay, fine. There’s some use for that person. How did you pitch becoming an investor or why did he let you invest?
+
+Cyan Banister: I think that he saw that Lucas and I were going to give really valuable input on the gamer experience. And if I was bringing in someone of Lucas’s caliber, who was, I think employee number 13 or something at Facebook. He’s a brilliant engineer. I think he thought maybe I’d bring in some more brilliant engineers. So, he was looking at this like for the long run.
+
+Tim Ferriss: Right. And it’s not like — you’re not putting in 10 million bucks or taking 20 percent of the company or something at that point. Right?
+
+Cyan Banister: Yeah, exactly. Exactly. The other thing is I couldn’t get anyone else to it. Once I invested in this, I thought I got the deal of a lifetime. AngelList had just started and they were allowing syndications, and I wanted to syndicate this deal. And at the time, they were approving whether you could syndicate a deal or not. So, it wasn’t just a free for all. And I wanted to syndicate Niantic, and I was told no, because the only other investors were Nintendo and Google, and they were like, “Well, we don’t do corporate investors.”
+
+And the other thing is nobody could see — everybody told me, “No one’s going to walk around searching for invisible creatures.” And they’re like, “No one’s going to play this game.”
+
+Tim Ferriss: And you were like, “Oh, yeah?”
+
+Cyan Banister: I’m like, “Ah, wait and see.” I would argue that it was probably the closest we’ve come to world peace in our lifetime is the day that Pokémon GO came out. I think it was like July 6th, I remember it was right after July 4th, and I was in Alaska when it was released. And even in Alaska, in Juneau, Alaska, people were running around looking for invisible creatures.
+
+Tim Ferriss: Yeah. It’s incredible.
+
+Cyan Banister: So that’s one of my favorite stories because it really took figuring out how all the connections work to get that meeting. And then, it took a lot of grit and hustle to get him to let us in. And I do have a key card to Niantic, so I’m an honorary lifetime employee, and I can come and go as I please. I’m kind of like a weird spirit animal there.
+
+Tim Ferriss: That’s awesome. All right. So, we talked about Uber. Side note, tying Uber to AngelList, I think it was after you invested, they ended up at some point having Uber put on AngelList and they were turned down by everyone. Like 300-plus people passed on Uber because fill in the blank, right? “Well, if we look at it as a percentage of the current X, Y, and Z market, it makes no sense. Nobody’s going to pay that much.” These high conviction statements that obviously in retrospect weren’t defensible at all.
+
+Cyan Banister: I think it’s very easy to come up with the reason for no. I think because a lot of things fail. But I heard all those excuses too. I’m glad that you are mentioning this because people have argued with me that Uber was the hottest thing around and I said, “No, it wasn’t. It was not hot.”
+
+Tim Ferriss: No. Not at all. Oh, no. There were also media pieces probably on Gawker, maybe on TechCrunch, but it was like, “The one percent ride for tech bros.” And it was, I mean, I don’t want to say universally, but pretty much everybody was like, “This isn’t solving a problem. And this is just another thing for people with too much money who think this is a problem, but they’re in their bubble in San Francisco.” I mean, there are a million-and-one reasons that people said it was a bad idea.
+
+Cyan Banister: Yeah. People can see past the black car too. One of the objections I saw is, “Everyone doesn’t want or can afford a limo.” And I said, “Well, of course not. But that’s where it starts. Not everyone could ride in an airplane, but now everybody can. That’s the way it works.”
+
+Tim Ferriss: Yeah. Right. And we’ve seen this play out with Tesla in terms of launching higher priced vehicles and then using that to subsidize the development of the lower cost vehicles. We’ve seen this in computing. Exactly. So, we have the Uber story. We talked about Niantic. Are there any other companies from unusual places?
+
+Cyan Banister: Yeah. A lot of interesting deals come out of hotels. So, I was at a hotel and I had time to kill. And my background is in security, so I’m an engineer self-taught, and my friends taught me and I started getting into InfoSec. So, I notice some things that other people don’t notice about their OPSEC or their security. And I got on the Wi-Fi and noticed that all of these people were tethering their phones to the Wi-Fi using their real name. And I see Travis K’s iPhone and I look over in the corner and there’s Travis Kalanick and I’m like, “Oh, there’s Travis.” And then I see K Pixel. And then I look over and I see Keith Rabois, and I see he has a Pixel phone, and I’m like, “Oh, Keith Rabois’s Pixel. Interesting.”
+
+Keep in mind, their MAC addresses at the time were also in the clear. You could track where these guys were if you were very clever. But then I see this name Garrett Langley, and it’s a name I’ve never seen. So, I go and Google search it, and Garrett Langley is the founder of Flock Security. And there’s this mug picture of him, and he’s in the current YC batch at the time.
+
+And we at Founders Fund had been thinking about some of the biggest opportunities. And one of the opportunities we were considering was somebody needs to come up with some sort of neighborhood camera or neighborhood association where people are all pitching in and agreeing to some rules around safety and some equipment and technology to enable that safety. And so, I started reading about Flock, and I’m like, “We didn’t think about OCR-ing license plates. We thought about cameras. This is a much better solution.”
+
+And so I messaged our associate at the time, John Luttig, who I think is now a partner, that I had found this guy, and he’s like, “Oh, that’s the company we’re interested in.” I said, “What should I do?” And he’s like, “Just walk over there. See what happens.” So, I walked over and I decided to play the, I don’t know, the magician card, if you will. And I looked at him and I said, “Garrett Langley.” And he said, “Yes.” I said, “I’m Cyan Banister of Founders Fund. We’d like to bring you in for a meeting.” It sounded very official. And he starts looking around and he’s like — because YC, his batch hadn’t demoed yet, and he hadn’t seen me at YC.
+
+Tim Ferriss: Yeah. So, he’s like, “How do you know who I am?”
+
+Cyan Banister: “How do you know who I am?” He was looking around like, “How do you know?” And then it was killing him. He finally asked me, he said, “I’m so sorry. I need to know how you know who I am.” And I’m like, “Are you sure you want to know?” And he’s like, “Yeah.” And I said, “Well, you tethered your phone to the Wi-Fi and it says, ‘Garrett Langley’s iPhone.’ And curiosity just got the best of me.” And we ended up getting the last allocation of that round and sharing the Series A with Bedrock. It’s now valued at over $6 billion.
+
+And I tell this story because one of the things that I think makes me good at what I do, and other people, is identifying patterns and opportunities and striking when you see them. And for whatever reason, I am gifted with the ability to make these connections. And so, a lot of the best deals I’ve ever done have these interesting things in common, which is, I see something, I put the pieces together, I’m like, “Oh,” for example, “Hint Water bottle caps is going to get me in this deal.” I had to think very quickly about that. But same thing here is just, I didn’t wait, I didn’t email the guy. I decided to go be a creeper, and it ended up being funny. It ended up being totally funny.
+
+Tim Ferriss: Yeah, totally. All right. So, I want to do a post-game analysis on another deal of a slightly different variety. And this is GameCrush and lessons learned.
+
+Cyan Banister: Ah, yes. GameCrush. Could have been Twitch.
+
+Tim Ferriss: Could you explore this? Explore this —
+
+Cyan Banister: Yeah. GameCrush was a brilliant business actually. And at the time, let’s put this in perspective, MySpace was a thing still, Facebook came out and was sort of on the rise. Twitch didn’t exist. Discord didn’t exist. None of that stuff existed. There were webcam sites. And then there was a site I started called Zivity.
+
+And what I saw was really interesting because they brought mostly women, men also played, off of MySpace, who were a little more provocative and wanted to play more provocative gaming. And so it was a way for you to pay to play games with girl gamers. And it was growing like crazy and everything was fantastic. And then they started getting activist investors who wanted them to get rid of the more adult in nature content. This happens with company after company after company.
+
+Tim Ferriss: Can you explain this for folks, yeah, the activist investor, just for people who might be curious as to what that is?
+
+Cyan Banister: An activist investor is someone who invests in a company and decides that they want to play CEO or operator and they start telling the founders and the employees what they should be doing with their company. And if you’ve structured your company correctly, you can take that advice and then tell them to pound sand. But if you haven’t, the power dynamics are not in your favor. I’ll just put it that way. And then there’s people who, because people gave them money, they think they have to listen to them, but then they don’t. And that was the situation.
+
+Tim Ferriss: Yeah. Got it. And for people who want a showcase of — granted a slightly different species of activist investor, I assume you’re talking about venture capitalists, maybe private equity guys. But if somebody wants a great documentary, watch Icahn: The Restless Billionaire, if you want to see what super hardball activist investing looks like, you can check that out. Okay. So please continue. So, they’ve got activist investor —
+
+Cyan Banister: Yeah. An activist investor can fire you.
+
+Tim Ferriss: Yeah. Yeah.
+
+Cyan Banister: That can happen too.
+
+Tim Ferriss: So they want to remove the sex appeal and the fringier magic. Is that what’s happening?
+
+Cyan Banister: Correct. They wanted to remove the sex appeal and what made this entire product special and the whole reason I invested it in the first place. They cannibalized it. And so after that, Twitch took off, but they didn’t have the right tools or the right anything to be a Twitch. And they had all these amazing girl streamers, which just jumped ship as soon as they could go someplace where they could actually show more than what GameCrush was allowing.
+
+Tim Ferriss: What were the constraints that the activist investors either applied themselves or convinced the founders to apply? How did it change?
+
+Cyan Banister: The streamers couldn’t be in various states of undress. They couldn’t even be sexy. They couldn’t be in bikinis. They wanted it to be where technically, I guess, younger people could get on, but it was never meant to be for kids. It was supposed to be for adults. Adults with adults. And it just got weird because they wanted to make a very mainstream product. They wanted to be Twitch. They were onto something. It’s just that the product was never, ever designed to be that. And I think if they’d stuck to that niche, they would’ve done quite well, incredibly well, as a matter of fact, because they could have expanded later into something had they completely monopolized that audience, because that’s what drove people ultimately, at the end of the day, to watch Twitch is these girl streamers.
+
+Tim Ferriss: Yeah. I mean, that’s like the internet 101. Right? On some level, for so many different things. So, let me come back to GameCrush and ask, and maybe this is a dead end, but looking back with hindsight 20/20, were there other warning signs prior to the death knell? Were there other things that you saw that maybe you overlooked?
+
+Cyan Banister: Oh, sure.
+
+Tim Ferriss: Or, things that you observed where you were like, “Next time I’m going to pay more attention to that?”
+
+Cyan Banister: Yeah. This was early in my investment career actually. And so I was learning a lot of lessons from that particular company. The check size that I wrote was rather large for the time. I think it was like 250k, which was pretty big. And the warning signs that I saw were how disorganized the company was after we did the first closing of that round. They invited us to a dinner in which I brought Brian Singerman and a few other people. And it was really clear that there was just leadership issues, but by that point we’d already committed capital. You’re not going to change your mind. You can’t withdraw anyway.
+
+Tim Ferriss: What kind of leadership issues?
+
+Cyan Banister: It was unclear who was the CEO.
+
+Tim Ferriss: I see. So, there were multiple founders and then just —
+
+Cyan Banister: Yeah. Multiple founders, always a recipe for disaster. And they were putting forth someone as the CEO, but it was really clear that he was only the CEO just for the fundraise. And after the fundraise, it was a bit of a shell game.
+
+And I’ve seen this happen. I learned this, interestingly, with another company, HQ Trivia, which I would argue is a much bigger disaster and failure. And that was due to two founders who ultimately could not see eye to eye and had a 50/50 partnership. I broke my rule where I normally never invest in a company where there’s a 50/50 partnership or there’s not a clear delineation of who’s the CEO and who’s not, and for a variety of reasons.
+
+Tim Ferriss: Right. Who’s the tiebreaker?
+
+Cyan Banister: Yeah, who’s the tiebreaker? Who’s actually, ultimately, end of the day, is their fault? Who are we going to all point at and blame? And with HQ Trivia, there was nobody to point at and blame. As a matter of fact, it became more of a Game of Thrones for the position, and was tragic. It ended up with one of the founders dead.
+
+Tim Ferriss: Oh, my god.
+
+Cyan Banister: Yeah. But GameCrush was a great learning lesson. I also learned that just because you commit to something, if there was a period of time in there that I was able to get material information as to a decision that I made may not be a good one, I have the right to say I’m not investing, which is something that has been challenging for me because, I don’t know if you watch Game of Thrones, where they say, “A Lannister pays their debts.” Well, a Banister pays her debts. You know?
+
+Tim Ferriss: Yep. Now you’re saying after docs had been signed or after you’d wired the money, if there are material items that should have been disclosed that were not disclosed?
+
+Cyan Banister: Before signing.
+
+Tim Ferriss: Before signing.
+
+Cyan Banister: Like if there was anything that I could have figured out before then, which there were some little things, like some little things that were signs, I realized then I could adjust and make that decision in the next investment that I did, where I could try to find out more information, and even if I committed before those docs are signed, it’s not done. That was a learning lesson there because I always thought that my word is my bond, and if I say something verbally, it’s as good as signing something. But sometimes people misrepresent things and they lie.
+
+Tim Ferriss: Sadly true. I have a question going back to the hemp jewelry, and I don’t want to force a narrative on your story that is not true, but when you’re telling me about some of the deals you’ve sourced, and I’m sure this applies to many others, there’s a certain level of proactivity and chutzpah in approaching people, cold approaches, right? Just not seemingly being overly concerned or over-cogitating on just being a creeper, I think as you put it, or going for the direct contact pretty quickly. Does that come in part from the kind of training on the street of making these approaches to tables, making approaches to different folks asking for things, or were you out of the box seemingly programmed to be that way?
+
+Cyan Banister: Yeah, I think being homeless taught me that a lot of things that people do are suggestions. When I was homeless and I was selling necklaces, one, I learned about rejection. But before I did the necklaces, I also had a weird job at Greenpeace for a period of time where I was a phone canvasser, and I lied about my age and they allowed me to work there. So that was another funny, weird job I had. But I also did telemarketing as well. So I did a lot of telemarketing when I was 17, 18, and then, of course, tech support. Dial-up tech support was a thing that I did for a while.
+
+So I spent a lot of time being rejected and being on the phone and being abused in customer service, and I don’t believe in no until it’s the final no, and I also think that when you’re an investor, people, and especially if you start to get good at it, people want to hear from you and they want the opportunity for you to invest in them. I’ve just never seen that anything as a barrier. To me it’s like a sport, it’s a game. Not that money’s a game, but getting into the deal and winning the deal to me is a sport.
+
+Tim Ferriss: And you’re saying that, I’m paraphrasing here, but things that people say are suggestions, something like that?
+
+Cyan Banister: Yes.
+
+Tim Ferriss: What does that mean?
+
+Cyan Banister: We apply a lot of our own perception to everything that everyone says around us. We make up stories that are fiction, and a lot of what people suffer with today are these stories, these narratives that we tell ourselves and one another, and I’ve just always felt like that something that someone said right now, it’s not a hard no. You know when you hear a hard no. I know the difference between an objection and I just have a rebuttal for it versus a hard no, and until it’s a hard no, there’s wiggle room to get something done. And so I’ve just always felt this, and it’s interesting that you homed in on it, but it’s definitely been a guiding principle in my life, which is don’t give up. Just try different approaches. Maybe you didn’t ask the right way, or maybe you didn’t give the right incentives, or maybe it was Monday and they’re in a bad mood.
+
+Tim Ferriss: Yeah, Mondays.
+
+Cyan Banister: Exactly. Fuck Mondays. But all of these things are just things that we make up truths, but what if they’re not true? So you’ve got to always question these narratives that you tell yourself and that other people are telling you.
+
+Tim Ferriss: How do you do that? I mean, is it just an instinct at this point or is there some systematic way that you do that for yourself?
+
+Cyan Banister: I meditate a lot, and I practice mindfulness as often as possible, and I try to remind myself to be conscious whenever I can. And being conscious to me is being aware and present and being here now, and a lot of times you’ll hear that and it doesn’t really mean a whole lot until you’ve practiced mindfulness for a period of time and you start to realize what now is.
+
+And so anything that I tell you happened. It’s gone. You can’t go back to it, I can’t do it again. It’s a fiction that becomes something in my mind that people put too much weight on that fiction. I’m not saying that nothing matters. A lot of things matter. But the human mind and the ego is so capable of spinning up fictions and creating narratives that we hold as truths to the point where it leads people to paralysis. And the amount of times, so I’m at a convention right now, that I’ve heard people apologize to each other for saying something rude in the past and the other person not even remembering it, and I’m thinking about how this poor person carried around that trauma with them for how long. I’ve heard it twice now, because right now there’s something happening in the world that I’m really excited about, though, is that people are starting to apologize and starting to own being wrong for the first time in a long time.
+
+And I think one of the things that I am hyper accountable, so I take responsibility for my every action and I ideally my every thought, and that’s really hard for a lot of people because it’s easy to be a victim, it’s easy to say that things happen to you. I easily could have rolled over and said, “I was homeless. Woe is me. I can’t succeed in life,” and instead I was like, “Nah, this life is just a big old game and we’ve got to play it, and a lot of it is cosplay and suggestions.” When I was younger, I saw these people dress up in their suits and you just kind of realize they’re grown children dressing up in suits adulting, you know? It’s a costume. And so I look at everybody walking around in their costumes with the narratives and the stories they’re telling themselves and I like to analyze it and I like to think about it a lot.
+
+Tim Ferriss: Now, I think it’s worth, if you’re open to it, just mentioning where you are. So what is this conference? What is it?
+
+Cyan Banister: Yeah. So I’m at Hereticon. It is put on by my alumni at Founders Fund. I’m very blessed.
+
+Tim Ferriss: When you say your alumni, you mean portfolio company folks?
+
+Cyan Banister: No, the people I invested with. So I was a partner at Founders Fund for four years.
+
+Tim Ferriss: I got it, got it, got it. The other GP is the general partners.
+
+Cyan Banister: Yeah, so the other GPs and some of the founders I’ve invested in are here. Anduril, Palmer Luckey is here, and I invested in Anduril. And there’s a few others. There’s Truemed that’s here, Mindbloom, which we invested in that does psychedelic medicine, ketamine therapy for PTSD.
+
+Tim Ferriss: Why is it called Hereticon, right? Heretic Conference?
+
+Cyan Banister: Yeah. It’s because some of the best ideas look heretical at the time. When people claim that they can do something that is indistinguishable from magic, for example, they might be labeled a witch back in the day, and when you make a technological advancement, it is indistinguishable from what looks like witchcraft sometimes. And then people, in order to get to the best possible answers, we need to have debate, and so this conference is about people debating in completely oppositional viewpoints. So there are people here who are hardcore atheists, there are people here who read tarot cards. There are people who are anti-AI and there’s people here who are, “AI is going to save the world and it might even bring the second coming of Christ.” It runs the gamut. I mean, it’s just so exciting.
+
+One of the things I love about it, Tim, is it really reminds me of early ’90s tech futurism, back when we thought everything was possible and what we were going to build, and it didn’t turn into any of that. I would argue that social media and things like that did not do what we set out to make them do. But for the most part, I had thought that this optimism had died because of things like Uber, because of the backlash against tech people, that we had become pariahs. But this has this feeling of it coming back together and people are discussing the things that matter again without the fear of being canceled, and I think that’s the other thing that happens here, is it’s Chatham House Rules. I think some things are leaking out on the internet, but for the most part they’re not, and you’re encouraged to be yourself, and you’re encouraged to be respectful, and you’re encouraged to make friends across the aisle.
+
+Tim Ferriss: Dig it. How large is it? How many people attend?
+
+Cyan Banister: There’s about 500 people.
+
+Tim Ferriss: Oh, that’s big.
+
+Cyan Banister: And Founders Fund pays for the whole thing. So our hotel room, I’m in a hotel room right now that’s paid for, our meals are paid for, and it’s just incredibly generous for them to give this gift to the community. I know they source deals out of it, I know they get something out of it, but at the same time, I know how much effort it takes to roll up your sleeves and do what Mike Solana has done, and it’s probably my favorite conference I attend by far. It’s my number one favorite place to go.
+
+Tim Ferriss: You mentioned a company a while back that I do want to touch on, and that is Zivity. I mean, I’m reading here, right, “OnlyFans before OnlyFans.” I do like “the General Magic of pornography.” People require a lot of background on General Magic, but people can look it up. Actually, I had Tony Fadell on the podcast, so people can dig into that to get a bunch of background there. But why Zivity, and then what happened and what did you learn from it?
+
+Cyan Banister: Yeah. Well, can I go back to the very beginning of when I discovered my very first porn?
+
+Tim Ferriss: Of course. How can I say no to that? Yeah.
+
+Cyan Banister: Yeah. I think it goes back to that. So it’s a great story. But I got a summer job. I want to say I was 12, 11, 12, and I know this is going to sound disturbing, but it’s really not. I got a job watching a wolf dog, which is basically a wolf, and the guy that — you don’t own a wolf, like they’re very, very wild and untamable creatures. I don’t know if you’ve been to a wolf sanctuary, but you can’t let them —
+
+Tim Ferriss: Yeah, I’ve been around wolves, yeah.
+
+Cyan Banister: Yeah, so you know. And this guy said, “Okay, all you have to do is come over to my house, you open the door, you go to the freezer, you get out of steak, you microwave the steak, and you crack an egg on it, and you leave it in the door frame, and Wolfie will just show up.” And I was like, “Okay, I could do this,” and it was a great summer gig, and —
+
+Tim Ferriss: I love that somebody, some guy is like, “You know what I’m going to do? I’m going to hire an 11-year-old and then leave this 11-year-old alone with this wolf dog.” It’s just putting steak in the doorway. This is a great idea.
+
+Cyan Banister: Exactly, exactly.
+
+Tim Ferriss: Okay, please continue.
+
+Cyan Banister: So this dog shows up, and this dog is so big, and I’m so small, and they have these fierce-looking eyes, and this thing, I’m like, “This thing could eat me.” But she would come in, and she would eat the steak, and she would roam around his apartment and stare at me, and then she would do her thing and then eventually leave, and then I could lock up and then go. But Wolfie, she didn’t work on a schedule, so I would go over there and sometimes have nothing to do, so I started going through this guy’s drawers, his cabinets, his books, his everything. There was nothing to do. It was so boring. And eventually I found a Playboy magazine.
+
+I looked in there and I was like, “That has to be the most beautiful,” at the time, these were vintage Playboys, “depiction of the human body I had ever seen.” Because before this, I thought that the Sears Roebuck magazine was like the sexiest thing I’d ever seen, the underwear section, and this was like, “Holy cow, this is next level. Women are beautiful.” And I dreamed about being beautiful like that someday. I was like, “You know, I want to be beautiful like that. I want to be like that someday.” Beauty back then in those magazines was very natural and very accessible, you could be that beauty, whereas the beauty of Playboy later, when Hefner was older, became a very unaccessible beauty.
+
+But my mother also is an art teacher and she kept around all of these books with these Chinese sculptures where they were doing very, very lewd sexual acts. And so to shock my friends at school, I would sneak these books to school and show them in the locker and sometimes charge people for it, you know? “Come look at my porn in my locker.” So I really, really felt that it was a beautiful art form that deserved a little more respect, and it started very, very early.
+
+When I set out to start a company, at the time there was MySpace and then there was a competitor, which became a friendly competitor of mine, called SuicideGirls that had launched, and I tried to start Zivity before SuicideGirls even, but then SuicideGirls started and I was like, “Well, they’re doing a fine job. I don’t need to start a company because SuicideGirls is doing most of what I wanted.” But what they didn’t do was I didn’t like the financial model of how they acquired content and how they treated the artists. So what they would do is they would buy a photo shoot that an artist did for $500, and you would sign a release for your likeness in your name, and they pretty much owned it in perpetuity. So if I’m Cyan on SuicideGirls, I can’t be Cyan anybody’s place else. And so a lot of these young women had no idea what they were signing.
+
+Tim Ferriss: Yeah.
+
+Cyan Banister: Yeah. And then they would get famous, and then they would use these images, and they had stage shows and all sorts of things. This was pretty standard though. They weren’t doing anything wrong. It was the industry standard. It was the Hollywood standard at the time. And I thought to myself, “There has to be a better way. There has to be a way where photographers and models can have a fan interaction that’s meaningful and then the fan becomes a patron of the art that they’re making.” And at the time, there was webcam girls. They did exist, and you could buy packages and they’ve got some portion of the package, but their micropayment system was not really a thing.
+
+And so we started coming up with — we didn’t know what to call it. It was technically tipping, but we didn’t want to use the word “tipping” with the content that we were putting on Zivity. So Zivity was a nude, fully nude platform with no sex acts on it actually, and we didn’t want to call it “tipping” because we didn’t want to equate ourselves with a strip club. We wanted to bring up the class of what was happening more. So later on, Patreon figured out it’s called “patronage,” and Kickstarter figured out it’s called “backing” somebody, but we didn’t have the marketing language, so we called it “voting.” Now, voting was a very, very confusing word of a call to action for anybody because you’re not supposed to stuff a ballot box, you’re not supposed to vote multiple times. But we were encouraging people to vote multiple times because each vote was basically worth a dollar, and then when you cast that vote or you voted, 70 percent went to the artists and was split between the photographer and model.
+
+Eventually we started bringing in makeup artists and costume designers. A lot of people don’t realize that a lot of these really, really beautiful photo shoots involve a lot of people. There’s a lot of people there, and then the compensation chain is complicated. But the person who does the hardest work is the model. So the model is the one who talks to the fans. And what I figured out with Zivity actually, which OnlyFans has figured out, and a lot of these other platforms figured out, is it’s not about the content at all, because over and over again, I would get told, “Why would anybody pay for this? Content’s free. It’s all over the internet. There’s porn everywhere.” What isn’t free is the real human interaction with the person, and we figured that out with Zivity at the very end, but I shut down Zivity when I was at Founders Fund. I ran it for 10 years. We were the first company of our kind to raise venture capital, and we couldn’t see eye to eye, the board, myself, the executive team on what Zivity should be because people thought it was about beauty, it was about an aesthetic, and I argued that it has nothing to do with beauty, like nobody really cares about that. Because they wanted to editorialize it like Playboy, and I had this insight, which ended up being right, which is anybody can be a model and anybody can make money as long as they have more than one fan.
+
+And we did register a domain called Top Fans, and we did experiment with what OnlyFans is, but what happened is I just ran out of gas. I ran out of the ability to run that company, and I was far more successful as an investor, and I was tired of fighting. I was really, really tired of fighting everybody, like I was not allowed to be in the Apple App Store, I wasn’t allowed to advertise on Instagram, I wasn’t allowed to use normal payment processors. I wasn’t even allowed to have an office at WeWork. I was protested at tech conferences. There were women who would come and protest me.
+
+Tim Ferriss: How would they protest you?
+
+Cyan Banister: Well, back then it was a lot more controversial to do what we were doing, and they thought that my mere presence at a conference meant that I was going to pornify them in some way, like I was going to start taking pictures of them, or taking my top off, or I don’t know. I don’t know what they thought, but they thought that I was going to do something. And Facebook actually asked me to come and speak to a group of engineers, and they had a wonderful event, and I was the headline speaker, and there was a protest that happened and they held a protest across the street, and at our event, we did nothing but talk about code and engineering, and at their event, they did nothing but talk about porn. To this day, I laugh about it. But I never envisioned Zivity becoming as big as OnlyFans, though.
+
+I think OnlyFans has really proven and hit a nerve, and one could argue that maybe it remains to be seen whether a product like this is a net positive for society or a net negative, but we did succeed at enabling this freedom, which I still think is valuable because a lot of people need this kind of freedom so that they can put themselves through school, so that they can buy their first home, so they can start a family, and not everybody is blessed with being able to get certain types of jobs, and this gives them that flexibility.
+
+Tim Ferriss: I hesitate to ask this question, but I’m so curious, because you are very good at embracing your weird self, and you’re very forthright in your opinions, and you have controversial, or I should say maybe uncommon takes on things, like minimum wage, what you said earlier, for instance, as one of many examples. So feel free to take this question wherever you want to go, or if it’s just a bad question we can abandon it. But how do you relate to sex? How do you think about sex and sexuality? It’s such a broad question, but I feel like it would be neglectful of me not to ask.
+
+Cyan Banister: I love this question because we don’t talk about it enough to be honest with you, and it’s along with eating and pooping and everything else that we do, sex is up there. I mean, it’s how we have babies, and how we express our love, and how we connect with people. It’s so stigmatized and I don’t think it should be. But I became sexually active when I was 15, and despite finding the pornography and everything like that, it was later in my teenage years and I was so disappointed. I thought why did everybody make movies and write poetry and build the Taj Mahal for something so awful? And I had a very negative view of sex, and so negative that I started experimenting on boys. Now this is maybe terrible, but this is what I did, is I was determined to find that one connection that was worthy of writing a poem for.
+
+There has to be somebody, there has to be something, and it just didn’t work. I would try different things. I would try different scenarios. I was like, well, maybe I need to be in the racquetball court, or I need to be over here or there. I thought it was situational. And then eventually I developed feelings for somebody, and I didn’t realize that that was the missing ingredient. I was like, wow, feelings for someone else, that’s a concept. And I broke up with this guy immediately. So it was my first love and he was a communist. Interestingly, he still is a communist. He has the hammer and sickle on his arm and everything, and I still love him to this day, and we’re still friends, but I saw myself worrying about him, where he was, what he was wearing, did he eat? Has he slept? I started asking myself all these questions that were so weird, and I just didn’t have time for them.
+
+I had to survive. And when you have to survive you can’t worry about someone else’s well-being because you’re drowning yourself. You can’t worry about someone else drowning. You’ve got to put your oxygen mask on first. And so I broke up with him and left. And I put him in a little snow globe. I like to call it a snow globe of emotion because it taught me that that was possible that someday I could love someone, and maybe that person would love me back, but I didn’t have time for it then. So when I got into tech I did date and I had some long-term relationships, and then obviously there was the homeless relationship with Cuddles that lasted a long time. And my relationship to sex was just it’s fun and it’s just something you do, but it was never earth-shattering. I never wanted to build a Taj Mahal, and that was my bar. I was like, that guy, that woman must have been something to erect a monument to her that is just so grand. She must have been very, very good in bed is what I thought.
+
+So I got my hands on books, magazines, Cosmo, everything, and it wasn’t until probably my mid 20s that my relationships to sex changed and I started having a much more positive outlook on it, and enjoying it. But it took some time, because in the beginning I just thought, why on earth? How did the human species survive? This is just awful, because when you’re young you don’t really know what you’re doing.
+
+Tim Ferriss: Yeah, no.
+
+Cyan Banister: But when you get older, if you’re lucky and you find the right partner, then you do.
+
+Tim Ferriss: So I’m going to switch gears and I want to talk about rolling the dice — but not metaphorically. Literally. I want to talk about rolling the dice and I’ll just let you take it from there, because I might want to spend quite a bit of time on this.
+
+Cyan Banister: Okay. Dice rolling is a lot of fun.
+
+Tim Ferriss: How did this even come up? How did this even start?
+
+Cyan Banister: Yeah, it came up during the pandemic. So during the pandemic, the world was divided into two camps. There was the people that were first responders, critical responders, critical infrastructure for the country who had to continue to go to work, so they were in their own suffering and their own experience of the pandemic. And then there was people who were forced to pause, and I was one of the forced to pause people. And so I started reading all of this early 1920s esoteric philosophy, and —
+
+Tim Ferriss: Hold on. Hold on. How the fuck does that happen? Why that?
+
+Cyan Banister: Gosh, I don’t even know where to jump off here to tell. I go in rabbit holes, and I go deep down these rabbit holes until I’m satisfied. And then I go down another one and another one, another one. And this particular one gripped me because I was interested in mysticism. I started reading works by Aleister Crowley, which led me, which I’m sure you’re familiar with him, which led me to this weird publication that he published, which also led me to a weird short story called The Magic Glasses by Frank — I forget his last name. It’ll come to me later, but —
+
+Tim Ferriss: I’ll find it.
+
+Cyan Banister: It’s really, really great. I’m making a movie based off of this short story, so it’s actually a really great story.
+
+Tim Ferriss: Frank Harris.
+
+Cyan Banister: Frank Harris, yes. So by Frank Harris. I highly recommend reading this story. It’s fantastic. The rest of Frank Harris’s stuff is a little more challenging. So he was a cowboy who at the age of 14 basically ran away from home. And the in vogue thing when you ran away from home in Europe was you ran off to America. That was your big F-U. It’s like, “I’m going to go get on a ship and you’ll never see me again.” So he ran off to America. He ended up falling into some amazing intellectual groups of writers, and he wrote one of the smuttiest books of the time called My Life & Loves, which was banned worldwide. And it was an account of every single sexual encounter that this guy had. It’s a fantastic book, but again, tough to read because he was also a cattle rancher. He became a cattle rancher, and he ended up killing people for cattle. It’s hard to tell what’s real and what’s fake, but back at the time this might’ve happened and it might’ve been real.
+
+But what led me down this rabbit hole was because I was trying to ask a very important question, which is the question I hope that everybody asks, which is, why are we here? Why do any of this? Anything that we’ve talked about at all, what is the purpose of any of it has been a question, a rabbit hole, that has continued throughout my life, continues, probably will continue till the day I die because it’ll be an unanswered question. I have some answers, but mostly it’s an unanswered question. And I started playing with artificial constraints. It first started with my clothing. I realized I can’t be like Steve Jobs, I can’t be Mark Zuckerberg, I can’t just wear a uniform and flip-flops and call it a day, I would feel dead inside. I just couldn’t do it.
+
+Tim Ferriss: Let me pause for a second. How does the applied constraints relate to Frank Harris and the “Why are we here” question?
+
+Cyan Banister: Yes, okay. So Frank Harris, the story about Frank Harris, The Magic Glasses, when you read it is about trying on different perspectives and seeing the world in a new way.
+
+Tim Ferriss: I see.
+
+Cyan Banister: And if you were to be able to put on a pair of magic glasses that allowed you to see the world in a magical way, would you do it? And for how long would it be magical before you just relegated those glasses to your drawer of all the other tchotchkes and novelties that the human brain grows bored of? And I started looking around at all the novelties in my life, and all the things I had grown bored of, and all of the perspectives I had tried on and tossed into the drawer, and I started looking at my wardrobe as being an interesting side effect of novelty. And so I started thinking about that story and thinking about my closet. And I love clothes. I just love them. I love expressing myself with clothes. I love costumes. I love cosplay. I love textures. I love fabric. I love fashion. And so I’ve always had this guilt around loving these things.
+
+And so I tried to figure out how to be the best minimalist maximalist I could be. And so I started playing all sorts of forcing function games. And it came out of reading Gurdjieff, and Frank Harris, and Aleister Crowley, and all these things. Dice rolling oddly came out of all of that. So I went to my friends and family and I said I am tired of picking out my outfit every day, but I can’t get a uniform so can you guys pick a theme? And so the first theme was plaid, and I was plaid from head to toe. So everything, underwear, socks, shoes, hat, gloves, it didn’t matter what it was, it had to be plaid. And when you go into a store and they’re like, “Can I help you?” And you’re like, “Do you have anything plaid?” The answer is usually I have two things, like two items of clothing or three items of clothing. So it automatically forces you to not buy things and to constrain yourself with this weird pattern you’ve picked for the season.
+
+Tim Ferriss: Okay. So when you say season, how long are you wearing plaid for?
+
+Cyan Banister: Three months. Yeah.
+
+Tim Ferriss: Got it.
+
+Cyan Banister: It was brutal. It was brutal. So again, that wasn’t enough. I had to learn all about plaids, like what is plaid? Is a check a plaid? Is gingham a plaid? What makes a plaid a plaid? It’s really fascinating.
+
+So the second season I hated the most, which was polka dot. It was awful. And I’ll tell you why polka dot’s awful, because most prints and fabrics, the polka dots are either printed and layered on top of the fabric but they’re never woven into the fabric. And so polka dots are usually made out of really cheap fibers, so polyesters and things that are really hot and sticky and gross.
+
+Tim Ferriss: So in each of these cases are you ending up with 12 storage units full of plaid and polka dot stuff respectively?
+
+Cyan Banister: Not that much.
+
+Tim Ferriss: No. Okay. So it constrains the volume as well.
+
+Cyan Banister: It constrains the volume. And it got to the point where I can’t wear a polka dot again probably for the rest of my life. If you ever see me wearing dots I’ve gotten over the trauma. But plaid was one of my favorites actually, because learning how to wear mismatched plaids. But the thing that was really interesting was when I’d go into a store, how people would be delighted and just light up when they saw what I was wearing. They would just start laughing and giggling, and I realized that clothing could be a source of joy, not just for yourself, but for other people.
+
+Tim Ferriss: So it’s like minimalism plus joy. Or like, how can you reduce decision making and increase joy at the same time?
+
+Cyan Banister: Correct. That’s a great way to distill what I’m obsessed with right now.
+
+Tim Ferriss: And how did the dice come into this? I don’t want to cut off the story at all.
+
+Cyan Banister: No. After I ran this experiment for a year and a half and I learned a lot about what I like and don’t like, and what kind of fashion suits me and doesn’t suit me, and which friends to allow to pick my wardrobe and which not to, I started looking at my dining choices, and I started looking at my holiday choices, and my driving choices, and I started asking myself the question, do I even make good choices?
+
+Now, you would think that because I’m successful the answer is yes, I make great choices, but I make choices just like any other person, that are ingrained choices formed out of habit. So I wanted to see what would happen if I became more random. What happens if you introduce random to your life and you start to eliminate choice? Are you as successful? Are you as joyous? How much of what we do is really because we’re brilliant, or is because that’s just how the cards fall? Well, I have not been led astray by the dice a single time.
+
+So how it works is let’s say you and I want to go to dinner, Tim, and I’m like, “What do you want to eat?” You’re like, “I don’t know.” And we go around and we do this thing that everybody does for five minutes trying to decide.
+
+Tim Ferriss: So this is why I wanted to get into the dice. This literally, I had one of my closest friends text me yesterday and we were talking about decision fatigue. And he’s like, “You, more than most people, are exhausted and get very frustrated by tasks or assignments, like choosing a restaurant, where there is no right answer.” Because it can chew up so much fucking time and energy, and there’s so much tail chasing and back and forth. Anyway, rant complete for now, but please continue. So we’re trying to decide what to do for this.
+
+Cyan Banister: Yeah. So I can help fix this for you, Tim. I’m so excited to introduce you to dice rolling. So I wear dice around my neck and I take them everywhere I go. And this gives me one through 12. Obviously you can get multi-sided dice and you can come up with all sorts of different options. You can use dice to even just do coin flip type stuff because you can do odds or evens. But you and I want to go to dinner. We can’t decide even on a genre, so maybe we ho[m]e in on Italian. We are making some progress here. So we basically put Italian into OpenTable. We roll the dice, whatever it lands on, we are committed, we are going to go. It doesn’t matter what the reviews are. If you cared about the reviews then you could have constrained it by reviews. You set the parameters.
+
+But the thing is, every one of these choices shouldn’t take you longer than a minute, so you can move on with your life. And every time I’ve gone to these places it’s been better food than I could ever imagine. I meet random people that are so incredible. I’ve gone on strange road trips where I’ve just had the most magical experiences. And the list goes on and on and on and on. My life has only been improved by taking myself out of the decision making process, because I am the hindrance.
+
+Tim Ferriss: What other examples could you give of situations in which you would use the dice, right? Because there’s also a question of at what point do you introduce the random, right? Because you could decide on genre, reviews, geography, and then before you know it you’ve spent a bunch of time on this decision anyway, and then you introduce randomness at the end, the savings isn’t necessarily super great, nor is the breadth of the randomness, so to speak. So what are some other situations where you might use the dice?
+
+Cyan Banister: Road trips. They’re great for road trips. So I went on a road trip one time where I rolled and landed on something called Pioneer City, I think in California. Pioneertown, and it’s this abandoned —
+
+Tim Ferriss: And what was the list? I’m sorry, just to know how this works.
+
+Cyan Banister: Thrift stores.
+
+Tim Ferriss: Thrift stores. So you’re like, best thrift stores in the United States, or?
+
+Cyan Banister: Yeah, in California.
+
+Tim Ferriss: In California.
+
+Cyan Banister: I had some time to kill, and I was driving from Nevada through the Palm Desert and then to Southern California and so I had time. So I put that in and I rolled, I don’t know, like a 13 or whatever, or 12, and it landed on this thrift store in a place called Pioneertown, which is a ghost town, old western town. And then the only thing that’s there is this thrift store and some weird little store that sells water, that’s it.
+
+Tim Ferriss: I mean, good to have water.
+
+Cyan Banister: And a harmonica. I’ve got a harmonica there. I still have my harmonica. But I went in and the experience was spiritual for me. When I roll the dice it puts me in places and it puts me in a frame of mind where anything’s possible, and anything at any moment can happen and you just have to be ready for it. You have to not be thinking about what you’re doing tomorrow or what you did yesterday. You’re just there, and you’re going to trust that whatever the dice is going to throw at you is going to be amazing.
+
+Tim Ferriss: Could I see what’s around your neck again?
+
+Cyan Banister: Yeah.
+
+Tim Ferriss: Because as a former D&D player I have tons of experience with dice. I’m just curious. Are they two separate?
+
+Cyan Banister: Yeah. Let me get it open for you.
+
+Tim Ferriss: Yeah, no problem.
+
+Cyan Banister: They’re little dice and they come out of this little cage. I don’t know if you can see them.
+
+Tim Ferriss: Oh, yeah, I see it.
+
+Cyan Banister: Yeah. And so they’re teeny tiny dice and they’re in this little cage, and then the cage locks. And it’s just a little locket that I carry around everywhere.
+
+Tim Ferriss: I see. I see. Okay, that’s cool.
+
+Cyan Banister: I introduced so many people to it and they’ve started adopting it. I use it for giving public talks. I’ve done it for public talks, which is I’ll have the audience scream out 12 topics and then whatever the dice rolls on is what I start with and then we just go through the dice. And so it’s not in order and it makes things much more fun.
+
+Tim Ferriss: Oh, yeah.
+
+Cyan Banister: Picking what movies to watch. You get movie paralysis. And the one thing I haven’t done yet is make business decisions with dice, but at some point I might. I would do it probably with my own personal money, wouldn’t do it with my LP’s money, little disclaimer. But interestingly, when I started down this dice experiment, my friend, Penn Jillette, who’s a magician, wrote a book called Random, at the exact same time. And that book is a bit graphic, but it involves a guy who basically has to come up with $1 million in a very short period of time and he uses dice that make all that money for him, and then some. But it’s exploring the same thought experiment, which is if you, believe — I guess the question is, do you believe in free will or not?
+
+Tim Ferriss: I’ll be like, where’s Sam Harris when we need him?
+
+Cyan Banister: Right. And how much of what we’re doing is consciousness versus not? And how much of our patterns actually hinder us versus open us up to possibility?
+
+Tim Ferriss: I think that’s the big one for people who might get lost, like me. Honestly, I’ve listened to so many discussions of free will for and against, and I can’t make heads or tails out of it. I wish I were smarter. But the last question I feel like I can wrap my head around and grok, how much do our habits and patterns help us versus hinder us? That’s a good question.
+
+Cyan Banister: Yeah. And this is where dice rolling really comes into play. Now I have a very hard rule, which is I never ever say, “Oh, I don’t want to do that,” and then I don’t do it. I’m a little, if you will, religious about the dice in whatever it lands on I do, no matter what. So I even do house cleaning chores that I don’t want to do, and I use the dice. So I’ll put six things on a list, and maybe there’s one really fun thing that I really want to do and then five things I really don’t want to do. And the dice almost always land on the things you don’t want to do. And that’s actually great because I don’t betray it. I get through the thing, and then I roll again. And then eventually at some point I might land on that sweet treat thing I wanted to do and then I’m excited. I’m like, yay, I get to watch a movie finally after doing my taxes and everything else.
+
+But yeah, I mean, just, I really wish people would try more things like this, because I think people think that the way that they are is unchangeable, that they are static, that they have no ability to break their habits or form new ones. And introducing something simple like this that allows you to make decisions quickly, move through life fast, and then puts more joy and it just seems like a win-win-win.
+
+Tim Ferriss: Yeah, I love this idea. I’m going to try this. I would love, if it’s possible, I don’t know, who knows? Maybe have this made by an artisan in Siberia for all I know, but the locket with the dice, that would be good, right? Because if it’s in my pocket or something —
+
+Cyan Banister: Yeah. I mean, I can send you one of these.
+
+Tim Ferriss: Oh, yeah. Yeah. I would love to try one of those.
+
+Cyan Banister: Yeah, they make them in San Francisco. There’s an artist that makes them, and I’d be happy to send you one.
+
+Tim Ferriss: Perfect. Oh, amazing. Thank you so much.
+
+Cyan Banister: And get you dice rolling, that would be great.
+
+Tim Ferriss: Oh, I’m in. oh, I’m in. I’m probably going to get a placeholder set because I have a trip coming up this week, and it’s very last minute for me. I was just like, fuck it. Throw caution to the wind. I’m going on this crazy last minute international trip, and it’s the perfect opportunity to use dice.
+
+Cyan Banister: Yes.
+
+Tim Ferriss: A lot. So I’m going to try that. And so you said you’re religious about it, so religiously random.
+
+You mentioned Penn Jillette, who I’ve had on the podcast. Brilliant guy. Incredible weight loss story too.
+
+Cyan Banister: Oh, yeah, the potato diet.
+
+Tim Ferriss: And I think fair to describe as a militant atheist. I think that’s a fair description.
+
+Cyan Banister: Yes.
+
+Tim Ferriss: When you were talking about being saved on the side of the road, so long ago in this conversation, I want to say the wording you used was, “At the time I didn’t believe in God.”
+
+Cyan Banister: Yes.
+
+Tim Ferriss: Because this driver brought up God. Now to me, that implies there might’ve been a change. Has there been a change? Where do you —
+
+Cyan Banister: There has. And interestingly, I was so nervous to call Penn and tell him that I was no longer an atheist. I didn’t know what to expect, and he said —
+
+Tim Ferriss: Coming out of the closet to Penn.
+
+Cyan Banister: I was coming out of the closet. And he was so sweet about it. He said, “Who cares?”
+
+Tim Ferriss: Oh, amazing. That’s so nice to hear.
+
+Cyan Banister: He’s like, “You’re a good person and you’re a kind person, and if you’re a little woo woo, whatever.” He was like, “I’d rather be around a good person who’s woo woo than an unkind person who’s atheist.” And he also has seen, if you look at pictures of me before my spiritual change and after, night and day. I am healthier. I look younger. I have more energy. I’m happier. Everything has been better since I became a spiritual person.
+
+Tim Ferriss: What happened?
+
+Cyan Banister: When I was an atheist everything was worse, and I had a stroke.
+
+Tim Ferriss: Oh, okay. We’re going to come back to the stroke. What catalyzed the spiritual change?
+
+Cyan Banister: Well, part of it was this weird rabbit hole I went down during the pandemic, of Aleister Crowley and all of these guys.
+
+Tim Ferriss: For people, just because you’ve invoked the name Aleister Crowley a few times —
+
+Cyan Banister: Could you just brief, it doesn’t have to be super factual detail, but who is this person you’ve referred to a number of times?
+
+Tim Ferriss: And then, how on Earth does that lead to this spiritual change?
+
+Cyan Banister: He’s an occultist leader who practiced what you might consider witchcraft or “magick.” I said “magick” in quotes, because obviously there’s going to be atheists and people that don’t believe that what Aleister Crowley does or did was real. He had a very big following, and then a lot of fractures that came out of those followings of people who —
+
+Tim Ferriss: Massively popular.
+
+Cyan Banister: Massively popular guy.
+
+Tim Ferriss: Massively controversial.
+
+Cyan Banister: He was partly controversial because he also showed up in weird outfits, and he —
+
+Tim Ferriss: Yeah, he was like the Nixon-Timothy Leary dynamic, insomuch as Nixon saying, “This guy’s the most dangerous person in America.” I feel like Crowley also occupied a similar mind space.
+
+Cyan Banister: Yeah. A lot of people thought he was a Satanist, and he was not. As a matter of fact, a lot of what he studied was the teachings of Christ, and he talked about Christ a lot. And I think a lot of people don’t realize that New Age stuff and Occultism and all of this early stuff actually is deeply rooted in monotheism and has nothing to do with Satan, anyway, that I could discover, other than they believe that or they theorize that there are dark energy forces or dark spirits out there, and people who know how to harness dark energy. And Aleister actually worked in what we call the light, and so he wanted to repel people, because what he was teaching wasn’t for everybody. He actually didn’t want you to read his stuff, he did not want you to follow him. But there’s a lot of wonky stuff in there.
+
+Tim Ferriss: How does this lead to radiant skin? This is the question on everyone’s mind.
+
+Cyan Banister: So I got my hands on every book, every movie, everything I could find from that time, and I realized that people in the early 1900s were onto something. They were onto something about what life is really all about. All of these great works that people wrote back then. And the thing that —
+
+Tim Ferriss: And when you say back then, just to timeframe it, I looked it up, so Aleister Crowley was born in, just wrote it down, and then I lost track of it, 1875, died 1947.
+
+Cyan Banister: 1875. Yeah. So that period of time was a wackadoodle time where people were publishing all these crazy books and practicing these occult practices and running around in weird robes and looking like Harry Potter, and doing some psychedelics too. So some of them did psychedelics, and some of them did use THC or hashish as part of their ceremonies or things that they did, but a lot of it was sober. And what they were trying to figure out is is there a veil? Is there something beyond what we can see and what we know, and is it supernatural, or can it be explained by science later? And a lot of them believe that it could be explained by science later, that actually it’s just undiscovered science.
+
+And I became really interested in those people in particular, and I really went down a rabbit hole with this author and philosopher named Gurdjieff, and Gurdjieff I believe was Greek, and his understudy was named Ouspensky. And Ouspensky wrote a book called, I think it’s called The Curious Case of Ivan Osokin, which is what Groundhog Day is based off of. And I was studying at the time kind of what made Bill Murray make the art that he makes. And without asking him, I like to form my own opinions, just like what did I think it was? It was really clear that I didn’t watch any of his movies until the pandemic. I did a lot of stuff in the pandemic I’ve never done, but I hadn’t seen Groundhog Day, I hadn’t seen Caddyshack, I hadn’t seen any of these movies. And I just —
+
+Tim Ferriss: What About Bob? I hope.
+
+Cyan Banister: I saw What About Bob?
+
+Tim Ferriss: “Are these hand-shucked, Pam?”
+
+Cyan Banister: The Man Who Knew Too Little, Broken Flowers, I watched them all, and I realized that this is an artist who’s on a mission to teach us something. He wants us to learn something. What is that thing? And I noticed he kept repeating a phrase over and over again in a lot of his movies, which is, “It just doesn’t matter.” Now if you look that up, that’s a nihilistic sounding statement, it just doesn’t matter, and taking on the surface, you would just assume that it was a nihilistic thing, and that’s what it means. But if you go under that and you actually look at the root of the philosophy of which that statement is coming from, it goes back to what we were talking about in a previous conversation about the fictions that we make in our mind.
+
+And I realized that my mother’s a fiction, the mother that left me, that left the $20, that gave me up to the court system. I haven’t given her a chance to know who she is today. I don’t even know who she is today. But I carried around this grief, this suffering, this loss, this story, and I was harming myself every day by carrying that story inside of me. And so I started watching this movie called The Razor’s Edge, which is based off of a novel by Somerset Maugham, I think is how you say his name, and there was a 1930s version of the movie, and then there’s a version that Bill Murray did. And Bill Murray’s was very interesting to me, because I believe that he agreed to make Ghostbusters II in exchange for them making this movie that he both wrote. So it’s a very, very —
+
+Tim Ferriss: The Razor’s Edge.
+
+Cyan Banister: The Razor’s Edge, and it’s a very low-budget film, because they didn’t give him a ton of money to do it, and it involves many locations and period stuff, and that’s all very expensive. His acting, he did a great job, but at the same time, it’s not going to be the best-produced film he’s ever made. But it explores all of these ideas around Gurdjieff’s philosophy around suffering and what suffering is. And there’s a line that he says in the movie when someone he loves died, and he is trying to comprehend it, and he looks at this woman who was previously his fiancée, and she explains this whole story, but the woman’s dead. You can’t bring her back. And he just looks at her and he just says, “Well, it just doesn’t matter.”
+
+And in that moment when I watched that movie, I had this energy at the bottom of my spine basically shoot out the top of my head. And there was a bunch of people in the room when we were watching the movie, and they all paused, they paused the movie, and they looked at me and everybody said, “What was that?” And I was like, “What was what?” Because I thought maybe they got chills too. Maybe that line hit them hard like it hit me hard, but no, it was a singular event only for me in that moment that impacted the whole room energetically where everyone’s hair was standing on end at what just happened to me.
+
+And from that day forward, nothing has been the same. It is like a veil got lifted on the universe around me, and now I see things that I never was able to see before. I’m able to see art and poetry and all sorts of things. It’s almost as if some sort of PTSD veil that was in my body got lifted because I started believing, or believing is the weird word, I don’t like to use that word too much, but I started suspecting that there’s something bigger out there than all of us, that we’re in a simulation or we’re in some kind of something.
+
+The randomness in the dice actually taught me a lot of that, because things start to get really magical, and you can’t explain it, but it’s beautiful, and you’re just like, “I’m along for the ride. I’m in some weird Earth school,” is what I’ve determined. We’re all in Earth school, and we inhabit human bodies, but we’re nothing but an energy force inside of them. And that life force does not dissipate, and it doesn’t go nowhere. It goes somewhere. It doesn’t disappear. Life force does not disappear. And do you want to hear about a really strange spiritual experience that I had? I think you’d like it.
+
+Tim Ferriss: Of course I do.
+
+Cyan Banister: Okay.
+
+Tim Ferriss: I’m keeping track here. It’s like Crowley to Gurdjieff to Ouspensky to the concept of Groundhog Day to Bill Murray to it doesn’t matter to what seems like —
+
+Cyan Banister: Look into my mind.
+
+Tim Ferriss: — I didn’t know anything about this, but you’ve probably read a million things about it. Anyway, we’re going to come back to the spinal thing, because it’s like huh. That seems to be what some people might describe as a —
+
+Cyan Banister: Some people call it kundalini awakening.
+
+Tim Ferriss: I was just going to say kundalini awakening.
+
+Cyan Banister: Yeah. When I explain people what happened to me, they go, “Oh, you had kundalini,” and I’m like, “Huh?” I had no idea what happened to me.
+
+Tim Ferriss: I don’t really know what that is. I’ve just heard the phrase, but you said strange spiritual experience. I do want to come back to this placeholder, kundalini awakening, just to know how you now make sense of that. Maybe we start there, and then we can go to the other spiritual experience. How do you explain to yourself what happened in that instance?
+
+Cyan Banister: I thought I was losing my mind. I thought —
+
+Tim Ferriss: Of course you did. Yeah.
+
+Cyan Banister: Yeah. I had a lot of sympathy for people who have mental health issues and end up in hospitals on 5150s, because I realized we’re just a hair away from being crazy, every one of us. And because it wasn’t just that energy that shot through me, that itself was just powerful, and then the realization, the epiphany that I was carrying around this fiction and that I was responsible for that fiction. I was spinning it up and my ego was spinning it up, and I experienced ego dissolution for the first time. And —
+
+Tim Ferriss: Was this at the same time that you’re watching this movie?
+
+Cyan Banister: Yes. It happened right afterwards, and it was very sudden, and it was frankly scary. And so I started getting visions of places to go, started having dreams that were predicting people calling me, talking to me. I started knowing what people were going to say before they said it and all sorts of strange things that I can’t explain. And like I said, maybe science someday will discover that we have a form of communication as human beings, as animals that we’re unaware of. Humans can only see a certain amount of perceptible light and sound, so it’s not completely out of the question that we can’t see or hear certain things that are happening around us.
+
+But the veil, for lack of a better term, was lifted. And when I turned away from my practice of meditation and mindfulness, that veil would come back down. When I was introspective and thinking about the bigger question, which is what is the meaning of life and what is my purpose in it, which it answered for me, I know what my purpose is now. Before that, I was adrift. As an atheist, I thought there was no point. We just have to be good people. We have to get by. We have to love one another. I knew that love was a universal thing that we should all strive for, but I didn’t have a purpose.
+
+And after this experience, I suddenly had one. And my purpose is very simple, which is to spread joy, to lift other people up around me, and to do my best in my own way to end poverty. Now, I’m not responsible for ending poverty. I think we’re all responsible, but it informs a lot of my investment decisions now. I realized I was already doing a lot of these things anyway, but I became a more service-oriented person. I started becoming more a part of a bigger whole, whereas before, I was more of an individual, and now I realize that I’m part of something much bigger and much more beautiful than I ever could have possibly imagined.
+
+Tim Ferriss: I am imagining that you’ve done a ton of reading after having this experience. Furthermore, I imagine you reached out to anyone you thought might be able to shed light on this in some capacity and talk to those people. Let’s just say there are a bunch of people listening who are atheist or maybe they describe themselves as agnostic, which I think is a bit of a slippery term frankly, because a theist says, “I believe in God or gods,” and if you can’t say that, then you are kind of by definition an atheist, but I’ll let agnostic slide. People are listening, and they do feel somewhat adrift or rudderless or choose your metaphor without a north star in their current relating to the world. They would love to have a purpose, they would love to feel like they have a purpose. What advice would you give to these people? Because it sounds like I would imagine, even if they were to watch this movie, that fewer, none of them would experience the same thing that you did.
+
+Cyan Banister: It’s not repeatable. You have to be in the same place.
+
+Tim Ferriss: So what do you do? So what do you do, right? If you’re hearing this, and you’re like, “You know what? I yearn for that type of purpose. I’m not sure…”
+
+Cyan Banister: You have to face something very ugly, which is yourself. You have to look inside and see who and what you really are, and then you have to love yourself even when you don’t like what you see. When people used to say practice self-love, I thought it meant go eat bonbons and go see a good movie and smoke a joint. That was self-love. But it wasn’t getting me anywhere, and I was like, “This whole self-love thing is jive. It’s just not working out.”
+
+But I didn’t realize that self-love is learning how to give yourself unconditional love. And the best way I’ve learned how to give yourself unconditional love is imagine yourself as a ball of light, and then take that ball of light and visualize it outside of your body and cradle it like it’s a baby. Now, when you look at that baby, would you hurt that baby? Would you do anything to hurt that baby or harm that baby? Would you kill the baby? You are just a ball of light. I think when you start looking at yourself that way and you start talking to yourself, and I’m cradling right now and trying to show Tim I’m my ball of light, and you start to realize that all of the things that we experience are often, well, actually, they all are a simulation in our mind that we start to talk about ourselves a certain way, and you would never hurt a ball of light until it’s an awful piece of crap. Why do we tell ourselves we’re an awful piece of crap?
+
+So the other thing is that we’re the only species or animal on this planet that punishes itself more than once. We ruminate and think constantly about what we fucked up on or how we could be better, when in reality, we’d be better served if we just let it go. So if you want to experience something like this, and I do warn you that a lot of this stuff leads to things that can be jarring and very scary if you’re not ready for them yet. They’re psychological events that can happen that are sometimes indistinguishable from mania and everything else. So you just have to be careful.
+
+But I found my path to this by looking inward and trying to know myself and then taking accountability for all my ugliness. And once you get through that and you forgive yourself and you love yourself, there’s nothing but light on the other side. But really, it’s about love. At the end of the day, it’s about love. Which sounds trite. Everybody says love is the answer. What does that even mean? But it absolutely is the answer.
+
+Tim Ferriss: If you could put something, metaphorically speaking, on a billboard, message “anything” to impart or display, could be an image, somebody else’s quote, to great, great masses of people, what might it be?
+
+Cyan Banister: It’s the same concept that was explored in The Matrix and in lots of different fiction. It’s just to wake up. Wake up. If you see it enough times, maybe you’ll understand what it means. If you wake up out of bed and you’re awake, you think you’re awake, but you’re actually not. You’re in a form of sleep, and that sleep is what’s called your mechanical automaton sort of actions that you take that are in response to what’s being thrown at you in the world, what nature gave to you, and what nurture handed to you, and you just accept it. And so you’re just sleepwalking through life. And the moment you take the reins and you become the narrator of your own story, and sometimes the captain, then that’s when it’s a transformational change.
+
+Tim Ferriss: Dig it.
+
+Cyan Banister: That ties back into dice rolling, right? Dice rolling is a way to stay awake. Staying awake and staying conscious and staying present is a practice you must practice every day, and if you don’t, then you just have to accept the cookie falls how it crumbles, or what are some cliches?
+
+Tim Ferriss: Accept how the cookie crumbles?
+
+Cyan Banister: You accept how the cookie crumbles, but you could introduce a little more random, you could go to work dressed as SpongeBob SquarePants, as I like to say, but people don’t. There’s a lot of things you could be doing that you’re not doing.
+
+Another movie that actually really helped me in my life was the movie American Beauty with Kevin Spacey, and I was probably in my early 20s when that came out. And I came out of the theater and I sat on the floor, and I said, “My life is a broken record, I’m stuck in a groove that I can’t seem to get out of. I’m going to break up with my boyfriend and switch my job.” And the movie inspired that. Art has a way of being at the right place at the right time for you, and sometimes, you really do need to switch things up, and you need to get out of your groove, because you’re your own worst nightmare.
+
+Tim Ferriss: How did you end up, and maybe you don’t know, but how did you experience a stroke, and what effect did that have on you?
+
+Cyan Banister: So yeah, I was at Founders Fund when it happened, and I experienced it as the worst headache of my life. It was a migraine. On a scale of 1 to 10, it was a 15. It was the worst headache you could possibly have, and it progressively got worse every day. And the doctors just treated it as a migraine because I was young. When you’re young and you’re experiencing a stroke, it doesn’t make a lot of sense to people, and so they start going down this decision tree, and they’re like, “It obviously has to be either a cluster headache or a migraine or something like that.” So I was treated for a migraine. I went to the ER. Again, they treated me for a migraine, didn’t give me a CT scan, and eventually I started seeing double. I started falling.
+
+I always like to say, you don’t want to actually feel what gravity feels like, because there’s falling and you have resistance, and then there’s falling with no resistance, and falling with no resistance is really spooky. And so you’re standing, and then you’re down. It’s just like there’s nothing to keep you up. And so that started happening to me, and I went to a second ER, and I had to wait in the ER for six hours, but eventually, again, magical woman came over and rubbed my leg, and she said, “I think you’re having a stroke.” Because at this point, nobody knew what was wrong with me. And she raised the alarm bell, and then suddenly I was put in a CT scanner, and they discovered that I had what’s called a DVST, which is a [dural] venous sinus thrombosis, which is clotting throughout the entire center of my brain and down my jugular, my right jugular, and I was moments away from death by the time they found it.
+
+And that definitely helped kick me off on this quest, because when you’re in a hospital for a couple of weeks, which I was, and you come outside, the very first thing that hits you is air. That first breath of air, there’s air in a hospital, but there’s really no fresh air. And suddenly, you realize that the most important thing in the world is not what you thought it was. It puts everything in perspective. It’s okay, first, it’s air, then it was the sun on my face, which brought me to my knees. I started bawling, because what if I never, ever got to experience the sun again? You get really grateful and filled with gratitude for everything. But we’re human beings, we love novelty, you go back to sleep. So I had a deep appreciation for life, but as soon as I was walking again and I was somewhat normal again, I started living the same way again. And I knew that if I kept living that way, I would die.
+
+Tim Ferriss: What do you mean by that?
+
+Cyan Banister: It was really clear that I had put myself in this position.
+
+Tim Ferriss: Oh, die physically, you mean?
+
+Cyan Banister: Yeah. I put myself in this position through avoiding all my suffering, avoiding my trauma, working through it, working as hard as I could, avoidance, avoidance, avoidance, avoidance. And then it came clear that I had to have some kind of therapy, I had to do something, because I couldn’t keep running away from this ghost of a mother, and I had to find something that worked. And talking to therapists never worked. Psilocybin worked. Psilocybin helped a lot. I did a couple of hero doses of psilocybin that taught me quite a bit about myself, and they were super helpful. IFS, I started looking into [Internal] Family Systems, and that helped a lot. But really, it was meditation and philosophy that got me over the line. Whatever works, man. Just go out and really study yourself and know yourself. Know thyself is an important mantra for a reason, because I do honestly believe we’re in school, and when you start realizing, “Oh, I’m in a school, and all of these hard knocks in life are just lessons,” you think about them very differently.
+
+Tim Ferriss: Who would your go-to philosophers be who helped you in that period, in those early chapters of this, let’s call it, awakening? And then what type of meditation do you practice? What does it look like? You can tackle those in either order.
+
+Cyan Banister: So I tried all sorts of different types of meditation apps, and none of them really stuck with me. I would get hung up on people’s voices, and I would always criticize. There’s a critic inside of us, and I would criticize everything. And so somebody turned me on to Tibetan throat singing, and that’s what did it. I, again —
+
+Tim Ferriss: Did not see that coming. So are you then the one singing, or are you listening to Tibetan throat singing?
+
+Cyan Banister: Both. I do both.
+
+Tim Ferriss: All right.
+
+Cyan Banister: So I chant along with the chants. I moan along with a moaning to the best of my ability. I listen, and I don’t do the bead counting. I haven’t found that necessary.
+
+Tim Ferriss: How did you find Tibetan throat singing? Was someone like, “You know what? I know you’ve tried everything, but try one more thing.” Or how did that even —
+
+Cyan Banister: Embracing random. Sometimes the universe gives you, if you’re paying attention, exactly what you need. So a friend of mine went to the Telluride Bluegrass Festival and they had some Tibetan throat singers there, and he brought me back a necklace. And he said, “Look at this necklace,” and it was one of the most beautiful things I’ve ever seen. And I was like, “Well, I’m going to go check these guys out.” And it was a huge unlock. Huge. But again, your mileage may vary. Try different things and see.
+
+I think the biggest mistake I made with meditation was trying to treat it like a sport or it was something that I had to judge myself. You’re approaching it all wrong if you’re entering meditation, I think, that way. There are different kinds of meditation, some that even allow and permit thoughts to flow freely, and you’re supposed to look at them and pay attention to them, and then there’s types of meditations where you’re supposed to clear your mind. I think people get really scared of meditation because they think of a blank canvas, a blank mind, and that really scares them and frightens them. Once I got over that and I started realizing that’s not the point of it, at least it wasn’t for me, I can now meditate for six hours at a time.
+
+Tim Ferriss: Oh, my God. I’m doing my 10 minutes twice a day. I’m pretty happy with myself for now.
+
+Cyan Banister: Yeah. My coworkers laugh at me because they’ll take me someplace, and I can sit still for an abnormal amount of time. And I think that’s when you process all of the inputs that are being thrown at us, how you can synthesize the information that’s been handed to you or you’ve encountered is by those moments of stillness. And so even if it’s 10 minutes a day, it’s something. It’s not about length of time or anything. It’s about the effort.
+
+Tim Ferriss: It’s not the size that matters. It’s —
+
+Cyan Banister: Yes, it’s not the size that matters.
+
+Tim Ferriss: So I will say also that whether it’s with exercise or meditation, any new habit or something you’re trying to build as part of your new programming, the difference between doing nothing and something is the biggest zero to one, right? That’s the unlock. So if you’re going from not exercising to exercising, it’s like okay, don’t set yourself up for failure, making the pass/fail an hour a day. Do 10 push-ups every other day, start there, or five blocks. Same with meditation. The difference between zero and 10 minutes once a day or twice a day is, in terms of quality of life for me, huge, enormous. And if I want to add more time, great. But what I shouldn’t do is set the pass/fail at an hour a day, and then when I don’t have an hour to not meditate. Just reduce the scale, reduce the scope. What about philosophers? Any folks you might point people to?
+
+Cyan Banister: I’m a big fan of Gurdjieff. He’s not for everybody, and he’s very confusing, because a lot like Aleister Crowley, or Crowley was a wackadoodle person, who liked to drive people away when they came up to talk to him. If he didn’t like you, he would say obscene things just so you would go away.
+
+Tim Ferriss: And this is George Gurdjieff?
+
+Cyan Banister: Gurdjieff, G-U-R-D-J-I-E-F-F, Gurdjieff.
+
+Tim Ferriss: Yeah, Gurdjieff. Yeah, George Gurdjieff.
+
+Cyan Banister: And one of the things he talks about is, there’s a lot of things he talks about, but the thing that resonated with me the most is who is the captain of your ship? Are you the captain of your ship or is some rogue process? I have a UNIX background, so I like to think of things as cron jobs or automated processes, but is there some rogue process running you, or are you running yourself? And I think you’ll discover, if you do a lot of introspective work, that you are not in charge.
+
+So one of the concepts that he talks about is sort of like a horse carriage. There’s a person who’s driving the horse, and then there’s the horse, obviously there’s the carriage, but there’s also the narration of what’s happening. And it’s even taking control of that inner narration, where does that even come from? Are you in charge of that? Are you letting it run amok? Is it determining which is your ego? Is it determining where you go, what you do, what’s next, or are you doing that? So Gurdjieff delves deeply into those concepts and more. Ouspensky, which is his underling, was a Russian philosopher, and I really, really recommend reading him. Love to think about, and again, so I say things wrong sometimes, but Nietzsche?
+
+Tim Ferriss: Yeah. It depends on which country. Nietzsche, yeah. Who knows?
+
+Cyan Banister: Nietzsche, he had a concept called the eternal recurrence, which is that we’re stuck in a constant loop until we learn how to be good people, and that’s the premise of Groundhog Day. And it might explain deja vu, it might explain why you’ve done something and you’re like, “I feel like I’ve done this before, I’ve met that person before,” because maybe you have. And that’s what they talk about in their philosophy, and it’s pretty interesting.
+
+Tim Ferriss: The eternal recurrence can get super confusing. So read about —
+
+Cyan Banister: It can get super confusing.
+
+Tim Ferriss: It features quite heavily in The Unbearable Lightness of Being by Milan Kundera, which I highly, highly recommend to folks. And I’ll just read a quick thing about Gurdjieff also for folks who may be interested. So this is George Ivanovich Gurdjieff, born in 1867 in what was formerly the Russian Empire, now Armenia, who’s a philosopher, mystic, spiritual teacher, composer, and dance teacher. He taught that people are not conscious of themselves and, thus, live their lives in a state of hypnotic “waking sleep,” but that it is possible to wake into a higher state of consciousness and serve our purpose as human beings. And it goes on. He also has a great look. He’s got the bald head with a strong man, old man, old-timey strongman mustache. All right. So I’ll include links to the names you mentioned as well. Any particular book that you would recommend people start with if they wanted to dip their toes in the water, but maybe something that’s like a gateway drug and maybe a user-friendlier option? What do you think?
+
+Cyan Banister: There’s a book that he has called Beelzebub’s Tales to His Grandson.
+
+Tim Ferriss: Beelzebub, that’s a word I haven’t heard in a while. All right.
+
+Cyan Banister: And then Ouspensky’s The Curious Case of Ivan Osokin is about a guy who falls in love with a girl, but he has to pursue his career because he wants to be able to provide for her. So he decides to put off being with her so he can pursue his career, but he misses his moment, and she marries another man. And he’s so distraught that he goes to a magician, and the magician is Gurdjieff in the book, and says, “Can you please send me back to age 11 so I can do this all over again, and I will not make the same mistakes again?” And Gurdjieff the Magician says, “Actually, you will. You’ll do everything the exact same again, because you can’t help yourself. You may deviate slightly, but you’re going to end up in the same place without her.” And so the guy is insistent, and he sends him back to 11 years old, and sure enough, he makes every mistake exactly the same.
+
+Tim Ferriss: Sure as shit, Groundhog Day.
+
+Cyan Banister: Gets back to finally to the magician, who says, “Wow, you’re lucky that you made it here, because you could have lost me, you could have made a wrong decision along the way, and then I would’ve disappeared too.” He goes, “What if I told you that the wedding was fake, and she got married to upset you?” And he’s like, “What? She’s not married?” And he’s like, “No, she’s really not married.” And he’s like, “Well, I want to run off and be with her now.” And he goes, “Ah, that’ll end badly.” And he’s like, “Why?” And he said, “Because you haven’t done the work. You’ve realized that you need to change, but you haven’t done anything to actually change.”
+
+So he says, “Come with me and spend a few years with me, and then maybe you might have a chance of being with her. But otherwise, all paths lead to you not being with this woman.” So the movie is Groundhog Day. I believe it’s what Groundhog Day for my research is based off of is that book. But it’s just a beautiful tale, and I think that you can’t take these things literally, like philosophy.
+
+Tim Ferriss: And to be clear, when you say based on, you mean Groundhog Day the movie, not the holiday.
+
+Cyan Banister: The movie, the movie.
+
+Tim Ferriss: Right.
+
+Cyan Banister: Not the holiday, the movie.
+
+Tim Ferriss: Okay. And Gurdjieff’s Wikipedia page is very, very extensive, so that’s going to be my stop number one in addition to figuring out how to get some dice. Cyan, we’ve covered a hell of a lot of ground. I am bewildered and fascinated.
+
+Cyan Banister: I wanted to tell you about the spiritual experience I had that you wouldn’t believe.
+
+Tim Ferriss: Oh, yes. Of course.
+
+Cyan Banister: Okay. So after I had this awakening, I started getting this really weird vision of an Irish man, and it was like a cartoonish Irish man, and it was hijacking me every moment. I couldn’t think about anything else.
+
+Tim Ferriss: It was like a Lucky Charms kind of play.
+
+Cyan Banister: Yeah, this guy going like this with this fist in the air, and he’s like a fighting Irish man. He is a caricature of an Irish man. And I was like, “I do not know what this means, but I’m going to go do something about it.” And so I went to my husband, and I noticed that the Celtics were playing the Warriors, and it was the finals in Boston, and so I made the excuse because it was the only Irish thing I could think of at the time, and I went to my husband and I said, “I want to go to the Celtics game.” And he was like, “What is wrong with you? You hate basketball, that makes no sense.” And I said, “I know. It makes no sense, but I’m getting this weird sign that I need to go to the Celtics game.” So he bought me the ticket. I didn’t even choose the ticket. And I had a knowing, I’m going to call it a voice, which makes people worried sometimes. They’re like, “Oh, you’re hearing voices.” I don’t want to get locked up. But I have a knowing, I’m just going to call it a knowing, that basically told me that I didn’t need to bring anything with me to Boston, that everything would be given to me.
+
+All I had to do was bring my wallet and my ID, and just show up. So my husband brought me the ticket to the game, and I show up, and I go into the arena early because I have a little bit of agoraphobia. I’m an introvert. And so now they don’t call them hallways at sporting arenas, they call them portals. So I had to find my portal.
+
+Tim Ferriss: That’s fancy.
+
+Cyan Banister: I go through my portal, which is already weird in sci-fi anyway, you’re in a portal. And I go and find my seat, and the whole arena’s covered in chairs, covered with green shirts, and I’m disoriented. I call my husband, I’m freaking out. He is like, “Look, you chose this adventure. You’re in it. Good luck,” and he hung up on me. I was like, “Ah.” So I see down this aisle that there’s one chair that doesn’t have a shirt on it.
+
+So I said, “I’m going to go down to that chair and I’m going to use that number as my reference point, and then I’m going to work out from there where my seat is.” I get to the chair and it’s mine, and I look around the whole arena, and there’s not a single other chair that doesn’t have a shirt. And I was like, “Okay, that’s a weird start to this trip.” By itself, means nothing, and all of a sudden the song comes on over the loudspeakers, and usually at a basketball game, they play a song for 20 seconds, but this time they played this whole song, and it was Phil Collins, “I Can Feel It In the Air Tonight.” And I had this weird superstition, as a little girl, that when that song came on, it was going to be a good night.
+
+It was a weird superstition. It’s just everything’s going to be all right because Phil Collins is here, and he sings that song and it comes on the airwaves, and it’s just everything’s going to be okay. And it was in that moment because keep in mind, I’m having this kundalini whatever going on with me, that I realized that I wasn’t completely without superstition. I wasn’t completely without belief because I still believed in Phil Collins. And so then I said, “Okay, well, what if I just start to be hyper present and I start paying attention to what happens around me? What if I am in a simulation and this is a video game? What will the video game reveal to me?” Well, that’s when stuff got weird.
+
+So this guy to the right of me came in and he’s wearing a Celtics shirt, and he sits down next to me, and a guy to the left of me comes in wearing a Warriors shirt. The guy to the left of me stands up, taught like a military person when they do the national anthem. You can tell a little bit about him because of this. You can, like, okay, well, he might be a veteran, or he’s at very least patriotic. The guy that left of me from the Bay Area didn’t stand up for the national anthem. He sat it out. When Gabby Giffords got up and started talking about gun control, this is the woman who was shot in Arizona, the guy on the right sat down, the guy on the left stood up and started cheering. And I was like —
+
+Tim Ferriss: So just so I can keep them straight. Now, the guy from the Bay Area, the liberal guy stands up?
+
+Cyan Banister: Yeah, he stands up for gun control.
+
+Tim Ferriss: Yeah.
+
+Cyan Banister: The guy left, or the guy to the right sits down for gun control. And I realized, I’m in the middle of America. I’m in the middle of the great divide of what divides our country, and it’s representing and playing out right in front of me with these two guys. So they started fighting over me because it started with the game with the Celtics winning. And so the guy from the Celtics was talking to the guy from the Warriors, and the guy from the Warriors team was just this insufferable entitled person. When he showed up, he took all the green shirts and threw them.
+
+Tim Ferriss: Wow, that’s bad.
+
+Cyan Banister: And I ended up with a green shirt finally, and he’s like, “I don’t need these, I’m a champion. I’ve got plenty of…” He was just rude.
+
+Tim Ferriss: Yeah, bad behavior.
+
+Cyan Banister: And so the guy on the right, at some point, about when the Celtics start losing, the Warriors start winning, he starts getting angry, and I can, you can just tell the tension that a fistfight’s about to happen. And so he looks at me and he says, “Are you with him?”
+
+Tim Ferriss: This is which guy? Sorry.
+
+Cyan Banister: The Celtics guy.
+
+Tim Ferriss: The Celtics guy, okay.
+
+Cyan Banister: Yeah. He’s like, “Are you with him?” And I said, “No, I’m not with him.” And he goes, “Well, who are you with then?” And I was like, “Well, basketball.” And he goes, “What?” And I said, “Yeah, I’m here for basketball.” And he looks at me like, “You are absolutely freaking out of your mind, woman. You bought a ticket to the finals game, the last game. You flew across the country,” because he asked me where I was from, “and you don’t even have a team.” I was like, “No, I don’t have a team, just here for basketball.” So the guy to the left hears this and he goes, “Oh,” the Warriors guy, and he goes, “You’re about the metagame, I get it.” And I was like, “Well, what is the metagame?” And he starts teaching me all about the metagame. And then I get a knowing —
+
+Tim Ferriss: But what the fuck is the metagame?
+
+Cyan Banister: Oh, it’s paying attention to the popcorn people, the business —
+
+Tim Ferriss: Ah, I see. I got it. I got it.
+
+Cyan Banister: — of basketball.
+
+Tim Ferriss: I see.
+
+Cyan Banister: There’s meta within meta, within meta within meta.
+
+Tim Ferriss: Yeah, sure.
+
+Cyan Banister: You can find lots of metagame.
+
+Tim Ferriss: Got it, you’re into the metagame. Okay, uh-huh?
+
+Cyan Banister: Yeah. So I told him, I said, “Well, maybe I am,” and so I started playing the metagame with him. And the guy to the right, I got a knowing, again, a weird intuition, a voice if you will, that said to turn around to him and tell him that their main player, the Celtics, and I don’t know his name, but when he comes to the Warriors and he comes to the Bay Area, he brings his three-year-old son, and to tell him that his favorite player is a good father. And so I told him this, and all of a sudden you could see all the angst and the anger in his body just disappear. It just softened. And he wasn’t fighting anymore.
+
+Tim Ferriss: Now this is, I can’t do it. This is the Warriors guy.
+
+Cyan Banister: Celtics guy. Sorry.
+
+Tim Ferriss: Okay, so he told the Celtics guy about the Celtics player.
+
+Cyan Banister: Yeah.
+
+Tim Ferriss: Got it. Mm-hmm?
+
+Cyan Banister: Yeah, and all of a sudden, because he’s losing, I got the sense that he probably scraped together money to come see his team win, finally, on his home turf. And it was like a dream come true for him, and it wasn’t happening. And so I took a moment to give him love, and then that was it. And then I thought, “This can’t be the reason why I came to Boston is to start a fight between two sports guys. This cannot be why I got a weird vision of an Irish guy. This cannot be it.”
+
+So I went back to my hotel room and I got a bottle of water, and I go up to the front desk and I say, “Can you bill this to my room? Room 340.” And the person behind the desk looks at me and says, “You don’t exist.” And I said, “Excuse me?” And they said, “Yeah, you don’t exist,” and then they pull their monitor around and tap on it, and they’re like, “See, there’s nobody in that room. There’s nobody in room 340.” I said, “I guarantee you I’m in this room. I guarantee you I have a key to this room. I guarantee you if I go up there, my stuff is still there unless you got rid of it.” And they were like, “Nobody’s been in this room for a week.” I’m like, “That’s not possible. It’s just not possible.”
+
+So I called my assistant and I put her on speakerphone. I’m like, “Tell me the number for our reservation.” She rattles it off, the guy puts it in, “Sorry, you don’t exist.” And I’m like, “Okay, this is getting weird. Well, I’m just going to go to my room where I don’t exist, and what do you want me to do with this water?” And he said, “Keep it.”
+
+I was like, “Okay, that’s really strange.” So I went to sleep, and the next day I woke up and, like any good science experiment, I went back down to the front desk and there was a different person there, and I grabbed a Kit-Kat bar, and I went up to them and I said, “Can you put this on room 340?” And they said, “Sure.” And they said the same thing again, “You don’t exist.” Well, that really put me on tilt because I was like, “This is getting weird. What do you mean I don’t exist?” And I was like, “What do you want me to do with the candy bar?” “Keep it.” Remember I said, I went there and I had this premonition that everything would be given to me.
+
+So I start walking around the neighborhood and I’m looking for another shirt because I’ve got a Celtics shirt that the Warriors guy threw at me, but I need another shirt for the next day because I’m there for three days. So I’ve got to find another shirt, and I wanted one that wasn’t made in China. So I went around from store to store, to store, looking at labels, finally gave up, and I end up at this food court and I hear Phil Collins play. And that stops me in my tracks. I’m like, “Again, you don’t normally hear Phil Collins two days in a row. That’s weird.”
+
+Tim Ferriss: Groundhog Day redux.
+
+Cyan Banister: Right? So I start recording it, but all of a sudden I look over to the right of me and there’s a guy dressed in all white. He’s got a white hat on, white glasses, white shirt, white shoes, and I think he was wearing blue jeans. And I have this feeling that I know him. I’m like, “How is it possible that I know that guy?” And it’s not possible. I’m like, “Cyan, stay on target. Find your shirt.” But there was this pulling, this magnetism, this knowing, this feeling, this voice, I don’t know what you want to call it once you have one of these awakenings, but it is unmistakable that if I didn’t go over and talk to him, the whole point of coming to Boston was for nothing. And I was like, “Okay.” So I go over to this guy and he’s talking to a young man, and I said, “I’m sorry. Do you mind if I bother you? Do you know me?” And he looks at me, he’s like, “No, I do not know you.” And he looks at me like I’m crazy because I kind of am.
+
+Tim Ferriss: What I like is that you weren’t like, “Do I know you?”
+
+Cyan Banister: Yeah.
+
+Tim Ferriss: It’s, “Do you know me?”
+
+Cyan Banister: Yeah, do I know — yeah, no, I said, “Do I know you?” Oh, that’s very Cyan. And he’s like, “I don’t know you. I’ve never met you. You don’t know me.” And I was like, “Well, are you a VC?” And he goes, “No.” And I’m like, “Are you in the tech industry?” “No.” “Did you ever live in the Bay Area?” “No.” And I start asking all these questions, and finally I’m like, “I’m sorry, I’m being rude. What are you guys up to?” And he says, “Well, I’m talking to my friend here because he has a startup and he’s got a company that he’s building, and I’m trying to help him with it.” And I was like, “Oh, so you are in the tech…” And he’s like, “No, no, I’m not in technology.” And I was like, “Well, what do you do?” And the guy’s like, “I’m a t-shirt entrepreneur.”
+
+I go, “No way. You’re a t-shirt entrepreneur. Okay, what kind of shirts do you make?” And he says, “Well, you can have as many as you like if you can guess what they mean.” And so he lays them all out on this table, and each one of them is a different color, and in the middle of each shirt is a square with another color in it. And then there’s this weird hex code and then some weird Latin root name. So I deduced by looking at it that the hex code was probably a color, and the Latin root name was some kind of condition. So that’s what I told him. I said, “Gleaning from what appears to me as a condition and a color.” And he goes, “Yes, each one of these shirts represents a type of color blindness.”
+
+And then he looks at me and he goes, “You know, we all live in different realities.” And I was like, “What?” And that’s when the guy in white says, “Cyan Banister.” And I look at him and I go, “Oh, we do know each other.” And he said, “Yes, I met you in the basement at TED several years ago, 10 years ago or eight years ago.” And there was a big party going on, and there was a bunch of people who — not even a bunch of people, a handful of people, I want to say a dozen people that went into the basement to hide. And I was one of those dozens of people. I was down there with Linus Torvalds —
+
+Tim Ferriss: Hiding, meaning, escape the crowds.
+
+Cyan Banister: Escape the crowd, yeah. So I’m down there with Linus Torvalds and all of the people who don’t want to be around crowds. And this guy walked in and all of a sudden the movie of meeting him played in my mind, and it must’ve played in his at the same time because we were answering each other’s sentences. And I said, “I was leaving because the party was still too big, and there was too many people coming into the introvert space. And as I was leaving, you were coming in and I said, ‘Hi, my name’s Cyan Banister. I like your outfit.'” And he said, “Hi, my name’s Tango. I like your outfit too. Is this where the introverts hang out?” I said, “Yes, have fun. I’m leaving.” That was the end of our interaction.
+
+So I said, “Have we ever met again after that?” And he said, “No, we’ve never hung out a single time after that.” And he’s like, “But it’s okay. I died five years ago.” And I was like, “What do you mean you died five years ago?” And he said, “Well, I have a very strange heart condition. It’s a very rare heart condition that Einstein also had. And the only person who could operate on me is here in Boston. And so he told me, the surgeon, that he couldn’t leave Boston.” And he tells me, “I’m stuck in Groundhog Day. I can’t go anywhere because I can’t be more than 10 minutes away from the surgeon, otherwise I might die.” And I was like, “Well, tell me more about this death that you had.” And he said, “Well, they had to lower my heart rate. They had to stop my heart and kill me in order to do this operation.”
+
+So I wasn’t even sure if this guy was alive. Okay, I’m having a really weird time, mentally. And so I’m touching him, and I’m like, “Are you real now? Are you alive now? Do you exist?” And he’s like, “I’m not really sure if I exist or not.” He goes, “I always ponder this question.” So anyway, I take my two shirts, I go back to my hotel room, we exchange phone numbers, by the way, and I run the experiment again, and there’s another person at the desk, and I still don’t exist. And so I call my assistant and I’m like, “Get me out of here. I think I can’t handle any more of this. I think I need to be around loved ones because I’m losing my mind.” And so she tries to get me a flight out, and every flight she books me on gets canceled. So I messaged a spiritual friend of mine and I say, “I’m in Boston, what do I do?” And he says, “You might enjoy a duck boat ride.”
+
+Tim Ferriss: Good spiritual advice.
+
+Cyan Banister: Right? And so I get angry. I’m like, “I’m not going on a duck boat in this condition with my mind doing all this weird stuff. Are you crazy?” And my assistant says, “Well, you never have not listened to him before. Why are you not listening to him now?” So I was like, “Fuck it. Get me a ticket to a duck boat.” So she gets me a ticket, and if you go to these duck boats in Boston, it’s first come, first serve. You don’t get to choose your duck boat, you just get on a duck boat, but it’s, the next duck boat is yours. So I get on this duck boat and there’s nobody on it. And so I take a seat that looks like it’s made for a single person and it’s facing sideways. So it’s not facing front or back, and it’s definitely not the captain. It’s not the wheel.
+
+So I take that seat and this guy gets on the boat and he says to me, “Are you the new narrator?” And I looked at him and I said, “No.” And he goes, “Well, unless you want to narrate, you’ve got to get out of my seat because that’s where I sit.” And I was like, “Okay, well, where should I sit?” And he was like, “Right in front of me, sit right in front of me.” And I said, “Okay.” So then the captain gets on and the captain drives the car until it becomes a boat. And all these families file on, and suddenly he’s got a microphone, and this guy, starts talking to only me, only me.
+
+It’s like everyone on the boat disappears. And he looks at me and he says, “When you think that you’re so important or so big, and your ego starts getting the best of you, go to the…” Or not the Exploratorium, “Go to the planetarium, realize that you’re part of a galaxy among galaxies, and you’re just a little piece of dust clinging to a rock.” And he starts telling me story after story, but what was really interesting was that he started breaking down Gurdjieff’s philosophy on a boat.
+
+Tim Ferriss: What?
+
+Cyan Banister: Yeah. And I was like, “This is getting really strange.”
+
+Tim Ferriss: And I’d love to know what the rest of people were thinking, too. Are they’re just like, “What the fuck did I pay for?”
+
+Cyan Banister: Yeah. Well, I think they were, going back to sleeping, I think they were asleep and they really weren’t paying attention to anything he was saying.
+
+Tim Ferriss: Yeah.
+
+Cyan Banister: He was droning on to them.
+
+Tim Ferriss: Yeah, got it.
+
+Cyan Banister: But for me, he was dropping truth bombs. And so we’re about to go in the water, and he looks at me and he goes, “Are you ready to be baptized?” And I said, “I think so. Yeah, sure, let’s do this.” And he’s like, “Okay, great, because there’s a decision in life where sometimes you have to relinquish control. You have to surrender to someone else or to something higher. And right now is that moment where you can get off this boat and be on dry land, but once we’re in the water, I’m in charge. You are no longer in charge. Can you surrender?” And I was like, “I surrender.” And we go into the water and the sun, remember I told you that the sun was the second thing after air?
+
+Tim Ferriss: Mm-hmm.
+
+Cyan Banister: The sun hits my face and I just start sobbing, and it felt like being baptized. It felt like I was being touched again by something profoundly beautiful, profoundly reaffirming of life, profound about my purpose and my place in this world. And then he pulls up to a mental health institution in Boston. I don’t know if you’ve seen this building, but it’s like this horrible brutalist building made out of concrete.
+
+Tim Ferriss: He pulls up to it in the amphibious duck boat.
+
+Cyan Banister: Yes, in the amphibious duck boat.
+
+Tim Ferriss: Okay.
+
+Cyan Banister: So —
+
+Tim Ferriss: I follow.
+
+Cyan Banister: — the boat pulls up to this mental health institution, and he says to us, “Sometimes you’re just having a conversation with God, or with the universe, or whatever, and you’re on a spiritual path, but people think you’ve lost your mind and you’re crazy, and they lock you up in that place.” And he goes, “I don’t know how you’re going to get better if that happens.” And he said, “But there’s beauty everywhere, and it’s hidden in plain sight. And if you look at that building long enough, something really pretty will emerge from it.” And then he started using a kid-like voice, which triggered all the children on the boat to go, “Ha, a frog.”
+
+I was looking at this building and not seeing a frog, and I was like, “Okay, I’m looking for the frog.” I’m looking for the frog, and all of a sudden a frog emerges from the building, and once you see it, you can’t unsee it. So if you go to Boston, look for the frog building. There’s a frog that shoots out of the building, and then you’re like, “Wow, there was a frog there the whole time.” And he explains to me, he said, “When we’re children, we see all this magic. We’re plugged into it. We’re part of the source, and as we get older, we start cosplaying obviously and start putting on these costumes, and we start telling ourselves these lies. And we lose touch of this magic that’s just right there in plain sight because we become calcified to it. And when we got back to the duck boat, he asked me to stay.
+
+My first instinct as a woman is I’m being hit on. So I’m like, “Oh, crap.” So I’m the last person off because I was the first person on. So I’m like, “I have no way…” I always do threat assessments. I’m like, “Shit, how do I get out of here? I’m stuck.” And so I’m like, “What is the worst that could happen with this guy? I’ll just stick around and talk to him. He could be interesting.” So I get off the boat, he asked me to wait. He says, “Wait on this bench.” And I said, “Okay,” and then I watched him for 45 minutes, go to each individual person that worked at this duck boat company and hold their hand and thank them for showing up that day. “Thank you for driving the boat and giving it a hundred percent.” “Thank you for taking the tickets and giving it a hundred percent.” He goes on, and on, and on, and on, and then he eventually gets back to me, and I said, “Are you a manager? And he’s like, “No. No.”
+
+He looks at me and he says, “Why are you here?” And I’m like, “Well, a spiritual guide of mine told me I needed to go on a duck boat ride, and clearly I did.” And then the voice, the knowing happened, and it said to tell him something, which is ask him why he’s a duck boat narrator. So I did. I said, “Why are you a duck boat narrator?” And he said, “Well, I have ADHD, and I’m a comedian, and I can’t hold down a job. And I started doing this job because a friend of mine was a duck boat narrator. And I got hooked because I started telling stories that I hoped would improve a family’s life, one tour at a time. If I could reach one person a day, I feel like I’ve done the work. I feel like I’ve done great work, that I have a purpose in this world.” And then the voice says, “Tell him he’s doing God’s work.”
+
+So I’m like, “I don’t know why I’m supposed to tell you this, but you’re doing God’s work.” And then tell him that someday his wife will understand, and when I did that, this man welled up and cried and the voice said, “His tears are not for you. You need to leave now.” So I said, “Your tears are not for me,” sorry, “I’ve got to go. I’ve got to leave this place.” And that’s when he said, “You’re beautiful.” He said, “You are really beautiful.” And the voice says, “I’m just a mirror. You’re the beautiful one.” And when I got back to my hotel, they suddenly knew who I was and I was able to leave. But until that point, I did not exist. And I was in this weird time warp of weird events that kept happening, like the person dressed in all white and things were just being given to me.
+
+Things being given to me happened for a few weeks after that, people were giving me sandwiches, and giving me necklaces, and giving me really weird stuff. And the only thing that I can think of is that when you have a spiritual experience like this, you just show up in the world differently. You’re more inviting, you’re more open. I’m trying to think of the science. At the end of the day, I like to think of science and how this all could work. And I think there’s probably a explanation for it, but ultimately I think we’re connected on some sort of a level that we don’t quite understand because we just don’t understand it yet. But I just wanted to share that story because it’s one of many stories that has happened to me since I watched that movie, that’s just one of many.
+
+And the miraculous thing about Tango is Tango texted me and he’s now traveling the world. He had amnesia and the encounter with me brought back all his memories. So —
+
+Tim Ferriss: That’s wild.
+
+Cyan Banister: Yeah.
+
+Tim Ferriss: What an amazing life you led, you and your husband, and what a broadly and intensely curious life you have led. Curious, not in the raise an eyebrow strange sense, but curious in the very literal sense of engaging with things around you and seeking out the things that stick out, seeking out the things that blend in. I’ve just been struck over and over again by how relentlessly curious you are, and —
+
+Cyan Banister: Yes. Yes, I am.
+
+Tim Ferriss: I think that is virtue. I think that is a real virtue. But Cyan, this has been an incredible conversation. You’ve covered a lot more than I expected to. And is there anything else you’d like to leave my audience with, point them to, request of them? Anything at all that you’d like to add before we wind to a close?
+
+Cyan Banister: Yeah. I am writing a book. You mentioned my Substack in the beginning. And my Substack, if you go and read it, is free. You don’t have to pay. The only reason why I charge anything is if anyone wants to leave a comment, they have to pay to leave a comment. So if you’re going to be unkind, you’ve got to pay me, and I learned that from Zivity. But what it is is it’s source material from my book, and it’s me remembering things like a child. The story about my mother and the $20 bill is in there. There’s all these stories in there, and it’s me doing this search, internally, for how I could be a better person and how I can show up in this world in a better way. And so I recommend, a lot of people get a lot out of it. There’s a lot of stories that you might resonate with. I love hearing from people, and when I get the feedback that a story resonates, I incorporate it into the actual physical book.
+
+So I am working on a book and I’m about halfway done with it. And so my call to the audience is to keep encouraging me to finish it and to keep encouraging me to write on Substack because I get disheartened. I get sad sometimes writing these stories. I’m human, but I think that I want to write a story that isn’t about business, but it is about philosophy, and it is about some of the lessons that I’ve learned. But I found that in order for philosophy to really hit home, you can’t be obvious. So you have to tell a tale, and so it’s a tale of my life, but hopefully at the end of it, it unlocks something inside of you, the reader, that helps you in some way, in the way that the razor’s edge helped me. If I could have one razor’s edge moment with a human being, I will feel like I have really achieved something in life.
+
+Tim Ferriss: Uglyduckling.substack.com. Why Ugly Duckling?
+
+Cyan Banister: My mother was very devastatingly beautiful, and at least I thought so. And I think that that beauty gave her, it opened a lot of doors for her and also allowed her to manipulate people with her beauty. And she tried a weird, tough love approach with my sister and I, and she basically told us we’re ugly. And she said, “You’re very ugly, so you better be smart because you’re not going to find a good man if you’re not smart. And if you don’t find a man, at least you can provide for yourself.” And when you hear that as a little girl, I took it to heart and it definitely gave me a sense of dysphoria. It detached me from my body, and I just thought I was just the ugliest creature that ever lived. But she told me that someday I’d find my swans because I was just an ugly duck among ducks, searching for my swans, and I didn’t know what it meant.
+
+She kept telling me this, and so really, it’s about overcoming the fear of that narrative and looking for my swans. I am turning into a swan. The person you’re talking to right now is becoming a swan, finally, and shedding that narrative, and shedding that story. And so that’s why it’s called Ugly Duckling.
+
+Tim Ferriss: Well, I think of you as a swan and I can see it, and I’m so grateful for the time that you’ve offered in this conversation, and the stories that you’ve shared, and the vulnerability that you’ve showed. So thank you for that, very much.
+
+Cyan Banister: Thank you, Tim. Thank you for all that you do, and for opening people up, and for sharing stories. And you’re clearly on a mission, and you have a purpose, a really great purpose. And I want to hear about, after you do dice rolling for a while, because I know you take things to the next level. You don’t half-ass do anything, so I want to see what comes with your dice experiments.
+
+Tim Ferriss: Mm-hmm. Yeah, yeah, for sure. I will gladly share, and there’s a lot to explore here. So for people listening, there is a lot that we’ll be linking to in the show notes, as always at tim.blog/podcast. Cyan, C-Y-A-N, Cyan Banister, @cyantist, C-Y-A-N-T-I-S-T, on X and elsewhere. Uglyduckling.substack.com, check it out. I have been very impressed with your writing and encourage people, take a look and to continue encouraging you to write more. And for everybody who is tuned in, I’ll give you my usual sign-off, which is, until next time, be just a little bit kinder than is necessary, not only to others, but also to yourself. Thanks for tuning in.
+

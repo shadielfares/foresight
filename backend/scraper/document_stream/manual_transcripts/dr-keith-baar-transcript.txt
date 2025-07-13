@@ -1,0 +1,690 @@
+Please enjoy this transcript of my interview with Dr. Keith Baar, a professor at the University of California, Davis, in the Department of Physiology and Membrane Biology.
+
+During his PhD studies, his research revealed that mechanical strain on muscle fibers activates the mammalian target of rapamycin (mTOR) signaling pathway, a crucial regulator of muscular hypertrophy. 
+
+Subsequently, he studied the molecular dynamics of skeletal muscle adaptation to endurance training under the guidance of Dr. John Holloszy, a legend in the field of exercise physiology, considered the father of modern exercise biochemistry.
+
+Building on all of this experience, he conducted research into tendon health and the potential for engineering ligaments, which could have implications for treatment and recovery from injuries.
+
+Dr. Baar now runs the Functional Molecular Biology Lab at UC Davis. His lab’s work ranges from studying molecular changes in our cells to conducting studies to effect real-world improvements in people’s health, longevity, and quality of life.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, YouTube Music, Amazon Music, Audible, or on your favorite podcast platform.
+
+Tim Ferriss: All right. Let’s start off, Keith, just by saying thank you for the time.
+
+Dr. Keith Baar: Thank you. This is going to be great. This should be really fun.
+
+Tim Ferriss: It should be a good time. I have a lot of questions, and the start time for this was delayed because I was getting focused shockwave treatments with a doctor who I think is very credible. And that is why we’re starting late which segues very nicely into our conversation. I wanted to give the genesis story because I came across your work for the first time, shockingly. It’s astonishing to me I didn’t come across you earlier because I put a tweet online, not sure what the noun is for something like that on X at this point, asking about remedies related to tennis elbow specifically and it was within the context of rock climbing.
+
+And someone put up a video from YouTube by Emil Abrahamsson, I’m probably pronouncing that incorrectly, who is a high-level climber, great YouTube creator and teacher who put up a video called something like, “Doing hangboard training twice a day for 30 days.” And that is where he referenced the study of yours or it may have been a review, I’m not sure exactly, but “Minimizing Injury and Maximizing Return to Play: Lessons from Engineered Ligaments.” And I just want to give people the punchline to this and then I’ll shut up and let the expert talk. He is a high-level climber. He climbs V15s bouldering. He is incredibly good.
+
+And after 30 days of doing 10 minutes a day roughly of hangboard, not even full hangs, let’s just say 70 percent body weight, so his feet are on the floor kind of like a nice stretch for 10 seconds on, 50 seconds off so 100 seconds of tension per session he, I think, added 60 percent weight to his maximum hangs, so this is weight attached around the waist. He went from something like a .5 second one-handed hang on a tiny little ledge, I’m not using technical climbing language here, to 13 seconds, and so on and so forth. And it just blew his mind completely.
+
+So let’s just start with asking, what is happening here? What are the adaptations that are allowing something like that to happen? And then we’ll kick off from there.
+
+Dr. Keith Baar: Absolutely. So it’s a great place to start because we think it actually shows something fundamental about strength, because I’m in our strength physiology facility here and we normally think of strength as, yeah, we’re going to lift weights, we’re going to do something really, really heavy. And because that’s going to make us stronger we know that when we lift heavy weights, we get stronger. And the reality is that there are especially certain athletes like climbers where they’re doing all kinds of heavy lifts, they’re doing all kinds of heavy work, they’re doing all kinds of really dynamic moves.
+
+And what happens, what breaks down is they break down in their finger tendons and they break down in the little pulleys within the tendons. And we had come to this because for years I had been working on how to make muscles bigger and stronger and I always said okay, bigger and stronger because the definition in my old textbooks would say that the strength of a muscle is related to the cross-sectional area, it’s proportional of the cross-sectional muscle. And so I was like, “Okay, to get stronger, you need to be bigger.”
+
+So I actually was really fortunate to be part of the team where we discovered that the small molecule in our cells that actually allows our cells to get bigger when we do resistance exercise.
+
+Tim Ferriss: What is the name of that, just in brief?
+
+Dr. Keith Baar: Yeah, so it’s mTOR. So it’s mTORC1. It’s the mechanistic target of rapamycin. And so I had been doing this. I had a new laboratory. My first laboratory was in Scotland and I was invited down by the English Institute of Sport to come to their cycling center and they were like, “Okay, this is great. We have these incredible athletes who are winning all kinds of gold medals and we wanted to get stronger.” And so I go in there with my spiel about bigger muscles and all of this, and they’re like, “Yeah, but we’ve got to carry that muscle mass.
+
+And I’ve got five years of data that shows me I’m getting these athletes stronger without making them any bigger and in many cases making them smaller.” And I’m like, “Oh, well, so much for all the science that I’ve been doing for a long time.” But then I had to figure out, okay, so how is this working? How am I getting or how are they getting people who are stronger without them getting bigger? And so what it came down to is if we have the little motors in our muscles that are going to produce the force, what we then have to do is we have to transmit that force, and that force has to be transmitted from our muscle where we’re producing it to our bone, where the movement is going to occur.
+
+And that’s going to go through tendons, it’s going to go through connective tissue, it’s going to go through all of these proteins that we call, colloquially, force transfer proteins. And so that was the first thing that we were thinking of.
+
+And then what we were doing is we would make these little engineered ligaments. And so the goal at the beginning is, “Hey, I’m going to make ligaments. You’re going to rupture your ACL, you’re going to send me a sample that will take in the doctor’s office. I’m going to isolate the cells. I’m going to make you an ACL in the dish in my laboratory.
+
+I’m going to send it back to you so that you don’t have to take your hamstring or the middle of third of your patella and we can replace that ruptured ACL.” So that’s the idea, but we have to get them stronger. So we started looking at, okay, we know exercise makes these tendons stronger, but what about the exercise? And what we found is it didn’t matter whether we stretched them 20 percent or five percent or two percent, the signals to get bigger and stronger were the same. But then we started doing for different timelines and the signal would go up and then it would go away really quickly.
+
+And so the way that I explain it now is that your tendon ligament to your bone, all of your connective tissue cells are a lot like my 17-year-old daughter. She’s going to listen to me for maybe five minutes, maybe 10 minutes, and then she’s going to just tune me out. So I need to get all the information in that five to 10 minutes. So if you’re going to go and you’re going to climb, for example, like Emil would do all the time, he’s going to spend three, four or five hours at the wall doing different things. The tendons stopped getting the signal to adapt at 10 minutes.
+
+Everything on top of that was just wear and tear that could slightly cause problems. And so what that meant to us is that there’s this minimal effective dose. So if I give you 10 minutes of loading that is optimized for those connective tissues, whether it’s tendon, ligament, cartilage or bone, I can get you to get all of the signal from that whole exercise in 10 minutes. And so that was the first part.
+
+The second part was how long does it take before I can get more signal to go through that system? Think of it like your toilet. I flush my toilet, it’s going to flush, but when my daughter was younger, she would, “Oh, that was fun. Let me do that again.”
+
+It wouldn’t flush for a while. She needed to let the bowl refill, let the tank refill so that I can flush it. So that’s called the refractory period. How long do I have to wait before that next session? And what we found is about six to eight hours later, and amazingly that was almost exactly the same thing that other researchers had found for bone, that as little as few as 40 stimuli with eight hours of rest was maximal for bone we found that 10 minutes of activity, whether you did walking or running or just holds 10 minutes worth, so 10 seconds on 50 seconds off, 100 seconds total over that 10 minutes, that’s all the signal your cells need. You wait eight hours, you could do it again.
+
+And so Emil’s brother had lots of injuries, so he did it twice a day and he got his hands are healthy now he can climb again. Emil, because he’s a huge strong boulder who does these dynamic loads, he had a really big effect of doing those isometric holds because he was getting all of the stimulus to make the muscle stronger, the brain power to stimulate the right muscles to have him to be able to contract that. What he was missing was he was getting too much wear and tear on the tendons, on the force transfer stuff. So when we just got him to do those 10 minute sessions, his forced transfer capacity went way up and now his grip strength went way up. And one of the best videos that he has is he becomes a competitor in the world’s strongest grip competition. And so these guys are —
+
+Tim Ferriss: That’s an amazing video. It’s so good.
+
+Dr. Keith Baar: — twice his size and he’s grabbing all these things about the same as the people who are twice his size. And it’s awesome because Emil’s smaller than me, he’s a great guy. But it’s like, okay, so you’re getting to the point where you have some of the strongest grip in the world and all you’re doing is these little things. You’re doing your dynamic climbing and you’re combining that with these isometric holds. And so what we’re improving is those that ability to transmit the force between the muscle that’s making it and the bone that’s trying to help us do the movement.
+
+Tim Ferriss: Okay. Let me dive into a few aspects of that with clarifying questions just so we can keep folks who need Scooby Snacks engaged with just some prescriptive stuff. But before I get to that, let me just ask you, and we can come back to this because I am sure it’s a large topic we could uncork. But in 2016 I interviewed David Sabatini on mTOR and then Navdeep Chandel on metformin, and we did it in Easter Island — or on Easter Island, so Rapa Nui after which rapamycin is named, and we had a great conversation.
+
+And you mentioned earlier, I suppose, and correct me if I’m getting this wrong, but the mTORC1 pathway is being key for resistance, exercise induced hypertrophy muscle growth. Does that mean now that taking something that has maybe more of a systemic effect like rapamycin a lot of people in Silicon Valley and elsewhere take rapamycin hoped for longevity purposes since they’ve seen that demonstrated in some species, are you making sacrifices on the hypertrophy side hypothetically or do you expect not much of an interference there?
+
+Dr. Keith Baar: So the short answer is that at the doses that they’re taking for longevity, you have a minimal effect on the adaptation of skeletal muscle, but you’re still going to have a somewhat negative effect. So for most people that’s not enough of a negative effect to see a difference. If you were trying to do high level competition or build your muscles to the biggest possibility that would prevent that to some degree.
+
+It’s the same kind of thing that endurance exercise can do because endurance exercise like metformin can activate pathways that counteract mTORC1. And so you’ve got this balance. And a lot of times what we’re doing is people will target mTOR not because for longevity. The thing that they’re trying to do is they’re trying to decrease systemic inflammation because just like our muscles, our inflammatory cells need mTOR activity in order to respond to the stress.
+
+Our muscles need mTOR activity to respond to the stress of lifting heavy weights and to allow us to incorporate more of what we eat in our meals, more of the protein that we eat in our meals into our muscles to store that protein or those amino acids as muscle proteins. Our immune cells, they are doing similar things. They need mTOR activity in order to respond to an immune challenge. And so you do see the same thing with people who are taking rapamycin is that they do have a little bit of an immunocompromised situation and it’s the similar kind of muscle compromise situation is what we’d say.
+
+Tim Ferriss: Yeah, got it. Yeah, and I would say folks, talk to your doctor, number one, and number two, watch your dosing and look up the original applications of rapamycin before you start gobbling at like Tic Tacs. All right. I want to come back to the meat and potatoes, what you were just saying before and ask specifically, because I’ve seen a lot of pain relief from imitating the Abrahangs, even though these are the 70, 80 percent body weight feet still on the floor hangs that Emil demonstrates in his videos it may not even be for my current problem. But just for people listening who may have, say, golfer’s elbow, so people who have pain on the medial epicondyle, the knob on the inside or tennis elbow on the outside as I do, in the video Emil is doing 10 seconds on, 50 seconds off for 10 minutes.
+
+Digging around online there are other people who claim, can’t believe everything you read, they’re like, “As per Keith Barr, I am doing 32nd hangs semi like semi flexed with two minutes in between for four repetitions.” So one is a question on what you think the optimal load duration and rest intervals are for, take your pick, let’s just for fun, could be golfers or tennis elbow. And then secondly is why isometrics? Because for instance, 15 feet away from me I have a flex bar. This is a device that looks kind of like a churro and you use it to apply and you hear a lot about eccentric loading for, say, tennis elbow.
+
+So those are the two questions. How would you prescribe the loading protocol in terms of duration, number of intervals, et cetera and then why isometrics versus, say, eccentrics?
+
+Dr. Keith Baar: All right, this is the money question. So this is what I love about what I’m doing right now because what we’ve got is — so let’s start with why the eccentrics, okay?
+
+Tim Ferriss: And can you explain to people, if you’re doing bicep curl folks and you’re lowering the weight after curling it up, that is the eccentric or negative portion of that movement, but you may be able to give more color for that.
+
+Dr. Keith Baar: No, that’s perfect. So when I’m curling up, that’s my concentric move. When I’m holding it still, that’s the isometric component. And when I’m doing it — I’m lowering it — that’s the eccentric component. All right. So when I’m completely healthy and when everything is working perfectly within my tendon it doesn’t really matter what I’m doing as much. The reason that I say that is that your tendons, like any other tissue in our body, it’s not a homogeneous tissue, but what it is a mechanical tissue, and what that means is I’m passing load through it. And so if there’s strong parts and there’s weak parts, the load is going to go more through the strong parts because they’re stiffer. And so when I load quickly, load goes through the strong parts. When I have an isometric hold, the strong part gets tired and the load then is put onto the rest of the tendon.
+
+Tim Ferriss: That’s if the isometric is long enough or just by virtue of being isometric?
+
+Dr. Keith Baar: By virtue of being isometric, but then the longer the isometric, the more evenly the signal is given to all of the cells within there.
+
+So think of it like this. The Rock and I are doing a tug of war together against somebody over there. So at the start it doesn’t matter if I’m there or not because The Rock is going to be putting in 900 percent of what we’re going to put into that rope. I’m just standing there for contrast, but then what happens is The Rock doesn’t do much endurance work, that’s how he gets so big, so he’s going to tire really quickly. And as he tires suddenly I’m having to put more load on the rope in order for us to maintain that position. We all had a sadistic gym teacher who said, “Okay, go to the wall there, put your back against the wall, go down and sit so that your legs are 90 degrees and 90 degrees with the hip and the knee.”
+
+Tim Ferriss: Yeah, wall sits.
+
+Dr. Keith Baar: And you did a wall sit. And you’re sitting there like, “I am not moving. Why the hell are my legs burning like the world is on fire?” The reason is that as I hold that position, my tendons start to relax and as my tendon starts to relax in order for me to stay there, my muscle has to contract more. And so what I get is I get creep in my tendon. Now that’s really important because if you take a piece of paper and you just load it, and I don’t know if you do do the video, so I’ll do this demonstration. So basically —
+
+Tim Ferriss: And just describe what you’re doing as you’re doing it. Yeah.
+
+Dr. Keith Baar: I will. So if I take a piece of paper, just like our tendons, a piece of paper is made up of fibers, and in this case it’s paper fibers or wood fibers in my tendon it’s made up of collagen. So if I load that dynamically, I’m loading all of the fibers within that. Now if I tear this, and the people who are just listening, just take a piece of paper, tear it, take it, and then just you have a little edge there. Now if load goes through that, what’s going to happen is it’s going to tear across. But if I just go back and they dynamically load it doesn’t go through there, it doesn’t tear because there’s no load going through this.
+
+There’s a beautiful set of papers done by this wonderful old Japanese professor named Hayashi. And what he did is he took a metal wire and he put it from the patella into the tibial plateau of a rabbit. He just tightened it so that there was no load going through the patellar tendon. And within two weeks he had all of the indications that the tendon was scarred, perfectly healthy tendon, but it had tons more cells, it had smaller collagen molecules and they were not directionally oriented. Those are the definitions of a scar. So if you have a scar that’s because you didn’t get load through it. And so all I have to do in order to get load through this area is I just have to put a small amount of weight and just be patient because if I wait here, what’s going to happen is the paper fibers —
+
+Tim Ferriss: Right. And just for people who aren’t seeing it, you’re pulling from top to bottom.
+
+Dr. Keith Baar: I’m pulling on the top and the bottom.
+
+Tim Ferriss: The paper is taut.
+
+Dr. Keith Baar: And now eventually the paper will tear right at the point where we put that original injury. The reason for that is because what happens is normally when our tendons are ready to go or just sitting there, we’ve got the weak spots, we’ve got the strong spots. The strong spots are shielding the weak spots from the stress. It’s what we call stress shielding. And so all of the load is going through the strong bits. This is why your favorite athlete doesn’t rupture their Achilles tendon on the first or second thing, they do it after warming up, they do a bunch of loading, then they go and do that load where they put their foot in the ground and now it’s going to rupture because what’s happened is you’ve kind of fatigued out the strong part and it can’t shield the weak part anymore and then —
+
+Tim Ferriss: Got you.
+
+Dr. Keith Baar: — just like my piece of paper, it tears.
+
+Tim Ferriss: So quick interjection, if I may. So the isometric allows you to recruit you instead of just The Rock, using your —
+
+Dr. Keith Baar: Yeah, exactly.
+
+Tim Ferriss: — metaphor from earlier. But eccentric movements do not allow you to do that?
+
+Dr. Keith Baar: So the standard of care for tendon injuries has been for the last 25 years, eccentric loading. And it’s actually a really funny story because the guy who developed the protocol, this guy Henderson [Ed. note: Håkan Alfredson], who was this Scandinavian guy, and he knew from his experience as a scientist that it’s easier to heal a tendon once it ruptures than when you have a tendinopathy. It’s shorter the time period, you get more complete healing.
+
+So what he was trying to do is he had an Achilles tendon injury, he had Achilles tendinopathy. And so what he was trying to do is he’s trying to rupture it and he thought the best way that I can get the most load through this is if I put all the weight I can and I just try and hold it there and slowly go down. And what he found out is that it actually fixed his Achilles tendon. And this is where we got this full system.
+
+Tim Ferriss: It’s like what they used to do with the race horses.
+
+Dr. Keith Baar: So that was the genesis. But if he wanted to rip it all he had to do is take that big heavy weight and move super fast because now you have what we call jerk. And so for our tendons, again, jerk is not just that person that you hate in the world, it’s actually a physical property. So where I am, that’s my location, the rate of change of my location, that’s my velocity, the rate of change of my velocity, that’s my acceleration. Everybody’s good up till now. The rate of change of my acceleration, that’s jerk.
+
+So when I’m accelerating one way and so I’m going to do a snatch and I’m going to accelerate up, the bar, gravity is accelerating down. So when I hit that bar and I get that catch, that catch is jerk. That’s why that’s where we get the most injury. The reason I get tennis elbow, I’m swinging a tennis racket and one direction the ball is going the other direction. I get a small amount of jerk that goes through the tendon. The reason I get golfer’s elbow on the inside is I’m swinging through, I’m going to hit, and it doesn’t usually happen on grass because there’s not too much resistance, it happens much more on the synthetic surfaces, now I get that jerk in the opposite direction, now I get pain on the inside of the elbow. But it’s the same thing with jumpers. Jumpers get jumper’s knee because they’re doing these dynamic moves. Jerk is the thing that’s going to induce injury. Jerk is that rate of change of acceleration. So now the reason that eccentrics were working is because it wasn’t about eccentric. It had nothing to do with that because — Michael Kjær’s beautiful work. If you do really heavy strength training, it has the exact same effect as eccentric. The reason is when I lift a weight that’s heavy, I have to go slowly. The core of the eccentric training was to do a slow eccentric. It had nothing to do with the eccentric, it had nothing to do with the concentric. it had to do with the velocity.
+
+And so when we realized that the velocity was the key, then we said, okay, what is it about velocity? So if we keep velocity at zero, now what we should see is we should see the biggest bang for our buck. And so all we had to do is make the velocity of the movement zero and suddenly we’ve got load through the whole tendon.
+
+Tim Ferriss: That’s fascinating. So the whole eccentric thing which has become scripture in a lot of places, just like RICE, which we might talk about — Rest, Ice, Compression, Elevation — which we’ll talk about at some point, hopefully if we have time, it was a false positive in a sense, or they thought it worked because of the eccentric nature of the movement, but it wasn’t that at all. It was the reduction of velocity.
+
+Dr. Keith Baar: Exactly.
+
+Tim Ferriss: And maximal reduction of velocity is isometric.
+
+Dr. Keith Baar: Yeah. And so if you’re trying to hold the weight while you’re doing that slow eccentric load, yeah, the weight is good, but from our engineered ligaments it didn’t matter whether we did a big movement or a little movement or a heavy movement, what mattered was we got load through the cells so the cells could sense the load and that we did it and we could stop at about 10 minutes. And those were the two things that made the difference.
+
+Tim Ferriss: Do you see any difference — I don’t know if you were testing this in the lab, but back to the original question about intervals or duration of stressor, 10 seconds on, 50 seconds off for 10 minutes straight versus like 30 seconds on, two minutes off, 30 seconds on, two minutes off, have you been able to draw any, not necessarily conclusions, but inferences, hypotheses worth testing as to what might be better?
+
+Dr. Keith Baar: We actually do have really good data there. So what we know is that when the tendon is pretty much healthy, we can do shorter duration isometrics. So we can do one- to 10-second isometrics when we’ve got pretty good health, that’ll get us our maximal signal without a problem. If I’m recovering from an injury and the more mature the injury, the more problematic it is, now the system that shielded the injury is much better at shielding, so now I need longer for that to relax.
+
+So it’s akin to The Rock has done a little bit of aerobic exercise now, so he’s going to hold on a little bit tighter for a little bit longer. So I need to go for a longer period if I’ve been training my big partner to do those longer duration things. So if they have been having to shield the injury for longer, now it takes me a longer isometric to get to the point where I can get that load evenly across the tissue.
+
+Tim Ferriss: What would be the minimal effective duration for a long-standing injury? Let’s just say tennis elbow. What would a reasonable duration look like?
+
+Dr. Keith Baar: Yeah, so the reason that we’ve gone with 30 seconds is we can do this, we can take out from animals, we can pull them in our machine and we can watch, actually, the stress or the force that we need to hold it at that distance apart, go down. And it goes down exponentially. And by about 30 seconds is about 85 percent of the way to the bottom. And if you wait out to two minutes you only get about 15 percent more. So we didn’t figure that that was going to be —
+
+Tim Ferriss: Diminishing returns.
+
+Dr. Keith Baar: Exactly. And so at 10 seconds you’re still coming down a fairly steep curve, but you’re getting some stress, relaxation, but by 30 seconds you’ve turned the corner and you’re basically getting diminishing returns from there. And so that’s why, for the injured tendons, we’re going at that 30-second hold. And then when you’ve got somebody like Emil who’s doing pretty well, now we can go with a shorter hold. The other thing when we’re talking about the climbers is the tendons aren’t as big. So I don’t need as long on a flexor tendon in my finger as I do on my patella tendon or my Achilles tendon. My Achilles is my biggest tendon in my body. It’s going to take longer for the strong parts to relax than if I am looking at my flexor tendons.
+
+Tim Ferriss: So let me tell you what I’m doing and then I want you to critique it, if that’s okay.
+
+Dr. Keith Baar: Absolutely.
+
+Tim Ferriss: So since this whole conversation is a pretext for me fixing my elbow, so let me tell you what what’s going on.
+
+Dr. Keith Baar: Totally get it.
+
+Tim Ferriss: I mean, that’s only half said in jest, but many, many, many years ago, this is like 20 plus years ago, did a lot of jiu jitsu and had my arm hyperextended a number of times and, like many men of younger vintages, felt I was invincible, so I would ice it, wrap it, and just go straight back to the gym like an idiot. Now that has come back to haunt me. And I love climbing. I’m not particularly great at it, but what happens is I take a long break, usually a few years, then I come back, I start climbing, everything is great until I get to about 5.11A where I start having these harder, for me, crimps.
+
+And at that point, my elbow goes absolutely berserk in that lateral epicondyle area. I think there’s also some damage in the joint or joint capsule itself, but let’s put that aside for now. I also have quite a bit of pain, lower tricep near the elbow, but then I take a long break, I go back and the process repeats itself. Then I got very excited about fixing this with isometrics and I thought to myself, “Okay.” And we may not have time to dig into this, but I do have questions about collagen and vitamin C. So I’ve been taking hydrolyzed collagen peptide powder, we can talk about whether that checks the box or not, with vitamin C about an hour prior to doing isometrics.
+
+And then I’ve been varying, because the internet has different things to credit you with and I don’t know what you’re correct, one is, I don’t have proper tools here, but I’m using basically a cast iron pan. And for people listening, you can imagine I’m holding this in my right hand, the pan is pointing straight up, my elbow is by my side, and then I’m rotating so that the top of my hand is up and holding it in that, there’s probably a better technical term, but internally rotated position, holding that for 30 seconds and then taking two minute rest, another 30 seconds and doing four total rounds of that.
+
+I’ve also experimented with having my arm flat on a table and then pushing down on the top of the hand. So it’s effectively like holding a reverse curl, you might think of, and have played around with that. What should I do to fine-tune that? What are your thoughts?
+
+Dr. Keith Baar: Yeah, so this is a great question. This is one of the reasons that one of my postdocs and I are actually starting a small company. We just spun out a company because —
+
+Tim Ferriss: Look at that.
+
+Dr. Keith Baar: — what we’re always doing is we’re trying to figure out how can I do this with a bunch of stuff that’s not well-suited for it? And so, what we’re doing is we’re designing devices and then we’re instrumenting them so that you can see how much load you’re putting through it. And you can then understand like, okay, I’m going to do this repetition. Here’s my strength curve. Okay, there’s my 30 seconds. Okay.
+
+Until those things are out, basically what we would say is you’re trying to do exactly what you’re saying there. You’re trying to keep — first of all, when you have injury, what we’re trying to do is we’re trying to keep — the pain on the scale of one to 10, we’re going to try and keep it at two or below, because what we want to get is we want to get load through there, but without getting too much load. We don’t need a ton of load, remember.
+
+So that’s what the Abrahangs were good with. There you can start even with 40 percent of body weight. It’s independent of the load. And so, as long as you can get load through the tissue, that’s fine. So if you have a really big damaged thing, basically your cast iron pan might be a little too much. And so, you might be overdoing it a bit and getting a little bit more of the signal to the wear, which is what we’re looking at. So what’s your ratio of signal to wear? We’re trying to maximize the signal with minimizing the wear and tear.
+
+And so, what we would do is — the other way to do it is to just take a tennis racket and find a door jamb or something and just put it underneath and just do the opposite.
+
+Tim Ferriss: I see, right.
+
+Dr. Keith Baar: Then you can do that in both directions. So that way —
+
+Tim Ferriss: Or a golf club. I’ve seen demos with that as well.
+
+Dr. Keith Baar: Exactly.
+
+Tim Ferriss: Or under a —
+
+Dr. Keith Baar: And so, that’s how we —
+
+Tim Ferriss: Yeah, under a kitchen island like I have in front of me here. I got it. So you’d basically be pushing against it.
+
+Dr. Keith Baar: Yeah. And so, that’s called an overcoming isometric, because you’re trying to overcome something. The important thing there, and the reason that I like what’s called an overcoming, think of it like a leg extension. When you’re starting with your knees both bent, you haven’t touched the little thing, the little pad down there to start extending your legs. Now I put my feet against the pad and I’m going to extend out. I have to try and overcome the weight. If I put the whole stack of weight down there, it’s an overcoming isometric. The reason that we like these overcoming isometrics versus what you’re doing a little bit with the pan —
+
+Tim Ferriss: Yeah, lowering of the —
+
+Dr. Keith Baar: — which is called a yielding isometric.
+
+Tim Ferriss: Yielding isometric. Okay.
+
+Dr. Keith Baar: A yielding isometric is you basically — the way of thinking of it is going back to the leg extension. I’m kicking out with two legs and then I’m taking the weight onto one leg and I’m holding it with the one leg. So those yielding isometrics, we’re going to get a lot more load. But again that’s not necessarily the key component that we want to start with.
+
+Tim Ferriss: Sure.
+
+Dr. Keith Baar: We’ll want to build to that, but at the beginning we need to make sure that we’re controlling the load. What I like about the overcoming isometrics is I can have you now, instead of going — like hold the pan and you have to immediately hold it and you get jerk at that immediate part —
+
+Tim Ferriss: Totally.
+
+Dr. Keith Baar: — now what I can do is I can minimize jerk. And so, what I’m going to do with the overcoming isometric is I’m going to say I want you to develop force over three seconds. So I want you to start nice and light, just feel the pad on that leg extension. I want you to slowly try and extend your leg until you get to your maximum force. Then I want you to hold it there for 30 seconds, and then I want you to slowly let it off.
+
+Now what I’ve done is I’ve decreased that wear and tear component as low as I can, and I’m maximizing my signal component, because I’m going to do that 30 seconds, I’m going to do a two-minute rest, and I’m going to do four of those. Now that’s going to give me eight minutes. So 10 minutes of work, 10 minutes of activity on that one tendon I’m looking for, and that’s going to give me all of my signal and a very, very small amount of wear and tear, because I’ve minimized jerk, I’ve gotten the signal into the cells.
+
+Basically that signal is just like, “Oh, look, there’s load and the load’s coming from that direction,” because the reason you get a scar is it doesn’t feel the load. It doesn’t know where the load is. So it puts collagen in all kinds of different directions. When the load comes through, now it goes, “Oh, we just have to make it this way,” and it makes all the collagen in one direction.
+
+Now you can fill in your scar because now you can synthesize collagen in a directionally way that’s going to meld up with the whole tissue from the beginning, and now we can regenerate that tissue pretty completely.
+
+Tim Ferriss: Got it. Okay. So a bunch of follow-ups. So it sounds like if you had a clinic and you’re just private practice meeting people, giving them prescriptions that you would probably bias with people who have chronic injuries at least, overcoming isometrics versus yielding isometrics. Is that a fair statement?
+
+Dr. Keith Baar: It would.
+
+Tim Ferriss: Okay. Now the yielding, what I’ve actually done now that I’m looking at the pan, it is not cast iron. It’s a lighter stainless steel. But part of what I like about the yielding is I’ve been adding — at first I added a bowl to it to add some resistance, and then I added a cup inside the bowl. It’s not the most elegant solution, but it’s been working in the sense that I can add progressive resistance. I may be overthinking this.
+
+On the overcoming isometric, let’s say I have a tennis racket, my elbow’s by my side, tennis racket facing up. I turn my palm down, stick it under. We’ll hopefully add some videos for this so people can see what we’re talking about.
+
+Dr. Keith Baar: Yeah.
+
+Tim Ferriss: Then I start rotating up.
+
+Dr. Keith Baar: Externally rotating.
+
+Tim Ferriss: Externally rotating, but it’s not moving. So it’s under the kitchen ledge. How do I think about the rate of perceived exertion? Should it be a two out of 10, three out of 10 effort? If I don’t have pain. So I don’t have a lot of pain when I’m performing these exercises. Should it be eight out of 10, and by 30 seconds, I’m like, wow, this would be getting close to my thinking around concentric failure? How would you think about answering that when it comes to the overcoming isometric?
+
+Dr. Keith Baar: So, first of all, this is again one of the reasons why we’re developing the company is so that when you’re doing an overcoming isometric, you need to have something that tells you what’s the load you’ve got, and what’s the load today versus tomorrow?
+
+So if I’m trying to do one of these moves or if I’m trying to go against a resistance, so if you have a rotator cuff and I have a cord or a belt there and I’m going to pull, I have no way of knowing what kind of load I’m putting through unless it’s instrumented. So that’s where we’re adding instrumentation so that I can go into a physical therapist instead of giving me a little cord where I go back and forth, back and forth, back and forth, and it does absolutely nothing because it’s a small dynamic move. It mobilizes, it warms up that little area, but it doesn’t actually fix the tendon.
+
+But now if I go and I do the isometric, if I’m instrumented, I can tell you what you did yesterday, what you did today, so I can get that progressive. So that’s great, because we do want to progress,
+
+Tim Ferriss: Mm-hmm. But for those people who will not have access to those things in the meantime —
+
+Dr. Keith Baar: Absolutely. Absolutely. So what you’re trying to do is you’re trying to go for — what we do is we say, look, the key — so what we cue on when we’re doing the Abrahangs, for example, is we say, “I want you to feel tension through that tendon system. I want you to feel tension in the forearm,” and that’s enough. I don’t have to feel like, oh, it’s like 80 percent of max. If I’m relatively healthy, tension through there is going to be enough for me to get it. If I need to get a little bit more stimulus through there because I’ve got a longer term injury or I’ve got a stronger injury —
+
+Tim Ferriss: Yeah, that’s me.
+
+Dr. Keith Baar: — so now what I’m going to do is either I’m going to go for longer or I’m going to go at a heavier load, or I’m going to push harder on my isometric. I don’t have to go to 80, 90 percent for that. I can do it at, say, 50 percent so that my leg isn’t shaking if I’m doing a leg-based one, or my elbow, I don’t feel like I’m shaking to hold it in that position. It’s just that it’s — at the end of it it’s a challenge.
+
+It’s not necessarily that I’m crushing myself. We get into this whole thing. This is like this macho business with lifting weights. It’s no pain, no gain. You’ve got to — none of that is actually — there’s no reality to that.
+
+Tim Ferriss: I took a photograph of this card at a coffee shop that I put up recently, which was — it said, “Work medium, play medium. We’re not as young as we used to be,” which I thought was perfect for my new modus operandi around my training.
+
+Dr. Keith Baar: But you can still train at high loads, you can still train at high forces if that’s something that you really enjoy. When I get on the machines back there, I’m lifting a lot of weight, but I’m doing it — again, I’ll use the machine because it’s now got two things that I really like. One is that I don’t have to worry about the small muscles, because we always injure the small muscles, because I’m trying to do a movement. I’m trying to get big muscles. But if I’m doing something that requires the small muscles to stabilize, if those are underdeveloped, I’ll never be able to get my big muscles and I’ll get a small stimulus on my small muscles. It’s not ideal.
+
+The other thing that’s really good about having a machine, if the machine is well-designed, it has a strength curve. So free weight doesn’t have a strength curve. So if I’m doing a squat with a free weight, at the bottom where I’m my weakest, because my muscle is the longest and the length tension curve tells me I’m weaker in this position, the weight is exactly the same as when I’m in my strongest.
+
+So what the machines that are really good are going to do is when I’m strongest, it’s going to be heavier. When I’m weaker, it’s going to be lighter. And so, those two things allow me to work really, really well to load the muscle in a very safe way.
+
+I’ve done lots of NFL consulting, and I always go into the weight room and I always see the rookies and the second-year players are over in the squat racks doing all kinds of dynamic movements. All pro veterans, they’re all over in the machines because they know that those machines are going to keep them healthy. Those machines are going to get them that $30 million contract.
+
+Yeah, you might get a half a step faster by being over there, but for the veteran, they know that if they’re available for 16 games of the year, they’re going to get their next contract because they’re going to perform at a high level.
+
+Tim Ferriss: Yeah, for sure.
+
+Dr. Keith Baar: So that’s just as we go through the strength component. The big difference for me when I’m looking at the musculoskeletal system as a whole is when I’ve got somebody under control, I can now regulate the jerk better. And so, I can regulate that in such a way is that I am not going to get as many injuries in a weight room when I’m trying to improve myself or when I’m trying to get stronger, and I’m going to be a stronger athlete when I go out and do my activities of daily living, whether that’s that I’m going to go compete, play intramurals, or go out and play over-40 soccer. Whatever it is that I want to do, now I’m going to be stronger when I’m doing that. I’m going to have better balancing and have all of those better things that are going to allow me to perform at a higher level.
+
+Tim Ferriss: Mm-hmm. So I’m going to give people just a couple of teasers. You have an incredible breadth of variety in your research. It’s mind-boggling to me. I’m just going to give people a teaser. We don’t have to dive into it right now. You can’t believe everything you read on the internet.
+
+But I believe you were involved in some research on ketogenic diets. Found that — I think it was a one-month keto diet in middle-aged mice. I feel like a middle-aged mouse sometimes. Increased muscle mitochondrial content significantly, though not in the brain or liver. So we could talk a lot about keto. I am going to stick with the isometric for a second here.
+
+So I have just a few, tour on exercise examples. So we talked about the tennis elbow a little bit and the overcoming isometric with, say, a tennis racket under the kitchen counter. Is that the only movement that you would prescribe to someone like me for tennis elbow, or are there other varieties of movements, isometrics that you would throw into the mix? That’s question number one.
+
+Dr. Keith Baar: Yes. So the thing for your extensors, so the extensors of the forearm, they’re going to be rotational and they’re going to be extensors. So you have to do both of them.
+
+Tim Ferriss: Got it.
+
+Dr. Keith Baar: So you want to do one that’s an extensor. You can do an isometric. Again, you can do it at any point along the chain. So if the muscle is in a long position, that helps a little bit —
+
+Tim Ferriss: Got it.
+
+Dr. Keith Baar: — because now from that — again, thinking as an overcoming isometric, the muscle and the tendon are longer, so I can get a little bit more relaxation there.
+
+Tim Ferriss: So let me describe the visual for folks. So the extensors are on the top of the forearm. Think about doing reverse wrist curls, and you just had the wrist cocked down, to demonstrate that sort of —
+
+Dr. Keith Baar: Yup. So it’s at the bottom of the wrist curl. Where I’m about to start doing my reverse wrist curl, now I just pull it up a little bit with a weight that I couldn’t really lift the whole way. But now I can do that and I can hold it in that fist below my forearm position. I can try and extend my fist up, and that’s going to get me that extension component. Then I’m going to need that rotational component, which we talked about with the tennis racket.
+
+Tim Ferriss: Got it.
+
+Dr. Keith Baar: The biggest one for most people, and the thing that drives my students crazy now, is that almost every class, I have them doing isometric lunges or isometric squats. Isometric lunge, I’ll have them go down, hover the knee above, and I do it for, okay, whoever beats me gets an extra point, an extra credit point. We sit there and it’s like a two-minute thing, but by the end of two minutes, there’s maybe one or two of us left, and I’m like, look, okay, that’s enough times.
+
+But the reason I’m doing it is because now I get my quad tendon and my patellar tendon. If I move forward and I shift forward and my knee is over my toe, I’m getting a good stretch of my Achilles tendon or I’m getting a good load through my Achilles tendon, and I’ve also got it on my backside.
+
+So the knee that’s in the low position, now I’ve got quad tendon and patellar tendon there, and I’ve got a little bit on the plantar fascia on that foot. So now in that one move, I’m getting pretty much all the tendons in my lower leg. I’ll switch and do the other leg, and then I’ll do a side lunge.
+
+Those types of things, for most of us who are getting older, like to run, we’re sitting there and we’ve got — so now what I want to get is I need to get my knee and my Achilles. Those are the two things that are the primary thing for most people. Those isometric squats are amazing for it, and —
+
+Tim Ferriss: That’s the split squat.
+
+Dr. Keith Baar: So it’s like a Bulgarian split squat. So one foot in front of the other, just a long stride, go down. Again, you’ll see this —
+
+Tim Ferriss: 30 seconds would be the minimum effective dose?
+
+Dr. Keith Baar: Well, you can build up to that. So you start with 10 or whatever you can do, and then you build up and you get into that 10 to 30 seconds. If you’ve got existing injuries, we’re going to go more like 30 seconds. If you don’t have any existing injuries, then you can go for 10 seconds.
+
+What you’re going to find when you’re doing these isometrics is your range of motion is actually going to improve much better than if we were to do a static stretch, because when we’re doing a static stretch, the muscle and the tendon aren’t adapting in the same way as when we’re doing an isometric hold.
+
+That’s really important because my gym here, the next gym over is the gymnastics gym here at UC Davis. I always remind people that if passive flexibility was really important for decreasing tendon injury, then the women’s gymnasts who have the most passive flexibility wouldn’t be the NCAA sport with the highest rate of Achilles tendon rupture.
+
+So that’s telling us something about that passive movement where we’re just able to — we can do things and make us hyper-flexible. So injury related to flexibility is a U-shaped curve. So our injuries are really high when we’re very inflexible. When we get into that sweet spot where we have good mobility, we can do the full range of motion, actually the injury rate is very low. If we become hyper-mobile, we actually have that injury rate go up as well.
+
+And so that’s really important, because, as you said, jiu jitsu, martial arts, you’re doing a lot of things in a very long range of motion. You have a lot of, in some cases, hypermobility, and that puts those tendons and ligaments at a little bit more of a likelihood to get injured.
+
+Tim Ferriss: Mm-hmm. So let me shift to just the timing question. The timing specifically makes me think back to Professor Hayashi and his poor little rabbits, where he attached, I guess — I’m trying to recall this here, but basically some type of metal filament or wire, applied tension — was this on the knee? This was on the knee.
+
+Dr. Keith Baar: Yup. Patella to the tibia.
+
+Tim Ferriss: Right. Then, lo and behold, the adjacent natural tissue suddenly has all the indications of scarring and weakness and so on. How soon after surgery — and you can choose your surgery, ACL, take your pick, dealer’s choice — would you start loading the site of injury/repair?
+
+Dr. Keith Baar: So we do it the next day.
+
+Tim Ferriss: Yeah.
+
+Dr. Keith Baar: So, again, we’ve had to have success in order for us to get there, because the first time we did this with a rugby player, the surgeon was like, “Six weeks without loading,” and we were like, “Let’s load tomorrow.” And so, we agreed that we would do it at seven to nine days, and that player got back fully a month faster than that surgeon had ever seen a player get back from that injury. And so, that surgeon is now much more willing to do it at two days after injury because of that. If you look at general populations, Michael Kjær, who I think is the world’s best sports medicine doctor for musculoskeletal injuries.
+
+Tim Ferriss: How do you spell that last name?
+
+Dr. Keith Baar: It’s K-J-A-E-R. He’s in Copenhagen. So he’s Danish.
+
+Tim Ferriss: Sorry, I didn’t realize that was going to be that hard.
+
+Dr. Keith Baar: Kjær.
+
+Tim Ferriss: Yeah.
+
+Dr. Keith Baar: It’s Kjær. But he allows those of us who are language deficient to call him Kjaer.
+
+Tim Ferriss: Got it.
+
+Dr. Keith Baar: But he did a beautiful study with one of his trainees, Monika. What she did is she took a bunch of his patients that had injuries and she either had them load two days after injury or nine days after injury, and then she followed them for when they got back to sport. What she found is the ones that they loaded at day two after the injury, they got back 25 percent faster than the ones that they loaded at nine days.
+
+Tim Ferriss: That’s incredible. Yeah. Wow.
+
+Dr. Keith Baar: That’s typical. So as you said before, what is our standard of care? Our standard of care is RICE. And so I’m going to go a step further. If you go and you sprain your ankle and you go to the doctor, the doctor is going to give — very good doctor, very well-meaning, they’re going to give you a boot. What is a boot?
+
+So I told you that a scar forms when we get stress shielding. What a boot is, it is a mechanical stress shielder. What it’s designed to do is to take the stress off the tissue you’ve injured. If I’ve told you that the thing that’s going to cause that tissue to get a scar is that you take off the tension, what I’ve just done is I’ve made the problem worse.
+
+Tim Ferriss: Yup.
+
+Dr. Keith Baar: I always tell people that the first recorded immobilizer for an ankle or a leg is from Egyptian hieroglyphs where they showed pictures 4,500 years ago. If I took you and you said you had cancer, you would not want a treatment that was developed 4,500 years ago. You would hope that something new has been developed in the last 4,500 years. That is where we are for our orthopedic situations.
+
+I understand that you cannot put full load on a surgical repair immediately, but what you can do is you can take it out at the beginning of the day, you can remove it from the boot, and I can do some isometric loads with low jerk. So I’m going to develop force slowly. I’m going to make sure that there’s zero pain and I’m going to hold that, and then I’m going to let that off slowly.
+
+What I’ve just done is I’ve given — and I’m going to do that four times, 30 seconds. Now I’ve given load. Then I can put it back into that boot, stress shield it. I’m going to take the boot off at night. I’m going to do it again.
+
+Just doing that, I’m getting those two loads on, in this case, the Achilles tendon that we’ve ruptured. Now what I’ve done is I’ve accelerated my return to activity massively. You don’t have to put — again, the key is we’re not trying to be I’m the strongest in the world. We’re trying to say I’m putting a little bit of load through that, okay?
+
+Tim Ferriss: Yeah.
+
+Dr. Keith Baar: That is the key is that you don’t get all caught up in the machismo of it and you just say, “I just want to feel tension across the area.” What we say is if you can feel an ice pick, that means there’s a very specific spot that hurts, stop. If I feel like a warm, burning area, like muscle soreness after exercising, that’s totally okay. That kind of soreness, not point-specific pain, that’s okay. What we’re doing, add the load slowly, hold it, take the load off slowly. Now what we can do is we can get those individuals back much, much, much faster.
+
+Tim Ferriss: So just a question for a friend, because a friend of mine literally just sent me photos of his Achilles tendon surgery. A former super high-level volleyball player, has not played volleyball in a long time, but is still very physically, or I should say muscularly, strong. Went back for an alumni volleyball game and, you guessed it, pow, snap, and into the OR. That’s very recent, the last few days. What type of isometric would you advise for that particular Achilles rehab?
+
+Dr. Keith Baar: Yeah. So this becomes one of the issues that we have. Orthopedic surgeons, they hate me. The reason they hate me is because the thing that they want to do is they want it to be really strong when you leave the operating room. So what they do for that is they use all of these reinforced sutures that are going to stay in that tissue for a long time. So now I’ve got a really strong suture going through my tendon. So if you load that, where do you think the load is going to go?
+
+Tim Ferriss: Yeah, it’s going to go to the sutures.
+
+Dr. Keith Baar: It’s going to go through the sutures. So what happens is we don’t actually load the native tissue. And so, what we have to do — but the way that the surgeon does it is they don’t do it so that you can’t load the tissue at all, because if they did that, you’d never be able to bring your toe up, never be able to bend your ankle.
+
+So what they do is they have it so that the sutures will take all the load when you start to bend the ankle or you start to, what we call, dorsiflex the ankle, and the tendon becomes longer. So what that means is we have to work in the shortened position. So we have to be in the plantar flexed or our toe is pointing away from us.
+
+So what you do is you do that. So he can take his boot off. Again, this is from the science. I don’t have the medical components. I always work with medical professionals who do this, who actually put the program into place. But what the people that I work with do is they say, “Okay, we’re going to have you go in a relaxed position. You’re going to take the boot off. I’m going to just have you be there. Now all I want you to do is against — you can slide yourself against the wall, so that where your relaxed position is, you’re just going to lightly put tension on that. You’re just going to apply a little tension.”
+
+Tim Ferriss: On the bottom, like the ball of the foot, something like that.
+
+Dr. Keith Baar: On the toes to the ball of the foot. Yeah.
+
+Tim Ferriss: Yeah.
+
+Dr. Keith Baar: And so all I’m going to do is push against that little wall, and all I’m going to do is make it so that I feel a little bit of tension through the area, not so that I feel it pulling, not so that — I just want to feel tension. All I’m getting is I’m getting a stimulus to whatever little bits are around of the native tissue have been brought together.
+
+What that’s going to allow me to do is that’s going to allow me to get that tissue to keep active, because what can happen if you have these really reinforced sutures and you’re loading in a traditional loading program where you’re doing faster movements or you’re doing maybe eccentrics or whatever it is, but you’re not getting load through the native tissue, is that the native tissue becomes smaller and smaller over time. It’s like Hayashi did. That’s exactly what Hayashi did.
+
+And so, what ends up happening is the native tissue doesn’t become strong. Then eventually we’re putting so much load through the suture that the suture will eventually wear and tear and will break down. When that happens, if we’re not ready for it, we’ll re-rupture the tissue.
+
+Tim Ferriss: If there are, which I’m sure there are, some curious, open-minded orthopedic surgeons out there who are asking themselves, “Well, Keith, I’m open-minded. What would you recommend we do instead of suturing the way that we’ve been taught to suture?” What would you say?
+
+Dr. Keith Baar: So you can do the same procedural suture. So you can go up and through the muscle. You can do all the reinforcement. But all we do is we say use a resorbable suture. And so, we’ve got data now in rats.
+
+Tim Ferriss: You said reabsorbable?
+
+Dr. Keith Baar: Yeah —
+
+Tim Ferriss: Is that —
+
+Dr. Keith Baar: Yeah, it gets resorbed into the body.
+
+Tim Ferriss: Resorbed.
+
+Dr. Keith Baar: So it’s made up of — it’s the ones that — you can see all of my scars. Those are the ones that I got that were inside the skin, so that they didn’t have to open up the skin and go get them again. So they just become something — they become lactate, basically, because a lot of times it’s the polylactate that they use to make them.
+
+Anyway, so I have a PhD student, the same one who’s my rock climber who’s worked with Emil. We’ve got a paper that she’s the first author on, basically showing that the Abrahang’s increased strength is the same as — as much as max hangs in a population of about 500 climbers. But she’s also an incredible surgeon.
+
+So what she did is she went into rats, and she cut the Achilles tendon and sewed it back with either a resorbable or a non-resorbable suture. Then at four weeks, she cut them out and just saw is there a difference in the strength? There wasn’t any difference in the strength.
+
+The surgeons are really worried about two things with an Achilles tendon rupture. One is that we’re going to lengthen the Achilles tendon because it’s not going to be strong enough to the suture, if you use the resorbable suture. It wouldn’t hold on long enough for it to prevent the lengthening of the Achilles.
+
+What she showed is that even though we let the rats start walking right away, there was no difference in the length of the Achilles based on whether she used a resorbable or a non-resorbable. We saw that the resorbable actually had better collagen synthesis markers than the non-resorbable, just like what we would anticipate.
+
+So you can do the same repair. Just understand that if you use a suture that’s going to resorb, that’s going to allow you to then get the native tissue back if you are working with a team who is really good at then providing the load. So the best tendon surgeons in the world tend to be in Finland for some — I don’t know why, but there’s a history of —
+
+Tim Ferriss: I never would’ve guessed.
+
+Dr. Keith Baar: There’s a history of studying tendons in Finland for some reason. And so a lot of the Finnish surgeons use resorbable sutures, and they do early loading. They do that because they know that what they’re trying to do is — all they’re trying to do is attach the two ends so that the native tissue can become functional again.
+
+So that’s really what we would tell your friend is that start in two positions. You have to do it in two positions now, because, remember, the soleus and the gastroc both come into the Achilles. The soleus muscle we use when we bend our knee and we push down with our toe, and the gastroc —
+
+Tim Ferriss: Like a seated calf raise, something like that.
+
+Dr. Keith Baar: Like a seated calf raise is for the soleus. A straight leg calf raise is for the gastroc. We need both of those for properly loading the Achilles tendon. So what you would do is you’d take off the boot, or you could even do it, if you were worried about it, you could do it in the boot and just push down on the ball of your foot in the boot and you should feel tension across the back of the leg. And that should be enough to give you a stimulus. Hold it for 30 seconds, develop the tension over three or five seconds. Hold it for 30 seconds. Let it off three to five seconds. So again, you can begin to do it even in the boot. You can do it with a straight leg in the boot as well. And then you’re not doing anything that your doctor didn’t tell you to do. You’re still keeping it immobilized if you want, but we’re actually loading that tendon.
+
+Tim Ferriss: So quick question on the tennis elbow, because you mentioned the soleus and the gastroc. And I was watching a video actually. Surprise, surprise, if you look for one tennis elbow video on YouTube, you’re going to get seven million of them served to you. But I did watch one from Venus Williams. She mentioned something that I had been playing around with intuitively when I was doing some of these exercises, which was, let’s just say, with the external rotation, like the tennis racket, I’ve been doing yielding and not overcoming, but I’ll switch that. I’ve been experimenting with having my elbow bent at 90 degrees, doing it with my arm completely straight, doing it somewhere in the middle. Is that advisable, inadvisable?
+
+Dr. Keith Baar: Absolutely. So one of the things, some of the baseball teams that we work with, they’re like, “Oh yeah, we were doing some stuff for the rotator cuff using your isometrics. We were loading the rotator cuff and everybody’s ulnar collateral ligament was feeling better.” When you’re loading one thing, you’re going to get one response when you’re isolating that muscle and that muscle tendon unit. When I change which joints I’m moving, now I’m getting a slightly different combination of muscles and tendons. And both of them are probably contributing to the pain that you’re feeling. So if you’re going to use that position. So yeah, a lot of people do the bent arm because that’s what we’re doing when we’re doing a backhand. But you also have to think that if I do that with a straight arm, it’s also going to have different contributions of the upper arm musculature, which then feed in and load the tendon differently.
+
+Tim Ferriss: And in my case, it’s arm extended typically for the rock climbing, hopefully using my legs and pivoting more than pulling. But eventually, it’s this. And that’s where I start to feel it really get grumpy. Just to get really in the weeds here for a second, would you do one position per workout? Or let’s just say it’s four sets of 30 seconds, would you do a different position for each of those sets? What would you advise?
+
+Dr. Keith Baar: I would rotate through. I would do 30 seconds on the external rotation when my elbow is bent at 90 degrees, one when it’s straight. And then I could come back, I could do one with my arm up over my head. It sounds like you’ve got a lot of tricep involvement. So what I would do is actually do something where I’m extending the tricep, so have a belt that goes down to the floor and I’m trying to push up, like do almost like a head crusher, but now it’s over my head.
+
+Tim Ferriss: That’s an isometric.
+
+Dr. Keith Baar: Yeah. So I’m going to do it from here and I’m going to push it up. So it’s on a door knob behind me. I put my belt around the door knob and now I’m going to push up on that. What I’m getting is I’m getting the forearms, but I’m also getting the tricep because that’s also inserting on that joint. It sounds like, for you, you’ve got contributions on both sides. So what we’re going to do is I’m going to have maybe a little 30-second rotation where each one goes 30 seconds. By the time I get back, now I’m ready to do the first one again because I’ve done the three other ones. And so that’s perfect for the rotator cuff because I need to do elbow abducted, internal rotation, external rotation. That’s two. And then I need to do elbow adducted, internal rotation, external rotation. That’s another two. So I can go through those 30-second isos and then rotate back through that, and I get the whole system in 10 minutes.
+
+Tim Ferriss: Yeah, that’s amazing. Let’s talk about collagen synthesis, because you had mentioned that. I brought it up as well. At least in one 2017 study, athletes who took, correct me if I’m getting this wrong, roughly 15 grams of gelatin plus somewhere around 200 to 250 milligrams of vitamin C one hour before doing brief exercise, we could talk about what that brief exercise is, but had double the markers of new collagen formation in their blood compared to a control. Now, I’ve heard you talk about, elsewhere, some of the nuances and complexities of these markers and how you might find that one goes up and one goes down from the intervention. So how do you evaluate that? But based on everything you have learned, researched, experimented with, reviewed, what would your current recommendations be, if any, for collagen/gelatin consumption? And not all products are created equal. There’s a lot of garbage out there. But what might the parameters or criteria be?
+
+Dr. Keith Baar: Yeah, so the first thing is to address the last issue because what you’re looking for in any collagen supplementation is that the source of the collagen is from a skin source, from pelts of the animal. So fish skin, bovine skin. The reason that we say a skin source, because a lot of people use bone broth. And bone broth is a great source of collagen. The problem is that most mammals, we store our heavy metals, we sequester the heavy metals in our bones. So when you do bone broth, you’re also getting some heavy metal. So you just keep that as a background thing so that if you get it from the skin, there’s not going to be any of the heavy metal. So that’s the only thing that we would say about a collagen supplement.
+
+Tim Ferriss: I accidentally got the right thing. I was looking at the back of this, I’m not going to give them a free product placement because I don’t actually know what the quality is here. But this is a hydrolyzed grass-fed type one and three collagen peptide powder. But on the back I was like, wow, will it even indicate? And it does say, ingredient, “Bovine hide collagen peptide hydrolyzate.” If I’m saying that correctly.
+
+Dr. Keith Baar: You’re saying it perfectly. And so that’s the only thing that we really are concerned with. Because you can say, oh, this is a type one, type three. Doesn’t really matter because we’re not absorbing the collagen as a whole molecule and just sticking it into our tendon. We’re breaking it down to its building blocks, we’re breaking it down to the amino acids. And the thing about collagen is it has tons of glycine in it and lots of proline in it. And so when we take just milk protein, like whey protein, if we take that after a heavy lift, our glycine levels actually dip in the period after eating it. And so, that’s work that Luc Van Loon has done where he shows that there’s a drop in glycine probably because we’re synthesizing more connective tissue protein than we have glycine for.
+
+So all we’re trying to do with the hydrolyzed protein or the hydrolyzed collagen is we’re trying to go in and we’re trying to give building blocks. So it doesn’t matter if it started from type one, type three, you want it from the skin, and that’s going to be mostly type one and type three, but that doesn’t matter. It doesn’t matter if they’ve done a super high secret peptide isolation, because the peptides don’t seem to play a big role. Because we’ve had some companies come to us and say, “Oh, well, you’re going to have to use a lower dose of ours because we have the special peptide.” And it never works. And we always go back to the other dose.
+
+Tim Ferriss: What dosing and timing do you recommend both for the collagen and for the vitamin C?
+
+Dr. Keith Baar: So we recommend taking those things together just because the vitamin C is absolutely essential for your body’s ability to synthesize collagen. Most of us have a perfectly normal level of vitamin C. We’re not going to get scurvy, we’re not going to get any of these things. But what we want to do is if we’re going to increase collagen synthesis, we want to also make sure that the co-factor for the enzyme that’s going to allow us to make and export that collagen is also present at a high enough amount. So we take them together. So we know for sure from studies that I was involved in when I was on sabbatical with Luc van Loon in the Netherlands, that if you give a blend of whey protein with five grams of hydrolyzed collagen, you’re going to increase muscle connective tissue protein synthesis. And that’s the first measure that’s shown that, oh, connective tissue protein synthesis is sensitive to the diet.
+
+Tim Ferriss: When is that being consumed?
+
+Dr. Keith Baar: That one was consumed afterwards. But that was because it was a study on muscle. The reason that the timing might matter is if I’m trying to target it to a tendon, the tendon doesn’t have good blood supply. If I’m trying to target it to cartilage or ligament, it doesn’t have good blood supply. And the way that those tissues get their nutrients is by getting either compressed or stretched, and the matrix gets squeezed of the liquid. And then, as it relaxes, it’s going to bring liquid in from the environment. If the environmental liquid has more of the amino acids and the vitamin C that we need to build more collagen, having the collagen base before you do your exercise, that’s the ideal situation. Now, it’s not always possible. It’s still okay to take it afterwards. But if you’re really trying to target it to one specific spot, take it about 30 minutes to an hour before. And then those amino acids are going to peak right when you’re loading, say, your rotator cuff, and now more of what you have eaten is going to be delivered to your rotator cuff.
+
+Tim Ferriss: Now, I’ve heard you describe some of these injectable peptides, BPC-157, I could name others, as magic elixirs. I’d love for you just to describe briefly, putting placebo effect aside, I mean, we could spend hours talking about placebo effect. But putting that aside, why people might see benefits, but not for the reasons they think they’re seeing benefits. And then I’d love to ask you about some other sort of orthobiologic stuff if we have time.
+
+Dr. Keith Baar: So, for BPC-156, we know that at least for the tendon and ligament cells themselves, it doesn’t do anything. And we know that because we’ve engineered our little engineered ligaments, they’re engineered human ligaments from human ACL cells. We then have treated them with BPC-156 or 157, and basically there’s no effect. It doesn’t change. It doesn’t improve. It doesn’t impair. So if somebody wants to spend their money on that, I’d prefer that they just send it to me. I can send out a little link to the gift for my lab, and you can send it to the lab and we’ll do research with that money instead. And that’ll be much better for your tendons.
+
+So the reason it might have a positive effect is, one of the treatments for tendonitis and tendinopathy has always been pithing. Okay? Pithing is where you take something, or debridement, these are these really cool medical terms. Debridement means I take a scalpel and I go like this, and I make little lines in your tendon. I cut up your tendon and I make it weaker. Pithing means I stick your tendon with a needle a bunch of times. All we’re doing is, remember, we’re getting a scar because of stress shielding. If I start injecting a bunch of times into the strong part of that tendon, what I’ve done is put a bunch of holes in the strong part of the tendon. Now, it can’t stress shield the weak part, and that’s actually potentially beneficial. It’s actually the reason we think that there’s any benefit at all to immobilization, because if by immobilizing I have made whatever strong parts weaker, now when I start to load properly afterwards, maybe it’s going to be beneficial.
+
+We’ve done experiments in animals where we’ve got these 3D printed casts that we can stick onto a mouse and it just looks like the boot that the doctor gives you. Three days later. If we take out the tendon, we’ve lost 15 percent to 20 percent of the collagen in that tendon. It’s mechanically about 30 percent weaker. That’s three days. The muscle mass decrease is actually smaller than the decrease in collagen within the tendon. So what we’re doing when we do some of these things, like we’re jabbing it with a needle or somebody’s going to scrape you with a spoon and it’s going to push there. What we’re trying to do is, they say they’re trying to break up scar tissue. What we’re actually doing is we’re actually damaging the healthy tissue. And the reason that that could potentially be beneficial is if I damage it just enough, now I can’t stress shield. Now, maybe I’ll get a little bit of load through the weaker part of the tissue.
+
+Tim Ferriss: Okay. Now, let me stand in for some folks who are super fans of BPC-157 just for a second. Now, if I go on, let’s just say PubMed, and do a little bit of a dig around. There are a few studies. Now this is not ultra-recent, but 2014. This is Molecules November 2014. “Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts.” Now, people might cite this or something like it. But what you’re saying is, in practice, you just have not seen it to make a difference.
+
+Dr. Keith Baar: Yeah, so that’s really good. That’s a really fun paper because basically growth hormone doesn’t have a direct effect on the tissue at all anyways. Growth hormone works on the tissue.
+
+Tim Ferriss: Oh, okay. Let’s hear more about this. This is interesting.
+
+Dr. Keith Baar: It works on the tissue because what it does is it increases the local expression of IGF-1. So whether your tendon cells have lots of receptors for growth hormone or not doesn’t really help you. What helps you with growth hormone is that either your liver is going to make IGF-1 in response to it, or the fat cells or other things that are in the joints are going to make IGF-1 locally around that tendon. And the IGF-1 has a positive effect. If we take our engineered ligaments and we add growth hormone, it doesn’t change their mechanics, it doesn’t change their collagen content. But if we add IGF-1, we get this beautiful dose response. So yeah, the paper says you get more growth hormone receptors.
+
+Tim Ferriss: Ultimately, who cares?
+
+Dr. Keith Baar: Ultimately, who cares? Yes. And so basically, in that situation, what you’re finding is if it’s that specific, what it means is they were looking really hard to find something. And they found one thing that made sense with the story. That’s why we try and do things that are the things that tissue does. So instead of just adding something and saying, “Oh, look, I see more of this.” I’m going to take it and I’m going to put it into a material testing system and I’m going to tear it to shreds, and I’m going to say, how much load did I have to put through it to tear it? And if that changes, now you’ve got me. And now I’ll go and I’ll try and figure out exactly what is going on because that’s something that’s really working. BPC-157 doesn’t change anything, at least in the isolated ligaments. Doesn’t mean it’s not going to change. Maybe it decreases inflammation or does something else. I don’t deny that. But it doesn’t work directly on the tendon.
+
+Tim Ferriss: Are there any other interventions that you think, I guess thinking has nothing to do with it, just believe based on the data or your experience, could have some efficacy in terms of helping with connective tissue injuries. So I’ll throw out a couple. Prolotherapy, PRP, shockwave therapy. I’m sure we could add dozens more to the list. But does anything pop out as plausibly credible or compelling to you?
+
+Dr. Keith Baar: Not especially.
+
+Tim Ferriss: Might depend on the injury?
+
+Dr. Keith Baar: None in the lower body. So the reason that I say that is that the lower body, I’ll go in, get my shot, and then I’ll walk out and I’ll walk home. As soon as I took those first three or four steps out of the doctor’s office, whatever I injected into my tendon, I’ve just squeezed it out and it’s going to go everywhere within my body. It’s not going to stay there. The reason that the upper body can work is I can immobilize it. Oh, I’m not going to load my ulnar collateral ligament or some other tendons in my upper body, my rotator cuff. So I can hold that still and not put load through it. It has a chance to sit there. So what you’d have to do for orthobiologics to work in the lower body is you’d have to immobilize. Now I’ve got the complication of, if I immobilize for three days, I’ve lost it. So that’s where we get into the no part of it.
+
+The best physical therapist in the world is this guy Rod Whiteley. He’s out at Aspetar in Qatar. He’s wonderful because he’s an Australian. He’s been there long enough that he gets to do whatever he wants to do. It’s kind of like the grumpy old man thing. He’ll tell you exactly what’s going on. And he went to this super high-end conference with all these orthopedic surgeons. He stood up in there. He goes, “None of the crap that these guys are telling you about works because they’re all telling you to inject this, inject that. The only thing that works is getting load through the tissue.” And that’s what he will tell you. And he goes through the science of every single thing. This is PRP, this is stem cells, this is prolotherapy. And he goes through and he just explains the data that when there’s been a randomized controlled trial, there’s no benefit. So, patellar tendonitis, there’s been a randomized controlled trial where they don’t know whether they’re getting PRP or they’re getting saline. There’s no difference. There’s no worsening, but there’s also no improvement in your patellar tendon.
+
+Tim Ferriss: This was lower body? Yeah, lower body.
+
+Dr. Keith Baar: That was patellar tendon. Yeah. So lower body. So the one place where they’ve seen it I think is in the rotator cuff, where there’s a small positive effect. But again, we talk about collagen protein or whey protein. Whey protein will add about five percent, maybe a little bit less than that, to your strength gains, to your muscle mass gains. Collagen is probably about that two percent to three percent. If I give you the best muscle building supplement in the world and you take it and you just sit on your butt all the time, you are not going to get bigger muscles. 95 plus percent of why we get bigger muscles, stronger tendons, all of these things is due to the loading. There’s going to be maybe two percent, maybe five percent that’s going to be down to the collagen or to the whey protein. But because it’s a lot easier to eat something or drink something, people are going to focus on that, oh, all I have to do is eat collagen. I’m good.
+
+Tim Ferriss: You have to apply the stressor. You have to have a stimulus.
+
+Dr. Keith Baar: Exactly.
+
+Tim Ferriss: Now I’ll just push back a little bit. I totally agree that if you’re just rolling around on a bed of PRP injections and then chilling with Netflix, probably not going to solve all your problems. But there’s certainly things that I would imagine, and based on at least my interactions with some pretty high level athletes, I would think, can accelerate certain adaptations. I mean, if you put somebody on nandrolone and a little bit of Cytomel and human growth hormone six days a week, I would imagine that might accelerate certain adaptations. I’m not recommending anybody do that. But we were talking about, I guess the orthobiologics, like the PRP and the prolotherapy. But in addition to, let’s just say the collagen plus vitamin C, assuming that you’re timing it correctly and applying a stimulus, are there any other adjuncts or supplements, doesn’t need to be ingestible or injectable, that can accelerate the adaptations that we’re hoping to provoke?
+
+Dr. Keith Baar: So we’ve got data on an FDA-approved drug that improves tendon function. So basically, what we did is we looked at the tendons of rats as they were developing, between seven days and 28 days. And during that time, their Achilles tendon gets three times longer. It goes from three millimeters to nine millimeters. And their patellar tendon gets twice as big. So it grows in a cross-sectional area by twice the amount. And we did genetic analysis, so we did transcriptomics. So we looked at all of the RNAs in those things. And in the patellar tendon that was getting twice as big, the major signal was inhibition of a protein called JAK or STAT. So the JAK-STAT pathway is actually a growth hormone activated pathway. But what we found is that when you inhibit it, it was associated with growth.
+
+And so there’s a series of drugs. If you ever watch TV, you see all of these drug commercials. And if you look up at any of your drug commercials, and any of the drugs end in N-I-B, Itacitinib or Vorasidenib, or any of those types of NIB drugs. Those are your JAK-STAT inhibitors. They’re used for rheumatoid arthritis, and they’re used for psoriatic conditions. So skin problems.
+
+Tim Ferriss: Yeah, Psoriasis, etc.
+
+Dr. Keith Baar: Psoriasis. So two collagen-based syndromes. So what we found is that when we used those drugs, the tendons that we engineered got bigger and stronger.
+
+Tim Ferriss: Which of those drugs did you select and why?
+
+Dr. Keith Baar: So we selected three different ones that were different. They targeted different JAKs to see which of the JAKs were important. So we did a JAK-1 inhibitor JAK-2, and a JAK-3 inhibitor. And all of them were beneficial. So we don’t know exactly which one it is yet, and that’s something we’re working on. But we just finished the study, just a quick study on development. So what would happen if we gave these drugs to a developing organism? And we all know that part of the reason we grow is because we have collagen that works at our growth plates and pushes our bones apart so that we get taller.
+
+And one of the first things that we found is that the animals were 40 percent smaller. So what that means is that they were getting bigger, they were differentiating the tendons, but they weren’t able to push the growth plates apart because the collagen was actually acting as if, all right, we’re big enough, or we’re long enough, now we have to get bigger. And so what we think we’re doing in that situation is we are adapting so that the tendon is getting a stimulus where it can grow bigger and stronger. But in growing it bigger and stronger, it prevents it from growing longer. And so that’s the first drug that we know of that’s been identified that affects tendon properties. We have other things that we’re working on where I can give you a hormone that your body produces and you will have a stiffer tendon. That stuff —
+
+Tim Ferriss: What hormone? It’s a cliffhanger.
+
+Dr. Keith Baar: Yeah, it’s a cliffhanger because it’s not published yet, so I can’t really give you that.
+
+Tim Ferriss: Okay. I’ve got it.
+
+Dr. Keith Baar: So if you had only, say, a thousand listeners, I would be okay.
+
+Tim Ferriss: Stand by for round two, folks.
+
+Dr. Keith Baar: Exactly. So we can go through, and there’s also the opposite, which is drugs that people already know about that cause an increase in tendon ruptures. And those are super interesting as well because —
+
+Tim Ferriss: Cipro?
+
+Dr. Keith Baar: Yeah, Cipro. But Cipro is actually only half as bad as some of the other drugs that we found.
+
+Tim Ferriss: What are some of the other ones?
+
+Dr. Keith Baar: So there’s a study out of, again, Finland. N-Y-Y is the last name of the first author. I can’t remember the rest of it. All I have to ever search on my computer is N-Y-Y because there’s nothing else with those letters together, except for a Finnish name. But what they did is they looked in the Finnish registry, all the people who ruptured their Achilles tendon, what were the medicines they were on? So you find the fluoroquinolone antibiotics. Yep, they’re there. But they increased rupture rate about three and a half fold.
+
+Tim Ferriss: I see. Of which Ciproflaxin would be one?
+
+Dr. Keith Baar: Yeah, exactly. And then they found another class of drugs, which are AT-1 receptor drugs. So angiotensin receptor drug inhibitors. So they’re taken by over 15 million Americans every day, and they increased the rate of tendon ruptures 7.6 fold.
+
+Tim Ferriss: Wow. What would be an example? Do you know? What are some of the names of such drugs?
+
+Dr. Keith Baar: Those are the sartan drugs. So if you’re taking the sartan drugs, again, you want to be careful with your physical activity because what we’re finding, and this is not something that’s really known. I went and did a work in progress seminar at our orthopedics group, and the chairman of the orthopedics department puts up his hand and goes, “This could explain why I’ve ruptured this and this.” And he goes through a list of like six tendons in his body that he’s ruptured or ligaments. And it’s like, oh, yeah, that’s probably a possibility. Because a lot of people who are taking them, that’s one of the most common things, but it’s not really reported. And so, again, that becomes a bit problematic because they are used by 15 million Americans.
+
+So, yes, we’re decreasing your blood pressure, but please don’t exercise while you’re doing it. And so maybe one of the things we’re working on is trying to see, is there a way that I can take what I need, which is the decrease in blood pressure, and can I figure out a way to do that without putting all of our tendons and ligaments at risk? Because as much as, yes, blood pressure is going to cause cardiovascular disease. If you rupture your ACL, you are 50 percent more likely to have a heart attack than somebody who didn’t rupture their ACL.
+
+Tim Ferriss: So wait, what? Is that because of the decrease in activity?
+
+Dr. Keith Baar: That’s because of the decrease in activity. And so because of the habitual decrease in activity, we are much more likely to have diabetes and heart disease and all of these other things if we’re not exercising. The number one cost to the US medical system is actually musculoskeletal sprains, strains and tears, the back and the neck, as well as the rest of the body. It’s more than diabetes and heart disease combined.
+
+Tim Ferriss: So wild.
+
+Dr. Keith Baar: But if you talk to, oh, who’s a serious scientist? I’m not a serious scientist because I work on the stretchy material that is, oh yeah, you’re old, you have a bum knee. That’s just normal. But if I worked on the heart, oh yeah, super. Everything’s about okay, I understand that. But at some point you have to realize that, yes, what your heart is doing in order for it to work optimally, I have to get rhythmic contraction of my muscles to pump blood back to it so it gets a stimulus so it can work properly. If I don’t do that because my tendons and ligaments don’t work, your heart’s not going to work very well either.
+
+And so we need to get into a much better kind of understanding of the whole system. Instead of just saying, “Well, you’re at 135 over 90, I better put you onto a drug.” That’s not really going to be that much of a stress to the heart, but it could end up rupturing your Achilles or rupturing your ACL. We need to balance that much better. And that’s really what we’re trying to do a lot of work on right now.
+
+Tim Ferriss: All right. I would love to give, I want to be respectful of your time. I know you’ve got some appointments coming up. But before we start to land the plane, and we’ll figure out how much time we have. But wanted to give something to the ladies specifically who are listening. Could you speak to injury risk, maybe it’s ACL specific, and estrogen and maybe programming differences for men and women?
+
+Dr. Keith Baar: Absolutely. So this is absolutely essential component of what we do. In our little engineered ligaments, I had a student come to me and she was an undergraduate student, I think she was 19 at the time. And she goes, “I’m really interested in what you do, because I’ve ruptured three ACLs.” And I’m like, “Well, you don’t have three legs. Oh yeah, you’ve done the same one twice.” Okay, so she’s wanting to know why she’s rupturing her ACL. You go to literature, and sure enough, women are four to eight times more likely to rupture their ACL. They’re 80 percent less likely to have a muscle pull. Okay? So what that is telling us is we get muscle pulls when our tendon is stiffer than the muscle is strong, we get ACL or other ligament ruptures when there’s too much laxity. Both of those two things could be explained if the tendon or ligament was less stiff.
+
+And so all she did, and all I had her do, was to take estrogen and add it every single day that we were making the ligaments at the low level that you would have normally around menstruation and early into the cycle. And then as you get to when the luteal phase would be, so that’s when estrogen rises right before the woman’s going to ovulate. That goes up almost a hundred fold the estrogen levels during those three-ish days there. So all I had her do is add a hundred-fold more estrogen, the exact levels that you would see in a woman’s body. And what we found is that the stiffness of the ligament went down. And then we looked at the collagen content, the collagen content was exactly the same, maybe a little bit higher.
+
+And so what we were fascinated by was this could explain, like if you did this repeatedly and we did this, we inhibited a specific enzyme like what the estrogen was doing, and then we took that away and let them grow again. What happened was the stiffness differential was maintained as they got stiffer again after that period. So what this suggests is that girls, until they get into puberty, they’re developing exactly the same as boys, the stiffness of the connective tissue. Now as they get into puberty, estrogen starts to cycle. What we discovered is the estrogen actually inhibits a protein within the tendon or ligament, and it’s a really important protein because what it does is it cross-links the collagen. And what that does is it makes it stiffer. And so without changing the amount of collagen, if I cross-link it, the tendon gets stiffer. And so when estrogen is present, we decrease the activity of that tendon.
+
+And what happens is it becomes stretchier. And so, now as that 12 to 13-year-old girl starts puberty, she’s already stronger than the boys when she starts puberty. Now, she goes through these periods of intermittent decreases in stiffness, and now she can’t transmit forces well. The stiffness of her tissues is going down, so her power goes down relative to the boys who are continuing to increase. And the result is a lot of the performance differences between men and women can be explained by the estrogen.
+
+If we look at testosterone again, you had mentioned earlier that some of you — all you’ve got to do is take nandrolone or all of these.
+
+Tim Ferriss: No, I didn’t say all you have to do. I just like, people who put together —
+
+Dr. Keith Baar: I know. People would do this.
+
+Tim Ferriss: — these cocktails do some pretty incredible things. Yeah.
+
+Dr. Keith Baar: Absolutely. And so a lot of statisticians can go back to major league baseball and they can say, that person was taking steroids, that one on and that one. Because what would happen is their performance would go up and then it would drop off a cliff. Because what testosterone does is the opposite. It actually activates lysyl oxidase and it decreases collagen. So what you get is you get a stiff tendon that has less collagen, and that’s a brittle tendon.
+
+Tim Ferriss: Oh, yeah.
+
+Dr. Keith Baar: So that’s why all of these guys take juicing on testosterone-related products. We’re getting stronger, bigger muscles, but then what they were getting is they were getting brittle tendons. So they would rupture a tendon because this big muscle is pulling on a weak tendon. And so now, we’ve got this differential. It also that affect on lysyl oxidase, which is the cross-linking enzyme of estrogen and testosterone. That’s one of the reasons why men have higher blood pressure than women because until women go through menopause, the estrogen that circulates monthly is actually decreasing the stiffness of the connective tissue in the aorta, and it allows it to stretch easier so you have lower blood pressure. So there’s all kinds of these things that are related to this connective tissue that we know about that is related to estrogen or testosterone levels.
+
+Tim Ferriss: Is that fluctuation in connective tissue stiffness in women and evolutionary adaptation for birthing? What is the —
+
+Dr. Keith Baar: Yeah, absolutely. So if you know that at some point that if you have periodic inhibition of stiffness, there’s also other hormones that will be produced late in pregnancy that will decrease tendon and ligament stiffness. That’s — relaxin is one of them. But if you start from a lower stiffness at the beginning, now as you go to relax to allow birth to happen, you don’t have to relax from as high a level of stiffness. And so the job of the relaxin becomes easier so that the individual can give birth much more comfortably and have less trauma associated with the birth.
+
+And so yeah, evolutionarily it makes sense, but it’s also one of the reasons why we see a lot of the performance differences that we do between men and women, because power is about how quickly we can transmit force. If I’m pulling on a stiffer tendon, I can transmit the force faster. If I’m pulling on a stretchy tendon, it takes me longer to develop force. So that’s directly power. So there’s a lot of the differences that we see that we see between men and women’s athletics, and injury rate are down to this connective tissue component where we have increased or decreased stiffness.
+
+Tim Ferriss: Keith, we’ve covered a lot of ground. I expected we would, and we haven’t talked about a number of other things, so I’m going to make this one up to you. Do you want to talk about, depending on what you think will be more interesting for folks, and maybe let’s leave it interesting. Mitochondrial biogenesis and mitochondria in general, or we could talk about protein intake and what amounts of protein you would suggest and what intervals people consume for different purposes.
+
+Dr. Keith Baar: Okay. So as far as the protein intake, I think most people have got that pretty well dialed in. What was the other one that you were suggesting?
+
+Tim Ferriss: Oh, I was just very curious about PGC1-alpha —
+
+Dr. Keith Baar: Ah, okay. Yes.
+
+Tim Ferriss: — and mitochondrial biogenesis, but also things that have come since then.
+
+Dr. Keith Baar: Yep. So I think that that’s probably a good one because then we can get into the ketogenic diet component as well.
+
+Tim Ferriss: Great. Let’s do it.
+
+Dr. Keith Baar: But we can address this at the same time as talking about the protein component as well because —
+
+Tim Ferriss: I love this idea.
+
+Dr. Keith Baar: — these two things are going to be related a little bit. Because what we talk about is we talk about the sciences, and Stu Philips has been talking about this for a number of years, and now he’s realizing that a lot of that was a bit of a problem with how we were measuring things. So what he was talking about is this intermittent up and down of synthesis and degradation that happens in muscle that corresponds to feeding. That’s really, really effective when we’re looking at supplements like whey protein supplementation. It goes in, goes out, we synthesize new protein in muscle and it goes away. But as people started doing one meal a day and people started doing other things where they’re consuming a huge amount of protein in a small setting, the question became, is that going to really show a big difference if we look at this over time?
+
+A lot of Stu and to his credit, he says that, “No, that was just an artifact. When we look at it over more time, it doesn’t really matter if you’re taking every four hours that high protein.” Luc van Loon just had a paper while I was in his lab in Maastricht where basically what he was doing was he called it the barbecue study. And it was feed people a hundred grams of steak and then follow them for 12 hours to see whether they were still absorbing the amino acids and the proteins from that.
+
+And all the way out as far as they were able to measure, they were still absorbing the amino acids that were from that original steak. The difference is one was a purified protein, a hydrolyzate, or easily digestible protein. The other took was a large amount of protein that our body’s going to take a much longer time digesting, absorbing. So, the idea that we used to say every four hours you need to have 0.25 grams per kilogram body weight of protein. And that’s less the focus now, it’s more just saying, look, we want to get in about at least 1.2 grams per kilogram body weight of protein over the day, or —
+
+Tim Ferriss: Over the day.
+
+Dr. Keith Baar: — 1.6, 1.6 over the day.
+
+Tim Ferriss: Let’s just do some math on this for a second, because a lot of people listening are going to be like, “Kilo what?” So, let me just play around this.
+
+Dr. Keith Baar: So that’s like saying basically —
+
+Tim Ferriss: So [inaudible 01:38:59]. Go for it.
+
+Dr. Keith Baar: So that’s like saying, the 20 grams of protein that’s in a bar that always says, “Oh, 20 grams of protein.” The reason for that is the 0.25 grams per kilogram body weight and the 75 kilograms of the average American weight. Multiply those together, you get 20. And so, what they were trying to do is get the minimal effective dose of protein into that one food.
+
+Tim Ferriss: So 75 kilograms times 2.2 is 165 pounds. That must be outside of certain states in the United States, but yeah, 165 pounds. And so, how many of those 20 gram bars would you be consuming per day based on the recommendation?
+
+Dr. Keith Baar: So, if you were to do that as a young healthy person, you’d be looking at say, at least four, maybe five of those, basically.
+
+Tim Ferriss: Got it. Okay.
+
+Dr. Keith Baar: And that’s going to be anything that’s 20 grams of protein. So again, a piece of meat, the size of your fist is usually a good estimate. Now, we’ve got this one meal a day, people who are doing, “Oh, yeah.” And then you’re trying to say, “Okay. Now, I can play with these things.” And you were talking before about being with David Sabatini and talking about mTOR and rapamycin use. Well, one of the things that rapamycin does is it blocks mTOR, and that’s the core component of what it does. But mTOR is activated by two things. It’s either activated by growth factors or load. Those are the two things that can activate one part of it, and it needs amino acids. So, the growth factor component is usually insulin IGF-1, the amino acids are from your protein that you’re eating. So now, if I have the amino acids without the carbohydrates, I don’t get as much insulin and so I don’t get as much mTOR activation.
+
+So that’s the genesis of the ketogenic diet. So the ketogenic diet, yes, it’s been used for a lot of things for time, but that’s when we started looking at it because for longevity, a ketogenic diet is functionally doing what low-dose rapamycin does, which is it’s going to slow down mTOR activity. That’s going to decrease inflammation because we need mTOR for our inflammatory cells. So we did studies in mice where we fed them either a ketogenic diet and we did this by feeding them exact amounts, one meal a day, and so they were getting time-restricted feeding, they were getting slight 10 percent less, fewer calories than they would need, and they were getting either normal chow, a low carbohydrate chow, but still enough carbohydrate that they didn’t go to ketogenic or a ketogenic diet. And what we found is that the ones on a ketogenic diet live 13 percent longer than the ones on the control diet.
+
+Our control animals lived longer than anybody else’s control animals because my colleague Jon Ramsey is probably the best in the world at these longevity studies. So they’re already living a long time. The increase in lifespan corresponds really well to the rapid myosin effects. So what you’re trying to do, and then there’s Longo down at USC, and what does he say?
+
+Tim Ferriss: Sure.
+
+Dr. Keith Baar: He says low protein diet. The low protein diet is the other arm of that because if I need both insulin and amino acids to activate mTOR fully, I can either take away the carbohydrate and get rid of the insulin, or I can take away the protein and get rid of the amino acids. And so, both of the diets work to increase longevity. One of them is going to be much harder on your muscle mass and it’s going to be less applicable to humans, and that’s going to be the low protein diet. But they’re both trying to do the same thing at a molecular level. All three of those things, the low dose rapid myosin, the ketogenic diet, and the low protein diets. They’re all trying to decrease mTOR activity.
+
+Tim Ferriss: Quick interjecting question, so we didn’t have time to get into it. Maybe another time we’ll get into it, but we talked about the Abrahangs, then we talked about max hangs. We didn’t talk about Abrahangs plus max hangs, which seemed to have an additive effect. Would you expect that ketogenic diet plus rapid myosin would have an additive effect, or are you already checking the box? So there’s a null effect basically for one of the —
+
+Dr. Keith Baar: That’s things that we’re studying right now, to see whether that is going to have an additive effect, and that both things together are better than one. We know that for the Abrahangs, they’re doing two separate things, the same way that mTOR is activated by insulin and amino acids. That our muscle strength is our brain’s ability to turn on the muscle, the size of the muscle as we talked about earlier. But also the other component is the force transfer. And so what we do with the Abrahangs is we work the force transfer. What we do with the max hangs is we work our muscle mass and our brain’s ability to turn on the muscle. When we do them both together, we get all three or both of the stimuli together. So that’s when we have the biggest positive effect. So, the same thing could be true for the rapid myosin together with the ketogenic diet, but we don’t have the data yet.
+
+So again, what we’re saying is that one of the best things for muscle as far as the ketogenic diet does or goes is that one, you have good amount of protein, so you’re maintaining protein, you’re maintaining the muscle mass. The second really important thing is because there’s no carbohydrate, you have to use mitochondria to produce all your energy so you produce better quality mitochondria. And the other thing that happens is we decrease mTOR activity is we activate a process called mitophagy. Mitophagy is when you break down mitochondria, and usually the mitochondria you’re breaking down are the ones that aren’t working as well. And because the ketogenic —
+
+Tim Ferriss: The old and the weak, culling the herd.
+
+Dr. Keith Baar: Exactly, culling the herd. And so, now we’re going to keep that herd stronger because we’re culling the weak ones, and we’re allowing that mitochondrial mass to be maintained. So what we found in the old animals that we had on a ketogenic diet is their strength, who is actually at the level of a young animal, and their brain function as well.
+
+Tim Ferriss: Just for people listening — so sorry to interrupt. What are functions of mitochondria that people may not be aware of? What do mitochondria do?
+
+Dr. Keith Baar: So the mitochondria, the most obvious thing is they produce most of the ATP for our body, so most of the energy for our body. And so, that’s where you have to have mitochondria to break down fat. I don’t need mitochondria if I just want to break down carbohydrate, or I’d use the mitochondria slightly differently. So, it’s one of the reasons why people go through the keto flu component when you go onto a ketogenic diet for the first time because you’re going onto a diet that has no carbohydrate.
+
+If you’ve been using carbohydrate as your primary fuel source and you don’t have lots of good quality mitochondria for a few days there, you can’t produce any energy. And so you feel like you’re dragging and you can’t move, and you can’t get out of bed because you’re super tired like you have the flu. That then turns around once you get enough mitochondria to start producing more energy to allow you to do your activities of daily living. The important thing is, and we wrote a paper on this, is that if I’m an athlete, ketogenic diet is not for me because I can’t go fast.
+
+What I can’t do on a ketogenic diet is I can’t sprint. And it doesn’t matter whether you are a marathoner or an ultramarathoner, at some point — or maybe it does on an ultramarathoner, but even a marathoner, at some point you’re going to have to sprint to go at a high quality level. And if anybody out there thinks they can run the four and a half minute per mile pace to run a marathon to be competitive, and you’re not using sugar and you’re going to use fat, that’s just not really possible. You can’t go that fast. And Professor Ron Maughan, who’s one of the top original sport nutritionists, he went through all the calculations for exactly how you’re using carbohydrate to power that whole marathon. And that’s also why you need to take in supplemental carbohydrate on your run because if you don’t, you don’t have quite enough — you’ve got enough to get to about 22 miles. And what does everybody experience at 22 miles?
+
+Tim Ferriss: Hit the wall.
+
+Dr. Keith Baar: They hit the wall. So the reason that you can continue to the end is because you’re taking in the carbohydrate along the way and your body can use that as a fuel. So again, we don’t use a ketogenic diet if we want to go fast, but if we’re training for life, we see that it increases longevity, that the ketones themselves are really good for brain function. The biggest downside to it is your bones. So if you have a history of osteoporosis, on a ketogenic diet, bone mass actually becomes really a problem. So, the place that we see ketogenic diets in clinical settings is in kids with epilepsy.
+
+Tim Ferriss: Epilepsy, yeah.
+
+Dr. Keith Baar: The epilepsy you take, and that’s Lorenzo’s Oil, this great movie about his — all of that stuff. You take the ketogenic diet because the epilepsy and the function is deteriorating. And when you get rid of the carbohydrate, your brain uses the ketones, you don’t have that deterioration. The reason that kids have to go off the ketogenic diet and go back into an epileptic possibility is because their bone mass becomes so fragile that they’re at much higher risk for if they were to have a seizure, they would break multiple bones in the seizure. So again, there are always trade-offs and it’s always about what are the things that are most likely to take you down, and those are the things that I’m going to focus on.
+
+Tim Ferriss: You mentioned decreasing inflammation with the ketogenic diet. A lot of people think, “Inflammation equals bad. Let me turn it off. Let me gobble ibuprofen or leave while I’m icing, everything that hurts.” But I don’t believe that is your particular recommendation for folks.
+
+Dr. Keith Baar: Absolutely not.
+
+Tim Ferriss: How do you think about the appropriate level? When is it right to inhibit inflammation and when is it not?
+
+Dr. Keith Baar: So again, inflammation is absolutely essential to adaptation. So there’s a good study out of my former University, University of Illinois, Chicago where they actually knocked out the inflammatory cells and they then gave a stimulus for muscle hypertrophy and the animals, they couldn’t hypertrophy their muscles nearly as well. We know that if you take high levels of vitamin C and high levels of vitamin E, you actually decrease aerobic adaptations because part of the stress is the reactive oxygen, so we know that. We know that if I take ibuprofen and I’m young and I’ve just done a heavy lift, I can decrease some of the adaptations. Or if I sit in an ice bath, I can decrease some of the muscle protein synthesis. It’s going to lead me to a bigger, stronger muscles. What we have to do is we have to find that balance between inflammation and anti-inflammatories.
+
+And what we tend to do is we tend to — again, we’re going to go full circle to the start of the podcast and say, “I am not going to use anti-inflammatories that are pharmaceuticals or other things. I am going to use load as an anti-inflammatory.” The reason that your muscle feels sore after you’ve done a heavy lift is because there’s inflammation within the tendon. The tendon has a little sensory organ called the Golgi tendon organ. What it does is it senses tension on the tendon. So if I put a whole bunch of water in there or fluid, now there’s more pressure and that’s telling me that I’ve got more load on the muscle. I don’t have a pain sensor, so I interpret that as pain. So if I do an isometric contraction, what I’m going to do is I’m going to squeeze all the water out of it and that’s going to get rid of the inflammation.
+
+So what I’m going to do is I’m going to do shorter duration isometric holds like even five second isometric holds are enough to squeeze the water out. And then I’m going to do that again, go back five seconds. So I can go right to left. So I’m going to go five seconds onto my right leg, and then I’m going to go over and I’m going to do a side lunge to the left. And then I’m going to do five seconds on the left. What I’m trying to do there is I’m trying to use the loading and the muscle contraction to squeeze out the liquids from the connective tissues from the muscles. So, now what I’ve done is instead of using something that’s going to turn off everything, I’m just adding a little bit of minor load that’s not going to cause my legs to get heavy or anything. It’s just going to squeeze out some of the inflammation.
+
+And I start this, the moment I twist my ankle, I sit there and I’m doing alphabets. So, I’m going and doing capital letters where my toes are tracing the alphabet. And all I’m trying to do is I’m trying to make sure that I’m using load through the tendons and the ligaments that have just been sprained by that pull when I’ve twisted my ankle. And I can do that and I can twist my ankle really badly. And I’ve done this where I’ve had a really bad inversion sprain playing intramurals here with my lab at 55. That’s not the best thing to do.
+
+But you do that and then you’re like, “Oh crap, I sprained my ankle.” But now, at least I know, I don’t ice rest and do any of that stuff. What I’m going to do is I’m going to do loads where I’m going to put load through those ligaments, going to pull on them, hold it, release, pull on them, hold it, release, and that’s going to pump all the liquid out. The next day you wake up, there’s still bruising there, but the ankle is the normal size and I can go out for my run. What it tells us is it tells us that we’ve gotten into a bit of a habit. We’re going to do pressure ice, there’s no harm in it, so let’s do it. We’re going to compress, all of it is trying to do something that I can do if I just put load through that system. So I don’t use the anti-inflammatories, I use load as an anti-inflammatory.
+
+Tim Ferriss: Yeah, ice bath. Just as a fan of ice baths, mostly for mood elevation, kind of Vincent van Gogh style when they used to prescribe cold baths for melancholy. How much space would you provide after a workout or training stimulus before doing something like an ice bath?
+
+Dr. Keith Baar: So a lot of times what we tend to do, again, it’s all about optimization. So, if you are training for life and you don’t have to be the best you that you can be, then what you want to do is you can say, “Look, I do your ice bath in the morning, lift in the afternoon, that overnight you’ve got mTOR activation all night long. If you turn off mTOR, no big deal.”
+
+Tim Ferriss: Yep.
+
+Dr. Keith Baar: Okay? So that’s what we’re saying. And then if I do that and I get out and I do a warm-up and I go out and do my aerobic or my rhythmic exercise, now I can actually go into that with maybe feeling a little bit like the aches and pains are a little bit gone, and now I can do that aerobic exercise in the morning. And now, I’ve got this split where I’m doing some of my strength when I’m my strongest in the afternoon, and for your supplementation question right before my biggest protein meal of the day because I’m going to have most protein at dinner. So now, my strength is close to my dinner, I’m going to then sleep and get all the recovery, and then I can get up and I can do my endurance in the morning. And that’s going to allow me to actually optimize those combination of strength and endurance.
+
+Tim Ferriss: All right. Well, I think that’s a beautiful place to wrap up. Keith, you do not disappoint. You’re a beast, a gentleman, and a scholar, thank you for the time. And for people who can’t see the video, you have all of the weight training equipment behind you, which I know is your next step. And where can people learn more about you, learn more about your work, find you online, where shall people find you if they want to learn more?
+
+Dr. Keith Baar: Yeah. So I do things like LinkedIn and I do Bluesky. So on Bluesky, I am musclescience. So if you look for musclescience, all one word, you’ll find me there. You can keep an eye out for the company that we’re developing, it’s called Sinews. So it’s Sinew —
+
+Tim Ferriss: Sinews.
+
+Dr. Keith Baar: — S-I-N-E-W. So Sinew, like your tendons and ligaments, and then us like U-S, so.
+
+Tim Ferriss: I love it. All right, Keith, thank you so much for the time.
+
+Dr. Keith Baar: Absolutely.
+
+Tim Ferriss: I’ve taken a million notes. I can’t wait to go find a tennis racket or a pan or a golf club to do my overcoming isometrics. And for everybody listening, we will link to all sorts of goodies, everything we’ve mentioned, including where you can find Keith in the show notes at tim.blog/podcast. Just search Keith, B-A-A-R. Is there anything else, Keith, that you’d like to add before we wind up?
+
+Dr. Keith Baar: No, so that’s great. Because a lot of people don’t understand necessarily the isometrics, what they look like, my medical school just came down and filmed a video of it, and it’s up online. So I’ll send you that for the show notes as well.
+
+Tim Ferriss: Beautiful. We’ll put that in the show notes, and everybody be safe out there, train smart, perhaps incorporate some isometrics. I don’t know how you couldn’t be tempted after this conversation. And until next time, be just a bit kinder than is necessary to others also, to yourself. And thanks for tuning in.
+
